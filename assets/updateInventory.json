@@ -1,5 +1,5 @@
 {
-  "version": "2.5.3",
+  "version": "2.5.4",
   "files": [
     {
       "path": ".gitattributes",
@@ -8685,6 +8685,16 @@
       "path": "assets/songs/sunburnt/Voices.ogg",
       "size": 5527813,
       "sha256": "9ad39c267c6c0c32f03cbaf8a44d7a8dc88b5abfed2f30f9819afbfb18f2787c"
+    },
+    {
+      "path": "assets/songs/test - Copy/Inst.ogg",
+      "size": 1977690,
+      "sha256": "8cee09a17cd3fd85851dd4331abd098ad4e6c5169808d7502c2bf1f50cb8ac5b"
+    },
+    {
+      "path": "assets/songs/test - Copy/Voices.ogg",
+      "size": 4733618,
+      "sha256": "0c2386faefde4deb11303d61728205623311e888bd3d67fc8cf4860f8f37dde2"
     },
     {
       "path": "assets/songs/test/Inst.ogg",
