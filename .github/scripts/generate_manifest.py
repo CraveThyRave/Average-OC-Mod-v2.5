@@ -108,7 +108,7 @@ def hide_updater_files(root):
     kernel = ctypes.WinDLL("kernel32", use_last_error=True)
     kernel.SetFileAttributesW.argtypes = [ctypes.c_wchar_p, ctypes.c_uint32]
     kernel.SetFileAttributesW.restype = ctypes.c_int
-    for name in (".github", ".gitattributes", "update_temp"):
+    for name in (".github", ".gitattributes", "update_temp", ".aom-update-receipt.json"):
         path = root / name
         if path.exists() and not is_link(path):
             attributes = path.stat().st_file_attributes | stat.FILE_ATTRIBUTE_HIDDEN

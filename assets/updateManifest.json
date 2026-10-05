@@ -1,13 +1,19 @@
 {
   "format": 2,
-  "version": "2.5.0",
-  "baseVersion": "2.5.0",
+  "version": "2.5.4",
+  "baseVersion": "2.5.3",
   "files": [
     {
-      "path": "Average OC Mod.exe",
-      "size": 37285888,
-      "sha256": "20afee3d96a85aac772b31d257f9d572b80c493d68922769cd5f5721ac55892f",
-      "change": "changed"
+      "path": "assets/songs/test - Copy/Inst.ogg",
+      "size": 1977690,
+      "sha256": "8cee09a17cd3fd85851dd4331abd098ad4e6c5169808d7502c2bf1f50cb8ac5b",
+      "change": "added"
+    },
+    {
+      "path": "assets/songs/test - Copy/Voices.ogg",
+      "size": 4733618,
+      "sha256": "0c2386faefde4deb11303d61728205623311e888bd3d67fc8cf4860f8f37dde2",
+      "change": "added"
     }
   ],
   "delete": []
