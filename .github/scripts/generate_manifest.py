@@ -11,6 +11,9 @@ import sys
 import tempfile
 import time
 
+TEXT_EXTENSIONS = {".json", ".lua", ".txt", ".xml", ".frag", ".vert", ".glsl", ".cfg", ".ini", ".csv", ".hx", ".hscript", ".hxs", ".md", ".yml", ".yaml"}
+TEXT_HASH_LIMIT = 8 * 1024 * 1024
+
 GENERATED = {"assets/updatemanifest.json", "assets/updateversion.json", "assets/updateinventory.json", ".aom-update-receipt.json"}
 PRIVATE_DIRS = {"update_temp", ".git", ".github", ".codex", ".agents", "saves", "save", "savedata", "screenshots", "logs", "crash", "crashes", "replays", "userdata", "user-data", "__pycache__"}
 PRIVATE_NAMES = {"settings.json", "settings.ini", "preferences.json", "preferences.ini", "controls.json", "keybinds.json", "modlist.txt", "modslist.txt", "updates.log"}
@@ -52,6 +55,27 @@ def sha256(path):
     return digest.hexdigest()
 
 
+
+def text_hash(path):
+    if path.suffix.lower() not in TEXT_EXTENSIONS or path.stat().st_size > TEXT_HASH_LIMIT:
+        return None
+    data = path.read_bytes()
+    if b"\0" in data:
+        return None
+    try:
+        data.decode("utf-8", errors="strict")
+    except UnicodeDecodeError:
+        return None
+    return hashlib.sha256(data.replace(b"\r\n", b"\n")).hexdigest()
+
+
+def same_content(before, after):
+    if before["sha256"] == after["sha256"] and before["size"] == after["size"]:
+        return True
+    return (Path(after["path"]).suffix.lower() in TEXT_EXTENSIONS
+            and before.get("textSha256", before["sha256"]) == after.get("textSha256", after["sha256"]))
+
+
 def is_link(path):
     return path.is_symlink() or bool(getattr(path.lstat(), "st_file_attributes", 0) & getattr(stat, "FILE_ATTRIBUTE_REPARSE_POINT", 0x400))
 
@@ -84,7 +108,7 @@ def hide_updater_files(root):
     kernel = ctypes.WinDLL("kernel32", use_last_error=True)
     kernel.SetFileAttributesW.argtypes = [ctypes.c_wchar_p, ctypes.c_uint32]
     kernel.SetFileAttributesW.restype = ctypes.c_int
-    for name in (".github", ".gitattributes", "update_temp"):
+    for name in (".github", ".gitattributes", "update_temp", ".aom-update-receipt.json"):
         path = root / name
         if path.exists() and not is_link(path):
             attributes = path.stat().st_file_attributes | stat.FILE_ATTRIBUTE_HIDDEN
@@ -124,10 +148,14 @@ def generate(root, version=BASELINE_VERSION, deletions=None, release_ref=None, s
             seen.add(relative.lower())
             before = path.stat()
             digest = sha256(path)
+            normalized = text_hash(path)
             after = path.stat()
             if (before.st_size, before.st_mtime_ns) != (after.st_size, after.st_mtime_ns):
                 raise ValueError(f"Build changed while hashing: {relative}")
-            files.append({"path": relative, "size": after.st_size, "sha256": digest})
+            entry = {"path": relative, "size": after.st_size, "sha256": digest}
+            if normalized is not None:
+                entry["textSha256"] = normalized
+            files.append(entry)
     removed = []
     for path in [] if deletions is None else deletions:
         validate_path(path)
@@ -187,7 +215,7 @@ def write_delta(root, current, previous=None, source_commit=None):
     changes = []
     for key, entry in files.items():
         before = old.get(key)
-        if before is None or any(before[field] != entry[field] for field in ("path", "size", "sha256")):
+        if before is None or before["path"] != entry["path"] or not same_content(before, entry):
             changes.append(dict(entry, change="added" if before is None else "changed"))
     removed = sorted((entry["path"] for key, entry in old.items() if key not in files), key=str.lower)
     manifest = {"format": 2, "version": current["version"], "baseVersion": previous["version"] if previous else None,
