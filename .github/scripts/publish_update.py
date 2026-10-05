@@ -1,11 +1,12 @@
 import argparse
+import hashlib
 import json
 import os
 from pathlib import Path
 import re
 import subprocess
 
-from generate_manifest import build_number, generate
+from generate_manifest import build_number, generate, write_delta
 
 
 def git(root, *arguments, input=None):
@@ -29,36 +30,65 @@ def publish(root, run_number):
     if remote_ref(root, "refs/heads/main") != source:
         print("A newer main commit exists; its workflow will publish it.")
         return None
-    previous = remote_ref(root, "refs/heads/updates")
-    old_number = 0
-    if previous:
-        git(root, "fetch", "--no-tags", "origin", "refs/heads/updates")
-        previous = git(root, "rev-parse", "FETCH_HEAD")
-        descriptor = json.loads(git(root, "show", f"{previous}:assets/updateVersion.json"))
-        old_number = build_number(descriptor["version"])
-        if descriptor.get("sourceCommit") == source:
-            print(f"This commit is already published as {descriptor['version']}.")
-            return descriptor["version"]
+    previous = {}
+    descriptors = {}
+    inventories = {}
+    for branch in ("updates", "updates-v2"):
+        previous[branch] = remote_ref(root, f"refs/heads/{branch}")
+        if previous[branch]:
+            git(root, "fetch", "--no-tags", "origin", f"refs/heads/{branch}")
+            previous[branch] = git(root, "rev-parse", "FETCH_HEAD")
+            descriptor = json.loads(git(root, "show", f"{previous[branch]}:assets/updateVersion.json"))
+            build_number(descriptor["version"])
+            name = "updateInventory.json" if branch == "updates-v2" else "updateManifest.json"
+            prefix = "inventory" if branch == "updates-v2" else "manifest"
+            payload = subprocess.run(["git", "-C", str(root), "show", f"{previous[branch]}:assets/{name}"], check=True, capture_output=True).stdout
+            if len(payload) != descriptor[prefix + "Size"] or hashlib.sha256(payload).hexdigest() != descriptor[prefix + "Sha256"]:
+                raise ValueError("Published inventory does not match its descriptor")
+            inventory = json.loads(payload)
+            if inventory["version"] != descriptor["version"]:
+                raise ValueError("Published inventory version mismatch")
+            descriptors[branch] = descriptor
+            inventories[branch] = inventory
+    if len(descriptors) == 2 and all(d.get("sourceCommit") == source for d in descriptors.values()):
+        versions = {d["version"] for d in descriptors.values()}
+        if len(versions) != 1:
+            raise ValueError("Published feeds disagree about the version")
+        version = versions.pop()
+        print(f"This commit is already published as {version}.")
+        return version
+    latest = max(descriptors, key=lambda b: build_number(descriptors[b]["version"])) if descriptors else None
+    old_number = build_number(descriptors[latest]["version"]) if latest else 0
     number = max(int(run_number), old_number + 1)
     version = f"2.5.{number}"
-    release_ref = f"aom-build-{number}"
-    manifest = generate(root, version, release_ref=release_ref, source_commit=source)
+    manifest = generate(root, version, release_ref=f"aom-build-{number}", source_commit=source)
     git(root, "add", "--", ".gitattributes", "assets/updateManifest.json", "assets/updateVersion.json")
+    git(root, "rm", "--cached", "--ignore-unmatch", "--", "assets/updateInventory.json")
     tracked = set(git(root, "ls-files", "-z").split("\0"))
     for entry in manifest["files"]:
         if entry["path"] not in tracked:
             raise ValueError(f"Uncommitted build file: {entry['path']}")
-    tree = git(root, "write-tree")
-    parents = ["-p", previous] if previous else []
-    parents += ["-p", source]
-    commit = git(root, "-c", "user.name=github-actions[bot]", "-c", "user.email=41898282+github-actions[bot]@users.noreply.github.com", "commit-tree", tree, *parents, input=f"Publish Average OC Mod {version}\n")
+    commits = {}
+    changes = None
+    for branch in ("updates", "updates-v2"):
+        if branch == "updates-v2":
+            changes = write_delta(root, manifest, inventories.get(latest), source)
+            git(root, "add", "--", "assets/updateManifest.json", "assets/updateVersion.json", "assets/updateInventory.json")
+        tree = git(root, "write-tree")
+        parents = ["-p", previous[branch]] if previous[branch] else []
+        parents += ["-p", source]
+        commits[branch] = git(root, "-c", "user.name=github-actions[bot]", "-c", "user.email=41898282+github-actions[bot]@users.noreply.github.com",
+                             "commit-tree", tree, *parents, input=f"Publish Average OC Mod {version} ({branch})\n")
     if remote_ref(root, "refs/heads/main") != source:
         print("Main changed while preparing the update; the newer workflow will publish it.")
         return None
-    if remote_ref(root, "refs/heads/updates") != previous:
-        raise RuntimeError("Another publisher changed updates; rerun this workflow")
-    git(root, "push", "--atomic", "origin", f"{commit}:refs/heads/updates", f"{commit}:refs/tags/{release_ref}")
-    message = f"Published {version}: {len(manifest['files'])} files from {source}."
+    for branch, commit in previous.items():
+        if remote_ref(root, f"refs/heads/{branch}") != commit:
+            raise RuntimeError(f"Another publisher changed {branch}; rerun this workflow")
+    git(root, "push", "--atomic", "origin",
+        f"{commits['updates']}:refs/heads/updates", f"{commits['updates']}:refs/tags/aom-build-{number}",
+        f"{commits['updates-v2']}:refs/heads/updates-v2", f"{commits['updates-v2']}:refs/tags/aom-delta-build-{number}")
+    message = f"Published {version}: {len(changes['files'])} added/changed, {len(changes['delete'])} deleted; {len(manifest['files'])} indexed files from {source}."
     print(message)
     if os.environ.get("GITHUB_STEP_SUMMARY"):
         with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as output:
