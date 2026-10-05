@@ -9,8 +9,9 @@ import re
 import stat
 import sys
 import tempfile
+import time
 
-GENERATED = {"assets/updatemanifest.json", "assets/updateversion.json", ".aom-update-receipt.json"}
+GENERATED = {"assets/updatemanifest.json", "assets/updateversion.json", "assets/updateinventory.json", ".aom-update-receipt.json"}
 PRIVATE_DIRS = {"update_temp", ".git", ".github", ".codex", ".agents", "saves", "save", "savedata", "screenshots", "logs", "crash", "crashes", "replays", "userdata", "user-data", "__pycache__"}
 PRIVATE_NAMES = {"settings.json", "settings.ini", "preferences.json", "preferences.ini", "controls.json", "keybinds.json", "modlist.txt", "modslist.txt", "updates.log"}
 PRIVATE_EXTENSIONS = {".sol", ".sav", ".save", ".log", ".tmp", ".bak"}
@@ -63,13 +64,35 @@ def atomic_write(path, data):
             output.write(data)
             output.flush()
             os.fsync(output.fileno())
-        os.replace(temporary, path)
+        for attempt in range(5):
+            try:
+                os.replace(temporary, path)
+                break
+            except PermissionError as error:
+                if os.name != "nt" or error.winerror not in (5, 32, 33) or attempt == 4:
+                    raise
+                time.sleep(0.05 * (2 ** attempt))
     finally:
         if os.path.exists(temporary):
             os.unlink(temporary)
 
 
-def generate(root, version=BASELINE_VERSION, deletions=None, release_ref=None, source_commit=None):
+def hide_updater_files(root):
+    if os.name != "nt":
+        return
+    import ctypes
+    kernel = ctypes.WinDLL("kernel32", use_last_error=True)
+    kernel.SetFileAttributesW.argtypes = [ctypes.c_wchar_p, ctypes.c_uint32]
+    kernel.SetFileAttributesW.restype = ctypes.c_int
+    for name in (".github", ".gitattributes", "update_temp"):
+        path = root / name
+        if path.exists() and not is_link(path):
+            attributes = path.stat().st_file_attributes | stat.FILE_ATTRIBUTE_HIDDEN
+            if not kernel.SetFileAttributesW(str(path), attributes):
+                raise ctypes.WinError(ctypes.get_last_error())
+
+
+def generate(root, version=BASELINE_VERSION, deletions=None, release_ref=None, source_commit=None, write_metadata=True):
     build_number(version)
     root = Path(root).resolve(strict=True)
     if not root.is_dir() or not (root / "assets").is_dir() or not any(root.glob("*.exe")):
@@ -125,8 +148,64 @@ def generate(root, version=BASELINE_VERSION, deletions=None, release_ref=None, s
         if release_ref != f"aom-build-{build_number(version)}" or not re.fullmatch(r"[a-f0-9]{40}", source_commit or ""):
             raise ValueError("Invalid published release identity")
         descriptor.update(releaseRef=release_ref, sourceCommit=source_commit)
+    if write_metadata:
+        atomic_write(root / "assets/updateManifest.json", payload)
+        atomic_write(root / "assets/updateVersion.json", (json.dumps(descriptor, indent=2) + "\n").encode("utf-8"))
+        hide_updater_files(root)
+    return manifest
+
+
+
+def json_bytes(value):
+    return (json.dumps(value, indent=2, ensure_ascii=False) + "\n").encode("utf-8")
+
+
+def read_inventory(root):
+    root = Path(root)
+    descriptor_path = root / "assets/updateVersion.json"
+    if not descriptor_path.exists():
+        return None
+    descriptor = json.loads(descriptor_path.read_bytes())
+    build_number(descriptor["version"])
+    delta = descriptor.get("format") == 2
+    name = "updateInventory.json" if delta else "updateManifest.json"
+    prefix = "inventory" if delta else "manifest"
+    payload = (root / "assets" / name).read_bytes()
+    if len(payload) != descriptor[prefix + "Size"] or hashlib.sha256(payload).hexdigest() != descriptor[prefix + "Sha256"]:
+        raise ValueError("Previous inventory does not match its version descriptor")
+    inventory = json.loads(payload)
+    if inventory["version"] != descriptor["version"]:
+        raise ValueError("Previous inventory version mismatch")
+    return inventory
+
+
+def write_delta(root, current, previous=None, source_commit=None):
+    root = Path(root)
+    number = build_number(current["version"])
+    old = {entry["path"].lower(): entry for entry in previous["files"]} if previous else {}
+    files = {entry["path"].lower(): entry for entry in current["files"]}
+    changes = []
+    for key, entry in files.items():
+        before = old.get(key)
+        if before is None or any(before[field] != entry[field] for field in ("path", "size", "sha256")):
+            changes.append(dict(entry, change="added" if before is None else "changed"))
+    removed = sorted((entry["path"] for key, entry in old.items() if key not in files), key=str.lower)
+    manifest = {"format": 2, "version": current["version"], "baseVersion": previous["version"] if previous else None,
+                "files": changes, "delete": removed}
+    inventory = {"version": current["version"], "files": current["files"], "delete": []}
+    payload = json_bytes(manifest)
+    inventory_payload = json_bytes(inventory)
+    descriptor = {"format": 2, "version": current["version"],
+                  "manifestSize": len(payload), "manifestSha256": hashlib.sha256(payload).hexdigest(),
+                  "inventorySize": len(inventory_payload), "inventorySha256": hashlib.sha256(inventory_payload).hexdigest()}
+    if source_commit is not None:
+        if not re.fullmatch(r"[a-f0-9]{40}", source_commit):
+            raise ValueError("Invalid published source identity")
+        descriptor.update(releaseRef=f"aom-delta-build-{number}", sourceCommit=source_commit)
+    atomic_write(root / "assets/updateInventory.json", inventory_payload)
     atomic_write(root / "assets/updateManifest.json", payload)
-    atomic_write(root / "assets/updateVersion.json", (json.dumps(descriptor, indent=2) + "\n").encode("utf-8"))
+    atomic_write(root / "assets/updateVersion.json", json_bytes(descriptor))
+    hide_updater_files(root)
     return manifest
 
 
@@ -134,9 +213,12 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--build-dir", required=True)
     args = parser.parse_args()
-    install_publisher(Path(args.build_dir))
-    manifest = generate(args.build_dir)
-    print(f"Updater manifest: {manifest['version']} (local baseline; GitHub assigns releases); {len(manifest['files'])} files; {sum(f['size'] for f in manifest['files'])} bytes; {Path(args.build_dir).resolve()}")
+    root = Path(args.build_dir)
+    previous = read_inventory(root)
+    install_publisher(root)
+    current = generate(root, write_metadata=False)
+    manifest = write_delta(root, current, previous)
+    print(f"Updater manifest: {manifest['version']} (local baseline; GitHub assigns releases); {len(manifest['files'])} added/changed; {len(manifest['delete'])} deleted; {len(current['files'])} indexed files; {root.resolve()}")
 
 
 def install_publisher(root):

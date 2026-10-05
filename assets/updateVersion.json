@@ -1,5 +1,8 @@
 {
+  "format": 2,
   "version": "2.5.0",
-  "manifestSize": 391363,
-  "manifestSha256": "abaa559eccf7e999e50d79feb6c8c36c2c22efdeb783c46d585487d9906c0ea3"
+  "manifestSize": 282,
+  "manifestSha256": "6da8d6af19a501c6a5302ddcc9720722892c3173557813477e79cdf291094455",
+  "inventorySize": 391363,
+  "inventorySha256": "ec9d4ebfd1116440441a5b370c92fa673bcea9e5e2dbe1c9060da94b7a9ca8b7"
 }
