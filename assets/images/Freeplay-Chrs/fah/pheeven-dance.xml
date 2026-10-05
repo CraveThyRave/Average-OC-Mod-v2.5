@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pheeven-dance.png">
+<SubTexture name="pheeven-dance idle0000" x="0" y="0" width="437" height="474" frameX="-62" frameY="-27" frameWidth="573" frameHeight="524" />
+<SubTexture name="pheeven-dance idle0001" x="437" y="0" width="495" height="468" frameX="-60" frameY="-33" frameWidth="573" frameHeight="524" />
+<SubTexture name="pheeven-dance idle0002" x="0" y="0" width="437" height="474" frameX="-62" frameY="-27" frameWidth="573" frameHeight="524" />
+<SubTexture name="pheeven-dance idle0003" x="932" y="0" width="440" height="460" frameX="-59" frameY="-41" frameWidth="573" frameHeight="524" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+IntroStep = 0
+OutroStep = 48
+Chibi = dad
+Composer = Polychromepan
+ComposerLabel = Composed by
+Visuals = Brytato
+Charted = Bwippity
+Chromatic = StuffyAnt
+Coded = CraveThyRave

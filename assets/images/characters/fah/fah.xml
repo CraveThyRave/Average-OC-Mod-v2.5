@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fah.png">
+<SubTexture name="fah screech0000" x="582" y="736" width="312" height="330" frameX="-23" frameY="-56" frameWidth="343" frameHeight="412" />
+<SubTexture name="fah screech0001" x="1340" y="656" width="285" height="323" frameX="-40" frameY="-64" frameWidth="343" frameHeight="412" />
+<SubTexture name="fah screech0002" x="744" y="0" width="278" height="353" frameX="-37" frameY="-39" frameWidth="343" frameHeight="412" />
+<SubTexture name="fah screech0003" x="249" y="0" width="255" height="368" frameX="-31" frameY="-14" frameWidth="343" frameHeight="412" />
+<SubTexture name="fah screech0004" x="0" y="373" width="250" height="363" frameX="-31" frameY="-13" frameWidth="343" frameHeight="412" />
+<SubTexture name="fah idle0000" x="1022" y="0" width="318" height="340" frameX="-23" frameY="-24" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah idle0001" x="0" y="736" width="314" height="335" frameX="-27" frameY="-20" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah idle0002" x="821" y="1071" width="290" height="302" frameX="-41" frameY="-52" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah idle0003" x="1340" y="0" width="292" height="328" frameX="-38" frameY="-41" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah up0000" x="250" y="373" width="248" height="357" frameX="-43" frameY="-19" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah up0001" x="0" y="0" width="249" height="373" frameX="-51" frameY="-12" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah up0002" x="504" y="0" width="240" height="368" frameX="-55" frameY="-17" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah down0000" x="744" y="353" width="225" height="346" frameX="-62" frameY="-18" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah down0001" x="1340" y="328" width="233" height="328" frameX="-50" frameY="-35" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah down0002" x="498" y="373" width="237" height="315" frameX="-54" frameY="-44" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah left0000" x="314" y="736" width="268" height="335" frameX="-46" frameY="-31" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah left0001" x="0" y="1071" width="283" height="323" frameX="-30" frameY="-38" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah left0002" x="552" y="1071" width="269" height="312" frameX="-33" frameY="-46" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah right0000" x="1022" y="340" width="276" height="336" frameX="-49" frameY="-37" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah right0001" x="894" y="736" width="269" height="330" frameX="-60" frameY="-39" frameWidth="348" frameHeight="406" />
+<SubTexture name="fah right0002" x="283" y="1071" width="269" height="323" frameX="-58" frameY="-45" frameWidth="348" frameHeight="406" />
+</TextureAtlas>

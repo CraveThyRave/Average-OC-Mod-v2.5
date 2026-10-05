@@ -1,0 +1,146 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-1
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "dad-fah idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "dad-fah left",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "dad-fah down",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "dad-fah up",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				18
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "dad-fah right",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-81
+			],
+			"anim": "singLEFT-alt",
+			"fps": 10,
+			"name": "dad-fah l-box",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-90
+			],
+			"anim": "singDOWN-alt",
+			"fps": 10,
+			"name": "dad-fah d-box",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-87
+			],
+			"anim": "singUP-alt",
+			"fps": 10,
+			"name": "dad-fah u-box",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-60
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 10,
+			"name": "dad-fah r-box",
+			"indices": [
+				1,
+				0
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fah/fahmix/dad-fah",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad-fah",
+	"flip_x": false,
+	"healthbar_colors": [
+		212,
+		102,
+		200
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

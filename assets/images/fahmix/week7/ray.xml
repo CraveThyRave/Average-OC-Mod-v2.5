@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ray.png">
+<SubTexture name="idle0000" x="0" y="0" width="508" height="493" frameX="-46" frameY="-94" frameWidth="601" frameHeight="629" />
+<SubTexture name="idle0001" x="508" y="0" width="511" height="489" frameX="-45" frameY="-93" frameWidth="601" frameHeight="629" />
+<SubTexture name="idle0002" x="0" y="493" width="505" height="487" frameX="-48" frameY="-89" frameWidth="601" frameHeight="629" />
+<SubTexture name="idle0003" x="505" y="493" width="503" height="480" frameX="-52" frameY="-95" frameWidth="601" frameHeight="629" />
+</TextureAtlas>

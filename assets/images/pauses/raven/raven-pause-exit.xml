@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="raven-pause-exit.png">
+<SubTexture name="raven-pause-exit hover0000" x="0" y="112" width="361" height="112" frameX="-851" frameY="-517" frameWidth="1272" frameHeight="713" />
+<SubTexture name="raven-pause-exit not-hover0000" x="0" y="0" width="361" height="112" frameX="-851" frameY="-517" frameWidth="1272" frameHeight="713" />
+</TextureAtlas>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fahven-playable.png">
+<SubTexture name="fahven-playable adown0000" x="466" y="2546" width="462" height="430" frameX="-53" frameY="-278" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable adown0001" x="928" y="2546" width="457" height="426" frameX="-77" frameY="-285" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable adown0002" x="1630" y="621" width="380" height="615" frameX="-193" frameY="-103" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable aleft0000" x="3038" y="513" width="366" height="496" frameX="-170" frameY="-224" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable aleft0001" x="420" y="1379" width="532" height="602" frameX="0" frameY="-128" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable aleft0002" x="492" y="1989" width="423" height="552" frameX="-78" frameY="-165" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable aup0000" x="3038" y="1009" width="370" height="450" frameX="-118" frameY="-272" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable aup0001" x="0" y="0" width="391" height="721" frameX="-182" frameY="0" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable aup0002" x="0" y="721" width="397" height="658" frameX="-185" frameY="-59" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable aright0000" x="0" y="1989" width="492" height="557" frameX="-144" frameY="-171" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable aright0001" x="2628" y="1068" width="384" height="527" frameX="-167" frameY="-191" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable aright0002" x="2069" y="0" width="559" height="579" frameX="-136" frameY="-135" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable idle0000" x="762" y="721" width="453" height="638" frameX="-105" frameY="-82" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable idle0001" x="1215" y="721" width="377" height="580" frameX="-125" frameY="-142" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable idle0002" x="915" y="1989" width="445" height="549" frameX="-91" frameY="-177" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable idle0003" x="1630" y="0" width="439" height="621" frameX="-122" frameY="-99" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable m-right0000" x="2069" y="1153" width="552" height="568" frameX="-126" frameY="-138" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable m-right0001" x="2069" y="579" width="544" height="574" frameX="-129" frameY="-137" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable mdown0000" x="1385" y="2546" width="453" height="361" frameX="-54" frameY="-366" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable mdown0001" x="1838" y="2546" width="460" height="351" frameX="-53" frameY="-366" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable mup0000" x="1195" y="0" width="435" height="676" frameX="-145" frameY="-24" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable mup0001" x="762" y="0" width="433" height="683" frameX="-148" frameY="-29" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable mright0000" x="1417" y="1379" width="466" height="593" frameX="-60" frameY="-132" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable mright0001" x="952" y="1379" width="465" height="594" frameX="-65" frameY="-131" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable right0000" x="1788" y="1989" width="352" height="537" frameX="-97" frameY="-186" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable right0001" x="0" y="2546" width="466" height="467" frameX="-62" frameY="-261" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable right0002" x="2140" y="1989" width="384" height="537" frameX="-134" frameY="-190" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable left0000" x="2628" y="0" width="410" height="537" frameX="-127" frameY="-191" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable left0001" x="1360" y="1989" width="428" height="543" frameX="-38" frameY="-150" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable left0002" x="3038" y="0" width="416" height="513" frameX="-69" frameY="-182" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable up0000" x="2628" y="537" width="394" height="531" frameX="-116" frameY="-200" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable up0001" x="391" y="0" width="371" height="690" frameX="-120" frameY="-27" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable up0002" x="397" y="721" width="365" height="650" frameX="-100" frameY="-76" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable down0000" x="0" y="1379" width="420" height="610" frameX="-99" frameY="-110" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable down0001" x="3038" y="1870" width="398" height="378" frameX="-81" frameY="-330" frameWidth="695" frameHeight="731" />
+<SubTexture name="fahven-playable down0002" x="3038" y="1459" width="366" height="411" frameX="-95" frameY="-301" frameWidth="695" frameHeight="731" />
+</TextureAtlas>

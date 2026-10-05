@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="senpai-mad-dialogue.png">
+<SubTexture name="talk0000" x="661" y="0" width="614" height="867" frameX="-24" frameY="-14" frameWidth="740" frameHeight="879" />
+<SubTexture name="talk0001" x="0" y="0" width="661" height="883" frameX="0" frameY="0" frameWidth="740" frameHeight="879" />
+<SubTexture name="no-talk0000" x="0" y="883" width="697" height="833" frameX="-11" frameY="-43" frameWidth="740" frameHeight="879" />
+<SubTexture name="no-talk0001" x="1275" y="0" width="713" height="842" frameX="-28" frameY="-35" frameWidth="740" frameHeight="879" />
+</TextureAtlas>

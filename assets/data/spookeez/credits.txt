@@ -1,0 +1,10 @@
+IntroStep = 96
+OutroStep = 127
+IntroDuration = 0.5
+OutroDuration = 0.3
+Chibi = spooky
+Composer = StuffyAnt
+Visuals = Brytato
+Charted = Bwippity
+Chromatic = StuffyAnt
+Coded = CraveThyRave

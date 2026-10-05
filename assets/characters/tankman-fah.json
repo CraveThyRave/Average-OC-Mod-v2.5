@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				41
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "left",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				38
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "right",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				30
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "up",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "down",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"offsets": [
+				30,
+				30
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "bleh"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fah/fahmix/week7/tankman-fah",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tankman-fah",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

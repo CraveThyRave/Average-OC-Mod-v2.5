@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="darnell-fah.png">
+<SubTexture name="win0000" x="0" y="264" width="236" height="247" frameX="-59" frameY="-44" frameWidth="355" frameHeight="340" />
+<SubTexture name="win0001" x="726" y="0" width="237" height="239" frameX="-59" frameY="-50" frameWidth="355" frameHeight="340" />
+<SubTexture name="win0002" x="0" y="511" width="234" height="236" frameX="-63" frameY="-54" frameWidth="355" frameHeight="340" />
+<SubTexture name="idle0000" x="726" y="239" width="226" height="239" frameX="-58" frameY="-43" frameWidth="355" frameHeight="340" />
+<SubTexture name="idle0001" x="236" y="264" width="223" height="247" frameX="-57" frameY="-40" frameWidth="355" frameHeight="340" />
+<SubTexture name="idle0002" x="459" y="264" width="224" height="241" frameX="-56" frameY="-43" frameWidth="355" frameHeight="340" />
+<SubTexture name="lose0000" x="486" y="0" width="240" height="259" frameX="-50" frameY="-40" frameWidth="355" frameHeight="340" />
+<SubTexture name="lose0001" x="244" y="0" width="242" height="261" frameX="-47" frameY="-39" frameWidth="355" frameHeight="340" />
+<SubTexture name="lose0002" x="0" y="0" width="244" height="264" frameX="-48" frameY="-35" frameWidth="355" frameHeight="340" />
+</TextureAtlas>

@@ -1,0 +1,341 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				173,
+				112
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "fah-playable idle"
+		},
+		{
+			"offsets": [
+				210,
+				130
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "dodge",
+			"indices": [],
+			"name": "fah-playable dodge"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				150
+			],
+			"anim": "anim-up",
+			"fps": 18,
+			"name": "fah-playable anim-up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				120
+			],
+			"anim": "anim-down",
+			"fps": 18,
+			"name": "fah-playable anim-down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				90
+			],
+			"anim": "anim-left",
+			"fps": 18,
+			"name": "fah-playable anim-right",
+			"indices": [
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				100
+			],
+			"anim": "anim-right",
+			"fps": 18,
+			"name": "fah-playable anim-right",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				120
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "fah-playable d-miss",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				120
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "fah-playable u-miss",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"offsets": [
+				166,
+				111
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "fah-playable left"
+		},
+		{
+			"offsets": [
+				241,
+				123
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "fah-playable right"
+		},
+		{
+			"offsets": [
+				164,
+				115
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "fah-playable l-miss"
+		},
+		{
+			"offsets": [
+				249,
+				120
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "fah-playable ri-miss"
+		},
+		{
+			"offsets": [
+				160,
+				139
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "fah-playable up"
+		},
+		{
+			"offsets": [
+				182,
+				118
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "fah-playable down"
+		},
+		{
+			"offsets": [
+				220,
+				120
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP-alt",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "fah-playable up-alt"
+		},
+		{
+			"offsets": [
+				210,
+				90
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN-alt",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "fah-playable down-alt"
+		},
+		{
+			"offsets": [
+				210,
+				160
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP-mic",
+			"indices": [],
+			"name": "fah-playable box-up"
+		},
+		{
+			"offsets": [
+				210,
+				80
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN-mic",
+			"indices": [],
+			"name": "fah-playable box-down"
+		},
+		{
+			"offsets": [
+				182,
+				119
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT-mic",
+			"indices": [],
+			"name": "fah-playable box-left"
+		},
+		{
+			"offsets": [
+				260,
+				90
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT-mic",
+			"indices": [],
+			"name": "fah-playable box-right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				288,
+				88
+			],
+			"anim": "singLEFT-alt",
+			"fps": 18,
+			"name": "fah-playable right-alt",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				89
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 18,
+			"name": "fah-playable left-alt",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"offsets": [
+				230,
+				130
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				1,
+				1,
+				2,
+				3
+			],
+			"fps": 14,
+			"anim": "hey",
+			"loop": false,
+			"name": "fah-playable hey"
+		},
+		{
+			"offsets": [165, 76],
+			"loop": false,
+			"fps": 8,
+			"anim": "spin",
+			"indices": [0, 1, 2, 0, 1, 2],
+			"name": "spin idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fah/fahmix/fah/fah-playable",
+	"extra_images": ["characters/fah/fahmix/fah/spin"],
+	"position": [
+		220,
+		490
+	],
+	"healthicon": "fah",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		144,
+		127
+	],
+	"camera_position": [
+		120,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

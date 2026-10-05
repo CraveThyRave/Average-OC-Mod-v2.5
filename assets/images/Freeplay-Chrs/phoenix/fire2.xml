@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fire2.png">
+<SubTexture name="fire2 idle0000" x="2315" y="1721" width="739" height="270" frameX="-349" frameY="-1192" frameWidth="1446" frameHeight="1512" />
+<SubTexture name="fire2 idle0001" x="2545" y="0" width="1011" height="1310" frameX="-169" frameY="-174" frameWidth="1446" frameHeight="1512" />
+<SubTexture name="fire2 idle0002" x="0" y="1411" width="1243" height="1301" frameX="-30" frameY="-169" frameWidth="1446" frameHeight="1512" />
+<SubTexture name="fire2 idle0003" x="1362" y="0" width="1183" height="1404" frameX="-91" frameY="-77" frameWidth="1446" frameHeight="1512" />
+<SubTexture name="fire2 idle0004" x="0" y="0" width="1362" height="1411" frameX="0" frameY="-65" frameWidth="1446" frameHeight="1512" />
+<SubTexture name="fire2 idle0005" x="1243" y="1411" width="1072" height="993" frameX="-167" frameY="-457" frameWidth="1446" frameHeight="1512" />
+<SubTexture name="fire2 idle0006" x="2315" y="1411" width="746" height="310" frameX="-308" frameY="-1165" frameWidth="1446" frameHeight="1512" />
+<SubTexture name="fire2 idle0007" x="2315" y="1991" width="705" height="257" frameX="-340" frameY="-1189" frameWidth="1446" frameHeight="1512" />
+</TextureAtlas>

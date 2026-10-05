@@ -1,0 +1,11 @@
+# Gallery image order and descriptions. Put matching PNG files in gallery/images.
+# Format: Image Name = Description
+# The file order below is the carousel order.
+Main Menu Concept = An old sketch of the Main Menu
+1.0 Thumbnail = The V1 Thumbnail
+2.0 Thumbnail = The V2 Thumbnail
+2.5 (Side A) Legacy Thumbnail = The legacy version 2.5 Side A Thumbnail.
+2.5 (Side A) Thumbnail = The modern version 2.5 Side A Thumbnail.
+2.5 (Side B) Thumbnail = The V2.5 Side B Thumbnail.
+
+

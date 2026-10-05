@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phoenix-body.png">
+<SubTexture name="phoenix-body idle0000" x="0" y="0" width="515" height="1067" frameX="-73" frameY="-60" frameWidth="676" frameHeight="1167" />
+<SubTexture name="phoenix-body idle0001" x="515" y="0" width="516" height="1067" frameX="-74" frameY="-60" frameWidth="676" frameHeight="1167" />
+<SubTexture name="phoenix-body idle0002" x="1031" y="0" width="515" height="1065" frameX="-74" frameY="-61" frameWidth="676" frameHeight="1167" />
+</TextureAtlas>

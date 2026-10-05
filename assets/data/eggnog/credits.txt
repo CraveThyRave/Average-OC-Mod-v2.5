@@ -1,0 +1,10 @@
+IntroStep = 784
+OutroStep = 832
+IntroDuration = 0.5
+OutroDuration = 0.3
+Chibi = christmas
+Composer = Sunnfe
+Visuals = Brytato
+Charted = Bwippity
+Chromatics = StuffyAnt
+Coded = CraveThyRave

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="merrydad-fah.png">
+<SubTexture name="down0000" x="336" y="594" width="323" height="580" frameX="-44" frameY="-105" frameWidth="504" frameHeight="717" />
+<SubTexture name="down0001" x="1999" y="0" width="316" height="495" frameX="-86" frameY="-190" frameWidth="504" frameHeight="717" />
+<SubTexture name="idle0000" x="581" y="0" width="322" height="589" frameX="-115" frameY="-80" frameWidth="504" frameHeight="717" />
+<SubTexture name="idle0001" x="939" y="594" width="321" height="568" frameX="-116" frameY="-93" frameWidth="504" frameHeight="717" />
+<SubTexture name="idle0002" x="483" y="1175" width="346" height="540" frameX="-75" frameY="-109" frameWidth="504" frameHeight="717" />
+<SubTexture name="idle0003" x="1117" y="1175" width="322" height="523" frameX="-71" frameY="-118" frameWidth="504" frameHeight="717" />
+<SubTexture name="idle0004" x="483" y="1175" width="346" height="540" frameX="-75" frameY="-109" frameWidth="504" frameHeight="717" />
+<SubTexture name="left0000" x="829" y="1175" width="288" height="527" frameX="-104" frameY="-97" frameWidth="504" frameHeight="717" />
+<SubTexture name="left0001" x="1439" y="1175" width="315" height="520" frameX="-73" frameY="-94" frameWidth="504" frameHeight="717" />
+<SubTexture name="right0000" x="1697" y="562" width="274" height="558" frameX="-146" frameY="-92" frameWidth="504" frameHeight="717" />
+<SubTexture name="right0001" x="0" y="1175" width="251" height="558" frameX="-161" frameY="-91" frameWidth="504" frameHeight="717" />
+<SubTexture name="throw0000" x="659" y="594" width="280" height="577" frameX="-75" frameY="-75" frameWidth="504" frameHeight="717" />
+<SubTexture name="throw0001" x="1697" y="0" width="302" height="562" frameX="-47" frameY="-87" frameWidth="504" frameHeight="717" />
+<SubTexture name="throw0002" x="251" y="1175" width="232" height="552" frameX="-109" frameY="-83" frameWidth="504" frameHeight="717" />
+<SubTexture name="up0000" x="1307" y="576" width="268" height="574" frameX="-164" frameY="-48" frameWidth="504" frameHeight="717" />
+<SubTexture name="up0001" x="276" y="0" width="305" height="592" frameX="-128" frameY="-40" frameWidth="504" frameHeight="717" />
+<SubTexture name="clap0000" x="0" y="0" width="276" height="594" frameX="-91" frameY="-72" frameWidth="504" frameHeight="717" />
+<SubTexture name="clap0001" x="0" y="594" width="336" height="581" frameX="-59" frameY="-78" frameWidth="504" frameHeight="717" />
+<SubTexture name="clap0002" x="903" y="0" width="404" height="586" frameX="-71" frameY="-75" frameWidth="504" frameHeight="717" />
+<SubTexture name="clap0003" x="1307" y="0" width="390" height="576" frameX="-68" frameY="-75" frameWidth="504" frameHeight="717" />
+</TextureAtlas>

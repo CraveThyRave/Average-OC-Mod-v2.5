@@ -1,0 +1,112 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "left",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "right",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "up",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "down",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-54
+			],
+			"anim": "burp",
+			"fps": 10,
+			"name": "burp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				6
+			],
+			"anim": "shoot",
+			"fps": 10,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-2
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fah/fahmix/week3/pico-fah-blammed",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "pico-fah",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		180,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

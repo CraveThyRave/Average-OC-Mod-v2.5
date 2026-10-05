@@ -1,0 +1,10 @@
+IntroStep = 384
+OutroStep = 406
+IntroDuration = 0.5
+OutroDuration = 0.65
+Chibi = fah
+Composer = PolyChromePan
+Visuals = Brytato
+Charted = Bwippity
+Chromatic = StuffyAnt
+Coded = CraveThyRave

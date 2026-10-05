@@ -1,0 +1,2 @@
+[Weekend1]
+triggerSteps=287,577,735

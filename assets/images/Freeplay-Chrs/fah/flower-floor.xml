@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flower-floor.png">
+<SubTexture name="flower-floor grow0000" x="1432" y="1149" width="1365" height="236" frameX="-106" frameY="-764" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-floor grow0001" x="0" y="1149" width="1432" height="260" frameX="-59" frameY="-740" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-floor grow0002" x="1510" y="713" width="1473" height="319" frameX="-27" frameY="-681" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-floor grow0003" x="1510" y="370" width="1484" height="343" frameX="-16" frameY="-657" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-floor grow0004" x="0" y="389" width="1500" height="386" frameX="0" frameY="-614" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-floor grow0005" x="0" y="389" width="1500" height="386" frameX="0" frameY="-614" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-floor idle0000" x="0" y="0" width="1510" height="389" frameX="-18" frameY="-5" frameWidth="1593" frameHeight="410" />
+<SubTexture name="flower-floor idle0001" x="0" y="775" width="1503" height="374" frameX="-25" frameY="-21" frameWidth="1593" frameHeight="410" />
+<SubTexture name="flower-floor idle0002" x="1510" y="0" width="1501" height="370" frameX="-24" frameY="-27" frameWidth="1593" frameHeight="410" />
+<SubTexture name="flower-floor shrink0000" x="0" y="389" width="1500" height="386" frameX="0" frameY="-614" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-floor shrink0001" x="0" y="389" width="1500" height="386" frameX="0" frameY="-614" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-floor shrink0002" x="1510" y="370" width="1484" height="343" frameX="-16" frameY="-657" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-floor shrink0003" x="1510" y="713" width="1473" height="319" frameX="-27" frameY="-681" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-floor shrink0004" x="0" y="1149" width="1432" height="260" frameX="-59" frameY="-740" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-floor shrink0005" x="1432" y="1149" width="1365" height="236" frameX="-106" frameY="-764" frameWidth="1500" frameHeight="1000" />
+</TextureAtlas>

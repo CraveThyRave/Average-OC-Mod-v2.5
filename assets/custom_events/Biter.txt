@@ -1,0 +1,1 @@
+Spawns one random Week 5 biter from either side of the screen. No values are required.

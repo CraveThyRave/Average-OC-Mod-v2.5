@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mom-bite.png">
+<SubTexture name="mom-bite bite0000" x="445" y="0" width="432" height="674" frameX="0" frameY="-54" frameWidth="480" frameHeight="757" />
+<SubTexture name="mom-bite bite0001" x="0" y="0" width="445" height="722" frameX="0" frameY="0" frameWidth="480" frameHeight="757" />
+<SubTexture name="mom-bite bite0002" x="0" y="722" width="456" height="613" frameX="0" frameY="-104" frameWidth="480" frameHeight="757" />
+<SubTexture name="mom-bite idle0000" x="877" y="0" width="464" height="643" frameX="0" frameY="-83" frameWidth="480" frameHeight="757" />
+<SubTexture name="mom-bite idle0001" x="1341" y="0" width="466" height="634" frameX="0" frameY="-94" frameWidth="480" frameHeight="757" />
+</TextureAtlas>

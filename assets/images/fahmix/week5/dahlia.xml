@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dahlia.png">
+<SubTexture name="idle0000" x="1721" y="0" width="1723" height="663" frameX="-113" frameY="-158" frameWidth="1938" frameHeight="882" />
+<SubTexture name="idle0001" x="0" y="0" width="1721" height="666" frameX="-115" frameY="-158" frameWidth="1938" frameHeight="882" />
+<SubTexture name="idle0002" x="0" y="666" width="1718" height="658" frameX="-119" frameY="-159" frameWidth="1938" frameHeight="882" />
+</TextureAtlas>

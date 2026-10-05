@@ -1,0 +1,177 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        4,
+        -8
+      ],
+      "loop": false,
+      "fps": 10,
+      "anim": "singLEFT",
+      "indices": [
+        1,
+        0
+      ],
+      "name": "left"
+    },
+    {
+      "offsets": [
+        -51,
+        -2
+      ],
+      "loop": false,
+      "fps": 10,
+      "anim": "singRIGHT",
+      "indices": [
+        1,
+        0
+      ],
+      "name": "right"
+    },
+    {
+      "offsets": [
+        0,
+        1
+      ],
+      "loop": false,
+      "fps": 10,
+      "anim": "singUP",
+      "indices": [
+        1,
+        0
+      ],
+      "name": "up"
+    },
+    {
+      "offsets": [
+        -2,
+        0
+      ],
+      "loop": false,
+      "fps": 10,
+      "anim": "singDOWN",
+      "indices": [
+        1,
+        0
+      ],
+      "name": "down"
+    },
+    {
+      "offsets": [
+        0,
+        -54
+      ],
+      "loop": false,
+      "fps": 10,
+      "anim": "burp",
+      "indices": [],
+      "name": "burp"
+    },
+    {
+      "offsets": [
+        0,
+        6
+      ],
+      "loop": false,
+      "fps": 10,
+      "anim": "shoot",
+      "indices": [],
+      "name": "shoot"
+    },
+    {
+      "loop": true,
+      "offsets": [
+        -1,
+        -2
+      ],
+      "anim": "idle",
+      "fps": 8,
+      "name": "idle",
+      "indices": []
+    },
+    {
+      "offsets": [
+        0,
+        -50
+      ],
+      "indices": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "fps": 10,
+      "anim": "singDOWN-alt",
+      "loop": false,
+      "name": "burp"
+    },
+    {
+      "offsets": [
+        0,
+        -50
+      ],
+      "indices": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "fps": 10,
+      "anim": "singRIGHT-alt",
+      "loop": false,
+      "name": "burp"
+    },
+    {
+      "offsets": [
+        0,
+        -52
+      ],
+      "indices": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "fps": 10,
+      "anim": "singLEFT-alt",
+      "loop": false,
+      "name": "burp"
+    },
+    {
+      "offsets": [
+        0,
+        -50
+      ],
+      "indices": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "fps": 10,
+      "anim": "singUP-alt",
+      "loop": false,
+      "name": "burp"
+    }
+  ],
+  "extra_images": [],
+  "no_antialiasing": true,
+  "image": "characters/fah/fahmix/week3/pico-fah",
+  "position": [
+    0,
+    300
+  ],
+  "healthicon": "pico-fah",
+  "flip_x": false,
+  "healthbar_colors": [
+    246,
+    180,
+    85
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 6.1,
+  "scale": 1
+}

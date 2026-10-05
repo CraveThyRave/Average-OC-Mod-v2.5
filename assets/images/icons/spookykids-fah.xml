@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spookykids-fah.png">
+<SubTexture name="lose0000" x="0" y="185" width="218" height="177" frameX="-24" frameY="-31" frameWidth="266" frameHeight="234" />
+<SubTexture name="lose0001" x="215" y="362" width="214" height="170" frameX="-26" frameY="-35" frameWidth="266" frameHeight="234" />
+<SubTexture name="lose0002" x="429" y="362" width="213" height="168" frameX="-26" frameY="-36" frameWidth="266" frameHeight="234" />
+<SubTexture name="idle0000" x="430" y="0" width="218" height="177" frameX="-23" frameY="-37" frameWidth="266" frameHeight="234" />
+<SubTexture name="idle0001" x="214" y="0" width="216" height="181" frameX="-25" frameY="-34" frameWidth="266" frameHeight="234" />
+<SubTexture name="idle0002" x="0" y="0" width="214" height="185" frameX="-26" frameY="-31" frameWidth="266" frameHeight="234" />
+<SubTexture name="win0000" x="430" y="177" width="218" height="177" frameX="-31" frameY="-27" frameWidth="266" frameHeight="234" />
+<SubTexture name="win0001" x="0" y="362" width="215" height="176" frameX="-34" frameY="-27" frameWidth="266" frameHeight="234" />
+<SubTexture name="win0002" x="218" y="185" width="212" height="175" frameX="-36" frameY="-26" frameWidth="266" frameHeight="234" />
+</TextureAtlas>

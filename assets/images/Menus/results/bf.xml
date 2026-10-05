@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf.png">
+<SubTexture name="bf spin0000" x="4" y="4" width="434" height="432" frameX="-27" frameY="-20" frameWidth="552" frameHeight="486" />
+<SubTexture name="bf spin0001" x="460" y="4" width="414" height="423" frameX="-35" frameY="-37" frameWidth="552" frameHeight="486" />
+<SubTexture name="bf spin0002" x="916" y="4" width="448" height="404" frameX="-20" frameY="-48" frameWidth="552" frameHeight="486" />
+<SubTexture name="bf spin0003" x="1372" y="4" width="447" height="416" frameX="-20" frameY="-39" frameWidth="552" frameHeight="486" />
+<SubTexture name="bf spin0004" x="4" y="448" width="434" height="436" frameX="-57" frameY="-21" frameWidth="552" frameHeight="486" />
+<SubTexture name="bf spin0005" x="460" y="448" width="447" height="416" frameX="-40" frameY="-38" frameWidth="552" frameHeight="486" />
+<SubTexture name="bf spin0006" x="916" y="448" width="448" height="404" frameX="-20" frameY="-48" frameWidth="552" frameHeight="486" />
+<SubTexture name="bf spin0007" x="1372" y="448" width="414" height="423" frameX="-35" frameY="-37" frameWidth="552" frameHeight="486" />
+</TextureAtlas>

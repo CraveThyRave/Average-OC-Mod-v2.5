@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fah-censor.png">
+<SubTexture name="fah censor idle0000" x="4" y="4" width="248" height="152" frameX="0" frameY="-1" frameWidth="248" frameHeight="153" />
+<SubTexture name="fah censor idle0001" x="260" y="4" width="245" height="153" frameX="-1" frameY="0" frameWidth="248" frameHeight="153" />
+</TextureAtlas>

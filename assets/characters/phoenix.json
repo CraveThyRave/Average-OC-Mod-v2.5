@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "phoenix-mouth idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-1
+			],
+			"anim": "ow-open",
+			"fps": 16,
+			"name": "phoenix-mouth ow-open",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-1
+			],
+			"anim": "i-open",
+			"fps": 16,
+			"name": "phoenix-mouth i-open",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "s-open",
+			"fps": 16,
+			"name": "phoenix-mouth s-open",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-1
+			],
+			"anim": "re-close",
+			"fps": 16,
+			"name": "phoenix-mouth re-close",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-1
+			],
+			"anim": "pt-close",
+			"fps": 16,
+			"name": "phoenix-mouth pt-close",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-7,
+				-1
+			],
+			"anim": "r",
+			"fps": 16,
+			"name": "phoenix-mouth r-mouth",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-7,
+				-1
+			],
+			"anim": "o",
+			"fps": 16,
+			"name": "phoenix-mouth o-mouth",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-7,
+				-1
+			],
+			"anim": "eeinkay",
+			"fps": 16,
+			"name": "phoenix-mouth eeinkay-mouth",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-7,
+				-1
+			],
+			"anim": "ou",
+			"fps": 16,
+			"name": "phoenix-mouth ou-mouth",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				-2
+			],
+			"anim": "aei",
+			"fps": 16,
+			"name": "phoenix-mouth aei-mouth",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "ln",
+			"fps": 16,
+			"name": "phoenix-mouth ln-mouth",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "th",
+			"fps": 16,
+			"name": "phoenix-mouth th-mouth",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				4,
+				-1
+			],
+			"anim": "f",
+			"fps": 16,
+			"name": "phoenix-mouth f-mouth",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "cdk",
+			"fps": 16,
+			"name": "phoenix-mouth cdk-mouth",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				2
+			],
+			"anim": "bp",
+			"fps": 16,
+			"name": "phoenix-mouth bp-mouth",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "m",
+			"fps": 16,
+			"name": "phoenix-mouth m-mouth",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phoenix/phoenix-mouth",
+	"position": [
+		210,
+		130
+	],
+	"healthicon": "phee",
+	"flip_x": false,
+	"healthbar_colors": [
+		142,
+		45,
+		62
+	],
+	"camera_position": [
+		10,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

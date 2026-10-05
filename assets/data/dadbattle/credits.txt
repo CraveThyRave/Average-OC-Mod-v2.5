@@ -1,0 +1,10 @@
+IntroStep = 63
+OutroStep = 98
+IntroDuration = 0.5
+OutroDuration = 0.3
+Chibi = dad
+Composer = Sunnfe
+Visuals = Brytato
+Charted = Bwippity
+Chromatic = StuffyAnt
+Coded = CraveThyRave

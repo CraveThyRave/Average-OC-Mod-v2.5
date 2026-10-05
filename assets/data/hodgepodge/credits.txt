@@ -1,0 +1,11 @@
+IntroStep = 80
+OutroStep = 95
+IntroDuration = 0.5
+OutroDuration = 0.65
+Chibi = raven
+Composer = StuffyAnt
+Visuals = Brytato
+Charted = Tabby Kat
+Chromatics = StuffyAnt
+Animation = Bwippity
+Coded = CraveThyRave

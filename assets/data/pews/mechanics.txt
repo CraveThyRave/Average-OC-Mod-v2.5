@@ -1,0 +1,8 @@
+[Week7]
+minimumSpawnDelay=6
+maximumSpawnDelay=15
+singleSpawnChance=0.76923
+healthBarSpawnChance=0.20
+allowHangerHelpers=false
+secondTargetChance=0.20
+thirdTargetChance=0.05

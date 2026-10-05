@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nola.png">
+<SubTexture name="Nola walk0000" x="0" y="278" width="259" height="269" frameX="-38" frameY="-30" frameWidth="310" frameHeight="322" />
+<SubTexture name="Nola walk0001" x="251" y="0" width="263" height="274" frameX="-37" frameY="-31" frameWidth="310" frameHeight="322" />
+<SubTexture name="Nola walk0002" x="514" y="0" width="254" height="270" frameX="-40" frameY="-31" frameWidth="310" frameHeight="322" />
+<SubTexture name="Nola Click0000" x="259" y="278" width="245" height="263" frameX="-35" frameY="-24" frameWidth="310" frameHeight="322" />
+<SubTexture name="Nola Sit0000" x="504" y="278" width="236" height="243" frameX="-17" frameY="-54" frameWidth="310" frameHeight="322" />
+<SubTexture name="Nola Idle0000" x="0" y="0" width="251" height="278" frameX="-19" frameY="-12" frameWidth="310" frameHeight="322" />
+</TextureAtlas>

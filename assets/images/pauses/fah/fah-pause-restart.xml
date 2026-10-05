@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fah-pause-restart.png">
+<SubTexture name="fah-pause-restart not-hover0000" x="0" y="0" width="362" height="113" frameX="-851" frameY="-299" frameWidth="1272" frameHeight="713" />
+<SubTexture name="fah-pause-restart hover0000" x="0" y="113" width="362" height="113" frameX="-851" frameY="-299" frameWidth="1272" frameHeight="713" />
+</TextureAtlas>

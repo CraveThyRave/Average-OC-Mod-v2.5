@@ -1,0 +1,15 @@
+[Week6]
+BarName=Attention
+BarColor=FAA66D
+BarNameColor=ff52f9
+minimumDrain=0.0108
+maximumDrain=0.03234
+randomTriggerChancePerFrame=0.0042
+increaseDuration=10.6666667
+restartCooldown=6.6666667
+clicksToEmpty=11
+punishClicksBeforeMechanic=false
+punishEarlyClick=false
+earlyClickThreshold=0.25
+earlyClickUnlockThreshold=0
+normalClickUnlockThreshold=0

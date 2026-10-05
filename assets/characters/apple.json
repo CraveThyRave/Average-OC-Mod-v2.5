@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				173,
+				109
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				180,
+				120
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "left1",
+			"loop": true,
+			"name": "kill snap-left1"
+		},
+		{
+			"offsets": [
+				170,
+				110
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "left2",
+			"loop": true,
+			"name": "kill snap-left2"
+		},
+		{
+			"offsets": [
+				163,
+				120
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "right1",
+			"loop": true,
+			"name": "kill snap-right1"
+		},
+		{
+			"offsets": [
+				150,
+				100
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "right2",
+			"loop": true,
+			"name": "kill snap-right2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fah/fahmix/phoenix-stress",
+	"position": [
+		220,
+		20
+	],
+	"healthicon": "fah",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		144,
+		127
+	],
+	"camera_position": [
+		-220,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

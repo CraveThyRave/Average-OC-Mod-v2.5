@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				-19
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "raven-super-active danceLeft"
+		},
+		{
+			"offsets": [
+				0,
+				-21
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "raven-super-active left"
+		},
+		{
+			"offsets": [
+				-1,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "raven-super-active down"
+		},
+		{
+			"offsets": [
+				-1,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "raven-super-active up"
+		},
+		{
+			"offsets": [
+				9,
+				-27
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "raven-super-active right"
+		},
+		{
+			"offsets": [
+				-3,
+				-19
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "raven-super-active danceRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/raven/raven-super-active",
+	"position": [
+		-210,
+		-120
+	],
+	"healthicon": "ar",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		72,
+		148
+	],
+	"camera_position": [
+		240,
+		30
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

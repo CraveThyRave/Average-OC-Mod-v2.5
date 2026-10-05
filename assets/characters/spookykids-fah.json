@@ -1,0 +1,131 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-58,
+				-219
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				-230
+			],
+			"anim": "idle-dance",
+			"fps": 10,
+			"name": "idle-dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-222
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "left",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-220
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "down",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-230
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "up",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-214
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "right",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-229
+			],
+			"anim": "singUP-alt",
+			"fps": 10,
+			"name": "laugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-210
+			],
+			"anim": "hey",
+			"fps": 10,
+			"name": "hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fah/fahmix/Week2/fah-spookykids",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "spookykids-fah",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		167,
+		66
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

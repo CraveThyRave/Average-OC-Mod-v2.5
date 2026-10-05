@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="trans.png">
+<SubTexture name="trans trans0000" x="454" y="0" width="437" height="474" frameX="-56" frameY="-19" frameWidth="541" frameHeight="521" />
+<SubTexture name="trans trans0001" x="0" y="489" width="439" height="473" frameX="-57" frameY="-17" frameWidth="541" frameHeight="521" />
+<SubTexture name="trans trans0002" x="0" y="0" width="454" height="489" frameX="-50" frameY="-18" frameWidth="541" frameHeight="521" />
+<SubTexture name="trans trans0003" x="891" y="0" width="465" height="474" frameX="-42" frameY="-19" frameWidth="541" frameHeight="521" />
+</TextureAtlas>

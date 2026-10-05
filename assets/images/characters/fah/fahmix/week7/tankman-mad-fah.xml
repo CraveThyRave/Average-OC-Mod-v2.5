@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tankman-mad-fah.png">
+<SubTexture name="idle0000" x="1031" y="0" width="320" height="451" frameX="-104" frameY="-50" frameWidth="535" frameHeight="556" />
+<SubTexture name="idle0001" x="0" y="991" width="336" height="448" frameX="-79" frameY="-57" frameWidth="535" frameHeight="556" />
+<SubTexture name="idle0002" x="309" y="533" width="343" height="457" frameX="-69" frameY="-54" frameWidth="535" frameHeight="556" />
+<SubTexture name="idle0003" x="704" y="0" width="327" height="476" frameX="-136" frameY="-35" frameWidth="535" frameHeight="556" />
+<SubTexture name="idle0004" x="676" y="991" width="291" height="414" frameX="-190" frameY="-100" frameWidth="535" frameHeight="556" />
+<SubTexture name="idle0005" x="652" y="533" width="278" height="455" frameX="-174" frameY="-58" frameWidth="535" frameHeight="556" />
+<SubTexture name="down0000" x="0" y="533" width="309" height="458" frameX="-140" frameY="-96" frameWidth="549" frameHeight="570" />
+<SubTexture name="down0001" x="967" y="991" width="318" height="381" frameX="-135" frameY="-171" frameWidth="549" frameHeight="570" />
+<SubTexture name="left0000" x="1351" y="0" width="331" height="451" frameX="-63" frameY="-101" frameWidth="549" frameHeight="570" />
+<SubTexture name="left0001" x="336" y="991" width="340" height="436" frameX="-42" frameY="-102" frameWidth="549" frameHeight="570" />
+<SubTexture name="right0000" x="1031" y="451" width="274" height="432" frameX="-196" frameY="-115" frameWidth="549" frameHeight="570" />
+<SubTexture name="right0001" x="1351" y="451" width="331" height="435" frameX="-193" frameY="-111" frameWidth="549" frameHeight="570" />
+<SubTexture name="up0000" x="390" y="0" width="314" height="478" frameX="-90" frameY="-68" frameWidth="549" frameHeight="570" />
+<SubTexture name="up0001" x="0" y="0" width="390" height="533" frameX="-53" frameY="-8" frameWidth="549" frameHeight="570" />
+<SubTexture name="heh idle0000" x="934" y="1878" width="279" height="432" frameX="-32" frameY="-33" frameWidth="337" frameHeight="469" />
+<SubTexture name="heh idle0001" x="1238" y="1439" width="274" height="430" frameX="-34" frameY="-31" frameWidth="337" frameHeight="469" />
+<SubTexture name="heh idle0002" x="305" y="1908" width="289" height="447" frameX="-29" frameY="-19" frameWidth="337" frameHeight="469" />
+<SubTexture name="heh idle0003" x="312" y="1439" width="315" height="467" frameX="0" frameY="0" frameWidth="337" frameHeight="469" />
+<SubTexture name="heh idle0004" x="0" y="1439" width="312" height="469" frameX="-2" frameY="0" frameWidth="337" frameHeight="469" />
+<SubTexture name="heh idle0005" x="627" y="1439" width="307" height="462" frameX="-6" frameY="-7" frameWidth="337" frameHeight="469" />
+<SubTexture name="heh idle0006" x="594" y="1908" width="310" height="443" frameX="-2" frameY="-21" frameWidth="337" frameHeight="469" />
+<SubTexture name="heh idle0007" x="0" y="1908" width="305" height="459" frameX="-4" frameY="-2" frameWidth="337" frameHeight="469" />
+<SubTexture name="heh idle0008" x="934" y="1439" width="304" height="439" frameX="-6" frameY="-21" frameWidth="337" frameHeight="469" />
+<SubTexture name="heh idle0009" x="0" y="2367" width="301" height="425" frameX="-30" frameY="-39" frameWidth="337" frameHeight="469" />
+</TextureAtlas>

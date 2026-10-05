@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="r-anim.png">
+<SubTexture name="r-anim cock0000" x="0" y="978" width="492" height="479" frameX="-26" frameY="-10" frameWidth="524" frameHeight="493" />
+<SubTexture name="r-anim cock0001" x="492" y="978" width="486" height="475" frameX="-34" frameY="-9" frameWidth="524" frameHeight="493" />
+<SubTexture name="r-anim cock0002" x="524" y="0" width="518" height="487" frameX="-1" frameY="-5" frameWidth="524" frameHeight="493" />
+<SubTexture name="r-anim idle0000" x="1042" y="0" width="520" height="482" frameX="0" frameY="-11" frameWidth="524" frameHeight="493" />
+<SubTexture name="r-anim idle0001" x="0" y="491" width="518" height="487" frameX="-1" frameY="-5" frameWidth="524" frameHeight="493" />
+<SubTexture name="r-anim idle0002" x="1042" y="482" width="520" height="482" frameX="0" frameY="-11" frameWidth="524" frameHeight="493" />
+<SubTexture name="r-anim explode0000" x="518" y="491" width="518" height="487" frameX="-1" frameY="-5" frameWidth="524" frameHeight="493" />
+<SubTexture name="r-anim explode0001" x="0" y="0" width="524" height="491" frameX="0" frameY="0" frameWidth="524" frameHeight="493" />
+<SubTexture name="r-anim explode0002" x="978" y="978" width="489" height="461" frameX="-18" frameY="-5" frameWidth="524" frameHeight="493" />
+</TextureAtlas>

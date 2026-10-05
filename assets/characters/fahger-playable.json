@@ -1,0 +1,288 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [110, 52],
+			"anim": "scared-idle",
+			"fps": 8,
+			"name": "scared-idle-normal idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				172,
+				112
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				160
+			],
+			"anim": "hey",
+			"fps": 14,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				139
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "up",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				118
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "down",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				132
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "d-miss",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				161
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "u-miss",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				103
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "left",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				103
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "right",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				125
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "l-miss",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				159,
+				99
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "r-miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				90
+			],
+			"anim": "shake-right",
+			"fps": 12,
+			"name": "headshake",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				90
+			],
+			"anim": "shake-left",
+			"fps": 12,
+			"name": "headshake",
+			"indices": [
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				310,
+				190
+			],
+			"anim": "idle2",
+			"fps": 8,
+			"name": "dance-idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				133,
+				89
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "brace",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "brace"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				90
+			],
+			"anim": "singDOWN-alt",
+			"fps": 18,
+			"name": "down-alt",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				120
+			],
+			"anim": "singUP-alt",
+			"fps": 18,
+			"name": "up-alt",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"offsets": [
+				190,
+				80
+			],
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"fps": 18,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "right-alt"
+		},
+		{
+			"offsets": [
+				100,
+				80
+			],
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"fps": 18,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "left-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fah/fahmix/fah/Spooky-fah",
+	"extra_images": ["characters/fah/fahmix/fah/scared-idle-normal"],
+	"position": [
+		220,
+		490
+	],
+	"healthicon": "fahger-playable",
+	"flip_x": false,
+	"healthbar_colors": [
+		193,
+		154,
+		72
+	],
+	"camera_position": [
+		120,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

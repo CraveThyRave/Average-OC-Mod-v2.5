@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="merrydad-fah.png">
+<SubTexture name="lose0000" x="608" y="0" width="310" height="277" frameX="-8" frameY="-18" frameWidth="319" frameHeight="294" />
+<SubTexture name="lose0001" x="918" y="0" width="309" height="268" frameX="-8" frameY="-23" frameWidth="319" frameHeight="294" />
+<SubTexture name="lose0002" x="301" y="560" width="312" height="269" frameX="-6" frameY="-20" frameWidth="319" frameHeight="294" />
+<SubTexture name="idle0000" x="307" y="0" width="301" height="278" frameX="-17" frameY="-10" frameWidth="319" frameHeight="294" />
+<SubTexture name="idle0001" x="0" y="560" width="301" height="274" frameX="-18" frameY="-11" frameWidth="319" frameHeight="294" />
+<SubTexture name="idle0002" x="608" y="277" width="298" height="275" frameX="-21" frameY="-11" frameWidth="319" frameHeight="294" />
+<SubTexture name="win0000" x="0" y="282" width="301" height="278" frameX="-9" frameY="-11" frameWidth="319" frameHeight="294" />
+<SubTexture name="win0001" x="0" y="0" width="307" height="282" frameX="-9" frameY="-8" frameWidth="319" frameHeight="294" />
+<SubTexture name="win0002" x="301" y="282" width="301" height="278" frameX="-13" frameY="-13" frameWidth="319" frameHeight="294" />
+</TextureAtlas>

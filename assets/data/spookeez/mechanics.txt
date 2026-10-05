@@ -1,0 +1,3 @@
+[Week2A]
+headshakesToClear=6
+maximumHealthDrain=0.0047

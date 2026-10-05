@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cymbal.png">
+<SubTexture name="cymbal idle0000" x="499" y="655" width="506" height="568" frameX="0" frameY="0" frameWidth="506" frameHeight="568" />
+<SubTexture name="cymbal idle0001" x="0" y="655" width="499" height="575" frameX="-26" frameY="-81" frameWidth="668" frameHeight="669" />
+<SubTexture name="cymbal clap0000" x="0" y="0" width="559" height="655" frameX="0" frameY="0" frameWidth="668" frameHeight="669" />
+<SubTexture name="cymbal clap0001" x="1173" y="0" width="513" height="580" frameX="-79" frameY="-89" frameWidth="668" frameHeight="669" />
+<SubTexture name="cymbal clap0002" x="559" y="0" width="614" height="582" frameX="-54" frameY="-83" frameWidth="668" frameHeight="669" />
+</TextureAtlas>

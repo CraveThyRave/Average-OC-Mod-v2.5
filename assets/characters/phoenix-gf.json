@@ -1,0 +1,139 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "left2mid",
+			"indices": [],
+			"name": "phoenix-bopper left to middle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "right2mid",
+			"indices": [],
+			"name": "phoenix-bopper right to middle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle-middle",
+			"indices": [
+				0,
+				1
+			],
+			"name": "phoenix-bopper middle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "right2left",
+			"fps": 12,
+			"name": "phoenix-bopper right to left",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "left2right",
+			"fps": 12,
+			"name": "phoenix-bopper left to right",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-right",
+			"fps": 12,
+			"name": "phoenix-bopper idle right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-left",
+			"fps": 12,
+			"name": "phoenix-bopper idle left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"fps": 12,
+			"anim": "mid2left",
+			"loop": false,
+			"name": "phoenix-bopper left to middle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"fps": 12,
+			"anim": "mid2right",
+			"loop": false,
+			"name": "phoenix-bopper right to middle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phoenix/phoenix-bopper",
+	"position": [
+		-320,
+		-550
+	],
+	"healthicon": "ray",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		280,
+		0
+	],
+	"sing_duration": 3,
+	"scale": 0.7
+}

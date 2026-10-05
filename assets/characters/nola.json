@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				18
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "nola idle"
+		},
+		{
+			"offsets": [
+				1,
+				9
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "nola down"
+		},
+		{
+			"offsets": [
+				-3,
+				7
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "nola left"
+		},
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nola right"
+		},
+		{
+			"offsets": [
+				0,
+				8
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "nola up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skyline/nola",
+	"position": [
+		-30,
+		-280
+	],
+	"healthicon": "noler",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		66,
+		82
+	],
+	"camera_position": [
+		270,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

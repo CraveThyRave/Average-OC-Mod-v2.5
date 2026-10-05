@@ -1,0 +1,208 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				173,
+				112
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				180,
+				123
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [
+				0,
+				1
+			],
+			"name": "d-miss"
+		},
+		{
+			"offsets": [
+				181,
+				100
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [
+				0,
+				1
+			],
+			"name": "u-miss"
+		},
+		{
+			"offsets": [
+				204,
+				125
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "l-miss"
+		},
+		{
+			"offsets": [
+				209,
+				120
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "r-miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				109
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "up",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				206,
+				131
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "left",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				201,
+				123
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "right",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				108
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "down",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"offsets": [
+				240,
+				70
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 18,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "up-alt"
+		},
+		{
+			"offsets": [
+				190,
+				60
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 18,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "left-alt"
+		},
+		{
+			"offsets": [
+				120,
+				10
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 18,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "right-alt"
+		},
+		{
+			"offsets": [
+				187,
+				50
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 18,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "down-alt"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fah/fahmix/fah/msfah-playable",
+	"position": [
+		220,
+		490
+	],
+	"healthicon": "msfah-playable",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		144,
+		127
+	],
+	"camera_position": [
+		120,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

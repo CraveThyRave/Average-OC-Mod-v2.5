@@ -1,0 +1,209 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				4
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "aom-bf idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				4
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "aom-bf leftmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				6
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "aom-bf downmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				2
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "aom-bf upmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				6
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "aom-bf rightmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "aom-bf left",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "aom-bf down",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				4
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "aom-bf up",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "aom-bf right",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 12,
+			"name": "aom-bf leftt-alt",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 12,
+			"name": "aom-bf downn-alt",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				6
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 12,
+			"name": "aom-bf rightt-alt",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				0
+			],
+			"anim": "singUP-alt",
+			"fps": 12,
+			"name": "aom-bf upp-alt",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				6
+			],
+			"anim": "hey",
+			"fps": 12,
+			"name": "aom-bf hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aom-bf",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		81,
+		166,
+		233
+	],
+	"camera_position": [
+		210,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

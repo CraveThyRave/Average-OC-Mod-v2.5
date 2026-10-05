@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				3,
+				11
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-10,
+				-15
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [
+				1,
+				0
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				28,
+				10
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				0
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				180
+			],
+			"anim": "start-paint",
+			"fps": 13,
+			"name": "start-paint",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				160
+			],
+			"anim": "return-paint",
+			"fps": 12,
+			"name": "paint-return",
+			"indices": []
+		},
+		{
+			"offsets": [
+				220,
+				180
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "repeat-paint",
+			"loop": true,
+			"name": "repeat-paint"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fah/fahmix/weekend1/darnell",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "darnell-fah",
+	"flip_x": false,
+	"healthbar_colors": [
+		88,
+		37,
+		163
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

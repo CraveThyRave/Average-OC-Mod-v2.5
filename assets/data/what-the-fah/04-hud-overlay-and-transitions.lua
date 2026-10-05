@@ -1,0 +1,509 @@
+
+local baseTimeBarX = 0
+local inGameOver = false
+local baseTimeTxtY = 0
+
+local appliedTimeTxtStyle = false
+local WTF_REST_OFFSET_Y = 50
+local fakeMiddleScroll = false
+local lastMiddleScroll = nil
+local FAKE_MIDDLE_OFFSET_X = 350
+
+local function playerRestY(lane)
+    local downscroll = getPropertyFromClass('ClientPrefs', 'downScroll')
+    if downscroll then
+        return _G['defaultPlayerStrumY' .. lane] or (screenHeight - 150)
+    end
+    return 50 + WTF_REST_OFFSET_Y
+end
+
+local function alignTimeTxtToClock()
+    if not luaSpriteExists('fahclock') or getProperty('timeTxt') == nil then return end
+    setProperty('timeTxt.x', getProperty('fahclock.x') - 101 + (fakeMiddleScroll and 2 or 0))
+end
+
+
+function onDestroy()
+    debugPrint('SCRIPT DESTROYED')
+end
+
+
+
+function onSongStart()
+    inGameOver = false
+
+    local downscroll = getPropertyFromClass('ClientPrefs', 'downScroll')
+        baseTimeTxtY = 20 
+    appliedTimeTxtStyle = false
+
+    if luaSpriteExists('fahclock') and getProperty('timeTxt') ~= nil then
+        local middleScroll = getPropertyFromClass('ClientPrefs', 'middleScroll')
+        setVar('whatTheFahClockXManagedByLua', true)
+        if downscroll then
+            baseTimeBarX = screenWidth - getProperty('fahclock.width') - 2
+        elseif middleScroll then
+            baseTimeBarX = (screenWidth - getProperty('fahclock.width')) * 0.5
+        else
+            baseTimeBarX = 908
+        end
+        setProperty('fahclock.x', baseTimeBarX)
+        lastMiddleScroll = middleScroll
+        alignTimeTxtToClock()
+    end
+end
+
+function onCountdownStarted()
+    if getPropertyFromClass('MirrorMode', 'active') then
+        for lane = 0, 3 do setPropertyFromGroup('playerStrums', lane, 'y', playerRestY(lane)) end
+        runTimer('setHUDZoom', 0.05)
+        return
+    end
+    
+    if defaultPlayerStrumY0 == nil then return end
+
+    local downscroll = getPropertyFromClass('ClientPrefs', 'downScroll')
+    for lane = 0, 3 do
+        local startY = downscroll and (screenHeight + 20)
+            or (-getPropertyFromGroup('playerStrums', lane, 'height') - 20)
+        setPropertyFromGroup('playerStrums', lane, 'y', startY)
+    end
+
+    runTimer('setHUDZoom', 0.05)
+end
+
+function onCreatePost()
+    if luaSpriteExists('fahclock') then
+        baseTimeBarX = getProperty('fahclock.x')
+    else
+        baseTimeBarX = 0
+    end
+    runTimer('applyTimeStyle', 0.1)
+
+    runHaxeCode([[
+        if (game != null && game.timeTxt != null)
+            game.timeTxt.color = 0xFF000000;
+    ]])
+end
+
+function onCreate()
+
+  inGameOver = false
+	makeAnimatedLuaSprite('peepee', 'Freeplay-Chrs/fah/overlay/autistic-person1', 0, 200)
+	addAnimationByPrefix('peepee', 'idle', 'idle', 3, true)
+	addLuaSprite('peepee', false)
+  setObjectCamera('peepee', 'other')
+	scaleObject('peepee', 1, 1);
+
+
+  makeAnimatedLuaSprite('rayray', 'Freeplay-Chrs/fah/overlay/autistic-person2', 200, 200)
+  addAnimationByPrefix('rayray', 'idle', 'idle', 3, true)
+  addLuaSprite('rayray', false)
+  setObjectCamera('rayray', 'other')
+  scaleObject('rayray', 1, 1);
+
+  makeAnimatedLuaSprite('fahlace', 'Freeplay-Chrs/fah/overlay/fahlace', 800, -220)
+  addAnimationByPrefix('fahlace', 'idle', 'idle', 3, true)
+  addLuaSprite('fahlace', false)
+  setObjectCamera('fahlace', 'other')
+  scaleObject('fahlace', 1, 1);
+
+
+  makeAnimatedLuaSprite('fahlace2', 'Freeplay-Chrs/fah/overlay/fahlace', 800, -220)
+  addAnimationByPrefix('fahlace2', 'idle', 'idle', 3, true)
+  addLuaSprite('fahlace2', false)
+  setObjectCamera('fahlace2', 'other')
+  scaleObject('fahlace2', 1, 1);
+
+
+  makeAnimatedLuaSprite('dance', 'Freeplay-Chrs/fah/overlay/dance', -360, 100)
+	addAnimationByPrefix('dance', 'idle', 'idle',6, true)
+	addLuaSprite('dance', false)
+  setObjectCamera('dance', 'other')
+	scaleObject('dance', 1.5, 1.5);
+
+
+  makeAnimatedLuaSprite('hello', 'Freeplay-Chrs/fah/overlay/hello', -75, 370)
+  addAnimationByPrefix('hello', 'idle', 'idle', 7, true)
+  addLuaSprite('hello', false)
+  setObjectCamera('hello', 'other')
+  scaleObject('hello', 0.46, 0.46);
+
+
+
+
+
+  makeAnimatedLuaSprite('trampoline', 'Freeplay-Chrs/fah/overlay/trampoline', 650, 600)
+  addAnimationByPrefix('trampoline', 'idle', 'idle', 3, true)
+  addLuaSprite('trampoline', false)
+  setObjectCamera('trampoline', 'other')
+  scaleObject('trampoline', 0, 0);
+
+  makeAnimatedLuaSprite('jumpyfah', 'Freeplay-Chrs/fah/overlay/jumpyfah', 475, -500)
+  addAnimationByPrefix('jumpyfah', 'idle', 'idle', 3, true)
+  addLuaSprite('jumpyfah', false)
+  setObjectCamera('jumpyfah', 'other')
+  scaleObject('jumpyfah', 1, 1);
+
+  makeAnimatedLuaSprite('jumpybf', 'Freeplay-Chrs/fah/overlay/jumpybf', 475, -500)
+  addAnimationByPrefix('jumpybf', 'idle', 'idle', 3, true)
+  addLuaSprite('jumpybf', false)
+  setObjectCamera('jumpybf', 'other')
+  scaleObject('jumpybf', 1, 1);
+
+
+  makeLuaSprite('logo', 'Freeplay-Chrs/fah/logo', 320, -500);
+  setProperty('logo.flipX', getPropertyFromClass('MirrorMode', 'active'))
+	scaleObject('logo', 0.47, 0.47);
+	setObjectCamera('logo', 'other')
+	addLuaSprite('logo', false);
+  doTweenY('timeUp', 'timeTxt', -48, 0.3, 'quadOut')
+
+
+  makeLuaSprite('dablack', 'dablack', 0, 0)
+  setObjectCamera('dablack', 'other')
+  setProperty('dablack.alpha', 0)
+  addLuaSprite('dablack', true)
+
+  makeLuaSprite('dawhite', 'dawhite', 0, 0)
+  setObjectCamera('dawhite', 'other')
+  setProperty('dawhite.alpha', 0)
+  addLuaSprite('dawhite', true)
+
+
+
+end
+
+
+function onStepHit()
+    if curStep == 158 then
+        doTweenY('timeUp', 'timeTxt', 20, 0.3, 'quadOut')
+        doTweenY('clock', 'fahclock', -15, 0.3, 'quadOut')
+    end
+
+    if curStep == 2240 then
+        if getPropertyFromClass('ClientPrefs', 'middleScroll') then
+            runHaxeCode([[
+                FlxTween.cancelTweensOf(game.camHUD);
+                FlxTween.tween(game.camHUD, {y: -720}, 2.3, {
+                    ease: FlxEase.quadInOut
+                });
+            ]])
+        else
+            doTweenY('hudMoveUp', 'camHUD', -720, 2.3, 'quadInOut')
+        end
+    end
+
+    if curStep == 160 then
+        doTweenY('timeDown', 'timeTxt', baseTimeTxtY, 0.3, 'quadIn')
+    end
+
+    if curStep == 1284 and not getPropertyFromClass('MirrorMode', 'active') and not getPropertyFromClass('ClientPrefs', 'downScroll') then
+        baseTimeBarX = getProperty('fahclock.x')
+        fakeMiddleScroll = true
+        lastMiddleScroll = true
+        setVar('whatTheFahClockXManagedByLua', true)
+        doTweenX('clockMove', 'fahclock', baseTimeBarX - FAKE_MIDDLE_OFFSET_X, 0.4, 'quadOut')
+    end
+
+    if curStep == 1408 and not getPropertyFromClass('MirrorMode', 'active') and not getPropertyFromClass('ClientPrefs', 'downScroll') then
+        fakeMiddleScroll = false
+        local middleScroll = getPropertyFromClass('ClientPrefs', 'middleScroll')
+        lastMiddleScroll = middleScroll
+        setVar('whatTheFahClockXManagedByLua', true)
+
+        doTweenX('clockReturn', 'fahclock', baseTimeBarX, 0.4, 'quadInOut')
+    end
+
+    if curStep == 387 then
+      doTweenY('logo', 'logo', (screenHeight - getProperty('logo.height')) * 0.5, 1, 'Quartout')
+    end
+
+    if curStep == 400 then
+      doTweenX('logo2', 'logo.scale', 0, 0.9, 'quintIn')
+      doTweenY('logo24', 'logo.scale', 0, 0.9, 'quintIn')
+    end
+
+    if curStep == 181 then
+      doTweenX('trampy', 'trampoline.scale', 1, 0.5, 'quintIn')
+      doTweenY('trampy5', 'trampoline.scale', 1, 0.5, 'quintIn')
+      doTweenY('jumpyfah', 'jumpyfah', 200, 0.35, 'Quartin')
+    end
+
+    if curStep == 185 then
+      doTweenY('jumpyfah1', 'jumpyfah', -500, 0.5, 'Quartout')
+    end
+
+    if curStep == 187 then
+      doTweenX('trampy', 'trampoline.scale', 0, 0.4, 'quintIn')
+      doTweenY('trampy5', 'trampoline.scale', 0, 0.4, 'quintIn')
+    end
+
+
+
+    if curStep == 245 then
+      doTweenX('trampy', 'trampoline.scale', 1, 0.5, 'quintIn')
+      doTweenY('trampy5', 'trampoline.scale', 1, 0.5, 'quintIn')
+      doTweenY('jumpybf', 'jumpybf', 200, 0.35, 'Quartin')
+    end
+
+    if curStep == 249 then
+      doTweenY('jumpybf2', 'jumpybf', -500, 0.5, 'Quartout')
+    end
+
+    if curStep == 252 then
+      doTweenX('trampy', 'trampoline.scale', 0, 0.4, 'quintIn')
+      doTweenY('trampy5', 'trampoline.scale', 0, 0.4, 'quintIn')
+    end
+
+
+
+  if curStep == 2 then
+    doTweenAngle('peepee', 'peepee', 360, 1.2, 'Quartout')
+    doTweenAngle('rayray', 'rayray', -360, 1.2, 'Quartout')
+	end
+
+  if curStep == 12 then
+    cancelTween('fahlace')
+    cancelTween('fahlaceFirstScaleX')
+    cancelTween('fahlaceFirstScaleY')
+    setProperty('fahlace.visible', true)
+    setProperty('fahlace.alpha', 1)
+    setProperty('fahlace.x', 800)
+    setProperty('fahlace.y', -220)
+    setProperty('fahlace.scale.x', 1)
+    setProperty('fahlace.scale.y', 1)
+    doTweenY('fahlace', 'fahlace', 240, 0.8, 'Bounceout')
+  end
+
+  if curStep == 20 then
+    doTweenX('fahlaceFirstScaleX', 'fahlace.scale', 0, 0.4, 'quintIn')
+    doTweenY('fahlaceFirstScaleY', 'fahlace.scale', 0, 0.4, 'quintIn')
+
+    doTweenX('peepee', 'peepee.scale', 0, 0.4, 'quintIn')
+    doTweenY('peepee2', 'peepee.scale', 0, 0.4, 'quintIn')
+
+    doTweenX('rayray', 'rayray.scale', 0, 0.4, 'quintIn')
+    doTweenY('rayray2', 'rayray.scale', 0, 0.4, 'quintIn')
+  end
+
+  if curStep == 23 then
+    doTweenY('hello', 'hello', 40, 1.2, 'Elasticout')
+  end
+  if curStep == 31 then
+    doTweenY('hello5', 'hello', 400, 1.2, 'Elasticout')
+  end
+
+
+  if curStep == 30 then
+    doTweenX('peepee', 'peepee.scale', 1, 0.5, 'quintIn')
+    doTweenY('peepee2', 'peepee.scale', 1, 0.5, 'quintIn')
+
+    doTweenX('rayray', 'rayray.scale', 1, 0.5, 'quintIn')
+    doTweenY('rayray2', 'rayray.scale', 1, 0.5, 'quintIn')
+
+  end
+  if curStep == 40 then
+    doTweenY('fahlace', 'fahlace2', 240, 0.8, 'Bounceout')
+  end
+
+  if curStep == 54 then
+    doTweenX('fahlace', 'fahlace2.scale', 0, 0.4, 'quintIn')
+    doTweenY('fahlace2', 'fahlace2.scale', 0, 0.4, 'quintIn')
+
+    doTweenX('peepee', 'peepee.scale', 0, 0.4, 'quintIn')
+    doTweenY('peepee2', 'peepee.scale', 0, 0.4, 'quintIn')
+
+    doTweenX('rayray', 'rayray.scale', 0, 0.4, 'quintIn')
+    doTweenY('rayray2', 'rayray.scale', 0, 0.4, 'quintIn')
+  end
+
+  if curStep == 57 then
+    doTweenY('hello', 'hello', 40, 1.2, 'Elasticout')
+  end
+  if curStep == 65 then
+    doTweenY('hello5', 'hello', 400, 1.2, 'Elasticout')
+  end
+
+  if curStep == 63 then
+    doTweenX('dance', 'dance', 420, 1.2, 'quintOut')
+  end
+
+
+  if curStep == 87 then
+    doTweenY('hello', 'hello', 40, 1.2, 'Elasticout')
+  end
+  if curStep == 95 then
+    doTweenY('hello5', 'hello', 400, 1.2, 'Elasticout')
+  end
+
+
+  if curStep == 120 then
+    doTweenY('hello', 'hello', 40, 1.2, 'Elasticout')
+  end
+  if curStep == 128 then
+    doTweenY('hello5', 'hello', 400, 1.4, 'Elasticout')
+  end
+
+  if curStep == 122 then
+    doTweenY('dance', 'dance', -600, 0.7, 'quintIn')
+    doTweenZoom('hudZoomTween', 'camHUD', 1, 0.2, 'quadInOut')
+  end
+
+  if not getPropertyFromClass('MirrorMode', 'active') and curStep == 153 then
+    noteTweenY('bf1', 4, playerRestY(0), 0.1, lowQuality and 'quadOut' or 'Bounceout');
+  end
+
+  if not getPropertyFromClass('MirrorMode', 'active') and curStep == 155 then
+    noteTweenY('bf2', 5, playerRestY(1), 0.1, lowQuality and 'quadOut' or 'Bounceout');
+  end
+
+  if not getPropertyFromClass('MirrorMode', 'active') and curStep == 157 then
+    noteTweenY('bf3', 6, playerRestY(2), 0.1, lowQuality and 'quadOut' or 'Bounceout');
+  end
+
+  if not getPropertyFromClass('MirrorMode', 'active') and curStep == 158 then
+    noteTweenY('bf4', 7, playerRestY(3), 0.1, lowQuality and 'quadOut' or 'Bounceout');
+  end
+
+
+
+  if curStep == 2352 then
+      cancelTween('whiteIn')
+      cancelTween('whiteOut')
+
+      doTweenAlpha('dawhite', 'dawhite', 1, 1.5, 'quadInOut')
+  end
+
+
+end
+
+
+
+
+function onTweenCompleted(tag)
+    if inGameOver then
+        return
+    end
+
+    if tag == 'dawhite' then
+        runTimer('dawhite', 0.12)
+    end
+end
+
+
+local lastTimeText = ''
+local hudPollElapsed = 0
+
+function onUpdatePost(elapsed)
+    if not inGameOver then alignTimeTxtToClock() end
+    if getPropertyFromClass('ClientPrefs', 'downScroll') then return end
+    hudPollElapsed = hudPollElapsed + elapsed
+    if hudPollElapsed < 0.1 then return end
+    hudPollElapsed = 0
+    fakeMiddleScroll = not getPropertyFromClass('MirrorMode', 'active') and curStep >= 1284 and curStep < 1408
+    if inGameOver then
+        return
+    end
+
+    if not luaSpriteExists('fahclock') then
+        return
+    end
+
+    if getProperty('timeTxt') == nil then
+        return
+    end
+
+    local middleScroll = getPropertyFromClass('ClientPrefs', 'middleScroll') or fakeMiddleScroll
+
+    
+    
+    
+
+    
+    
+    
+
+    if middleScroll ~= lastMiddleScroll then
+        lastMiddleScroll = middleScroll
+
+        if fakeMiddleScroll and not getPropertyFromClass('ClientPrefs', 'middleScroll') then
+            setProperty('fahclock.x', baseTimeBarX - FAKE_MIDDLE_OFFSET_X)
+        else
+            setProperty('fahclock.x', baseTimeBarX)
+        end
+        alignTimeTxtToClock()
+    end
+end
+
+
+function onTimerCompleted(tag)
+    if tag == 'dawhite' then
+        if not inGameOver then
+            if luaSpriteExists('dawhite') then
+                doTweenAlpha('dawhite', 'dawhite', 0, 0.3, 'quadInOut')
+            end
+
+            if luaSpriteExists('dablack') then
+                setProperty('dablack.alpha', 1)
+            end
+        end
+    end
+
+    if tag == 'applyTimeStyle' then
+        if not inGameOver then
+            applyTimeTxtStyle()
+        end
+    end
+
+    if tag == 'setHUDZoom' then
+        if not inGameOver then
+            setProperty('camHUD.zoom', getPropertyFromClass('MirrorMode', 'active') and 2.5 or 2)
+        end
+    end
+end
+function onGameOverStart()
+    inGameOver = true
+
+    setProperty('peepee.visible', false)
+    setProperty('rayray.visible', false)
+    setProperty('fahlace.visible', false)
+    setProperty('fahlace2.visible', false)
+    setProperty('dance.visible', false)
+    setProperty('hello.visible', false)
+    setProperty('trampoline.visible', false)
+    setProperty('jumpyfah.visible', false)
+    setProperty('jumpybf.visible', false)
+    setProperty('logo.visible', false)
+    setProperty('dablack.visible', false)
+    setProperty('dawhite.visible', false)
+
+    cancelTimer('dawhite')
+    cancelTimer('applyTimeStyle')
+
+    cancelTween('dawhite')
+    cancelTween('whiteIn')
+    cancelTween('whiteOut')
+    cancelTween('clock')
+    cancelTween('timeUp')
+    cancelTween('timeDown')
+    cancelTween('hudMoveUp')
+    cancelTimer('setHUDZoom')
+    cancelTween('hudZoomTween')
+end
+
+
+local timeFontLoaded = false
+
+function applyTimeTxtStyle()
+    if inGameOver then
+        return
+    end
+
+    if getProperty('timeTxt') == nil then
+        return
+    end
+
+    setTextFont('timeTxt', 'fah.ttf')
+    setProperty('timeTxt.borderSize', 0)
+    setTextSize('timeTxt', 30)
+end

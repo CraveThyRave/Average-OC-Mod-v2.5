@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fah-drop-confirms.png">
+<SubTexture name="drop left confirm0000" x="1065" y="156" width="170" height="139" frameX="-15" frameY="-30" frameWidth="200" frameHeight="200" />
+<SubTexture name="drop left confirm0001" x="1239" y="152" width="177" height="137" frameX="-11" frameY="-31" frameWidth="200" frameHeight="200" />
+<SubTexture name="drop down confirm0000" x="1078" y="310" width="133" height="181" frameX="-34" frameY="-10" frameWidth="200" frameHeight="200" />
+<SubTexture name="drop down confirm0001" x="1248" y="313" width="141" height="181" frameX="-30" frameY="-10" frameWidth="200" frameHeight="200" />
+<SubTexture name="drop up confirm0000" x="1077" y="506" width="138" height="167" frameX="-31" frameY="-17" frameWidth="200" frameHeight="200" />
+<SubTexture name="drop up confirm0001" x="1258" y="513" width="135" height="167" frameX="-33" frameY="-17" frameWidth="200" frameHeight="200" />
+<SubTexture name="drop right confirm0000" x="1059" y="715" width="180" height="135" frameX="-10" frameY="-33" frameWidth="200" frameHeight="200" />
+<SubTexture name="drop right confirm0001" x="1245" y="707" width="179" height="139" frameX="-11" frameY="-31" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

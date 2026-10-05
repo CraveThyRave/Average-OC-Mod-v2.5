@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-140
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ravenanim2 down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "raspberry",
+			"fps": 8,
+			"name": "ravenanim2 raspberry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-139
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "ravenanim2 right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				-43
+			],
+			"anim": "pipebomb",
+			"fps": 12,
+			"name": "ravenanim2 pipebomb",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/raven/ravenanim2",
+	"position": [
+		-270,
+		-230
+	],
+	"healthicon": "ar",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		72,
+		148
+	],
+	"camera_position": [
+		280,
+		0
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

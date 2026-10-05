@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shortie.png">
+<SubTexture name="idle0000" x="274" y="0" width="262" height="541" frameX="-309" frameY="-169" frameWidth="669" frameHeight="758" />
+<SubTexture name="idle0001" x="794" y="0" width="269" height="503" frameX="-315" frameY="-205" frameWidth="669" frameHeight="758" />
+<SubTexture name="idle0002" x="0" y="0" width="274" height="585" frameX="-324" frameY="-148" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0000" x="536" y="0" width="258" height="525" frameX="-323" frameY="-185" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0001" x="1063" y="0" width="302" height="486" frameX="-319" frameY="-223" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0002" x="0" y="585" width="299" height="482" frameX="-343" frameY="-225" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0003" x="299" y="585" width="296" height="474" frameX="-339" frameY="-232" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0004" x="0" y="585" width="299" height="482" frameX="-343" frameY="-225" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0005" x="299" y="585" width="296" height="474" frameX="-339" frameY="-232" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0006" x="0" y="585" width="299" height="482" frameX="-343" frameY="-225" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0007" x="0" y="585" width="299" height="482" frameX="-343" frameY="-225" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0008" x="0" y="585" width="299" height="482" frameX="-343" frameY="-225" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0009" x="299" y="585" width="296" height="474" frameX="-339" frameY="-232" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0010" x="0" y="585" width="299" height="482" frameX="-343" frameY="-225" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0011" x="299" y="585" width="296" height="474" frameX="-339" frameY="-232" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0012" x="0" y="585" width="299" height="482" frameX="-343" frameY="-225" frameWidth="669" frameHeight="758" />
+<SubTexture name="clap0013" x="1063" y="0" width="302" height="486" frameX="-319" frameY="-223" frameWidth="669" frameHeight="758" />
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tankman-crowd.png">
+<SubTexture name="tankman-crowd idle0000" x="0" y="0" width="3533" height="1019" frameX="0" frameY="0" frameWidth="3533" frameHeight="1019" />
+<SubTexture name="tankman-crowd idle0001" x="0" y="1019" width="3530" height="755" frameX="0" frameY="-264" frameWidth="3533" frameHeight="1019" />
+<SubTexture name="tankman-crowd idle0002" x="0" y="1774" width="3527" height="738" frameX="0" frameY="-281" frameWidth="3533" frameHeight="1019" />
+</TextureAtlas>

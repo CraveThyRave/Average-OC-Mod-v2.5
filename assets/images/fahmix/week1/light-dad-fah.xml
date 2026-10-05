@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="light-dad-fah.png">
+<SubTexture name="light-dad-fah idle0000" x="0" y="0" width="658" height="847" frameX="-38" frameY="-14" frameWidth="708" frameHeight="864" />
+<SubTexture name="light-dad-fah idle0001" x="1301" y="0" width="648" height="841" frameX="-40" frameY="-22" frameWidth="708" frameHeight="864" />
+<SubTexture name="light-dad-fah idle0002" x="658" y="0" width="643" height="846" frameX="-47" frameY="-24" frameWidth="708" frameHeight="864" />
+</TextureAtlas>

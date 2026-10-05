@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				18
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "moth idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				9
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "moth down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "moth left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "moth right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				8
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "moth up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skyline/moth",
+	"position": [
+		-30,
+		-280
+	],
+	"healthicon": "moth",
+	"flip_x": false,
+	"healthbar_colors": [
+		18,
+		87,
+		66
+	],
+	"camera_position": [
+		180,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

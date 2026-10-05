@@ -1,0 +1,22 @@
+-- VALUE 1:
+-- dad
+-- bf
+-- middle
+-- default
+--
+-- OPTIONAL OFFSET:
+-- dad,30
+-- dad,-50
+-- bf,100
+--
+-- Dad:
+-- positive = LEFT
+-- negative = RIGHT
+--
+-- BF:
+-- positive = LEFT
+-- negative = RIGHT
+--
+-- VALUE 2:
+-- number = sets camera_speed
+-- snap   = temporarily uses 1000 speed then restores speed

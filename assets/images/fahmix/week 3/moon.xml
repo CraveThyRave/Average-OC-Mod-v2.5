@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="moon.png">
+<SubTexture name="idle0000" x="0" y="298" width="310" height="246" frameX="-1368" frameY="-51" frameWidth="2472" frameHeight="1494" />
+<SubTexture name="idle0001" x="342" y="0" width="337" height="271" frameX="-1343" frameY="-26" frameWidth="2472" frameHeight="1494" />
+<SubTexture name="idle0002" x="0" y="0" width="342" height="298" frameX="-1336" frameY="-1" frameWidth="2472" frameHeight="1494" />
+</TextureAtlas>

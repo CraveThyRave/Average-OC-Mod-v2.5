@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="senpai-bar-inline.png">
+<SubTexture name="idle0000" x="719" y="0" width="720" height="130" frameX="-23" frameY="-18" frameWidth="769" frameHeight="163" />
+<SubTexture name="idle0001" x="0" y="0" width="719" height="134" frameX="-24" frameY="-16" frameWidth="769" frameHeight="163" />
+</TextureAtlas>

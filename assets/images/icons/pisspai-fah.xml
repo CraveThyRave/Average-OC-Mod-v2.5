@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pisspai-fah.png">
+<SubTexture name="lose0000" x="0" y="0" width="184" height="147" frameX="-5" frameY="-4" frameWidth="182" frameHeight="142" />
+<SubTexture name="lose0001" x="184" y="0" width="183" height="143" frameX="-5" frameY="-8" frameWidth="182" frameHeight="142" />
+<SubTexture name="lose0002" x="0" y="147" width="187" height="141" frameX="-6" frameY="-8" frameWidth="182" frameHeight="142" />
+<SubTexture name="idle0000" x="367" y="0" width="183" height="140" frameX="-6" frameY="-7" frameWidth="182" frameHeight="142" />
+<SubTexture name="idle0001" x="0" y="288" width="182" height="139" frameX="-8" frameY="-8" frameWidth="182" frameHeight="142" />
+<SubTexture name="idle0002" x="182" y="288" width="181" height="139" frameX="-9" frameY="-7" frameWidth="182" frameHeight="142" />
+<SubTexture name="win0000" x="367" y="140" width="183" height="140" frameX="-7" frameY="-4" frameWidth="182" frameHeight="142" />
+<SubTexture name="win0001" x="363" y="288" width="184" height="139" frameX="-6" frameY="-4" frameWidth="182" frameHeight="142" />
+<SubTexture name="win0002" x="550" y="0" width="181" height="138" frameX="-9" frameY="-4" frameWidth="182" frameHeight="142" />
+</TextureAtlas>

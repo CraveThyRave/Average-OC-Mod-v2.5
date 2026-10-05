@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MicNotes.png">
+<SubTexture name="purple0000" x="140" y="292" width="134" height="130" frameX="-30" frameY="-19" frameWidth="200" frameHeight="180" />
+<SubTexture name="purple0001" x="0" y="292" width="140" height="131" frameX="-25" frameY="-19" frameWidth="200" frameHeight="180" />
+<SubTexture name="red0000" x="0" y="0" width="169" height="148" frameX="0" frameY="-6" frameWidth="200" frameHeight="180" />
+<SubTexture name="red0001" x="169" y="0" width="151" height="146" frameX="-20" frameY="-9" frameWidth="200" frameHeight="180" />
+<SubTexture name="green0000" x="428" y="0" width="109" height="137" frameX="-43" frameY="-19" frameWidth="200" frameHeight="180" />
+<SubTexture name="green0001" x="113" y="148" width="106" height="139" frameX="-45" frameY="-17" frameWidth="200" frameHeight="180" />
+<SubTexture name="blue0000" x="0" y="148" width="113" height="144" frameX="-42" frameY="-19" frameWidth="200" frameHeight="180" />
+<SubTexture name="blue0001" x="320" y="0" width="108" height="139" frameX="-49" frameY="-21" frameWidth="200" frameHeight="180" />
+</TextureAtlas>

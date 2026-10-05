@@ -1,0 +1,11 @@
+IntroStep = 144
+OutroStep = 181
+IntroDuration = 0.5
+OutroDuration = 0.3
+Chibi = tankman
+Color = E5D13C
+Composer = GasGrass
+Visuals = Brytato
+Charted = Bwippity
+Chromatic = CraveThyRave
+Coded = CraveThyRave

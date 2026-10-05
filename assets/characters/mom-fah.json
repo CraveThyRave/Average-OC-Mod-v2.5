@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				-23
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-2,
+				-16
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				0
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				74,
+				-66
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [
+				1,
+				0
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-24,
+				-2
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-1,
+				-1
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [-98, -145],
+			"loop": false,
+			"fps": 12,
+			"anim": "dodge",
+			"indices": [],
+			"name": "dodge idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fah/fahmix/fah-mom",
+	"extra_images": ["characters/fah/fahmix/mom-dodge"],
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mom-fah",
+	"flip_x": false,
+	"healthbar_colors": [
+		206,
+		111,
+		193
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

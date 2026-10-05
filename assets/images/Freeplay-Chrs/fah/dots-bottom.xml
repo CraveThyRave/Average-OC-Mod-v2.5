@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dots-bottom.png">
+<SubTexture name="dots-bottom idle0000" x="0" y="0" width="1414" height="100" frameX="-64" frameY="-393" frameWidth="1500" frameHeight="713" />
+<SubTexture name="dots-bottom idle0001" x="1414" y="0" width="1415" height="94" frameX="-64" frameY="-397" frameWidth="1500" frameHeight="713" />
+<SubTexture name="dots-bottom idle0002" x="0" y="0" width="1414" height="100" frameX="-64" frameY="-393" frameWidth="1500" frameHeight="713" />
+<SubTexture name="dots-bottom idle0003" x="1414" y="0" width="1415" height="94" frameX="-64" frameY="-397" frameWidth="1500" frameHeight="713" />
+<SubTexture name="dots-bottom idle0004" x="0" y="0" width="1414" height="100" frameX="-64" frameY="-393" frameWidth="1500" frameHeight="713" />
+<SubTexture name="dots-bottom idle0005" x="1414" y="0" width="1415" height="94" frameX="-64" frameY="-397" frameWidth="1500" frameHeight="713" />
+<SubTexture name="dots-bottom idle0006" x="0" y="100" width="1414" height="100" frameX="-64" frameY="-393" frameWidth="1500" frameHeight="713" />
+<SubTexture name="dots-bottom idle0007" x="1414" y="94" width="1415" height="94" frameX="-64" frameY="-397" frameWidth="1500" frameHeight="713" />
+<SubTexture name="dots-bottom idle0008" x="0" y="100" width="1414" height="100" frameX="-64" frameY="-393" frameWidth="1500" frameHeight="713" />
+<SubTexture name="dots-bottom idle0009" x="1414" y="94" width="1415" height="94" frameX="-64" frameY="-397" frameWidth="1500" frameHeight="713" />
+<SubTexture name="dots-bottom idle0010" x="0" y="100" width="1414" height="100" frameX="-64" frameY="-393" frameWidth="1500" frameHeight="713" />
+<SubTexture name="dots-bottom idle0011" x="1414" y="94" width="1415" height="94" frameX="-64" frameY="-397" frameWidth="1500" frameHeight="713" />
+</TextureAtlas>

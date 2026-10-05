@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="raven-walk.png">
+<SubTexture name="raven walk hoist0000" x="1059" y="0" width="524" height="586" frameX="-1" frameY="-255" frameWidth="607" frameHeight="841" />
+<SubTexture name="raven walk hoist0001" x="509" y="0" width="550" height="592" frameX="-57" frameY="-220" frameWidth="607" frameHeight="841" />
+<SubTexture name="raven walk hoist0002" x="0" y="0" width="509" height="805" frameX="-56" frameY="0" frameWidth="607" frameHeight="841" />
+<SubTexture name="raven walk hoist0003" x="1049" y="805" width="502" height="565" frameX="0" frameY="-236" frameWidth="607" frameHeight="841" />
+<SubTexture name="raven walk hoist0004" x="0" y="805" width="463" height="580" frameX="-22" frameY="-223" frameWidth="607" frameHeight="841" />
+<SubTexture name="raven walk walk0000" x="1583" y="0" width="273" height="556" frameX="-30" frameY="-3" frameWidth="320" frameHeight="576" />
+<SubTexture name="raven walk walk0001" x="463" y="805" width="303" height="576" frameX="0" frameY="0" frameWidth="320" frameHeight="576" />
+<SubTexture name="raven walk walk0002" x="766" y="805" width="283" height="566" frameX="-37" frameY="-3" frameWidth="320" frameHeight="576" />
+<SubTexture name="raven walk walk0003" x="463" y="805" width="303" height="576" frameX="0" frameY="0" frameWidth="320" frameHeight="576" />
+</TextureAtlas>

@@ -1,0 +1,18 @@
+{
+  "animations": [
+    {"offsets":[173,119],"loop":false,"fps":16,"anim":"idle","indices":[],"name":"gabby idle"},
+    {"offsets":[159,115],"loop":false,"fps":18,"anim":"singLEFT","indices":[],"name":"gabby left"},
+    {"offsets":[249,130],"loop":false,"fps":18,"anim":"singRIGHT","indices":[],"name":"gabby right"},
+    {"offsets":[182,118],"loop":false,"fps":18,"anim":"singDOWN","indices":[],"name":"gabby down"},
+    {"offsets":[170,119],"loop":false,"fps":18,"anim":"singUP","indices":[],"name":"gabby up"}
+  ],
+  "no_antialiasing": false,
+  "image": "characters/legacy-shiftr/gabby",
+  "position": [0,-10],
+  "healthicon": "gabby-legacy",
+  "flip_x": false,
+  "healthbar_colors": [50,154,64],
+  "camera_position": [-220,-180],
+  "sing_duration": 4,
+  "scale": 1
+}

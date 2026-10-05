@@ -1,0 +1,11 @@
+IntroStep = 215
+OutroStep = 240
+IntroDuration = 0.5
+OutroDuration = 0.65
+Chibi = fah
+Composer = Tabby Kat
+Visuals = Brytato
+Charted = Bwippity
+Chromatics = StuffyAnt
+Misc samples = PolychromePan
+Coded = CraveThyRave

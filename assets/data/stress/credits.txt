@@ -1,0 +1,13 @@
+IntroStep = 32
+OutroStep = 70
+IntroDuration = 0.5
+OutroDuration = 0.3
+Chibi = tankman
+Color = E5D13C
+Composer = StuffyAnt
+Visuals = Brytato
+Charted = Bwippity
+Chromatic = CraveThyRave
+VoiceWork = Brytato
+Coded = CraveThyRave
+

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stage-dad-fah.png">
+<SubTexture name="stage-dad-fah idle0000" x="0" y="430" width="1920" height="405" frameX="-29" frameY="-75" frameWidth="1971" frameHeight="591" />
+<SubTexture name="stage-dad-fah idle0001" x="1913" y="0" width="1916" height="409" frameX="-33" frameY="-73" frameWidth="1971" frameHeight="591" />
+<SubTexture name="stage-dad-fah idle0002" x="0" y="0" width="1913" height="430" frameX="-30" frameY="-70" frameWidth="1971" frameHeight="591" />
+</TextureAtlas>

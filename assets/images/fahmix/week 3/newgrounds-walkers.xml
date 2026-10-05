@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="newgrounds-walkers.png">
+<SubTexture name="newgrounds-walkers alien0000" x="4872" y="1095" width="841" height="1055" frameX="-307" frameY="-243" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers alien0001" x="2253" y="2537" width="841" height="1126" frameX="-305" frameY="-172" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers alien0002" x="3094" y="2537" width="877" height="1121" frameX="-304" frameY="-177" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers ena0000" x="0" y="0" width="1332" height="1298" frameX="-30" frameY="0" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers ena0001" x="2331" y="0" width="1386" height="1239" frameX="0" frameY="-59" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers ena0002" x="1976" y="1298" width="1337" height="1230" frameX="-34" frameY="-68" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers castle0000" x="4872" y="3845" width="1047" height="837" frameX="-264" frameY="-461" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers castle0001" x="4872" y="3000" width="1057" height="845" frameX="-261" frameY="-453" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers castle0002" x="4872" y="2150" width="1062" height="850" frameX="-264" frameY="-448" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers charles0000" x="0" y="1298" width="984" height="1239" frameX="-130" frameY="-59" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers charles0001" x="984" y="1298" width="992" height="1235" frameX="-124" frameY="-63" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers charles0002" x="1332" y="0" width="999" height="1241" frameX="-118" frameY="-57" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers salad0000" x="2378" y="3714" width="1208" height="1096" frameX="-29" frameY="-202" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers salad0001" x="1121" y="3714" width="1257" height="1100" frameX="-3" frameY="-198" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers salad0002" x="3586" y="3714" width="1251" height="1096" frameX="-8" frameY="-202" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers hank0000" x="3717" y="0" width="1155" height="1199" frameX="-54" frameY="-99" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers hank0001" x="0" y="2537" width="1123" height="1177" frameX="-98" frameY="-121" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers hank0002" x="3717" y="1199" width="1125" height="1189" frameX="-85" frameY="-109" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers edd0000" x="4872" y="0" width="1134" height="1095" frameX="-141" frameY="-203" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers edd0001" x="1123" y="2537" width="1130" height="1137" frameX="-121" frameY="-161" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers edd0002" x="0" y="3714" width="1121" height="1108" frameX="-151" frameY="-190" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers meat0000" x="0" y="4822" width="1017" height="141" frameX="-328" frameY="-1157" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers meat0001" x="3717" y="2388" width="1011" height="143" frameX="-333" frameY="-1155" frameWidth="1383" frameHeight="1290" />
+<SubTexture name="newgrounds-walkers meat0002" x="4872" y="4682" width="1003" height="139" frameX="-336" frameY="-1159" frameWidth="1383" frameHeight="1290" />
+</TextureAtlas>

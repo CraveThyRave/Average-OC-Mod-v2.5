@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="people-chain.png">
+<SubTexture name="people-chain idle0000" x="0" y="0" width="4774" height="776" frameX="-5" frameY="0" frameWidth="4779" frameHeight="800" />
+<SubTexture name="people-chain idle0001" x="0" y="776" width="4771" height="770" frameX="-8" frameY="-1" frameWidth="4779" frameHeight="800" />
+</TextureAtlas>

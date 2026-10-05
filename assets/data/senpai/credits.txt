@@ -1,0 +1,10 @@
+IntroStep = 126
+OutroStep = 153
+IntroDuration = 0.5
+OutroDuration = 0.3
+Chibi = senpai
+Composer = Tabby Kat, Ft. Sunnfe
+Visuals = Brytato
+Charted = Bwippity
+Chromatic = StuffyAnt
+Coded = CraveThyRave

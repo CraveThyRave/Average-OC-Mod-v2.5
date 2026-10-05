@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fly.png">
+<SubTexture name="fly idle0000" x="247" y="0" width="131" height="89" frameX="-16" frameY="-12" frameWidth="163" frameHeight="124" />
+<SubTexture name="fly idle0001" x="141" y="209" width="134" height="74" frameX="-12" frameY="-13" frameWidth="163" frameHeight="124" />
+<SubTexture name="fly idle0002" x="0" y="209" width="141" height="79" frameX="-10" frameY="-14" frameWidth="163" frameHeight="124" />
+<SubTexture name="fly idle0003" x="0" y="114" width="125" height="95" frameX="-17" frameY="-10" frameWidth="163" frameHeight="124" />
+<SubTexture name="fly idle0004" x="130" y="0" width="117" height="97" frameX="-20" frameY="-13" frameWidth="163" frameHeight="124" />
+<SubTexture name="fly appear0000" x="308" y="158" width="37" height="32" frameX="-46" frameY="-46" frameWidth="130" frameHeight="121" />
+<SubTexture name="fly appear0001" x="247" y="158" width="61" height="45" frameX="-35" frameY="-36" frameWidth="130" frameHeight="121" />
+<SubTexture name="fly appear0002" x="247" y="89" width="120" height="69" frameX="-2" frameY="-22" frameWidth="130" frameHeight="121" />
+<SubTexture name="fly appear0003" x="0" y="0" width="130" height="114" frameX="0" frameY="-7" frameWidth="130" frameHeight="121" />
+<SubTexture name="fly disappear0000" x="0" y="0" width="130" height="114" frameX="0" frameY="-7" frameWidth="130" frameHeight="121" />
+<SubTexture name="fly disappear0001" x="247" y="89" width="120" height="69" frameX="-2" frameY="-22" frameWidth="130" frameHeight="121" />
+<SubTexture name="fly disappear0002" x="247" y="158" width="61" height="45" frameX="-35" frameY="-36" frameWidth="130" frameHeight="121" />
+<SubTexture name="fly disappear0003" x="308" y="158" width="37" height="32" frameX="-46" frameY="-46" frameWidth="130" frameHeight="121" />
+</TextureAtlas>

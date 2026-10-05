@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cocky.png">
+<SubTexture name="shrug cock0000" x="0" y="491" width="941" height="490" frameX="-26" frameY="-9" frameWidth="1003" frameHeight="503" />
+<SubTexture name="shrug cock0001" x="977" y="1468" width="958" height="475" frameX="-34" frameY="-19" frameWidth="1003" frameHeight="503" />
+<SubTexture name="shrug idle0000" x="1003" y="0" width="982" height="487" frameX="-1" frameY="-15" frameWidth="1003" frameHeight="503" />
+<SubTexture name="shrug idle0001" x="982" y="981" width="977" height="482" frameX="0" frameY="-21" frameWidth="1003" frameHeight="503" />
+<SubTexture name="shrug kill0000" x="1003" y="487" width="982" height="487" frameX="-1" frameY="-15" frameWidth="1003" frameHeight="503" />
+<SubTexture name="shrug kill0001" x="0" y="1468" width="977" height="482" frameX="0" frameY="-21" frameWidth="1003" frameHeight="503" />
+<SubTexture name="shrug kill0002" x="0" y="981" width="982" height="487" frameX="-1" frameY="-15" frameWidth="1003" frameHeight="503" />
+<SubTexture name="shrug kill0003" x="0" y="0" width="1003" height="491" frameX="0" frameY="-10" frameWidth="1003" frameHeight="503" />
+<SubTexture name="shrug kill0004" x="2247" y="0" width="937" height="461" frameX="-18" frameY="-15" frameWidth="1003" frameHeight="503" />
+<SubTexture name="shrug step0000" x="2247" y="461" width="247" height="453" frameX="-444" frameY="-15" frameWidth="1003" frameHeight="503" />
+<SubTexture name="shrug step0001" x="1985" y="0" width="262" height="475" frameX="-420" frameY="0" frameWidth="1003" frameHeight="503" />
+</TextureAtlas>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phoenix-mouth.png">
+<SubTexture name="phoenix-mouth ow-open0000" x="152" y="144" width="39" height="38" frameX="-16" frameY="-16" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth ow-open0001" x="0" y="144" width="37" height="41" frameX="-20" frameY="-13" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth ow-open0002" x="0" y="0" width="46" height="49" frameX="-15" frameY="-8" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth i-open0000" x="152" y="144" width="39" height="38" frameX="-16" frameY="-16" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth i-open0001" x="183" y="91" width="36" height="42" frameX="-19" frameY="-13" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth i-open0002" x="47" y="49" width="44" height="47" frameX="-15" frameY="-10" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth s-open0000" x="152" y="144" width="39" height="38" frameX="-27" frameY="-16" frameWidth="99" frameHeight="76" />
+<SubTexture name="phoenix-mouth s-open0001" x="37" y="144" width="36" height="40" frameX="-30" frameY="-14" frameWidth="99" frameHeight="76" />
+<SubTexture name="phoenix-mouth s-open0002" x="91" y="49" width="45" height="47" frameX="-25" frameY="-10" frameWidth="99" frameHeight="76" />
+<SubTexture name="phoenix-mouth re-close0000" x="92" y="0" width="47" height="48" frameX="-15" frameY="-9" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth re-close0001" x="116" y="144" width="36" height="39" frameX="-19" frameY="-15" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth re-close0002" x="152" y="144" width="39" height="38" frameX="-16" frameY="-16" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth pt-close0000" x="139" y="0" width="44" height="47" frameX="-15" frameY="-10" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth pt-close0001" x="191" y="144" width="35" height="38" frameX="-20" frameY="-15" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth pt-close0002" x="152" y="144" width="39" height="38" frameX="-16" frameY="-16" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth r-mouth0000" x="0" y="49" width="47" height="48" frameX="-15" frameY="-9" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth o-mouth0000" x="46" y="0" width="46" height="49" frameX="-15" frameY="-8" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth eeinkay-mouth0000" x="139" y="47" width="44" height="47" frameX="-15" frameY="-10" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth ou-mouth0000" x="0" y="97" width="44" height="47" frameX="-15" frameY="-10" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth aei-mouth0000" x="183" y="0" width="45" height="46" frameX="-16" frameY="-11" frameWidth="77" frameHeight="72" />
+<SubTexture name="phoenix-mouth ln-mouth0000" x="44" y="97" width="44" height="47" frameX="-28" frameY="-12" frameWidth="101" frameHeight="75" />
+<SubTexture name="phoenix-mouth th-mouth0000" x="88" y="97" width="44" height="47" frameX="-28" frameY="-12" frameWidth="101" frameHeight="75" />
+<SubTexture name="phoenix-mouth f-mouth0000" x="183" y="46" width="45" height="45" frameX="-28" frameY="-13" frameWidth="101" frameHeight="75" />
+<SubTexture name="phoenix-mouth cdk-mouth0000" x="132" y="97" width="45" height="47" frameX="-27" frameY="-12" frameWidth="101" frameHeight="75" />
+<SubTexture name="phoenix-mouth bp-mouth0000" x="73" y="144" width="43" height="40" frameX="-26" frameY="-19" frameWidth="101" frameHeight="75" />
+<SubTexture name="phoenix-mouth m-mouth0000" x="0" y="185" width="48" height="34" frameX="-23" frameY="-21" frameWidth="101" frameHeight="75" />
+<SubTexture name="phoenix-mouth idle0000" x="152" y="144" width="39" height="38" frameX="-29" frameY="-18" frameWidth="101" frameHeight="75" />
+</TextureAtlas>

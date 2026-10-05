@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mom-fah.png">
+<SubTexture name="lose0000" x="0" y="258" width="298" height="253" frameX="-35" frameY="-27" frameWidth="340" frameHeight="305" />
+<SubTexture name="lose0001" x="284" y="0" width="285" height="255" frameX="-36" frameY="-27" frameWidth="340" frameHeight="305" />
+<SubTexture name="lose0002" x="0" y="0" width="284" height="258" frameX="-34" frameY="-27" frameWidth="340" frameHeight="305" />
+<SubTexture name="idle0000" x="0" y="511" width="297" height="249" frameX="-33" frameY="-39" frameWidth="328" frameHeight="302" />
+<SubTexture name="idle0001" x="297" y="511" width="291" height="248" frameX="-33" frameY="-40" frameWidth="328" frameHeight="302" />
+<SubTexture name="idle0002" x="569" y="0" width="288" height="250" frameX="-33" frameY="-41" frameWidth="328" frameHeight="302" />
+<SubTexture name="win0000" x="857" y="0" width="299" height="244" frameX="-17" frameY="-34" frameWidth="340" frameHeight="305" />
+<SubTexture name="win0001" x="857" y="483" width="295" height="237" frameX="-20" frameY="-32" frameWidth="340" frameHeight="305" />
+<SubTexture name="win0002" x="857" y="244" width="297" height="239" frameX="-19" frameY="-30" frameWidth="340" frameHeight="305" />
+</TextureAtlas>

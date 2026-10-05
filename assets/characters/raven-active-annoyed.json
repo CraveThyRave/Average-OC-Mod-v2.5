@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				-19
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "raven-active-annoyed danceLeft"
+		},
+		{
+			"offsets": [
+				0,
+				-21
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "raven-active-annoyed left"
+		},
+		{
+			"offsets": [
+				-1,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "raven-active-annoyed down"
+		},
+		{
+			"offsets": [
+				-1,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "raven-active-annoyed up"
+		},
+		{
+			"offsets": [
+				9,
+				-27
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "raven-active-annoyed right"
+		},
+		{
+			"offsets": [
+				-3,
+				-19
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "raven-active-annoyed danceRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/raven/raven-active-annoyed",
+	"position": [
+		-210,
+		-120
+	],
+	"healthicon": "mr",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		72,
+		148
+	],
+	"camera_position": [
+		240,
+		30
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

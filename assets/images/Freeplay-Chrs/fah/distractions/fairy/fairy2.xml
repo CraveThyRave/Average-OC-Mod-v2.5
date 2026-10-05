@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fairy2.png">
+<SubTexture name="fairy2 idle0000" x="355" y="0" width="351" height="407" frameX="-53" frameY="-21" frameWidth="460" frameHeight="442" />
+<SubTexture name="fairy2 idle0001" x="0" y="0" width="355" height="410" frameX="-51" frameY="-18" frameWidth="460" frameHeight="442" />
+</TextureAtlas>

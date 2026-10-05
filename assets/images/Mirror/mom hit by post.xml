@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mom hit by post.png">
+<SubTexture name="mom hit by post idle0000" x="815" y="0" width="423" height="588" frameX="-41" frameY="-11" frameWidth="464" frameHeight="619" />
+<SubTexture name="mom hit by post idle0001" x="444" y="0" width="371" height="618" frameX="-68" frameY="-1" frameWidth="464" frameHeight="619" />
+<SubTexture name="mom hit by post idle0002" x="0" y="0" width="444" height="619" frameX="0" frameY="0" frameWidth="464" frameHeight="619" />
+</TextureAtlas>

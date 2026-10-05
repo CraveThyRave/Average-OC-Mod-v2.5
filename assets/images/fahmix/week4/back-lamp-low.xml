@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="back-lamp-low.png">
+<SubTexture name="idle0000" x="0" y="0" width="122" height="683" frameX="-63" frameY="-86" frameWidth="253" frameHeight="800" />
+<SubTexture name="idle0001" x="122" y="0" width="126" height="679" frameX="-63" frameY="-86" frameWidth="253" frameHeight="800" />
+<SubTexture name="idle0002" x="248" y="0" width="125" height="669" frameX="-62" frameY="-87" frameWidth="253" frameHeight="800" />
+</TextureAtlas>

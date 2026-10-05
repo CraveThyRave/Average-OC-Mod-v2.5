@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bopper-mask.png">
+<SubTexture name="phoenix-bopper idle left0000" x="4" y="4" width="784" height="1271" frameX="-96" frameY="-236" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper idle left0001" x="796" y="4" width="784" height="1275" frameX="-96" frameY="-232" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper idle left0002" x="1588" y="4" width="784" height="1276" frameX="-97" frameY="-231" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper idle left0003" x="2380" y="4" width="783" height="1276" frameX="-98" frameY="-231" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper idle right0000" x="3171" y="4" width="785" height="1270" frameX="-111" frameY="-237" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper idle right0001" x="4" y="1288" width="785" height="1272" frameX="-109" frameY="-235" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper idle right0002" x="797" y="1288" width="785" height="1273" frameX="-109" frameY="-234" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper idle right0003" x="1590" y="1288" width="784" height="1274" frameX="-109" frameY="-233" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper left to right0000" x="2382" y="1288" width="784" height="1273" frameX="-101" frameY="-234" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper left to right0001" x="3174" y="1288" width="785" height="1274" frameX="-108" frameY="-233" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper right to left0000" x="4" y="2570" width="784" height="1275" frameX="-106" frameY="-232" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper right to left0001" x="796" y="2570" width="785" height="1275" frameX="-99" frameY="-232" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper left to middle0000" x="1589" y="2570" width="783" height="1269" frameX="-95" frameY="-238" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper left to middle0001" x="2380" y="2570" width="786" height="1278" frameX="-108" frameY="-229" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper middle to left0000" x="2380" y="2570" width="786" height="1278" frameX="-108" frameY="-229" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper middle to left0001" x="1589" y="2570" width="783" height="1269" frameX="-95" frameY="-238" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper middle to right0000" x="3174" y="2570" width="785" height="1269" frameX="-106" frameY="-238" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper middle to right0001" x="4" y="3856" width="785" height="1278" frameX="-110" frameY="-229" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper right to middle0000" x="797" y="3856" width="785" height="1267" frameX="-107" frameY="-240" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper right to middle0001" x="1590" y="3856" width="786" height="1278" frameX="-108" frameY="-229" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper middle0000" x="2384" y="3856" width="786" height="1274" frameX="-108" frameY="-234" frameWidth="1000" frameHeight="1600" />
+<SubTexture name="phoenix-bopper middle0001" x="3178" y="3856" width="785" height="1274" frameX="-108" frameY="-233" frameWidth="1000" frameHeight="1600" />
+</TextureAtlas>

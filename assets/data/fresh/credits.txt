@@ -1,0 +1,10 @@
+IntroStep = 322
+OutroStep = 351
+IntroDuration = 0.5
+OutroDuration = 0.3
+Chibi = dad
+Composer = Tabby Kat
+Visuals = Brytato
+Charted = Bwippity
+Chromatic = StuffyAnt
+Coded = CraveThyRave

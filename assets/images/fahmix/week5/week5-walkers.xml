@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="week5-walkers.png">
+<SubTexture name="week5-walkers jasper0000" x="1674" y="4142" width="1673" height="1320" frameX="-155" frameY="-68" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers jasper0001" x="4704" y="5473" width="1713" height="1296" frameX="-128" frameY="-92" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers jasper0002" x="0" y="4142" width="1674" height="1331" frameX="-158" frameY="-57" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers sora0000" x="1637" y="2771" width="1616" height="1370" frameX="-11" frameY="-18" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers sora0001" x="4678" y="2731" width="1599" height="1354" frameX="-14" frameY="-34" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers sora0002" x="4678" y="1367" width="1633" height="1364" frameX="0" frameY="-24" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers jinx0000" x="5850" y="6774" width="1401" height="1154" frameX="-219" frameY="-234" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers jinx0001" x="7251" y="6774" width="1394" height="1143" frameX="-219" frameY="-245" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers jinx0002" x="0" y="8028" width="1388" height="1142" frameX="-223" frameY="-246" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers tennie-vivi0000" x="6996" y="2582" width="2408" height="1289" frameX="-174" frameY="-99" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers tennie-vivi0001" x="2299" y="5473" width="2405" height="1298" frameX="-172" frameY="-90" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers tennie-vivi0002" x="6996" y="0" width="2408" height="1292" frameX="-162" frameY="-96" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers jane0000" x="0" y="6774" width="1222" height="1254" frameX="-237" frameY="-134" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers jane0001" x="6996" y="5140" width="1230" height="1263" frameX="-227" frameY="-125" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers jane0002" x="6996" y="3871" width="1214" height="1269" frameX="-254" frameY="-119" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers hana0000" x="1222" y="6774" width="1536" height="1218" frameX="-101" frameY="-170" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers hana0001" x="4305" y="6774" width="1545" height="1201" frameX="-97" frameY="-187" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers hana0002" x="2758" y="6774" width="1547" height="1214" frameX="-101" frameY="-174" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers finch0000" x="3148" y="1388" width="1165" height="1321" frameX="-257" frameY="-67" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers finch0001" x="3253" y="2771" width="1105" height="1302" frameX="-296" frameY="-86" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers finch0002" x="5650" y="4142" width="1128" height="1293" frameX="-294" frameY="-95" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers airu0000" x="0" y="1388" width="1533" height="1383" frameX="-170" frameY="-5" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers airu0001" x="0" y="2771" width="1637" height="1371" frameX="-174" frameY="-17" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers airu0002" x="1533" y="1388" width="1615" height="1373" frameX="-169" frameY="-15" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers niko-jael0000" x="4678" y="0" width="2318" height="1367" frameX="-356" frameY="-21" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers niko-jael0001" x="0" y="0" width="2341" height="1388" frameX="-341" frameY="0" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers niko-jael0002" x="2341" y="0" width="2337" height="1384" frameX="-352" frameY="-4" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers ret-kit0000" x="3347" y="4142" width="2303" height="1303" frameX="-30" frameY="-85" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers ret-kit0001" x="0" y="5473" width="2299" height="1301" frameX="-35" frameY="-87" frameWidth="2689" frameHeight="1388" />
+<SubTexture name="week5-walkers ret-kit0002" x="6996" y="1292" width="2299" height="1290" frameX="-39" frameY="-98" frameWidth="2689" frameHeight="1388" />
+</TextureAtlas>

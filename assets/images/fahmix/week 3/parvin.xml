@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="parvin.png">
+<SubTexture name="parvin idle0000" x="0" y="0" width="989" height="1565" frameX="-80" frameY="-23" frameWidth="1087" frameHeight="1621" />
+<SubTexture name="parvin idle0001" x="989" y="0" width="991" height="1552" frameX="-78" frameY="-37" frameWidth="1087" frameHeight="1621" />
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flower-short.png">
+<SubTexture name="flower-short grow0000" x="593" y="0" width="152" height="53" frameX="-256" frameY="-362" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short grow0001" x="308" y="201" width="132" height="77" frameX="-263" frameY="-338" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short grow0002" x="308" y="201" width="132" height="77" frameX="-262" frameY="-337" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short grow0003" x="0" y="0" width="159" height="201" frameX="-250" frameY="-206" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short idle0008" x="0" y="201" width="159" height="179" frameX="-249" frameY="-229" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short idle0007" x="302" y="0" width="142" height="180" frameX="-236" frameY="-229" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short idle0005" x="444" y="172" width="142" height="165" frameX="-225" frameY="-243" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short idle0005" x="142" y="380" width="160" height="159" frameX="-207" frameY="-251" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short idle0004" x="159" y="201" width="149" height="172" frameX="-235" frameY="-234" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short idle0003" x="159" y="0" width="143" height="180" frameX="-283" frameY="-229" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short idle0002" x="0" y="380" width="142" height="165" frameX="-285" frameY="-243" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short idle0001" x="302" y="380" width="163" height="158" frameX="-297" frameY="-252" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short idle0000" x="444" y="0" width="149" height="172" frameX="-275" frameY="-234" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short shrink0000" x="308" y="201" width="132" height="77" frameX="-262" frameY="-337" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short shrink0001" x="308" y="201" width="132" height="77" frameX="-263" frameY="-338" frameWidth="640" frameHeight="640" />
+<SubTexture name="flower-short shrink0002" x="593" y="0" width="152" height="53" frameX="-256" frameY="-362" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

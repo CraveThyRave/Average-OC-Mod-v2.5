@@ -1,0 +1,10 @@
+IntroStep = 15
+OutroStep = 55
+IntroDuration = 0.5
+OutroDuration = 0.3
+Chibi = darnell
+Composer = StuffyAnt
+Visuals = Brytato
+Charted = Bwippity
+Chromatic = StuffyAnt
+Coded = CraveThyRave

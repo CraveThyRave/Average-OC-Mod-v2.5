@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="firework.png">
+<SubTexture name="firework idle0000" x="979" y="672" width="82" height="156" frameX="-1" frameY="0" frameWidth="91" frameHeight="177" />
+<SubTexture name="firework idle0001" x="888" y="672" width="91" height="174" frameX="0" frameY="-3" frameWidth="91" frameHeight="177" />
+<SubTexture name="firework explode0000" x="520" y="861" width="334" height="360" frameX="-384" frameY="-335" frameWidth="1107" frameHeight="960" />
+<SubTexture name="firework explode0001" x="0" y="861" width="520" height="454" frameX="-330" frameY="-265" frameWidth="1107" frameHeight="960" />
+<SubTexture name="firework explode0002" x="888" y="0" width="744" height="672" frameX="-185" frameY="-129" frameWidth="1107" frameHeight="960" />
+<SubTexture name="firework explode0003" x="0" y="0" width="888" height="861" frameX="-88" frameY="0" frameWidth="1107" frameHeight="960" />
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fah.png">
+<SubTexture name="idle0000" x="0" y="134" width="150" height="131" frameX="0" frameY="-4" frameWidth="150" frameHeight="150" />
+<SubTexture name="idle0001" x="150" y="0" width="150" height="133" frameX="0" frameY="-4" frameWidth="150" frameHeight="150" />
+<SubTexture name="idle0002" x="150" y="134" width="150" height="130" frameX="0" frameY="-5" frameWidth="150" frameHeight="150" />
+<SubTexture name="lose0000" x="0" y="265" width="149" height="129" frameX="-1" frameY="-9" frameWidth="150" frameHeight="150" />
+<SubTexture name="lose0001" x="300" y="0" width="148" height="130" frameX="-2" frameY="-9" frameWidth="150" frameHeight="150" />
+<SubTexture name="lose0002" x="0" y="0" width="150" height="134" frameX="0" frameY="-5" frameWidth="150" frameHeight="150" />
+<SubTexture name="win0000" x="149" y="265" width="144" height="129" frameX="-4" frameY="-8" frameWidth="150" frameHeight="150" />
+<SubTexture name="win0001" x="300" y="130" width="146" height="130" frameX="-3" frameY="-8" frameWidth="150" frameHeight="150" />
+<SubTexture name="win0002" x="293" y="265" width="149" height="129" frameX="-1" frameY="-9" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

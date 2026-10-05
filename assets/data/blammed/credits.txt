@@ -1,0 +1,10 @@
+IntroStep = 31
+OutroStep = 63
+IntroDuration = 0.5
+OutroDuration = 0.3
+Chibi = pico
+Composer = Tabby Kat
+Visuals = Brytato
+Charted = Bwippity
+Chromatic = Tabby Kat
+Coded = CraveThyRave

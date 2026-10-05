@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pico-fah.png">
+<SubTexture name="lose0000" x="0" y="687" width="243" height="209" frameX="-6" frameY="-42" frameWidth="249" frameHeight="293" />
+<SubTexture name="lose0001" x="474" y="227" width="236" height="221" frameX="-11" frameY="-35" frameWidth="249" frameHeight="293" />
+<SubTexture name="lose0002" x="711" y="0" width="236" height="214" frameX="-13" frameY="-34" frameWidth="249" frameHeight="293" />
+<SubTexture name="idle0000" x="0" y="232" width="242" height="228" frameX="-9" frameY="-29" frameWidth="249" frameHeight="293" />
+<SubTexture name="idle0001" x="235" y="0" width="239" height="229" frameX="-9" frameY="-30" frameWidth="249" frameHeight="293" />
+<SubTexture name="idle0002" x="474" y="0" width="237" height="227" frameX="-13" frameY="-30" frameWidth="249" frameHeight="293" />
+<SubTexture name="win0000" x="0" y="0" width="235" height="232" frameX="-10" frameY="-37" frameWidth="249" frameHeight="293" />
+<SubTexture name="win0001" x="0" y="460" width="238" height="227" frameX="-7" frameY="-38" frameWidth="249" frameHeight="293" />
+<SubTexture name="win0002" x="238" y="460" width="247" height="224" frameX="-2" frameY="-39" frameWidth="249" frameHeight="293" />
+</TextureAtlas>

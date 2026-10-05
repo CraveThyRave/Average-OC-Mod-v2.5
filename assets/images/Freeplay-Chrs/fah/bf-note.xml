@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-note.png">
+<SubTexture name="bf-note appear0000" x="171" y="0" width="162" height="132" frameX="-34" frameY="-77" frameWidth="247" frameHeight="229" />
+<SubTexture name="bf-note appear0001" x="0" y="0" width="171" height="138" frameX="-30" frameY="-72" frameWidth="247" frameHeight="229" />
+<SubTexture name="bf-note appear0002" x="333" y="98" width="94" height="74" frameX="-65" frameY="-87" frameWidth="247" frameHeight="229" />
+<SubTexture name="bf-note appear0003" x="333" y="0" width="104" height="98" frameX="-64" frameY="-64" frameWidth="247" frameHeight="229" />
+<SubTexture name="bf-note idle0000" x="0" y="138" width="129" height="117" frameX="-55" frameY="-46" frameWidth="247" frameHeight="229" />
+<SubTexture name="bf-note idle0001" x="129" y="138" width="132" height="117" frameX="-54" frameY="-47" frameWidth="247" frameHeight="229" />
+</TextureAtlas>

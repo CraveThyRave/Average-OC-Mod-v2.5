@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pico-fah.png">
+<SubTexture name="down0000" x="1343" y="0" width="279" height="340" frameX="-49" frameY="-93" frameWidth="413" frameHeight="459" />
+<SubTexture name="down0001" x="1343" y="340" width="270" height="305" frameX="-60" frameY="-118" frameWidth="413" frameHeight="459" />
+<SubTexture name="idle0000" x="292" y="385" width="296" height="360" frameX="-55" frameY="-77" frameWidth="413" frameHeight="459" />
+<SubTexture name="idle0001" x="368" y="747" width="315" height="354" frameX="-49" frameY="-80" frameWidth="413" frameHeight="459" />
+<SubTexture name="idle0002" x="0" y="1102" width="355" height="337" frameX="-17" frameY="-94" frameWidth="413" frameHeight="459" />
+<SubTexture name="idle0003" x="683" y="747" width="346" height="352" frameX="-32" frameY="-85" frameWidth="413" frameHeight="459" />
+<SubTexture name="left0000" x="1029" y="747" width="282" height="349" frameX="-35" frameY="-73" frameWidth="413" frameHeight="459" />
+<SubTexture name="left0001" x="649" y="1102" width="308" height="327" frameX="-12" frameY="-86" frameWidth="413" frameHeight="459" />
+<SubTexture name="right0000" x="355" y="1102" width="294" height="329" frameX="-22" frameY="-89" frameWidth="413" frameHeight="459" />
+<SubTexture name="right0001" x="957" y="1102" width="296" height="326" frameX="-16" frameY="-86" frameWidth="413" frameHeight="459" />
+<SubTexture name="shoot0000" x="1053" y="356" width="273" height="354" frameX="-50" frameY="-78" frameWidth="413" frameHeight="459" />
+<SubTexture name="shoot0001" x="0" y="747" width="368" height="355" frameX="-53" frameY="-77" frameWidth="413" frameHeight="459" />
+<SubTexture name="shoot0002" x="0" y="385" width="292" height="362" frameX="-53" frameY="-77" frameWidth="413" frameHeight="459" />
+<SubTexture name="shoot0003" x="534" y="0" width="254" height="368" frameX="-65" frameY="-71" frameWidth="413" frameHeight="459" />
+<SubTexture name="up0000" x="273" y="0" width="261" height="371" frameX="-79" frameY="-62" frameWidth="413" frameHeight="459" />
+<SubTexture name="up0001" x="0" y="0" width="273" height="385" frameX="-73" frameY="-42" frameWidth="413" frameHeight="459" />
+<SubTexture name="burp0000" x="292" y="385" width="296" height="360" frameX="-56" frameY="-35" frameWidth="379" frameHeight="385" />
+<SubTexture name="burp0001" x="1053" y="0" width="290" height="356" frameX="-51" frameY="-32" frameWidth="379" frameHeight="385" />
+<SubTexture name="burp0002" x="788" y="0" width="265" height="360" frameX="-56" frameY="-29" frameWidth="379" frameHeight="385" />
+<SubTexture name="burp0003" x="788" y="360" width="258" height="345" frameX="-58" frameY="-31" frameWidth="379" frameHeight="385" />
+</TextureAtlas>

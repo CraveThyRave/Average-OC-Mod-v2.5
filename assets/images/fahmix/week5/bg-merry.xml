@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bg-merry.png">
+<SubTexture name="monst0000" x="0" y="1240" width="2005" height="1232" frameX="-37" frameY="-37" frameWidth="2036" frameHeight="1287" />
+<SubTexture name="monst0001" x="0" y="3704" width="2003" height="1221" frameX="-39" frameY="-39" frameWidth="2036" frameHeight="1287" />
+<SubTexture name="monst0002" x="0" y="0" width="2001" height="1240" frameX="-41" frameY="-21" frameWidth="2036" frameHeight="1287" />
+<SubTexture name="idle0000" x="0" y="2472" width="2005" height="1232" frameX="-37" frameY="-37" frameWidth="2036" frameHeight="1287" />
+<SubTexture name="idle0001" x="3978" y="0" width="1987" height="1229" frameX="-39" frameY="-37" frameWidth="2036" frameHeight="1287" />
+<SubTexture name="idle0002" x="2001" y="0" width="1977" height="1235" frameX="-41" frameY="-42" frameWidth="2036" frameHeight="1287" />
+</TextureAtlas>

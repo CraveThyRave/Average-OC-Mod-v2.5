@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="clock.png">
+<SubTexture name="clock idle0000" x="0" y="0" width="300" height="185" frameX="-17" frameY="0" frameWidth="346" frameHeight="191" />
+<SubTexture name="clock idle0001" x="300" y="0" width="299" height="185" frameX="-18" frameY="0" frameWidth="346" frameHeight="191" />
+</TextureAtlas>

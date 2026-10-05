@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="morticco.png">
+<SubTexture name="morticco idle0000" x="0" y="0" width="726" height="1251" frameX="0" frameY="-92" frameWidth="767" frameHeight="1343" />
+<SubTexture name="morticco idle0001" x="726" y="0" width="724" height="1251" frameX="-2" frameY="-92" frameWidth="767" frameHeight="1343" />
+</TextureAtlas>

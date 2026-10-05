@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="raven-active-annoyed.png">
+<SubTexture name="raven-active-annoyed danceLeft0000" x="1837" y="1605" width="393" height="745" frameX="-228" frameY="-145" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed danceLeft0001" x="751" y="1605" width="385" height="754" frameX="-236" frameY="-136" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed danceLeft0002" x="1988" y="0" width="376" height="762" frameX="-245" frameY="-128" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed danceLeft0003" x="388" y="832" width="370" height="764" frameX="-251" frameY="-125" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed danceLeft0004" x="758" y="832" width="370" height="764" frameX="-252" frameY="-125" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed danceRight0000" x="1471" y="1605" width="366" height="746" frameX="-280" frameY="-144" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed danceRight0001" x="377" y="1605" width="374" height="756" frameX="-264" frameY="-134" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed danceRight0002" x="1988" y="762" width="372" height="762" frameX="-258" frameY="-128" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed danceRight0003" x="1616" y="0" width="372" height="763" frameX="-254" frameY="-126" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed danceRight0004" x="758" y="832" width="370" height="764" frameX="-252" frameY="-125" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed down0000" x="1780" y="2364" width="475" height="594" frameX="-231" frameY="-296" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed down0001" x="1313" y="2364" width="467" height="601" frameX="-233" frameY="-288" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed down0002" x="845" y="2364" width="468" height="607" frameX="-233" frameY="-282" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed down0003" x="411" y="2364" width="434" height="659" frameX="-234" frameY="-230" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed up0000" x="0" y="0" width="408" height="832" frameX="-165" frameY="-58" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed up0001" x="408" y="0" width="409" height="816" frameX="-163" frameY="-74" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed up0002" x="817" y="0" width="410" height="811" frameX="-161" frameY="-79" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed up0003" x="1227" y="0" width="389" height="800" frameX="-176" frameY="-91" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed left0000" x="0" y="832" width="388" height="773" frameX="-8" frameY="-117" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed left0001" x="1128" y="832" width="376" height="764" frameX="-32" frameY="-126" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed left0002" x="0" y="1605" width="377" height="759" frameX="-38" frameY="-131" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed left0003" x="1616" y="763" width="342" height="750" frameX="-180" frameY="-139" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed right0000" x="0" y="2364" width="411" height="714" frameX="-321" frameY="-173" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed right0001" x="2757" y="0" width="397" height="724" frameX="-318" frameY="-163" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed right0002" x="2364" y="0" width="393" height="725" frameX="-317" frameY="-162" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active-annoyed right0003" x="1136" y="1605" width="335" height="748" frameX="-314" frameY="-139" frameWidth="750" frameHeight="1000" />
+</TextureAtlas>

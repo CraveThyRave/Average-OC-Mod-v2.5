@@ -1,0 +1,219 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				173,
+				112
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				148
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "up",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				128
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "down",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				110
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "d-miss",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				140
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "u-miss",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				116
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "left",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				103
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "right",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				87
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "l-miss",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				89
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "r-miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				90
+			],
+			"anim": "singDOWN-alt",
+			"fps": 18,
+			"name": "down-alt",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				110
+			],
+			"anim": "singUP-alt",
+			"fps": 18,
+			"name": "up-alt",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				70
+			],
+			"anim": "singLEFT-alt",
+			"fps": 18,
+			"name": "left-alt",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				61
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 18,
+			"name": "right-alt",
+			"indices": [
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				93
+			],
+			"anim": "shrug",
+			"fps": 8,
+			"name": "shrug idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fah/fahmix/fah/tankfah-playable",
+	"position": [
+		220,
+		490
+	],
+	"healthicon": "fahtank-playable",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		254,
+		255
+	],
+	"camera_position": [
+		120,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

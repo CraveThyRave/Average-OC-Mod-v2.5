@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="merry-ray.png">
+<SubTexture name="idle0000" x="263" y="0" width="268" height="516" frameX="-57" frameY="-40" frameWidth="426" frameHeight="582" />
+<SubTexture name="idle0001" x="792" y="0" width="264" height="513" frameX="-63" frameY="-42" frameWidth="426" frameHeight="582" />
+<SubTexture name="idle0002" x="531" y="0" width="261" height="516" frameX="-63" frameY="-37" frameWidth="426" frameHeight="582" />
+<SubTexture name="idle0003" x="0" y="0" width="263" height="518" frameX="-63" frameY="-35" frameWidth="426" frameHeight="582" />
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="darnell-sword.png">
+<SubTexture name="darnell-sword idle0000" x="0" y="0" width="835" height="1017" frameX="-2" frameY="0" frameWidth="837" frameHeight="1017" />
+<SubTexture name="darnell-sword idle0001" x="835" y="0" width="833" height="1007" frameX="0" frameY="-2" frameWidth="837" frameHeight="1017" />
+</TextureAtlas>

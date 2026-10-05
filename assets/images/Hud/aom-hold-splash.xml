@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="aom-hold-splash.png">
+<SubTexture name="green splash0000" x="0" y="0" width="306" height="299" frameX="-62" frameY="-48" frameWidth="444" frameHeight="388" />
+<SubTexture name="green splash0001" x="306" y="0" width="312" height="299" frameX="-59" frameY="-54" frameWidth="444" frameHeight="388" />
+<SubTexture name="green splash0002" x="924" y="0" width="314" height="286" frameX="-65" frameY="-65" frameWidth="444" frameHeight="388" />
+<SubTexture name="green splash0003" x="314" y="897" width="305" height="241" frameX="-65" frameY="-91" frameWidth="444" frameHeight="388" />
+<SubTexture name="green idle0000" x="624" y="727" width="195" height="128" frameX="-68" frameY="-42" frameWidth="350" frameHeight="220" />
+<SubTexture name="green idle0001" x="1238" y="785" width="157" height="129" frameX="-74" frameY="-42" frameWidth="350" frameHeight="220" />
+<SubTexture name="green idle0002" x="585" y="1183" width="185" height="121" frameX="-64" frameY="-58" frameWidth="350" frameHeight="220" />
+<SubTexture name="green idle0003" x="1238" y="241" width="175" height="136" frameX="-66" frameY="-46" frameWidth="350" frameHeight="220" />
+<SubTexture name="purple splash0000" x="0" y="299" width="306" height="299" frameX="-62" frameY="-48" frameWidth="444" frameHeight="388" />
+<SubTexture name="purple splash0001" x="306" y="299" width="312" height="299" frameX="-59" frameY="-54" frameWidth="444" frameHeight="388" />
+<SubTexture name="purple splash0002" x="924" y="286" width="314" height="286" frameX="-65" frameY="-65" frameWidth="444" frameHeight="388" />
+<SubTexture name="purple splash0003" x="619" y="897" width="305" height="241" frameX="-65" frameY="-91" frameWidth="444" frameHeight="388" />
+<SubTexture name="purple idle0000" x="0" y="1183" width="195" height="128" frameX="-68" frameY="-42" frameWidth="350" frameHeight="220" />
+<SubTexture name="purple idle0001" x="1238" y="914" width="157" height="129" frameX="-74" frameY="-42" frameWidth="350" frameHeight="220" />
+<SubTexture name="purple idle0002" x="770" y="1183" width="185" height="121" frameX="-64" frameY="-58" frameWidth="350" frameHeight="220" />
+<SubTexture name="purple idle0003" x="1238" y="377" width="175" height="136" frameX="-66" frameY="-46" frameWidth="350" frameHeight="220" />
+<SubTexture name="red splash0000" x="618" y="0" width="306" height="299" frameX="-62" frameY="-48" frameWidth="444" frameHeight="388" />
+<SubTexture name="red splash0001" x="0" y="598" width="312" height="299" frameX="-59" frameY="-54" frameWidth="444" frameHeight="388" />
+<SubTexture name="red splash0002" x="924" y="572" width="314" height="286" frameX="-65" frameY="-65" frameWidth="444" frameHeight="388" />
+<SubTexture name="red splash0003" x="924" y="897" width="305" height="241" frameX="-65" frameY="-91" frameWidth="444" frameHeight="388" />
+<SubTexture name="red splash0004" x="195" y="1183" width="195" height="128" frameX="-68" frameY="-42" frameWidth="350" frameHeight="220" />
+<SubTexture name="red splash0005" x="1238" y="1043" width="157" height="129" frameX="-74" frameY="-42" frameWidth="350" frameHeight="220" />
+<SubTexture name="red splash0006" x="955" y="1183" width="185" height="121" frameX="-64" frameY="-58" frameWidth="350" frameHeight="220" />
+<SubTexture name="red splash0007" x="1238" y="513" width="175" height="136" frameX="-66" frameY="-46" frameWidth="350" frameHeight="220" />
+<SubTexture name="blue splash0000" x="618" y="299" width="306" height="299" frameX="-62" frameY="-48" frameWidth="444" frameHeight="388" />
+<SubTexture name="blue splash0001" x="312" y="598" width="312" height="299" frameX="-59" frameY="-54" frameWidth="444" frameHeight="388" />
+<SubTexture name="blue splash0002" x="0" y="897" width="314" height="286" frameX="-65" frameY="-65" frameWidth="444" frameHeight="388" />
+<SubTexture name="blue splash0003" x="1238" y="0" width="305" height="241" frameX="-65" frameY="-91" frameWidth="444" frameHeight="388" />
+<SubTexture name="blue idle0000" x="390" y="1183" width="195" height="128" frameX="-68" frameY="-42" frameWidth="350" frameHeight="220" />
+<SubTexture name="blue idle0001" x="624" y="598" width="157" height="129" frameX="-74" frameY="-42" frameWidth="350" frameHeight="220" />
+<SubTexture name="blue idle0002" x="1140" y="1183" width="185" height="121" frameX="-64" frameY="-58" frameWidth="350" frameHeight="220" />
+<SubTexture name="blue idle0003" x="1238" y="649" width="175" height="136" frameX="-66" frameY="-46" frameWidth="350" frameHeight="220" />
+</TextureAtlas>

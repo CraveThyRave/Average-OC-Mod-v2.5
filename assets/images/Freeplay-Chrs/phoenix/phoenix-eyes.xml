@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phoenix-eyes.png">
+<SubTexture name="phoenix-eyes blink0000" x="0" y="126" width="151" height="50" frameX="-35" frameY="-42" frameWidth="223" frameHeight="112" />
+<SubTexture name="phoenix-eyes blink0001" x="151" y="126" width="156" height="47" frameX="-31" frameY="-47" frameWidth="223" frameHeight="112" />
+<SubTexture name="phoenix-eyes blink0002" x="0" y="0" width="156" height="63" frameX="-32" frameY="-30" frameWidth="223" frameHeight="112" />
+<SubTexture name="phoenix-eyes idle0000" x="0" y="0" width="156" height="63" frameX="-32" frameY="-30" frameWidth="223" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition0000" x="0" y="63" width="156" height="63" frameX="-33" frameY="-34" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-in0000" x="0" y="63" width="156" height="63" frameX="-33" frameY="-34" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-in0001" x="0" y="63" width="156" height="63" frameX="-33" frameY="-34" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-in0002" x="156" y="62" width="156" height="54" frameX="-33" frameY="-41" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-in0003" x="156" y="0" width="157" height="62" frameX="-33" frameY="-35" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-in0004" x="156" y="0" width="157" height="62" frameX="-33" frameY="-35" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-in0005" x="156" y="0" width="157" height="62" frameX="-33" frameY="-35" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-in0006" x="156" y="0" width="157" height="62" frameX="-33" frameY="-35" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes0000" x="156" y="0" width="157" height="62" frameX="-33" frameY="-35" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-out0000" x="156" y="0" width="157" height="62" frameX="-33" frameY="-35" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-out0001" x="156" y="0" width="157" height="62" frameX="-33" frameY="-35" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-out0002" x="156" y="0" width="157" height="62" frameX="-33" frameY="-35" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-out0003" x="156" y="0" width="157" height="62" frameX="-33" frameY="-35" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-out0004" x="156" y="62" width="156" height="54" frameX="-33" frameY="-41" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-out0005" x="0" y="63" width="156" height="63" frameX="-33" frameY="-34" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-out0006" x="0" y="63" width="156" height="63" frameX="-33" frameY="-34" frameWidth="236" frameHeight="112" />
+<SubTexture name="phoenix-eyes angry-eyes-transition-out0007" x="0" y="63" width="156" height="63" frameX="-33" frameY="-34" frameWidth="236" frameHeight="112" />
+</TextureAtlas>

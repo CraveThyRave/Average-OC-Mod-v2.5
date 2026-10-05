@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="notehang.png">
+<SubTexture name="hang10000" x="117" y="0" width="117" height="224" frameX="-44" frameY="-17" frameWidth="193" frameHeight="250" />
+<SubTexture name="hang10001" x="0" y="0" width="117" height="226" frameX="-45" frameY="-16" frameWidth="193" frameHeight="250" />
+<SubTexture name="hang20000" x="0" y="226" width="148" height="192" frameX="-23" frameY="-11" frameWidth="177" frameHeight="209" />
+<SubTexture name="hang20001" x="148" y="226" width="148" height="190" frameX="-24" frameY="-12" frameWidth="177" frameHeight="209" />
+<SubTexture name="hang30000" x="382" y="0" width="149" height="203" frameX="-10" frameY="-12" frameWidth="177" frameHeight="209" />
+<SubTexture name="hang30001" x="234" y="0" width="148" height="204" frameX="-12" frameY="-12" frameWidth="177" frameHeight="209" />
+</TextureAtlas>

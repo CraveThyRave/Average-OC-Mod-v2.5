@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="raven-dialogue.png">
+<SubTexture name="talk0000" x="0" y="0" width="862" height="1321" frameX="-117" frameY="0" frameWidth="1025" frameHeight="1321" />
+<SubTexture name="talk0001" x="1788" y="0" width="856" height="1278" frameX="-119" frameY="-40" frameWidth="1025" frameHeight="1321" />
+<SubTexture name="not-talk0000" x="862" y="0" width="926" height="1286" frameX="-54" frameY="-34" frameWidth="1025" frameHeight="1321" />
+<SubTexture name="not-talk0001" x="0" y="1321" width="919" height="1273" frameX="-60" frameY="-44" frameWidth="1025" frameHeight="1321" />
+</TextureAtlas>

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				3
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "msfah-death firstDeath",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				2
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "msfah-death deathConfirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				12,
+				2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "msfah-death deathLoop"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fah/fahmix/fah/msfah-death",
+	"position": [
+		-1310,
+		-570
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

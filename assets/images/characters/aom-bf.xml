@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="aom-bf.png">
+<SubTexture name="aom-bf idle0000" x="0" y="2242" width="485" height="695" frameX="-205" frameY="-172" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf idle0001" x="2768" y="0" width="484" height="703" frameX="-207" frameY="-164" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf idle0002" x="1858" y="720" width="485" height="715" frameX="-209" frameY="-152" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf idle0003" x="1858" y="0" width="485" height="720" frameX="-210" frameY="-147" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf idle0004" x="987" y="785" width="484" height="722" frameX="-211" frameY="-145" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf hey0000" x="964" y="2242" width="480" height="684" frameX="-208" frameY="-183" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf hey0001" x="2768" y="1402" width="479" height="697" frameX="-213" frameY="-170" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf hey0002" x="485" y="2242" width="479" height="695" frameX="-212" frameY="-172" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf up0000" x="0" y="0" width="460" height="785" frameX="-229" frameY="-82" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf up0001" x="928" y="0" width="465" height="771" frameX="-216" frameY="-96" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf down0000" x="0" y="2937" width="427" height="641" frameX="-166" frameY="-226" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf down0001" x="2599" y="2242" width="426" height="662" frameX="-170" frameY="-205" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf left0000" x="426" y="1530" width="424" height="711" frameX="-140" frameY="-156" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf left0001" x="2343" y="0" width="425" height="705" frameX="-153" frameY="-162" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf right0000" x="2768" y="703" width="459" height="699" frameX="-283" frameY="-168" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf right0001" x="1313" y="1530" width="459" height="706" frameX="-271" frameY="-161" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf leftmiss0000" x="2343" y="705" width="425" height="705" frameX="-153" frameY="-162" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf leftmiss0001" x="0" y="1530" width="426" height="712" frameX="-143" frameY="-155" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf downmiss0000" x="3252" y="0" width="426" height="662" frameX="-170" frameY="-205" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf downmiss0001" x="3252" y="662" width="426" height="648" frameX="-166" frameY="-219" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf upmiss0000" x="1393" y="0" width="465" height="771" frameX="-216" frameY="-96" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf upmiss0001" x="460" y="0" width="468" height="778" frameX="-218" frameY="-89" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf rightmiss0000" x="1772" y="1530" width="459" height="706" frameX="-271" frameY="-161" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf rightmiss0001" x="850" y="1530" width="463" height="708" frameX="-273" frameY="-159" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf rightt-alt0000" x="2015" y="2242" width="584" height="666" frameX="-270" frameY="-203" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf rightt-alt0001" x="1444" y="2242" width="571" height="677" frameX="-266" frameY="-192" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf upp-alt0000" x="0" y="785" width="491" height="745" frameX="-205" frameY="-58" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf upp-alt0001" x="491" y="785" width="496" height="723" frameX="-205" frameY="-81" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf leftt-alt0000" x="427" y="2937" width="599" height="627" frameX="-76" frameY="-181" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf leftt-alt0001" x="1026" y="2937" width="594" height="619" frameX="-88" frameY="-189" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf downn-alt0000" x="2066" y="2937" width="452" height="537" frameX="-127" frameY="-318" frameWidth="900" frameHeight="900" />
+<SubTexture name="aom-bf downn-alt0001" x="1620" y="2937" width="446" height="555" frameX="-134" frameY="-299" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tankman-fah.png">
+<SubTexture name="lose0000" x="317" y="203" width="313" height="195" frameX="-33" frameY="-34" frameWidth="360" frameHeight="250" />
+<SubTexture name="lose0001" x="317" y="0" width="313" height="198" frameX="-32" frameY="-33" frameWidth="360" frameHeight="250" />
+<SubTexture name="lose0002" x="0" y="0" width="317" height="203" frameX="-29" frameY="-32" frameWidth="360" frameHeight="250" />
+<SubTexture name="idle0000" x="630" y="0" width="313" height="179" frameX="-32" frameY="-47" frameWidth="360" frameHeight="250" />
+<SubTexture name="idle0001" x="630" y="179" width="313" height="177" frameX="-34" frameY="-45" frameWidth="360" frameHeight="250" />
+<SubTexture name="idle0002" x="630" y="356" width="310" height="176" frameX="-34" frameY="-43" frameWidth="360" frameHeight="250" />
+<SubTexture name="win0000" x="0" y="400" width="313" height="195" frameX="-25" frameY="-25" frameWidth="360" frameHeight="250" />
+<SubTexture name="win0001" x="313" y="400" width="315" height="182" frameX="-24" frameY="-38" frameWidth="360" frameHeight="250" />
+<SubTexture name="win0002" x="0" y="203" width="317" height="197" frameX="-22" frameY="-24" frameWidth="360" frameHeight="250" />
+</TextureAtlas>

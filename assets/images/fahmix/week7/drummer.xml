@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="drummer.png">
+<SubTexture name="drummer idle0000" x="540" y="0" width="471" height="529" frameX="-151" frameY="-29" frameWidth="915" frameHeight="590" />
+<SubTexture name="drummer idle0001" x="1663" y="0" width="468" height="535" frameX="-151" frameY="-29" frameWidth="915" frameHeight="590" />
+<SubTexture name="drummer slam0000" x="0" y="0" width="540" height="581" frameX="-122" frameY="0" frameWidth="915" frameHeight="590" />
+<SubTexture name="drummer slam0001" x="0" y="581" width="915" height="397" frameX="0" frameY="-193" frameWidth="915" frameHeight="590" />
+<SubTexture name="drummer slam0002" x="1011" y="0" width="652" height="397" frameX="-125" frameY="-188" frameWidth="915" frameHeight="590" />
+</TextureAtlas>

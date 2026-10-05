@@ -1,0 +1,11 @@
+IntroStep = 1375
+OutroStep = 1393
+IntroDuration = 0.5
+OutroDuration = 0.65
+Chibi = phoenix
+Composer = Tabby Kat, Ft. StuffyAnt
+Visuals = Brytato
+Charted = Bwippity
+Chromatic = StuffyAnt
+Voicework = Tabby Kat
+Coded = CraveThyRave

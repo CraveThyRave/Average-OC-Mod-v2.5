@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="garfield-bopper.png">
+<SubTexture name="garfield-bopper idle0000" x="1095" y="0" width="365" height="546" frameX="-46" frameY="-144" frameWidth="500" frameHeight="800" />
+<SubTexture name="garfield-bopper idle0001" x="728" y="0" width="367" height="550" frameX="-46" frameY="-141" frameWidth="500" frameHeight="800" />
+<SubTexture name="garfield-bopper idle0002" x="0" y="0" width="364" height="551" frameX="-46" frameY="-139" frameWidth="500" frameHeight="800" />
+<SubTexture name="garfield-bopper idle0003" x="364" y="0" width="364" height="551" frameX="-46" frameY="-139" frameWidth="500" frameHeight="800" />
+</TextureAtlas>

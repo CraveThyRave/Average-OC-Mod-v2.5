@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phoenix-stress.png">
+<SubTexture name="flash0000" x="4" y="4" width="244" height="469" frameX="-97" frameY="-66" frameWidth="443" frameHeight="593" />
+<SubTexture name="flash0001" x="256" y="4" width="242" height="457" frameX="-99" frameY="-77" frameWidth="443" frameHeight="593" />
+<SubTexture name="flash0002" x="506" y="4" width="239" height="467" frameX="-103" frameY="-68" frameWidth="443" frameHeight="593" />
+<SubTexture name="flash0003" x="753" y="4" width="237" height="446" frameX="-103" frameY="-86" frameWidth="443" frameHeight="593" />
+<SubTexture name="idle0000" x="998" y="4" width="244" height="469" frameX="-97" frameY="-66" frameWidth="443" frameHeight="593" />
+<SubTexture name="idle0001" x="1250" y="4" width="242" height="457" frameX="-99" frameY="-77" frameWidth="443" frameHeight="593" />
+<SubTexture name="idle0002" x="1500" y="4" width="239" height="467" frameX="-103" frameY="-68" frameWidth="443" frameHeight="593" />
+<SubTexture name="idle0003" x="1747" y="4" width="237" height="446" frameX="-103" frameY="-86" frameWidth="443" frameHeight="593" />
+<SubTexture name="kill snap-left10000" x="4" y="481" width="354" height="429" frameX="16" frameY="-89" frameWidth="443" frameHeight="593" />
+<SubTexture name="kill snap-left10001" x="366" y="481" width="327" height="427" frameX="-57" frameY="-108" frameWidth="443" frameHeight="593" />
+<SubTexture name="kill snap-right10000" x="701" y="481" width="310" height="416" frameX="-138" frameY="-109" frameWidth="443" frameHeight="593" />
+<SubTexture name="kill snap-right10001" x="1019" y="481" width="253" height="407" frameX="-133" frameY="-117" frameWidth="443" frameHeight="593" />
+<SubTexture name="kill snap-right20000" x="1280" y="481" width="368" height="453" frameX="-91" frameY="-58" frameWidth="443" frameHeight="593" />
+<SubTexture name="kill snap-right20001" x="1656" y="481" width="305" height="440" frameX="-102" frameY="-72" frameWidth="443" frameHeight="593" />
+<SubTexture name="kill snap-left20000" x="4" y="942" width="276" height="466" frameX="-62" frameY="-52" frameWidth="443" frameHeight="593" />
+<SubTexture name="kill snap-left20001" x="288" y="942" width="255" height="427" frameX="-99" frameY="-100" frameWidth="443" frameHeight="593" />
+</TextureAtlas>

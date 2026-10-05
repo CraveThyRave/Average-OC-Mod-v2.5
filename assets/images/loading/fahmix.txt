@@ -1,0 +1,33 @@
+; loading-screen number = whether it is a FAH Mix loading screen
+; Accepted true values: true, yes, or 1. Everything else is treated as false.
+1 = false
+2 = false
+3 = false
+4 = false
+5 = false
+6 = false
+7 = true
+8 = true
+9 = true
+10 = true
+11 = true
+12 = false
+13 = true
+14 = true
+15 = false
+16 = false
+17 = true
+18 = true
+19 = false
+20 = false
+21 = false
+22 = false
+23 = false
+24 = true
+25 = true
+
+
+
+
+
+

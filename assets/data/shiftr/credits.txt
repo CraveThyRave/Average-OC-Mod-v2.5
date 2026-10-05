@@ -1,0 +1,10 @@
+IntroStep = 160
+OutroStep = 191
+IntroDuration = 0.5
+OutroDuration = 0.65
+Chibi = gabby
+Composer = Tabby Kat
+Visuals = Brytato
+Charted = Tabby Kat
+Chromatic = StuffyAnt
+Coded = CraveThyRave

@@ -1,0 +1,1 @@
+Spawns six unique Fah/Senpai Week 6 popup animations on camOther. No values are required.

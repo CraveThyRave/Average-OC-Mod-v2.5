@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="p-anim.png">
+<SubTexture name="p-anim cock0000" x="0" y="0" width="471" height="485" frameX="-76" frameY="-9" frameWidth="583" frameHeight="494" />
+<SubTexture name="p-anim cock0001" x="1219" y="0" width="495" height="458" frameX="-77" frameY="-26" frameWidth="583" frameHeight="494" />
+<SubTexture name="p-anim cock0002" x="733" y="0" width="486" height="466" frameX="-77" frameY="-17" frameWidth="583" frameHeight="494" />
+<SubTexture name="p-anim idle0000" x="503" y="951" width="480" height="447" frameX="-77" frameY="-35" frameWidth="583" frameHeight="494" />
+<SubTexture name="p-anim idle0001" x="0" y="485" width="486" height="466" frameX="-77" frameY="-17" frameWidth="583" frameHeight="494" />
+<SubTexture name="p-anim idle0002" x="983" y="951" width="480" height="447" frameX="-77" frameY="-35" frameWidth="583" frameHeight="494" />
+<SubTexture name="p-anim explode0000" x="486" y="485" width="486" height="466" frameX="-77" frameY="-17" frameWidth="583" frameHeight="494" />
+<SubTexture name="p-anim explode0001" x="0" y="951" width="503" height="450" frameX="-80" frameY="-19" frameWidth="583" frameHeight="494" />
+<SubTexture name="p-anim explode0002" x="1219" y="458" width="476" height="457" frameX="-59" frameY="-15" frameWidth="583" frameHeight="494" />
+<SubTexture name="p-anim step0000" x="972" y="485" width="247" height="453" frameX="-24" frameY="-15" frameWidth="583" frameHeight="494" />
+<SubTexture name="p-anim step0001" x="471" y="0" width="262" height="475" frameX="0" frameY="0" frameWidth="583" frameHeight="494" />
+</TextureAtlas>

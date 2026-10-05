@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dad-fah.png">
+<SubTexture name="dad-fah idle0000" x="600" y="0" width="335" height="681" frameX="-61" frameY="-96" frameWidth="460" frameHeight="814" />
+<SubTexture name="dad-fah idle0001" x="1550" y="639" width="305" height="638" frameX="-70" frameY="-138" frameWidth="460" frameHeight="814" />
+<SubTexture name="dad-fah idle0002" x="1235" y="712" width="293" height="609" frameX="-83" frameY="-170" frameWidth="460" frameHeight="814" />
+<SubTexture name="dad-fah idle0003" x="606" y="712" width="306" height="647" frameX="-73" frameY="-134" frameWidth="460" frameHeight="814" />
+<SubTexture name="dad-fah left0000" x="1901" y="631" width="296" height="629" frameX="-61" frameY="-158" frameWidth="460" frameHeight="814" />
+<SubTexture name="dad-fah left0001" x="1550" y="0" width="351" height="639" frameX="-32" frameY="-163" frameWidth="460" frameHeight="814" />
+<SubTexture name="dad-fah right0000" x="0" y="1365" width="319" height="629" frameX="-84" frameY="-150" frameWidth="460" frameHeight="814" />
+<SubTexture name="dad-fah right0001" x="1901" y="0" width="334" height="631" frameX="-106" frameY="-148" frameWidth="460" frameHeight="814" />
+<SubTexture name="dad-fah up0000" x="935" y="0" width="327" height="672" frameX="-21" frameY="-102" frameWidth="460" frameHeight="814" />
+<SubTexture name="dad-fah up0001" x="0" y="0" width="320" height="712" frameX="-23" frameY="-47" frameWidth="460" frameHeight="814" />
+<SubTexture name="dad-fah down0000" x="1275" y="1365" width="294" height="557" frameX="-49" frameY="-215" frameWidth="460" frameHeight="814" />
+<SubTexture name="dad-fah down0001" x="1569" y="1365" width="291" height="538" frameX="-72" frameY="-256" frameWidth="460" frameHeight="814" />
+<SubTexture name="dad-fah d-box0000" x="319" y="1365" width="336" height="613" frameX="-38" frameY="-84" frameWidth="379" frameHeight="726" />
+<SubTexture name="dad-fah d-box0001" x="942" y="1365" width="333" height="561" frameX="-41" frameY="-119" frameWidth="379" frameHeight="726" />
+<SubTexture name="dad-fah l-box0000" x="655" y="1365" width="287" height="607" frameX="-39" frameY="-89" frameWidth="379" frameHeight="726" />
+<SubTexture name="dad-fah l-box0001" x="912" y="712" width="323" height="645" frameX="-9" frameY="-91" frameWidth="379" frameHeight="726" />
+<SubTexture name="dad-fah r-box0000" x="1262" y="0" width="288" height="671" frameX="-59" frameY="-34" frameWidth="379" frameHeight="726" />
+<SubTexture name="dad-fah r-box0001" x="284" y="712" width="322" height="651" frameX="-44" frameY="-60" frameWidth="379" frameHeight="726" />
+<SubTexture name="dad-fah u-box0000" x="0" y="712" width="284" height="653" frameX="-42" frameY="-42" frameWidth="379" frameHeight="726" />
+<SubTexture name="dad-fah u-box0001" x="320" y="0" width="280" height="683" frameX="-46" frameY="0" frameWidth="379" frameHeight="726" />
+</TextureAtlas>

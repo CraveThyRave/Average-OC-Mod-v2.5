@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sweater.png">
+<SubTexture name="sweater idle0000" x="0" y="0" width="475" height="296" frameX="-68" frameY="-49" frameWidth="576" frameHeight="399" />
+<SubTexture name="sweater idle0001" x="475" y="0" width="471" height="293" frameX="-73" frameY="-52" frameWidth="576" frameHeight="399" />
+</TextureAtlas>

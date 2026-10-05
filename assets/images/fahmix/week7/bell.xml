@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bell.png">
+<SubTexture name="bell bang0000" x="0" y="1083" width="1595" height="981" frameX="0" frameY="-47" frameWidth="1700" frameHeight="1104" />
+<SubTexture name="bell bang0001" x="1425" y="0" width="1420" height="1060" frameX="-267" frameY="-44" frameWidth="1700" frameHeight="1104" />
+<SubTexture name="bell idle-entry0000" x="0" y="0" width="1425" height="1083" frameX="-275" frameY="0" frameWidth="1700" frameHeight="1104" />
+<SubTexture name="bell idle0000" x="0" y="1083" width="1595" height="981" frameX="0" frameY="-47" frameWidth="1700" frameHeight="1104" />
+</TextureAtlas>

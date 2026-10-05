@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-42
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "bleh-intro idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-101,
+				-42
+			],
+			"anim": "idle-hold",
+			"fps": 8,
+			"name": "bleh-intro idle",
+			"indices": [
+				14,
+				15
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fah/fahmix/week7/intros/bleh-intro",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tankman-fah",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

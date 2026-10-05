@@ -1,0 +1,10 @@
+IntroStep = 320
+OutroStep = 349
+IntroDuration = 0.5
+OutroDuration = 0.3
+Chibi = mom
+Composer = StuffyAnt
+Visuals = Brytato
+Charted = Bwippity
+Chromatic = StuffyAnt
+Coded = CraveThyRave

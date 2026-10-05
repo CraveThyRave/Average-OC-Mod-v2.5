@@ -1,0 +1,198 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				174,
+				99
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "fahven-playable mup"
+		},
+		{
+			"offsets": [
+				160,
+				100
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "fahven-playable mdown"
+		},
+		{
+			"offsets": [
+				200,
+				119
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "fahven-playable mright"
+		},
+		{
+			"offsets": [
+				167,
+				107
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "fahven-playable m-right"
+		},
+		{
+			"offsets": [
+				173,
+				112
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle",
+			"loop": true,
+			"name": "fahven-playable idle"
+		},
+		{
+			"offsets": [
+				190,
+				110
+			],
+			"indices": [
+				2,
+				0,
+				1
+			],
+			"fps": 18,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "fahven-playable adown"
+		},
+		{
+			"offsets": [
+				190,
+				110
+			],
+			"indices": [
+				2,
+				0,
+				1
+			],
+			"fps": 18,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "fahven-playable aright"
+		},
+		{
+			"offsets": [
+				210,
+				120
+			],
+			"indices": [
+				2,
+				0,
+				1
+			],
+			"fps": 18,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "fahven-playable aleft"
+		},
+		{
+			"offsets": [
+				190,
+				118
+			],
+			"indices": [
+				2,
+				0,
+				1
+			],
+			"fps": 18,
+			"anim": "singUP",
+			"loop": false,
+			"name": "fahven-playable aup"
+		},
+		{
+			"offsets": [
+				161,
+				107
+			],
+			"indices": [
+				2,
+				0,
+				1
+			],
+			"fps": 18,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "fahven-playable down"
+		},
+		{
+			"offsets": [
+				187,
+				100
+			],
+			"indices": [
+				2,
+				0,
+				1
+			],
+			"fps": 18,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "fahven-playable left"
+		},
+		{
+			"offsets": [
+				184,
+				118
+			],
+			"indices": [
+				2,
+				0,
+				1
+			],
+			"fps": 18,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "fahven-playable right"
+		},
+		{
+			"offsets": [
+				178,
+				119
+			],
+			"indices": [
+				2,
+				0,
+				1
+			],
+			"fps": 18,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "fahven-playable up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fah/fahmix/fah/fahven-playable",
+	"position": [
+		60,
+		140
+	],
+	"healthicon": "fahtank-playable",
+	"flip_x": true,
+	"healthbar_colors": [
+		254,
+		254,
+		255
+	],
+	"camera_position": [
+		120,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
