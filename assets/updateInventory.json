@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0",
+  "version": "2.5.3",
   "files": [
     {
       "path": ".gitattributes",
@@ -58,8 +58,8 @@
     },
     {
       "path": "assets/characters/fah-gameover.json",
-      "size": 796,
-      "sha256": "00d8963e9a74f4c2f77b91b5d3fa3b19970b7cc033af0b0f309c593618081fa0"
+      "size": 751,
+      "sha256": "afb3c5a0e56a31190c2c701e274f48896b29ebcac50ba1a24f628e5033d0b2af"
     },
     {
       "path": "assets/characters/fah-playable-blammed.json",
@@ -68,8 +68,8 @@
     },
     {
       "path": "assets/characters/fah-playable-gameover.json",
-      "size": 819,
-      "sha256": "361e7e77c5a71e018f93d1ead87f7133548f2e0ec6466b9250b8249ce96075ee"
+      "size": 763,
+      "sha256": "fbb88b7871a2b7ed0e2664a643269843284fbc18f2c162c636118cfef9bc5b64"
     },
     {
       "path": "assets/characters/fah-playable.json",
@@ -78,18 +78,18 @@
     },
     {
       "path": "assets/characters/fah-tiger.json",
-      "size": 1131,
-      "sha256": "22da8756d309080fb80df0b7f932cc4fe58ebc82c0953a13e4f4239e68038332"
+      "size": 1115,
+      "sha256": "13e96e1436574df7022a7553bd919202ea4c825711dd872d8bc6660e4b6f41a3"
     },
     {
       "path": "assets/characters/fah.json",
-      "size": 1308,
-      "sha256": "68738baacbaaf9d034e660fbe29f8d2c1d58dd48b97b0ee56098605a523b6aed"
+      "size": 1292,
+      "sha256": "d57edfc694880f3b29c4c85a41179689e5a9920c63ba9ff75d59926907421057"
     },
     {
       "path": "assets/characters/fahger-playable-gameover.json",
-      "size": 822,
-      "sha256": "37e1613e2b73fc0bb188dd4df2bbae1952efb4116158cbb29ab0432b3aa22774"
+      "size": 766,
+      "sha256": "01e73ba19c6b823beb70ef36f7f27b38b1d1740f1cdc02c6612502bc8380883f"
     },
     {
       "path": "assets/characters/fahger-playable.json",
@@ -103,8 +103,8 @@
     },
     {
       "path": "assets/characters/fahms-playable-gameover.json",
-      "size": 801,
-      "sha256": "1ef829bc5a02e0561f8e9b4c327ad315299d54e63f1f4234adf10cf537e746da"
+      "size": 757,
+      "sha256": "38937324c75bec07e8b0f718e0523c1c3c602622762c84e89252e14a8c571ee5"
     },
     {
       "path": "assets/characters/fahtank-playable.json",
@@ -133,13 +133,13 @@
     },
     {
       "path": "assets/characters/gf.json",
-      "size": 2538,
-      "sha256": "3471b6ffd19b860cd8bc7c610c0fd1ebeb3be576c3ff20cf0dc5012083c44137"
+      "size": 2329,
+      "sha256": "b0c730f7f7430513ea3486217b875661d96d930d1d100b257926ce395ee955a7"
     },
     {
       "path": "assets/characters/gf_gone.json",
-      "size": 2543,
-      "sha256": "5f128f9dce7f70ead29dc189537906eacd0717429c395e81eba7b4de7c814e11"
+      "size": 2334,
+      "sha256": "95165d7745426892d11385b6e2e3057c2a497b55f476be8a911f8b0a66a74468"
     },
     {
       "path": "assets/characters/merrydad-fah-nopop.json",
@@ -193,8 +193,8 @@
     },
     {
       "path": "assets/characters/pico-fah.json",
-      "size": 2694,
-      "sha256": "85541caff1478c74541f3444b4ce577e68175572a91d26df140a063262ab7b16"
+      "size": 2518,
+      "sha256": "e83d0716f873e0c10a5aedc76c4389f9122172d0cfb17894bb8ccbf449e367e4"
     },
     {
       "path": "assets/characters/pisspai-fah.json",
@@ -248,8 +248,8 @@
     },
     {
       "path": "assets/characters/tankfah-playable-gameover.json",
-      "size": 823,
-      "sha256": "e6b8ef136f24b2e2aa4a17df9e099f4e825d4a90b968ba7462472fcaeb06b5fd"
+      "size": 767,
+      "sha256": "2727be6015cfdc34405e63f59f893d81fa4c4da47bceca61ede1f84686eac41d"
     },
     {
       "path": "assets/characters/tankman-fah-bleh.json",
@@ -288,8 +288,8 @@
     },
     {
       "path": "assets/custom_events/Camera Beat.lua",
-      "size": 1506,
-      "sha256": "daa4877da91f52a295c90903b109dd2ad092d9f3000f0e919e7dabafd4327bdb"
+      "size": 1462,
+      "sha256": "d505332a3438dfe00bb549e193562997aae32fe636307af872d8d31042c405de"
     },
     {
       "path": "assets/custom_events/Camera Beat.txt",
@@ -303,48 +303,48 @@
     },
     {
       "path": "assets/custom_events/CameraControl.lua",
-      "size": 3368,
-      "sha256": "7bdc72de3a013bb7f2fe81bb30f5ad157c52557edf265d0fb8a44c87afad7c79"
+      "size": 3302,
+      "sha256": "3eecae64c19d58a55f7f739ac99cf81e26b45942c3fa2508773b9aca832446f4"
     },
     {
       "path": "assets/custom_events/CameraControl.txt",
-      "size": 324,
-      "sha256": "9c03517b9ee34e7d13770c2503bde27dc6137fe3d4fcd032ff7a562174fb4ca5"
+      "size": 303,
+      "sha256": "45a3abc43e7e1afa315bb0d7585a17e27996465680d678bacd503f2f18100c19"
     },
     {
       "path": "assets/custom_events/cameraZoomerios.lua",
-      "size": 481,
-      "sha256": "996000324525293483a0a2e07b5cbcfbc8405a4d39d75ef78ab5b3732e5bb746"
+      "size": 474,
+      "sha256": "83f79ecd230fee9ecbbb23fa21b06054fd8b91c92a6cc128bb35228dc97c84db"
     },
     {
       "path": "assets/custom_events/cameraZoomerios.txt",
-      "size": 108,
-      "sha256": "4581f6348f37469bb86c22602717ed6d2f2734bbcee3177006d61fa9221d5677"
+      "size": 106,
+      "sha256": "fb04640379771dd07a056e734db3ae8e40c10aad1a9afb75e4ffa234a69b02ca"
     },
     {
       "path": "assets/custom_events/Cinematics (Fah).lua",
-      "size": 3960,
-      "sha256": "daa027036701253d5401d224728ac7bc484955fc4cdb0109e460d6a626f0d1a4"
+      "size": 3914,
+      "sha256": "cc472b1c540d8838ee5679040f5a5e483bb4c6886482dafc50dc701e0b432629"
     },
     {
       "path": "assets/custom_events/Cinematics (Fah).txt",
-      "size": 295,
-      "sha256": "1084899fe46843b4534dd2174178f716c38a32e12039364cfb97efb1b4fe4867"
+      "size": 287,
+      "sha256": "1c45ebda189fd5bcc24014f0c897a54a54cd52fe4d23ed85a0e195d6a90f4db2"
     },
     {
       "path": "assets/custom_events/Cinematics (Still Strum).lua",
-      "size": 4893,
-      "sha256": "df3f49111d44301faed721febbe6185d991e8ebb127f1ed4723046738ceb8c46"
+      "size": 4841,
+      "sha256": "497e56fe433701ff6b8c8c7ea217c3f41a3afe4596f5151857e26de836597570"
     },
     {
       "path": "assets/custom_events/Cinematics (Still Strum).txt",
-      "size": 295,
-      "sha256": "1084899fe46843b4534dd2174178f716c38a32e12039364cfb97efb1b4fe4867"
+      "size": 287,
+      "sha256": "1c45ebda189fd5bcc24014f0c897a54a54cd52fe4d23ed85a0e195d6a90f4db2"
     },
     {
       "path": "assets/custom_events/fahbattle-spotlight.lua",
-      "size": 3986,
-      "sha256": "00b51093a007dafa30a5a53884a2b65598f1905d946603e71d7b46d4610adc5d"
+      "size": 3926,
+      "sha256": "1785747c8724ab316776129434c8062908c0886e69a8e67eb32a5bddc6073127"
     },
     {
       "path": "assets/custom_events/fahbattle-spotlight.txt",
@@ -353,43 +353,43 @@
     },
     {
       "path": "assets/custom_events/Flash.lua",
-      "size": 951,
-      "sha256": "aeec06cd1a05d8de99bf16ad85113cf30c2f46fe0b27bd4a5349c6ec6bd9b12a"
+      "size": 943,
+      "sha256": "09dd1120ca093b4476bd124c4c9e155c8e97fad2e2290718ace59114078f0c6c"
     },
     {
       "path": "assets/custom_events/Flash.txt",
-      "size": 156,
-      "sha256": "05da8d5c64b848d000fb93048f75a92db9c60b7d49cc416700735300013def69"
+      "size": 152,
+      "sha256": "53089bad8e4c517f3f89fa760b2ec96931e3886283ab4e2677b3da5c0d18358a"
     },
     {
       "path": "assets/custom_events/Hud Fade.lua",
-      "size": 1027,
-      "sha256": "ffd5f54064d75c1b638ff4b88a109b82f2d9032c92aa3e53d52b7732866268b8"
+      "size": 980,
+      "sha256": "770fb4f8d21dfb74ab2217d7b7002c0d82a19117b7edb2bc2712993d5e43bd2f"
     },
     {
       "path": "assets/custom_events/Hud Fade.txt",
-      "size": 110,
-      "sha256": "1394ebce5472ee70f4b31d6751247a5f717d9675580cde514023c6bc7f8e789a"
+      "size": 106,
+      "sha256": "43a99dd223c33759404ff5ec8bab017d6e351a3830d56b17979b28e5fb808eb3"
     },
     {
       "path": "assets/custom_events/HUD Zoom.lua",
-      "size": 310,
-      "sha256": "4d2b74ca5825655080e531077d21f490f67150ca100fab91a8a70c8692d29754"
+      "size": 293,
+      "sha256": "47595184dabda65f9ca76353ec6dd4958fdb170d51700ced938bcb25c511a7e3"
     },
     {
       "path": "assets/custom_events/HUD Zoom.txt",
-      "size": 205,
-      "sha256": "4700163fd9c01a33452c8333f6033364ee6c46181b1907fb7e4f0d7ab64ce012"
+      "size": 200,
+      "sha256": "01e3e13c3031a7d270ab63a4ad0f9014cb94b1535e70d4c0b52474816583c110"
     },
     {
       "path": "assets/custom_events/Kaboom.lua",
-      "size": 1586,
-      "sha256": "0b043cb543aadabd17eec45301e96313ea82b88058092cc1d3f16a3778c1352f"
+      "size": 1542,
+      "sha256": "51a62300fdca6eaa6606ab6287df96b201bdeba9dee4356bcf81dd306ab20028"
     },
     {
       "path": "assets/custom_events/Kaboom.txt",
-      "size": 32,
-      "sha256": "b837b89fd4ce5ec9850d6a31cf581ec3aa1d3850864a76c8eb783363a24afca0"
+      "size": 29,
+      "sha256": "c75468251b71ae7d9671c326ee5f120cf618f3a6cd4208473fb04b2ceefe0bf8"
     },
     {
       "path": "assets/custom_events/Lyrics.lua",
@@ -403,13 +403,13 @@
     },
     {
       "path": "assets/custom_events/NoteSprites.lua",
-      "size": 3078,
-      "sha256": "41ce781b976523d6a1412dbc3c293acd91b3ba75af5543896d959a9cd91df00e"
+      "size": 2976,
+      "sha256": "5d9d9a672e59559c8735ddbf6a50ddb3d4ded86355cada68ce50bcb0679b3437"
     },
     {
       "path": "assets/custom_events/NoteSprites.txt",
-      "size": 37,
-      "sha256": "f63f1d9239f2bc93df84e7a68a748218d329bba9024bd3e4646aef0a15210190"
+      "size": 36,
+      "sha256": "27c79010cf47a08f7b16f49a5930876fd1365317093802b42b0f4ed064b86efa"
     },
     {
       "path": "assets/custom_events/pop-ups.lua",
@@ -423,13 +423,13 @@
     },
     {
       "path": "assets/custom_events/ScreenRotCam.lua",
-      "size": 198,
-      "sha256": "f986e3e9947c1f3f59b270850e499033c2884683ec9768aa90164439dd8153d8"
+      "size": 189,
+      "sha256": "394cfec2c0a98c94e9bc101c49febcd4dce610967da7ff80e4c395a8fe7d50a8"
     },
     {
       "path": "assets/custom_events/ScreenRotCam.txt",
-      "size": 29,
-      "sha256": "892f9e78c880f6a22a1421d3f4215273c6e12a6c839c9a9d883904e30bb3ef64"
+      "size": 28,
+      "sha256": "03503e63998d4fdf3b53ecf1058e9e3f74074e1e6db349a06536cad6c01cdd8e"
     },
     {
       "path": "assets/custom_events/strumbounces.lua",
@@ -438,18 +438,18 @@
     },
     {
       "path": "assets/custom_events/strumbounces.txt",
-      "size": 49,
-      "sha256": "8a015fd421690290286d35ef01a31e939a251fdb833765cd12196bd28d0b7f67"
+      "size": 47,
+      "sha256": "430a7de697cc729762c2ecbcec2577376f9c0d1f98b9c788d20ac38037d6ca68"
     },
     {
       "path": "assets/custom_events/Subtitle.lua",
-      "size": 6412,
-      "sha256": "8fc28d45ec3a7c9e396845e27feacedbaa7126a9c15dc78304344627eac264d2"
+      "size": 6184,
+      "sha256": "086a3a2e940197f74117d08cfba56670e79d1e96dfdc9b42481b3cf57b63f0a6"
     },
     {
       "path": "assets/custom_events/Subtitle.txt",
-      "size": 47,
-      "sha256": "971c76e409d0ba0e7be1fc035c2afa6c62138d48345e951a4fd84c4ffcb6d6ee"
+      "size": 46,
+      "sha256": "63a6e86dd408c09a7301a760dc08335cec8326c1f56e0dcfae470acd090e8925"
     },
     {
       "path": "assets/custom_events/Toggle Trail.lua",
@@ -508,8 +508,8 @@
     },
     {
       "path": "assets/data/blammed/pause.txt",
-      "size": 530,
-      "sha256": "293def6a4a8f6ec9dc173ac9fab637b3eb7d986704cd2e045b76f1e59a83551b"
+      "size": 527,
+      "sha256": "48f3debb837f355e048c22e91177ffb6154049e39f7b9dfa861a2856c2ff0574"
     },
     {
       "path": "assets/data/bleh/00-load-guns-shared.lua",
@@ -543,8 +543,8 @@
     },
     {
       "path": "assets/data/bleh/pause.txt",
-      "size": 384,
-      "sha256": "05ed9990d477f8562f54655f37081c24804d3577a29bd8fe17ee5f5b6894cc50"
+      "size": 382,
+      "sha256": "dc6bf1155532853786c56f98394192095a0e40522a9fd732c9bff10178728529"
     },
     {
       "path": "assets/data/bopeebo/01-hud-overlay-and-transitions.lua",
@@ -568,8 +568,8 @@
     },
     {
       "path": "assets/data/bopeebo/pause.txt",
-      "size": 285,
-      "sha256": "5977065d5dca8efd0d74b07a36332c7753a01d82b2dabff436fd076f2eed717c"
+      "size": 282,
+      "sha256": "264bf1dc25371fed326f397599e816c756b14a398bc86369e1586415b89c1134"
     },
     {
       "path": "assets/data/dadbattle/01-hud-zoom-bump.lua",
@@ -603,8 +603,8 @@
     },
     {
       "path": "assets/data/dadbattle/pause.txt",
-      "size": 225,
-      "sha256": "f4b0ded678a0096c237dfd97bcfdb26ed862f8a05a567c080473ffe3eb06aae6"
+      "size": 222,
+      "sha256": "bfe28e1e7eee59c08c2011d2d57bdb10d6772eb2ba4f70f957237846b8e7a741"
     },
     {
       "path": "assets/data/darnell/01-week1-hud-overlay.lua",
@@ -638,18 +638,18 @@
     },
     {
       "path": "assets/data/darnell/pause.txt",
-      "size": 277,
-      "sha256": "b31ffcf1577e5d59f18155c41ec6e7d3dd1badef2e053e7635e91763b1bc135d"
+      "size": 274,
+      "sha256": "8aae689abb4c4cec9b018fe406d7b0513fd59f5a3c89a458eaf1cdac8e2c8262"
     },
     {
       "path": "assets/data/eggnog/01-camera-follow-lock.lua",
-      "size": 308,
-      "sha256": "86d0ff8244dd83039aad4e3445c5ba67e4493542dc14ce0e5d316fa0861a5afe"
+      "size": 297,
+      "sha256": "d9eed1793daa9cb540646102b781715135ef313359311291aec85112311855c6"
     },
     {
       "path": "assets/data/eggnog/02-game-over-camera.lua",
-      "size": 1929,
-      "sha256": "856fb87c6178314f66bbe6a34929a761f99362993fe60c2146f3ac4f593b0677"
+      "size": 1874,
+      "sha256": "65494cb63d4d60099d90f61c38928bb723a7cc684207b4df3e70524d9c8b12f8"
     },
     {
       "path": "assets/data/eggnog/03-lights-chain-bounce.lua",
@@ -698,8 +698,8 @@
     },
     {
       "path": "assets/data/eggnog/pause.txt",
-      "size": 130,
-      "sha256": "f7fdaf8e30a016e40c11f640115ceb01d546ac19fc4d77348d9ab350286c6b42"
+      "size": 128,
+      "sha256": "fbab97d5ba37866b3a40389be05a002ba44bae48bc356ec1c1f992c2b5940d77"
     },
     {
       "path": "assets/data/fresh/01-hud-zoom-bump.lua",
@@ -733,8 +733,8 @@
     },
     {
       "path": "assets/data/fresh/pause.txt",
-      "size": 331,
-      "sha256": "09657abe5a98c118a41e2ad7956d9176e21b6e32f8a1e9d4092b0faa97f1ace0"
+      "size": 329,
+      "sha256": "d704c58e9a2c75e714ab3a2df1a90ae447ca6870e7b6ca550e0168a263f34893"
     },
     {
       "path": "assets/data/high/01-hud-zoom-bump.lua",
@@ -773,13 +773,13 @@
     },
     {
       "path": "assets/data/high/pause.txt",
-      "size": 454,
-      "sha256": "f1c69cbe62d7cf2dbcc3d0a80a269668fc29ecbe6ea27d2636d84db104a18fc1"
+      "size": 452,
+      "sha256": "36950eaef03dd2f69247191853535218032ce197ea9ab1cd4c3d12c80800a354"
     },
     {
       "path": "assets/data/hodgepodge/01-character-icon-follow.lua",
-      "size": 3308,
-      "sha256": "b824b99e94d00b0411868e50281022b47775aacaaa7c566393f2c64a4b00411a"
+      "size": 3166,
+      "sha256": "fa70c727c158125c413de2504b8ecc9569f68221833a6743aee029660ceee4b3"
     },
     {
       "path": "assets/data/hodgepodge/02-kitty-paw-bursts.lua",
@@ -793,8 +793,8 @@
     },
     {
       "path": "assets/data/hodgepodge/04-phoenix-camera-bopper.lua",
-      "size": 5184,
-      "sha256": "787769e20e110246d8e012b557da29dbcae1b0579b8dda324c5ad3094610f19d"
+      "size": 4885,
+      "sha256": "c7bfe5d58f7417ae7618aebe85e7db2167aa74519801b02d09588c8b46367f3c"
     },
     {
       "path": "assets/data/hodgepodge/credits.txt",
@@ -813,8 +813,8 @@
     },
     {
       "path": "assets/data/hodgepodge/pause.txt",
-      "size": 666,
-      "sha256": "097a8caf1c8f0f32be6478c602a85357372cadbdb360b720867b012ce19b766f"
+      "size": 664,
+      "sha256": "f5a002884d52bf675f677209d9ba988f3eb96dca79e93dd4db5cdb0fac7cd3ad"
     },
     {
       "path": "assets/data/lit-up/01-ending.lua",
@@ -873,8 +873,8 @@
     },
     {
       "path": "assets/data/lit-up/pause.txt",
-      "size": 210,
-      "sha256": "f3957f993f4e117e4614bae266c617bd5b20f3e33bbd8ee9654828c2d62675c7"
+      "size": 207,
+      "sha256": "cf980f6a1e0a68c044185d18f5a48708599c56c18c923b1b3cd415195952346b"
     },
     {
       "path": "assets/data/mama/01-hud-zoom-bump.lua",
@@ -918,8 +918,8 @@
     },
     {
       "path": "assets/data/mama/pause.txt",
-      "size": 236,
-      "sha256": "c31a71477ec010c4aecbb93843149f8e11ceb8549ad8dfc7963327decbc2fea3"
+      "size": 234,
+      "sha256": "befa2a69cc6db242a36ea320ab4d6d7f21321885da078cd5945ec85e9c323e1f"
     },
     {
       "path": "assets/data/pews/04-game-over-voice-lines.lua",
@@ -948,8 +948,8 @@
     },
     {
       "path": "assets/data/pews/pause.txt",
-      "size": 239,
-      "sha256": "173e5153ebdabdd0d19310e642f58185b30d5e3087b7db2caf248f911e7db397"
+      "size": 237,
+      "sha256": "c15999693a447626ed1bcd69ca1194382842857e031c49ff8b45d5e8dd0f577d"
     },
     {
       "path": "assets/data/pews/pews-hard.json",
@@ -998,8 +998,8 @@
     },
     {
       "path": "assets/data/philly-nice/pause.txt",
-      "size": 418,
-      "sha256": "dd929f0f65a4553e39a0b0c54db1193c4bb68d6e45477bbda5560f10dc035e61"
+      "size": 415,
+      "sha256": "f92730c5c96d1e91d29e14f3e907ddecc9747dfcf6366cfe33b74ba380cb58f2"
     },
     {
       "path": "assets/data/philly-nice/philly-nice-hard.json",
@@ -1008,13 +1008,13 @@
     },
     {
       "path": "assets/data/roses/02-dialogue-receptor-reset.lua",
-      "size": 359,
-      "sha256": "acc8233a7fc4926dbcf3e3a9de04482a3d186488e8a8e6d0c488577147b7664e"
+      "size": 345,
+      "sha256": "0675ee8c4ad8968cb4968d220e75a458c078f64af7167113abcd98e101fd06f9"
     },
     {
       "path": "assets/data/roses/05-receptor-sway-and-bounce.lua",
-      "size": 2445,
-      "sha256": "f7a60c01a405b0ce13c1908e34d2a1998fe26b2b3cff8eed32cfdc97971bca9a"
+      "size": 2352,
+      "sha256": "f2e3afbe525275f43653f86b2261c6d177c53959c8a8fa159f13ea22f0eb014f"
     },
     {
       "path": "assets/data/roses/06-hud-overlay-and-transitions.lua",
@@ -1038,8 +1038,8 @@
     },
     {
       "path": "assets/data/roses/pause.txt",
-      "size": 357,
-      "sha256": "9f4fa01288f86abc08921d8a64b37d5815b30db9fb748594d38c069c7bd36859"
+      "size": 355,
+      "sha256": "df9aeb436c78893bd0541677dbc76142f4fa081f43fd1b68ef02faa6bfa5e1f0"
     },
     {
       "path": "assets/data/roses/roses-hard.json",
@@ -1078,8 +1078,8 @@
     },
     {
       "path": "assets/data/senpai/pause.txt",
-      "size": 374,
-      "sha256": "2e4681f54c75268eac8e9e313914e30f7aa968f347275c16087fb3d3b3620956"
+      "size": 372,
+      "sha256": "24fe2aeffb60e974dbd26962d2a31dc81448df648394dc5791e27fee361b9c1f"
     },
     {
       "path": "assets/data/senpai/senpai-hard.json",
@@ -1093,23 +1093,23 @@
     },
     {
       "path": "assets/data/shiftr-legacy/checkerboard-legacy.lua",
-      "size": 1060,
-      "sha256": "79d892b49a7ae1557ef3c701083f38f959682ce6b0a4dfb7e1d65f4ad383fedb"
+      "size": 1021,
+      "sha256": "495c62d8dc33c81b41287060860d49c250a8a89eea4f26da00bacfdaafa391df"
     },
     {
       "path": "assets/data/shiftr-legacy/legacy-customScoreTxt.lua",
-      "size": 1193,
-      "sha256": "e273aea39f3a58a17b20a70f3b4ef52500784f3c37a4eb5e2a9f3dea5015fbdc"
+      "size": 1136,
+      "sha256": "7a8b69f31da698ba63419e037b5eee023f6a811a34bbcc3d94a17ca649f39485"
     },
     {
       "path": "assets/data/shiftr-legacy/legacy-scroll.lua",
-      "size": 237,
-      "sha256": "19328f189dd31c98572de5d25fcea0cb0eab59c60fa686e1c215c2c4c2489b51"
+      "size": 230,
+      "sha256": "f0d6068de73074b29ea35f86ccbdceec3903b483b0cfee027519bd0c74b799b8"
     },
     {
       "path": "assets/data/shiftr-legacy/legacy-trailDoubleNote.lua",
-      "size": 2150,
-      "sha256": "e3e64551522e9a428a8081298ae95a7e38a14a3e575f00262663c98e08074bdd"
+      "size": 2115,
+      "sha256": "d0f176a0d9fb018ed1dc2c6e0b1ab0569f44dcc831ac8c79794e468620d58036"
     },
     {
       "path": "assets/data/shiftr-legacy/shiftr-legacy-hard.json",
@@ -1118,13 +1118,13 @@
     },
     {
       "path": "assets/data/shiftr/01-checkerboard-hud-motion.lua",
-      "size": 1966,
-      "sha256": "6220730013591cd8ea237e3ee698959703b43cc1d41c1ed3dbe2d7829d654a9a"
+      "size": 1946,
+      "sha256": "7252c4858b70d6944fb13cd993fcce3707b423010ccfb0bb8ead36bfe6afb855"
     },
     {
       "path": "assets/data/shiftr/02-guitar-orbit.lua",
-      "size": 3239,
-      "sha256": "167f69844d4cfb5a9e555213b917aedc0ec19ef1e21015bd4b761fa830b1927b"
+      "size": 3105,
+      "sha256": "ac6f8fab6a3ba41f0c2421556e501a1d0a4c6f66a9a227bf6daf8d93d3c44ac2"
     },
     {
       "path": "assets/data/shiftr/03-screen-overlay-transitions.lua",
@@ -1138,8 +1138,8 @@
     },
     {
       "path": "assets/data/shiftr/pause.txt",
-      "size": 457,
-      "sha256": "9aba60bf92d7c0c15071e4ab3f9b29d95c75395c357b007bb7f07a3aee158235"
+      "size": 455,
+      "sha256": "42815a553cbf7ca5619454a0225dbe06360a9bad2fb3e8dfdb1c7cae55cee961"
     },
     {
       "path": "assets/data/shiftr/shiftr-hard.json",
@@ -1153,8 +1153,8 @@
     },
     {
       "path": "assets/data/skyline/03-screen-overlay-transitions.lua",
-      "size": 1242,
-      "sha256": "3c92f626c0ebd571db81caf8c47699d9af9f860effe5e60beda2b96aa4548322"
+      "size": 1221,
+      "sha256": "33240f116cd7bbbb65c5da6a2a73637a056748a6efb332c01dbb318df9a3525a"
     },
     {
       "path": "assets/data/skyline/background-layer-fade.lua",
@@ -1183,8 +1183,8 @@
     },
     {
       "path": "assets/data/skyline/pause.txt",
-      "size": 709,
-      "sha256": "08ea33ac0d97c988b96fd67c47d1fff18cb3b4de02c1165f62217f0fe394f739"
+      "size": 705,
+      "sha256": "a1df50b0bf72d9e57200ec868b07c6cd2c2dee0d94dcce1e4a661372acb15520"
     },
     {
       "path": "assets/data/skyline/scrolling.lua",
@@ -1193,18 +1193,18 @@
     },
     {
       "path": "assets/data/skyline/skyline-hard.json",
-      "size": 103354,
-      "sha256": "47052d671c2424809cbb03fae91b8e372183eb9b6092bf1644305d9ffc9c3f1e"
+      "size": 96725,
+      "sha256": "913e49b6c97afe7877cd65564fa8ff2847f10bfb915a8e8f2933f32cbfc214a8"
     },
     {
       "path": "assets/data/spookeez/02-lightning-character-clones.lua",
-      "size": 7043,
-      "sha256": "699a4cb00155d36cc77752aa4de061844daffb9d70d802afa050cafb1fd51a6c"
+      "size": 6907,
+      "sha256": "7af57272590acf1b9ca5ec52b42b7b32d0010faf71750c953a8944c9c598996b"
     },
     {
       "path": "assets/data/spookeez/04-receptor-beat-bounce.lua",
-      "size": 2211,
-      "sha256": "d1f8f0b8ccc6f9fa9ba5b9dd26bfc751eb6dbbd5ec14dc0ca45bd9569fffd4f5"
+      "size": 2103,
+      "sha256": "1acda7f68625100019c917ce17024b9fccae61f01a01623cc10224569b89abde"
     },
     {
       "path": "assets/data/spookeez/05-hud-overlay-scares-and-transitions.lua",
@@ -1223,8 +1223,8 @@
     },
     {
       "path": "assets/data/spookeez/pause.txt",
-      "size": 490,
-      "sha256": "c6f0cc5ebb9c7c229efab5e3abcd2f279f41f6dc0af485c272a8e60d19d277c3"
+      "size": 488,
+      "sha256": "60c925767f1a7001208d0815068dc3f43dd8416550ba05b50966c2429bd82e8c"
     },
     {
       "path": "assets/data/spookeez/spookeez-hard.json",
@@ -1248,8 +1248,8 @@
     },
     {
       "path": "assets/data/stress/pause.txt",
-      "size": 296,
-      "sha256": "6ce406d0269b76e49b2ac07a9fb5a13734504c372bdd30d5ce0288e5cfc0a5b4"
+      "size": 294,
+      "sha256": "2f7da26206d711582d59ece8b173c30a3271c8d5d7bd2bd83cce19a45a09bed5"
     },
     {
       "path": "assets/data/stress/phoenix-blow.json",
@@ -1263,8 +1263,8 @@
     },
     {
       "path": "assets/data/sunburnt/01-checkerboard-hud-motion.lua",
-      "size": 3821,
-      "sha256": "09cd05cce43d0d53ecd96e77d61bbcd92f01d956fc7e36422335d5e4daad851e"
+      "size": 3742,
+      "sha256": "67f34a32b39780979ab9a66009a4c7b4950fb9da15c498c9b7e414f7eb89d237"
     },
     {
       "path": "assets/data/sunburnt/02-game-over-camera-and-voice-lines.lua",
@@ -1283,8 +1283,8 @@
     },
     {
       "path": "assets/data/sunburnt/pause.txt",
-      "size": 522,
-      "sha256": "82b70619681f44ef88b1d7a8c40478c45899e6692173db21dcbf4acdbddd64fd"
+      "size": 520,
+      "sha256": "da78f385710d5a9597ff1bf0a210ac37aab848004e99f42cf622df61d7f913ea"
     },
     {
       "path": "assets/data/sunburnt/sunburnt-hard.json",
@@ -1298,8 +1298,8 @@
     },
     {
       "path": "assets/data/tutorial/01-minimal-hud-visibility.lua",
-      "size": 819,
-      "sha256": "5ebeb9b2ee7dc7c5f00eab395dbf875aab5222ff041ae8d05aeb4f6b0c1376c5"
+      "size": 813,
+      "sha256": "243b1c35ea9e0a15dbe2e8253e114fd28184debf1a4dea0c2392c27ace490c81"
     },
     {
       "path": "assets/data/tutorial/02-hud-overlay-and-transitions.lua",
@@ -1308,8 +1308,8 @@
     },
     {
       "path": "assets/data/tutorial/03-direction-word-prompts.lua",
-      "size": 4588,
-      "sha256": "8cbe4e60c0095a1b9179e6cc1c343ee60f843d3aebb06098b967171775d14e44"
+      "size": 4421,
+      "sha256": "73f95679ec1c3d672f149d23d86d90d0196b60c3f1c5c28cea89ad740093dbbb"
     },
     {
       "path": "assets/data/tutorial/credits.txt",
@@ -1323,8 +1323,8 @@
     },
     {
       "path": "assets/data/tutorial/pause.txt",
-      "size": 130,
-      "sha256": "bcf679eb562d49e12b5a84d149e70405bd5e5395151081a3d384fd99412db03d"
+      "size": 127,
+      "sha256": "9084433167074cfc7582f3ffd88effec28fb3ef21becf9c801fd885c999f8dcc"
     },
     {
       "path": "assets/data/tutorial/tutorial-hard.json",
@@ -1383,8 +1383,8 @@
     },
     {
       "path": "assets/data/what-the-fah/03-botplay-text-style.lua",
-      "size": 245,
-      "sha256": "ec485ec6d19ea9692fc6da12e839bd053d2b8f6971a6a374f88da989d1b57d34"
+      "size": 236,
+      "sha256": "0860c8618c012d7c2e5b2abd293736c6590d23f3786884d979aa478b25b74f72"
     },
     {
       "path": "assets/data/what-the-fah/04-hud-overlay-and-transitions.lua",
@@ -1393,18 +1393,18 @@
     },
     {
       "path": "assets/data/what-the-fah/05-throwable-arc-props.lua",
-      "size": 5359,
-      "sha256": "5703bd9cf1b107dd5bccac501fd1104b100863c3e9d3b711694ebe48f23a7eb9"
+      "size": 5206,
+      "sha256": "4603b7309afdf42c3420a1eafcd28a8f76927b9ffcca3a9de5f5304256ae24b5"
     },
     {
       "path": "assets/data/what-the-fah/06-truckers-hi-popups-and-people-chain.lua",
-      "size": 9148,
-      "sha256": "a5498559dc5e82befa40728eb0e33ec7de861c0cf4680e935760004087e1fc6a"
+      "size": 8957,
+      "sha256": "e3c5cd7e3770cd1b533d166b5ca5ce2bef1240311b905f51d7b3ecd1089f1e34"
     },
     {
       "path": "assets/data/what-the-fah/07-random-distraction-images.lua",
-      "size": 12410,
-      "sha256": "83f15529536ab9f03361777fdb917624d48ac8de122a90e1642ac52c2f930b03"
+      "size": 12319,
+      "sha256": "772fba13c8c47293dffae609afe1192b1c95a9172c044c46e28f6036e109f15c"
     },
     {
       "path": "assets/data/what-the-fah/credits.txt",
@@ -1418,8 +1418,8 @@
     },
     {
       "path": "assets/data/what-the-fah/pause.txt",
-      "size": 313,
-      "sha256": "2f0d30269a15e88208fad85f7707bbe82101922dc291c429abd7475323b4dc68"
+      "size": 311,
+      "sha256": "1d2f9af6700f48a71babc3476316ab4eae3a1df4d3b9a3d4da4cccb5eb3e86d4"
     },
     {
       "path": "assets/data/what-the-fah/what-the-fah-hard.json",
@@ -1828,8 +1828,8 @@
     },
     {
       "path": "assets/images/characters/aom-bf.xml",
-      "size": 4734,
-      "sha256": "1dca0011783bde3710ac12bbca19e7bdaac505821ccb2ef6bb81853e3842df06"
+      "size": 4701,
+      "sha256": "90930aa49167722cb3968d7cd4a5c01e8553858efdb144038354adcf1cb09900"
     },
     {
       "path": "assets/images/characters/aom-gameover.png",
@@ -1838,8 +1838,8 @@
     },
     {
       "path": "assets/images/characters/aom-gameover.xml",
-      "size": 5051,
-      "sha256": "ad47425d5f5ce461b5a575ec943515629201a9a872dd0345492f6d66bda02436"
+      "size": 5018,
+      "sha256": "49846656d295192d042be6ed005d13bad6d5191f685dfea673cfcdff399d9c2f"
     },
     {
       "path": "assets/images/characters/fah/bf.png",
@@ -1848,8 +1848,8 @@
     },
     {
       "path": "assets/images/characters/fah/bf.xml",
-      "size": 5079,
-      "sha256": "86af7ab135455d38a1b9cd97668a0bacda8904a125aaacd51086dfaf77e2c208"
+      "size": 5056,
+      "sha256": "61f49577970c206698afd57e178a98e892d9c4fd3022a61023d615258adbb5ef"
     },
     {
       "path": "assets/images/characters/fah/fah-gameover.png",
@@ -1858,8 +1858,8 @@
     },
     {
       "path": "assets/images/characters/fah/fah-gameover.xml",
-      "size": 13227,
-      "sha256": "882eb5bb1e84818dbb23b63afcd0105aa10b9092e3c4ab16446a133f15f5e612"
+      "size": 13139,
+      "sha256": "5792928209b3db44421816ce635c2d58244fe85f4700ef81fc8b5c66a5beffb9"
     },
     {
       "path": "assets/images/characters/fah/fah-tiger.png",
@@ -1868,8 +1868,8 @@
     },
     {
       "path": "assets/images/characters/fah/fah-tiger.xml",
-      "size": 2526,
-      "sha256": "b2605b6166ce716cc0470b3a98fdf1e28fcb0ebf7897a90496c038f9258b91f7"
+      "size": 2508,
+      "sha256": "fad98cb5a88811f4a7bc916046fc216d0ebbf6f9b469c9934fc2755a1cd7ec98"
     },
     {
       "path": "assets/images/characters/fah/fah.png",
@@ -1878,8 +1878,8 @@
     },
     {
       "path": "assets/images/characters/fah/fah.xml",
-      "size": 2990,
-      "sha256": "52eddd23d9c25d47c16d4bbcae6279bf8688b4679eb63527049abdd21819bb6e"
+      "size": 2968,
+      "sha256": "6e8c461eac6bd7dddb839735fb1d796ee4282022bec7b3a2d7ca3fc7fac12d14"
     },
     {
       "path": "assets/images/characters/fah/fahmix/dad-fah.png",
@@ -1888,8 +1888,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/dad-fah.xml",
-      "size": 2944,
-      "sha256": "9bb4de505f51ca7a1ca33384eb5a9b1d20ed93d35f02dc9bb15282507aa0771f"
+      "size": 2923,
+      "sha256": "1c93205f54f581f17f5e5437e72795dc65cc8d7a6f88d5d4093538107422953b"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah-mom.png",
@@ -1898,8 +1898,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah-mom.xml",
-      "size": 2914,
-      "sha256": "e4e81d4318b112d933cab2ae8c039207c9114348477f3cb55830d57b78564ee7"
+      "size": 2892,
+      "sha256": "7802139869fda753ac7861cafd51454a9e2dd58429888ab4a8c671cdd2fce334"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/fah-gameover.png",
@@ -1908,8 +1908,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/fah-gameover.xml",
-      "size": 13546,
-      "sha256": "b431b68c8d1381e104681263e8dc7e276d92fd79ddf8fa52091e2c8f82f9cb03"
+      "size": 13454,
+      "sha256": "32de8eb83eee3e5dc9ab8d60ba790a3ebeba13282c867df8868264c62d242ce1"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/fah-playable-blammed.png",
@@ -1918,8 +1918,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/fah-playable-blammed.xml",
-      "size": 8759,
-      "sha256": "659ff378cb1220da0d7af2b94b9afe8dba811f0fcf5809036fe366c0c625194c"
+      "size": 8714,
+      "sha256": "3efa23bf52c7022e6512b27c2616bf36b769c40adc4e2179fb12271aee78e292"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/fah-playable.png",
@@ -1928,8 +1928,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/fah-playable.xml",
-      "size": 8759,
-      "sha256": "659ff378cb1220da0d7af2b94b9afe8dba811f0fcf5809036fe366c0c625194c"
+      "size": 8714,
+      "sha256": "3efa23bf52c7022e6512b27c2616bf36b769c40adc4e2179fb12271aee78e292"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/fah-soaked-alts.png",
@@ -1943,8 +1943,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/fah-soaked.xml",
-      "size": 8951,
-      "sha256": "546657095f5faeb3960bedd1bda1d34954fda5d99da695bee5c2e9f2631075b9"
+      "size": 8891,
+      "sha256": "0b47068fe29e58cfdbcf0b541c39a10542c0aaaeef5e5794038ff29e0a7a36b1"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/fahger-gameover.png",
@@ -1953,8 +1953,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/fahger-gameover.xml",
-      "size": 13594,
-      "sha256": "84c7f51fdc6bf37b5f0cbe077dbb99f2c72e69165dfc9e76a4e2fdd12201c7e3"
+      "size": 13502,
+      "sha256": "e9d88faef452b51517cc4671407635d070e46c2773056880ab3a14dc15adf788"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/fahven-playable.png",
@@ -1963,8 +1963,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/fahven-playable.xml",
-      "size": 5578,
-      "sha256": "2fd69b67f9e9e4f2cb62ce0bea85835af2bfcbda0f31d669c52439f2f0894766"
+      "size": 5541,
+      "sha256": "8e367f0ea1b65e8cd1f978bc31d9bc9a6b8e24e6742106ab34fcee6d6b779d15"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/merryfah-playable.png",
@@ -1973,8 +1973,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/merryfah-playable.xml",
-      "size": 5506,
-      "sha256": "587033fbb5cd8833bd5fb35463866663a36afe697a8001d49068d0508c5408aa"
+      "size": 5479,
+      "sha256": "fde55ef347d9fa92e07777f759e49703d94b215543ac5274b702f5c7140e74c0"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/msfah-death.png",
@@ -1983,8 +1983,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/msfah-death.xml",
-      "size": 13349,
-      "sha256": "a285b63582af086585add19fa4f9105bf472fcde0cef18a2ccec1bde693e25f1"
+      "size": 13258,
+      "sha256": "4e479b3d1f94314815dd1288393b755d8bf038a43f458410fd0dec25841decf9"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/msfah-playable.png",
@@ -1993,8 +1993,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/msfah-playable.xml",
-      "size": 4958,
-      "sha256": "00e2ca721a933dbac5abbb86175b223094edd5368161d3eb357b4bd85816f6a3"
+      "size": 4935,
+      "sha256": "30df1c186feeaa3022c3da5df844852ac5317a1c15673accd884d619e878d61d"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/raven-fah-playable.png",
@@ -2003,8 +2003,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/raven-fah-playable.xml",
-      "size": 2940,
-      "sha256": "c80f509ee02e05934de11c7c10540ce21dd0d6ae7f4238af309611e11b494c7c"
+      "size": 2918,
+      "sha256": "ae1074f15db56cd8a06c71a034a493089bb8689929d9f69cb71f03b5ea3439ba"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/scared-idle-normal.png",
@@ -2013,8 +2013,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/scared-idle-normal.xml",
-      "size": 1746,
-      "sha256": "36b8d1a24e276db5567e514efdd7ff153f31aeb0eaaf93d76c259fdf0541971e"
+      "size": 1734,
+      "sha256": "8ea1b3304e9eca0f267055bbf4b00f578d49b9a89c19393ef117cfb1ee46f121"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/scared-idle.png",
@@ -2023,8 +2023,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/scared-idle.xml",
-      "size": 1662,
-      "sha256": "72782f64607f16cae7322c60afd49afe88c07c62e0e631585ec8f0cf7a8bcdf7"
+      "size": 1650,
+      "sha256": "1649319a37ddbd396b1f67fdba400ca413977c31ff4a99f42d6b6aa0f7751040"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/spin.png",
@@ -2033,8 +2033,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/spin.xml",
-      "size": 497,
-      "sha256": "594a46857b0321a41be792890ce7e592dd0c09b19ee4fe2ef7dd28aee7ed2aa8"
+      "size": 493,
+      "sha256": "854d8accec3c523429042895daac0934d0f0866a8b183e667074c5ae5504e7c4"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/Spooky-fah.png",
@@ -2043,8 +2043,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/Spooky-fah.xml",
-      "size": 6771,
-      "sha256": "3a8c43e49a0b48e4be868ccd2903ece2f7879077dc3612639f7fd0c0cf5fd546"
+      "size": 6736,
+      "sha256": "cd7c28a1edb69c6262a4b8a16bd5a66173438ecda09128a659338b5aa4699c73"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/tankfah-gameover.png",
@@ -2053,8 +2053,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/tankfah-gameover.xml",
-      "size": 13605,
-      "sha256": "6461eab336cd4eca60bf6c30cf12516a71569ea0f0be5081d870b3a39febebe3"
+      "size": 13513,
+      "sha256": "47f356dca91f3cf3259be53dbc7f2a50916c4dc1062d0690087a872d5b7bda1c"
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/tankfah-playable.png",
@@ -2063,8 +2063,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/fah/tankfah-playable.xml",
-      "size": 5907,
-      "sha256": "bf2a2a51b7e55d7f0b6ce2d874d5bd18fde60c4af4f31d17b79737c308a28482"
+      "size": 5874,
+      "sha256": "0af8f69e47288697d79324be92178877e52cbea5071eb6bb2595cfcbd3a59a9f"
     },
     {
       "path": "assets/images/characters/fah/fahmix/mom-dodge.png",
@@ -2073,8 +2073,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/mom-dodge.xml",
-      "size": 503,
-      "sha256": "c160865c753af0fdb371e2dddd9610e3d8d810933d0d9bf9c6f3748d3a8d6ea6"
+      "size": 499,
+      "sha256": "05db48638e9b6cace39f1338b4502009d5019b12b9b4b78a0e5bbf81abfe9e40"
     },
     {
       "path": "assets/images/characters/fah/fahmix/phoenix-stress.png",
@@ -2093,8 +2093,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/Week2/fah-spookykids.xml",
-      "size": 3776,
-      "sha256": "bc77c15f129bdc1a2ca5c28746f2b8d97cba53383daca271e9772b224634e8cb"
+      "size": 3748,
+      "sha256": "00d19ebffdfe4e1325b0377827346eba463fe4877dc4e4f56463672b7a32b1d7"
     },
     {
       "path": "assets/images/characters/fah/fahmix/week3/pico-fah-blammed.png",
@@ -2103,8 +2103,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/week3/pico-fah-blammed.xml",
-      "size": 2768,
-      "sha256": "e64e340697a341455cf51d56213eac62614ff2dbd3944d73f2363cd8dd07f3ce"
+      "size": 2747,
+      "sha256": "77a0d5bb0ed5019c783bd419812b7d3fc4cb35b5708cd61f6e21b16d0148750f"
     },
     {
       "path": "assets/images/characters/fah/fahmix/week3/pico-fah.png",
@@ -2113,8 +2113,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/week3/pico-fah.xml",
-      "size": 2768,
-      "sha256": "e64e340697a341455cf51d56213eac62614ff2dbd3944d73f2363cd8dd07f3ce"
+      "size": 2747,
+      "sha256": "77a0d5bb0ed5019c783bd419812b7d3fc4cb35b5708cd61f6e21b16d0148750f"
     },
     {
       "path": "assets/images/characters/fah/fahmix/week5/merrydad-fah-nopop.png",
@@ -2123,8 +2123,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/week5/merrydad-fah-nopop.xml",
-      "size": 2788,
-      "sha256": "05f34fc6a79efffc09e6086d53f0284531487e55013f5ced0af825dd18579f20"
+      "size": 2767,
+      "sha256": "a32ddc520ca1a3a90e48c83501459634c38ccadeaceb40c9d8cc62cf9b56944b"
     },
     {
       "path": "assets/images/characters/fah/fahmix/week5/merrydad-fah.png",
@@ -2133,8 +2133,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/week5/merrydad-fah.xml",
-      "size": 2788,
-      "sha256": "05f34fc6a79efffc09e6086d53f0284531487e55013f5ced0af825dd18579f20"
+      "size": 2767,
+      "sha256": "a32ddc520ca1a3a90e48c83501459634c38ccadeaceb40c9d8cc62cf9b56944b"
     },
     {
       "path": "assets/images/characters/fah/fahmix/week5/merrymama-fah.png",
@@ -2143,8 +2143,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/week5/merrymama-fah.xml",
-      "size": 2398,
-      "sha256": "cc7a1801e3c453eb6be9ad999a8c09ba276f5db9e407a90f5b16a01f07ca26f6"
+      "size": 2380,
+      "sha256": "87b6cec73912d582d6d285cc0e2cd15ecf358ef30620b8794484f02e5b633757"
     },
     {
       "path": "assets/images/characters/fah/fahmix/week6/pisspai-fah.png",
@@ -2153,8 +2153,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/week6/pisspai-fah.xml",
-      "size": 2815,
-      "sha256": "cd0495c68cb28c8608e9c2fb9f0c218cc1e0a2fe2f9e6845a3b3781d8eae03c8"
+      "size": 2794,
+      "sha256": "6ab06fd223ea83b0276fec7dbe189325dec25a5f4296c72147f9b65723e7815e"
     },
     {
       "path": "assets/images/characters/fah/fahmix/week6/senpai-fah.png",
@@ -2163,8 +2163,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/week6/senpai-fah.xml",
-      "size": 4562,
-      "sha256": "893141a4a999a6c5b6e336c8517097f8aea0474d44e33025f1bae3db827c3067"
+      "size": 4528,
+      "sha256": "50fc38302b48eaaad6e66ad31ae87a5388b1c07df09c973694385718c51a1986"
     },
     {
       "path": "assets/images/characters/fah/fahmix/week7/intros/bleh-intro.png",
@@ -2173,8 +2173,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/week7/intros/bleh-intro.xml",
-      "size": 4830,
-      "sha256": "e74646c06d07dbf9de6aeb27a53a2d094ed9df8a4f016537a71b31e201bae8e4"
+      "size": 4807,
+      "sha256": "d6ea44dc2802afd42907388b40f2c756e25db1bfc940765ef478bf3394e56452"
     },
     {
       "path": "assets/images/characters/fah/fahmix/week7/tankman-fah.png",
@@ -2183,8 +2183,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/week7/tankman-fah.xml",
-      "size": 2383,
-      "sha256": "1fda7aa33e76bc8f2c807f0189420f607fe6c36aaca97c3daacd5552c55c53fd"
+      "size": 2365,
+      "sha256": "45a030a437a8a51bbbe16859b20e2eef5f3575579078276e8c9f79e9c01d61e0"
     },
     {
       "path": "assets/images/characters/fah/fahmix/week7/tankman-mad-fah.png",
@@ -2193,8 +2193,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/week7/tankman-mad-fah.xml",
-      "size": 3337,
-      "sha256": "b9688aebe3ac3475d0e76b89c5ac0a556f5981c33f0a36cc579b18a1c5f2c25b"
+      "size": 3325,
+      "sha256": "28f279cf487aa0f314e4dd5c3f2639015ff327568c3bf6b90cc302aaa77c77bb"
     },
     {
       "path": "assets/images/characters/fah/fahmix/weekend1/darnell.png",
@@ -2203,8 +2203,8 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/weekend1/darnell.xml",
-      "size": 3134,
-      "sha256": "a54879d9e2543838882187ef53f952705aeac4218981d435ce46ff115e8e85e2"
+      "size": 3111,
+      "sha256": "71e5ddff43e3ef083b9e4d3b20df3fc3113c30bd311cf6513626cb4528154cd1"
     },
     {
       "path": "assets/images/characters/gabby/gabby.png",
@@ -2213,8 +2213,8 @@
     },
     {
       "path": "assets/images/characters/gabby/gabby.xml",
-      "size": 1937,
-      "sha256": "f8d0353a2ab526b081d7ffb18fe40f81894406e739ae416e80ac512359e9bd4d"
+      "size": 1923,
+      "sha256": "5e273b316bf9f3358c0a8cbb5dd29003acf8bbfe6f3ae54ff6c57b201b8cbe3d"
     },
     {
       "path": "assets/images/characters/gabby/garfield-bopper.png",
@@ -2223,8 +2223,8 @@
     },
     {
       "path": "assets/images/characters/gabby/garfield-bopper.xml",
-      "size": 698,
-      "sha256": "7965fcc8437328728e33c472f904c6b0458d95f6302ba9ae335e2cbca5f99dda"
+      "size": 693,
+      "sha256": "e1a6f304878ab97d6f7b7d332320e53a53d3c044bdffe0ddbdb1e602ac2e0662"
     },
     {
       "path": "assets/images/characters/gf_gone.png",
@@ -2233,8 +2233,8 @@
     },
     {
       "path": "assets/images/characters/gf_gone.xml",
-      "size": 31254,
-      "sha256": "510393928b6e85f12af95c625ec32c4501657a36b42e5a0c109c8fc1a6a9f095"
+      "size": 30999,
+      "sha256": "ae4c50da8d13c0d6d5384dc008cdf5ede3c57a01df9891e5416fbbc320ae92ef"
     },
     {
       "path": "assets/images/characters/legacy-shiftr/bf.png",
@@ -2253,8 +2253,8 @@
     },
     {
       "path": "assets/images/characters/legacy-shiftr/gabby.xml",
-      "size": 1931,
-      "sha256": "056160e76b56f83dca3557ba5556e58f5b6629bcaa834792ecc88a676637697e"
+      "size": 1917,
+      "sha256": "f911a1852c4111b4050cc8d31af4e1f5f7b49ab6e3e38a41782b286cf7e57d3d"
     },
     {
       "path": "assets/images/characters/phoenix/phoenix-bopper.png",
@@ -2263,8 +2263,8 @@
     },
     {
       "path": "assets/images/characters/phoenix/phoenix-bopper.xml",
-      "size": 3663,
-      "sha256": "af8a8570e17d7167da624713040ad1a603110ff95a98caf2172ef1f29c9104b5"
+      "size": 3640,
+      "sha256": "0952fd3bca6f1ec2bc0c1c91210bd2c0b48e5daf331a5542fd56292ca23241fa"
     },
     {
       "path": "assets/images/characters/phoenix/phoenix-mouth.png",
@@ -2273,8 +2273,8 @@
     },
     {
       "path": "assets/images/characters/phoenix/phoenix-mouth.xml",
-      "size": 4046,
-      "sha256": "12d1bab67b1de94c63d76150abb71eb4386bf009746314a7ebb2f7d03bb615ae"
+      "size": 4018,
+      "sha256": "b3b0584933a0ac8fea48f7c36617eeb15b49887b43b87b01eae9b8f6c8d9fab0"
     },
     {
       "path": "assets/images/characters/raven/raven-active-annoyed.png",
@@ -2283,8 +2283,8 @@
     },
     {
       "path": "assets/images/characters/raven/raven-active-annoyed.xml",
-      "size": 4259,
-      "sha256": "a353813225936554d035e5d4cf2866a690350f0049cf49a0282423f68376c4b2"
+      "size": 4232,
+      "sha256": "85df1cd81e3bf9533afbb04a47317750b4c9b28f53efd149f6e6ad929ec9a973"
     },
     {
       "path": "assets/images/characters/raven/raven-active.png",
@@ -2293,8 +2293,8 @@
     },
     {
       "path": "assets/images/characters/raven/raven-active.xml",
-      "size": 5277,
-      "sha256": "9e8b1625d5ba711dee356af4c9fed6b5bc9a727b765f1ad65fae5556d4cee714"
+      "size": 5242,
+      "sha256": "6d57c5187eb71e0c08e640ba1a0f7d9ddac4000d518e81a90135214be906fa0c"
     },
     {
       "path": "assets/images/characters/raven/raven-glitch.png",
@@ -2303,8 +2303,8 @@
     },
     {
       "path": "assets/images/characters/raven/raven-glitch.xml",
-      "size": 3465,
-      "sha256": "fc64be41081c9171236b63ea5e2ac920da7eaf46a5ac1322ec4b9fd6ae3c3229"
+      "size": 3442,
+      "sha256": "855ea7679706b16b0e5aaf6425230e7a8b4e942b36f4788c0c78ba9f06496210"
     },
     {
       "path": "assets/images/characters/raven/raven-super-active.png",
@@ -2313,8 +2313,8 @@
     },
     {
       "path": "assets/images/characters/raven/raven-super-active.xml",
-      "size": 4205,
-      "sha256": "d6228682afcba87556e4235d80f90a56c8936dcb763b8c8e816d60e3c0689efc"
+      "size": 4178,
+      "sha256": "02bd514afa5ea41a787b0e62473ce85bd196727171ecc7b2fa9fb1e14866539a"
     },
     {
       "path": "assets/images/characters/raven/raven.png",
@@ -2323,8 +2323,8 @@
     },
     {
       "path": "assets/images/characters/raven/raven.xml",
-      "size": 4264,
-      "sha256": "10549e39054222ea7bf08c5c147cf0137f4e29839bebb950524c0afbc309a424"
+      "size": 4234,
+      "sha256": "dca44a6cd14bfb2e77ae9d88c38198f188b1d7ba2725a8407603eff5fbafa1ae"
     },
     {
       "path": "assets/images/characters/raven/ravenanim1.png",
@@ -2333,8 +2333,8 @@
     },
     {
       "path": "assets/images/characters/raven/ravenanim1.xml",
-      "size": 3830,
-      "sha256": "c3327ad18743ba37cd1265b75d911091aae78f589dff2955f29e8d6e2fbd7a29"
+      "size": 3804,
+      "sha256": "c10856f74aec624dad91de018bf838e4df34ea7da641cc6b17776234886e2bc6"
     },
     {
       "path": "assets/images/characters/raven/ravenanim2.png",
@@ -2343,8 +2343,8 @@
     },
     {
       "path": "assets/images/characters/raven/ravenanim2.xml",
-      "size": 3284,
-      "sha256": "468da791cccf237b1b3ec380b4650d3b9e4409c11d27069be2f826a64bc37c8d"
+      "size": 3262,
+      "sha256": "10d0d13bf2faf4c78130182e38b79e4b08c2e0ea64cd88c112686c785e09ca6d"
     },
     {
       "path": "assets/images/characters/skyline/moth.png",
@@ -2353,8 +2353,8 @@
     },
     {
       "path": "assets/images/characters/skyline/moth.xml",
-      "size": 2678,
-      "sha256": "f3bbb4f7d9d553c3e5a2cf1a64e12fad8f22ba9bf6c17dbd841e6c637b97eb57"
+      "size": 2659,
+      "sha256": "5516a1bb4c93b8b8cffa09a31b1042c5846c4ce5e9110e7480246963729ca8a3"
     },
     {
       "path": "assets/images/characters/skyline/nola.png",
@@ -2363,8 +2363,8 @@
     },
     {
       "path": "assets/images/characters/skyline/nola.xml",
-      "size": 2660,
-      "sha256": "3b0f99e8daf6a53bc2b943ef672f2d7f9ce845fa71de66e80f81528ac007f851"
+      "size": 2641,
+      "sha256": "2d3e08e362c34c88891b24dc926fa139273e73ab7569773e02af0f3cc94fdc9e"
     },
     {
       "path": "assets/images/chart_quant.png",
@@ -2393,8 +2393,8 @@
     },
     {
       "path": "assets/images/countdown/fah.xml",
-      "size": 486,
-      "sha256": "74e65f82c8e593545f51067de2aa5e252b95ed0be1125c1a1af8f0afa71aaf3f"
+      "size": 482,
+      "sha256": "e614be8b3e4138f6e17ced5f0d97c05b146b4e925d8aa60374675c57921d8584"
     },
     {
       "path": "assets/images/countdown/norm.png",
@@ -2403,8 +2403,8 @@
     },
     {
       "path": "assets/images/countdown/norm.xml",
-      "size": 490,
-      "sha256": "503ce1990b72511a1aea49f430b968bdc6fad824f84132d0d0900b9f3c56cb38"
+      "size": 486,
+      "sha256": "97d39c267df10bf37ebdc5f54a19365c60e290893ddffb4cfbab8a29006b2795"
     },
     {
       "path": "assets/images/countdown/sen.png",
@@ -2413,8 +2413,8 @@
     },
     {
       "path": "assets/images/countdown/sen.xml",
-      "size": 487,
-      "sha256": "75be7f5ba2bc650221ead20ba3a8edb194430550fd951b8438d830c0a0ff115f"
+      "size": 483,
+      "sha256": "7bf9ed8e11bce1e4915d0093ad071461af7b9d74aba834dc167b68d22db1fcf4"
     },
     {
       "path": "assets/images/dablack.png",
@@ -2433,8 +2433,8 @@
     },
     {
       "path": "assets/images/dialogue-stuff/dialogue-roses.xml",
-      "size": 369,
-      "sha256": "15b2b81526ca7329073381037ddcb7659babbef730b099084edbdb149707c8eb"
+      "size": 366,
+      "sha256": "d73884bf7b95ba06cd0db0783993390564b06e2167bcb49e6b2c7abea251b60d"
     },
     {
       "path": "assets/images/dialogue-stuff/dialogue-senpai.png",
@@ -2443,8 +2443,8 @@
     },
     {
       "path": "assets/images/dialogue-stuff/dialogue-senpai.xml",
-      "size": 362,
-      "sha256": "43d25e2f511b99594c3073a5a894567a7d669f76bff7f878aae21d277f03c58b"
+      "size": 359,
+      "sha256": "4f7e4acc723f32a1c1fcb87b162b55b5a20ec26a4ab6f2212585e84d296d6b6d"
     },
     {
       "path": "assets/images/dialogue-stuff/fah-dialogue.png",
@@ -2453,8 +2453,8 @@
     },
     {
       "path": "assets/images/dialogue-stuff/fah-dialogue.xml",
-      "size": 635,
-      "sha256": "e8577d36b0b806f5716d465a62bcfe8e08b555da0b7367869a31d2e5504888aa"
+      "size": 630,
+      "sha256": "d82296452a467aafdf076beb4125fd61e9df228e09b8d14018117372931dbd92"
     },
     {
       "path": "assets/images/dialogue-stuff/raven-dialogue.png",
@@ -2463,8 +2463,8 @@
     },
     {
       "path": "assets/images/dialogue-stuff/raven-dialogue.xml",
-      "size": 650,
-      "sha256": "4deddb6d2ea148f5ffff503fe69b94d138ba8df75e0a5738abca6d40707e04a2"
+      "size": 645,
+      "sha256": "2c25abe15d9cb99ae6428c347d780de43f9ad0b186af512e2a136eec319c1f38"
     },
     {
       "path": "assets/images/dialogue-stuff/senpai-dialogue.png",
@@ -2473,8 +2473,8 @@
     },
     {
       "path": "assets/images/dialogue-stuff/senpai-dialogue.xml",
-      "size": 642,
-      "sha256": "811c394c870db22f59113525eb593115124bdeae8fef9119b584962e46e5b634"
+      "size": 637,
+      "sha256": "92bd93652c2818799d09b415fd09a5d2a76cf648a79a5264689c945239d46d7a"
     },
     {
       "path": "assets/images/dialogue-stuff/senpai-mad-dialogue.png",
@@ -2483,8 +2483,8 @@
     },
     {
       "path": "assets/images/dialogue-stuff/senpai-mad-dialogue.xml",
-      "size": 636,
-      "sha256": "1dd9e99f58e12fe0fc7fda8eda74f9a18eeb8c414c85889fcae643b20d3ec63a"
+      "size": 631,
+      "sha256": "6ccde47641ad241deee00463c3fc37498501ecda7f3eb6bf8fda343d585ad62b"
     },
     {
       "path": "assets/images/editors/silhouetteBF.png",
@@ -2518,8 +2518,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/buildings.xml",
-      "size": 762,
-      "sha256": "532dfdb1c953b8fc71fef2827d03d9b9fe22c69283a48a6ad1f4fbe88ff95e08"
+      "size": 756,
+      "sha256": "75a7a489d85147bd98b5506186c7f2082e78e85c1fa731228c7f0a6f3005cc0a"
     },
     {
       "path": "assets/images/fahmix/week 3/buildings/buildings-cyan.png",
@@ -2528,8 +2528,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/buildings/buildings-cyan.xml",
-      "size": 506,
-      "sha256": "5b44b01c9aef24bb709728f0154117f7067a8234540637fb49717150de8de3c7"
+      "size": 502,
+      "sha256": "d449f803af5f2cf2ad1033bcc19f8fe3320d64978150c08f4a4bb279d93eb5a7"
     },
     {
       "path": "assets/images/fahmix/week 3/buildings/buildings-green.png",
@@ -2538,8 +2538,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/buildings/buildings-green.xml",
-      "size": 507,
-      "sha256": "0d36d1d1e3488479533cbc9a0a574a971fdfb68335d3bdc00bfa51f2f4c6c9c1"
+      "size": 503,
+      "sha256": "27477e21e27fc83d4655b660e22dd586583d70232acfeb88a7e3c132a110ed7d"
     },
     {
       "path": "assets/images/fahmix/week 3/buildings/buildings-purple.png",
@@ -2548,8 +2548,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/buildings/buildings-purple.xml",
-      "size": 508,
-      "sha256": "f151af405aadfb02a1d3f8817b67dee8a5e594212df1078e1c6d275d22bc2daf"
+      "size": 504,
+      "sha256": "03680f8d9789446568148a650d5f13ab50e5de74dff8a5b6657811969408b677"
     },
     {
       "path": "assets/images/fahmix/week 3/buildings/buildings-red.png",
@@ -2558,8 +2558,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/buildings/buildings-red.xml",
-      "size": 505,
-      "sha256": "2607df3ed18b33e27f48fdb76caa060e75e88f99f0a6c4f5ecc1494e0e27d8cb"
+      "size": 501,
+      "sha256": "5c6181c9e2dd5d3f883088afbffe8f9508f27aca7f59859b4c0638f66dd70b2f"
     },
     {
       "path": "assets/images/fahmix/week 3/buildings/buildings-yellow.png",
@@ -2568,8 +2568,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/buildings/buildings-yellow.xml",
-      "size": 508,
-      "sha256": "2bf41e87c603ed323e0579ce10d989765616c75104425c60879fbe77034d9518"
+      "size": 504,
+      "sha256": "0421ebb2bf614bd6b2329cbbe8ed04a5f1b775d7347740029001335adb0aea6e"
     },
     {
       "path": "assets/images/fahmix/week 3/drop-note.png",
@@ -2578,8 +2578,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/drop-note.xml",
-      "size": 1151,
-      "sha256": "2760d9cc1c75d3974fa49c3d54f20f2b77dcc1d01d65be2da975021623b804af"
+      "size": 1142,
+      "sha256": "ee6c9dc827d274456ed89f6c046baf88b580e4d93d873dfbb1db74012dfab1c5"
     },
     {
       "path": "assets/images/fahmix/week 3/fahreddy.png",
@@ -2588,8 +2588,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/fahreddy.xml",
-      "size": 387,
-      "sha256": "8f8a3e57ab8f16db13957b81c316393483515348af7d41c4048a83aa72371b82"
+      "size": 384,
+      "sha256": "6ed07339177c58c3f82cc486904c0831ea6889a47871c38842bcd017368c9b7b"
     },
     {
       "path": "assets/images/fahmix/week 3/floor.png",
@@ -2598,8 +2598,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/floor.xml",
-      "size": 506,
-      "sha256": "5f227f76a4ef771f8ff7163b798d056794c45949b4f018c5d8c3c84be9f4f641"
+      "size": 502,
+      "sha256": "059c4a2f89d0d695fc06073e69edd81388628908f170d654b78fbe67f05514be"
     },
     {
       "path": "assets/images/fahmix/week 3/foo.png",
@@ -2608,8 +2608,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/foo.xml",
-      "size": 360,
-      "sha256": "d05c92d0591c06d6d354ff75f83db51deb6359fc854703a410efd2ed5fad398f"
+      "size": 357,
+      "sha256": "e2733dc3ab61c45daeb8d0313865ae12112df0c857f275f789be7bfefcf9bc2b"
     },
     {
       "path": "assets/images/fahmix/week 3/front poles.png",
@@ -2618,8 +2618,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/front poles.xml",
-      "size": 506,
-      "sha256": "68c1643bde9ef048660f5015d919d448299fa245e55d79f58bceafbf2e600f2c"
+      "size": 502,
+      "sha256": "1b1a8c810a71e9aeed1822f8d745d5d94556e6869b98df36a323db610d0a6c22"
     },
     {
       "path": "assets/images/fahmix/week 3/lines.png",
@@ -2628,8 +2628,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/lines.xml",
-      "size": 503,
-      "sha256": "d83960d6831c98f9ccc2748874e19cd6b2cf67d3dbb89a756f470900045111ae"
+      "size": 499,
+      "sha256": "18741c6b528c461a46caab7bcedc4e72b7446dc8dc4d38163530641078d468a4"
     },
     {
       "path": "assets/images/fahmix/week 3/mad.png",
@@ -2638,8 +2638,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/mad.xml",
-      "size": 361,
-      "sha256": "ecb624a57a46144723b812032c5710e2e8bf8e0b2f8482f80d75bdee4b802504"
+      "size": 358,
+      "sha256": "951efa428582be227c961d0d218d655adcc137cd9b7ac4f36e564fcb9e58ae82"
     },
     {
       "path": "assets/images/fahmix/week 3/moon.png",
@@ -2648,8 +2648,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/moon.xml",
-      "size": 497,
-      "sha256": "256a87400f50b7506272180edda74246f92db244afe3e5d0d52a37aa491cdfe8"
+      "size": 493,
+      "sha256": "7f502fde2a20cb03bda97607197cf78a28cf9b104035ec78cc63f8e9fda22063"
     },
     {
       "path": "assets/images/fahmix/week 3/morticco.png",
@@ -2658,8 +2658,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/morticco.xml",
-      "size": 377,
-      "sha256": "333aed25aae851a080833e17998478684c2d02088276577a545cb8c71229d501"
+      "size": 374,
+      "sha256": "78f7b55ff15e2dc591d2bb2b2e9ae890f287abaeb855730e6cee460012c43746"
     },
     {
       "path": "assets/images/fahmix/week 3/newgrounds-walkers.png",
@@ -2668,8 +2668,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/newgrounds-walkers.xml",
-      "size": 3923,
-      "sha256": "90a4447f6b055290bf8e315933d842d6db13c01a855779d4b3a766acbfd56eb8"
+      "size": 3898,
+      "sha256": "8dad75810c01cd9ff079017b0071142cbb8d8ae4079545b20106536a39bdb7ea"
     },
     {
       "path": "assets/images/fahmix/week 3/paper/paper-cyan.png",
@@ -2678,8 +2678,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/paper/paper-cyan.xml",
-      "size": 917,
-      "sha256": "a8aaacb49c5b1c536d90ac6de8334e172d93650310320c49b90ce70507321011"
+      "size": 910,
+      "sha256": "a769c04811e9eef91880aa857e97323d31e33c3312d1a01d1c649ac212f40dd9"
     },
     {
       "path": "assets/images/fahmix/week 3/paper/paper-green.png",
@@ -2688,8 +2688,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/paper/paper-green.xml",
-      "size": 918,
-      "sha256": "a1fad8b80664f34ad15587d502f18752c7ec2836e4707032aecfc6b58b79c5aa"
+      "size": 911,
+      "sha256": "65e12e2ed38d21c40fb1c85f6626fce2c01ba441137744fa3bb384dfb0d287a0"
     },
     {
       "path": "assets/images/fahmix/week 3/paper/paper-purple.png",
@@ -2698,8 +2698,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/paper/paper-purple.xml",
-      "size": 919,
-      "sha256": "1d50154e2124443b633b3327a90af6b190ddacb82e2b0a98523294c3f1687895"
+      "size": 912,
+      "sha256": "b07106dada1e4372791e6431a8c8b2b3e4f27f17879a36d3a83e9f3fbdf97463"
     },
     {
       "path": "assets/images/fahmix/week 3/paper/paper-red.png",
@@ -2708,8 +2708,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/paper/paper-red.xml",
-      "size": 916,
-      "sha256": "04a3bc435ac51905ea7c9cdf6cba6aa0e14838a870e146b118dcf985c9cdd5b9"
+      "size": 909,
+      "sha256": "513878bf5ae5e6e316a421f33042a9b8d31e6b9cb4d06220b777b3201ea01f9b"
     },
     {
       "path": "assets/images/fahmix/week 3/paper/paper-yellow.png",
@@ -2718,8 +2718,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/paper/paper-yellow.xml",
-      "size": 919,
-      "sha256": "e16916db4f45bf2afb7db853da8f2f5932dca0f1d977d868298545a0d12f0ff5"
+      "size": 912,
+      "sha256": "ed58ce8ce8b23083d341b6b957f59a90a125080d4cd0144a150170671a89492a"
     },
     {
       "path": "assets/images/fahmix/week 3/parvin.png",
@@ -2728,8 +2728,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/parvin.xml",
-      "size": 376,
-      "sha256": "ff5b8e48478a2bbb7128cef19f2ebfa35b5d0a245fe861451430d209fe0dbaf2"
+      "size": 373,
+      "sha256": "29a3411cc5e3adb7bbc8df6202fa4fc7700d8718d12538deb3bf19e2ed233f65"
     },
     {
       "path": "assets/images/fahmix/week 3/philly-nice-logo.png",
@@ -2743,8 +2743,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/poles.xml",
-      "size": 503,
-      "sha256": "09458fd479fb24f8f707dbff0a7dcc1d40d44f9479368206b3ed46a07ce044f5"
+      "size": 499,
+      "sha256": "7b07556608b3c2ebd11987cfe9f15b88dc8b7ecfad2b1ba8cef2b68935d367d8"
     },
     {
       "path": "assets/images/fahmix/week 3/splat.png",
@@ -2753,8 +2753,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/splat.xml",
-      "size": 490,
-      "sha256": "7ac6453d6d92f367523dd8c0bb5ab1732919207b645b1538d1506e189212196d"
+      "size": 486,
+      "sha256": "92682284300d0fe794f3877385ff234ef87b9c88ae6bab683585b59161f44555"
     },
     {
       "path": "assets/images/fahmix/week 3/train.png",
@@ -2763,8 +2763,8 @@
     },
     {
       "path": "assets/images/fahmix/week 3/train.xml",
-      "size": 513,
-      "sha256": "196f836cd1745abffb8379d3a3482015812136be3d31cdee84e558939e2744f8"
+      "size": 509,
+      "sha256": "6c2f262695abc2e25627ed622ffffbf00fb4c98f67206ad9f2bc03ea7d51680b"
     },
     {
       "path": "assets/images/fahmix/week 3/waterbullet.png",
@@ -2783,8 +2783,8 @@
     },
     {
       "path": "assets/images/fahmix/week0/down.xml",
-      "size": 361,
-      "sha256": "7c3cb6206503ab5e003bd8081f4ebb5653af24f865c46c7afe7de85a159be21d"
+      "size": 358,
+      "sha256": "a94e2031f6676f8f4fa154933737e8c863fdf0b5c72e2ac01a2a5d1834048560"
     },
     {
       "path": "assets/images/fahmix/week0/left.png",
@@ -2793,8 +2793,8 @@
     },
     {
       "path": "assets/images/fahmix/week0/left.xml",
-      "size": 361,
-      "sha256": "7bb2931115350bad9e420b60383dac27d485d2a0b2846d01480e86714fb79063"
+      "size": 358,
+      "sha256": "7c5bb86e4a82d768212882c844c863a73dd1ce2cda3bb88be7ae1b6acff14ce8"
     },
     {
       "path": "assets/images/fahmix/week0/logo.png",
@@ -2808,8 +2808,8 @@
     },
     {
       "path": "assets/images/fahmix/week0/right.xml",
-      "size": 359,
-      "sha256": "620f3b3b32684af134ceeba9707b5f49e2aaabe9f23ebd8ce8b8443641620921"
+      "size": 356,
+      "sha256": "f58ca2b4f45be31c77f9654217a54cb140ef7eccfb37a6ec82687e005437fb80"
     },
     {
       "path": "assets/images/fahmix/week0/up.png",
@@ -2818,8 +2818,8 @@
     },
     {
       "path": "assets/images/fahmix/week0/up.xml",
-      "size": 359,
-      "sha256": "e91e23b56ff95e72a22f0fd7a909cb6bb72fa429ec7c9b900878337cb67b4178"
+      "size": 356,
+      "sha256": "7137bbef554973beb4913582ac30f872cb840b537a75509b506cb1c939812717"
     },
     {
       "path": "assets/images/fahmix/week1.png",
@@ -2843,8 +2843,8 @@
     },
     {
       "path": "assets/images/fahmix/week1/brick-dad-fah.xml",
-      "size": 544,
-      "sha256": "ffd8ae8424ba17e4f04601bd95b5e6d4b04634f78b6b8550484a67001cd757ea"
+      "size": 540,
+      "sha256": "0dc49daf1e9608d194cac7f091400062ff0acd4c99f5dd94ff6aa54a27bdf078"
     },
     {
       "path": "assets/images/fahmix/week1/curtain-dad-fah.png",
@@ -2853,8 +2853,8 @@
     },
     {
       "path": "assets/images/fahmix/week1/curtain-dad-fah.xml",
-      "size": 555,
-      "sha256": "ebd32205beda0bbc92fd35c540ea385a82c3fc7111abf7519a099f1ee42a7588"
+      "size": 551,
+      "sha256": "92206d4e0504ad0001b91d0a8bc67309e82a3c98ec57d4c85683ad62b9ef2755"
     },
     {
       "path": "assets/images/fahmix/week1/dadbattle-credits.png",
@@ -2883,8 +2883,8 @@
     },
     {
       "path": "assets/images/fahmix/week1/light-dad-fah.xml",
-      "size": 538,
-      "sha256": "b39461a474bf99c6c3889126d6620178910dba228fef5d2fa795eb5938d6ae66"
+      "size": 534,
+      "sha256": "f73c0541c17bbd130ef39105b4edb53ca5b58c1f9b2d4713cc1f6b053bb808b8"
     },
     {
       "path": "assets/images/fahmix/week1/MicNotes.png",
@@ -2893,8 +2893,8 @@
     },
     {
       "path": "assets/images/fahmix/week1/MicNotes.xml",
-      "size": 1154,
-      "sha256": "4fb2bb94cb2948f0ac0181ba551f5b5ebcd608a12656265d1fa3142fc1387348"
+      "size": 1145,
+      "sha256": "e2f9698670e6aaed1e27ed48fe7aae48622fb9f7b30f4c3a32976cfc5868a51c"
     },
     {
       "path": "assets/images/fahmix/week1/popper.png",
@@ -2903,8 +2903,8 @@
     },
     {
       "path": "assets/images/fahmix/week1/popper.xml",
-      "size": 509,
-      "sha256": "b83387eb0d9e2a8f144f326db522b1ab89392b9b4ccd1af79058af330d65971b"
+      "size": 505,
+      "sha256": "592899384304bc4c79f47be3462d1b033d0c33ba5a4ce2c1bf4c3cf55749bf5b"
     },
     {
       "path": "assets/images/fahmix/week1/spotlight-dad-fah.png",
@@ -2913,8 +2913,8 @@
     },
     {
       "path": "assets/images/fahmix/week1/spotlight-dad-fah.xml",
-      "size": 553,
-      "sha256": "59b684d6f3e73dbd9463e84def2afb17b468336342240fd1f8a5ef251c342695"
+      "size": 549,
+      "sha256": "11dba8104f854e78b235ca9dfe343c0e28d5d5a93544275bee0ed7eb7d786228"
     },
     {
       "path": "assets/images/fahmix/week1/stage-dad-fah.png",
@@ -2923,8 +2923,8 @@
     },
     {
       "path": "assets/images/fahmix/week1/stage-dad-fah.xml",
-      "size": 544,
-      "sha256": "d004de2afc02d1408173c81883127816ea16d60fbfb61691128f60e70a459d97"
+      "size": 540,
+      "sha256": "2ba331ec2369e45871573ed61246b342c772a4b874ae0cd3deb89d757222b71a"
     },
     {
       "path": "assets/images/fahmix/week2.png",
@@ -2938,8 +2938,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/background.xml",
-      "size": 505,
-      "sha256": "fa10eab1295652461201b5a69a5d5fc226be65da22e64cdc1aa16c416ec53ef1"
+      "size": 501,
+      "sha256": "192f161519449af8719cb2da2f31ba03c141af735ef0bbdbb14d10352044aeda"
     },
     {
       "path": "assets/images/fahmix/week2/break.png",
@@ -2948,8 +2948,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/break.xml",
-      "size": 354,
-      "sha256": "d9c2c2e121433c78217192149319c85e311e0c774aba9887fb0c5a5f43014964"
+      "size": 351,
+      "sha256": "0a042b5d9d9997c4c33fc8aba0e5026df2626debffb051f81e7dda713675e4a1"
     },
     {
       "path": "assets/images/fahmix/week2/cat.png",
@@ -2958,8 +2958,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/cat.xml",
-      "size": 353,
-      "sha256": "9b44e44cfcdeeea2b19907dbc982e01fddba30f1c63099cca0b38624372f4abb"
+      "size": 350,
+      "sha256": "078fd6a29b19c1d1ee5a8972037257ac556c39e9047a4fb80ead63fd31197b7e"
     },
     {
       "path": "assets/images/fahmix/week2/down.png",
@@ -2968,8 +2968,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/down.xml",
-      "size": 353,
-      "sha256": "6704c4ad0c195cb6e24b651d28a8bfef348497fcea456d8127cd71affacc2b65"
+      "size": 350,
+      "sha256": "111fa95d9cc6e4f74d4aee58a1936c74030de6fccbd36296f42b16c58252489e"
     },
     {
       "path": "assets/images/fahmix/week2/fah-spookykids.png",
@@ -2978,8 +2978,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/fah-spookykids.xml",
-      "size": 3776,
-      "sha256": "bc77c15f129bdc1a2ca5c28746f2b8d97cba53383daca271e9772b224634e8cb"
+      "size": 3748,
+      "sha256": "00d19ebffdfe4e1325b0377827346eba463fe4877dc4e4f56463672b7a32b1d7"
     },
     {
       "path": "assets/images/fahmix/week2/haha.png",
@@ -2988,8 +2988,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/haha.xml",
-      "size": 364,
-      "sha256": "6e9aa08561ba8011d5231c1d43efa0bff9bb00e4259dc8faac5efd3395c2b4d7"
+      "size": 361,
+      "sha256": "ae162b4f99978fbfb25c3b372a86289a6dc2052dda8521175bd0407559dd81c3"
     },
     {
       "path": "assets/images/fahmix/week2/it.png",
@@ -2998,8 +2998,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/it.xml",
-      "size": 351,
-      "sha256": "fdff49db54aa0fdd1119eaec18cc84904f30762d077f2f1d37495451e66f613f"
+      "size": 348,
+      "sha256": "c2a57f15ea34c9d89c24b7d93e787a23e1f50c5ef9c8c22631dfd60969fced29"
     },
     {
       "path": "assets/images/fahmix/week2/left.png",
@@ -3008,8 +3008,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/left.xml",
-      "size": 361,
-      "sha256": "7bb2931115350bad9e420b60383dac27d485d2a0b2846d01480e86714fb79063"
+      "size": 358,
+      "sha256": "7c5bb86e4a82d768212882c844c863a73dd1ce2cda3bb88be7ae1b6acff14ce8"
     },
     {
       "path": "assets/images/fahmix/week2/paper.png",
@@ -3018,8 +3018,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/paper.xml",
-      "size": 912,
-      "sha256": "13e3a12303dc387809ad7851a59022e56edda0bac0dec07d33a28b01473fcf37"
+      "size": 905,
+      "sha256": "1065c19f5f4ef6c3a62456f23a0f7868207ec994918fb9c4fd177d7ac3126bea"
     },
     {
       "path": "assets/images/fahmix/week2/phoenix-spooky-lightning.png",
@@ -3028,8 +3028,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/phoenix-spooky-lightning.xml",
-      "size": 1439,
-      "sha256": "7b8c130e3dbecb8784d36cb8c6ecc9f4defc05ccf0b9de39ea07de906bea701d"
+      "size": 1428,
+      "sha256": "ecdbe3bdf4b74d3751b1973b1bc2cbf31afa4354d31a3ebcd41d8eae88a6d5ee"
     },
     {
       "path": "assets/images/fahmix/week2/phoenix-spooky.png",
@@ -3038,8 +3038,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/phoenix-spooky.xml",
-      "size": 1439,
-      "sha256": "7b8c130e3dbecb8784d36cb8c6ecc9f4defc05ccf0b9de39ea07de906bea701d"
+      "size": 1428,
+      "sha256": "ecdbe3bdf4b74d3751b1973b1bc2cbf31afa4354d31a3ebcd41d8eae88a6d5ee"
     },
     {
       "path": "assets/images/fahmix/week2/raven-spooky-lightning.png",
@@ -3048,8 +3048,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/raven-spooky-lightning.xml",
-      "size": 1433,
-      "sha256": "dd7e62992cc284ccbe889f45fa5cb53d4a8e897d5a86b83c38247ddfa487fb58"
+      "size": 1422,
+      "sha256": "f7e6692245e43a7166ae6885d5f337f507ebc0f04556f39aaeb51cadbb51ec29"
     },
     {
       "path": "assets/images/fahmix/week2/raven-spooky.png",
@@ -3058,8 +3058,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/raven-spooky.xml",
-      "size": 1433,
-      "sha256": "dd7e62992cc284ccbe889f45fa5cb53d4a8e897d5a86b83c38247ddfa487fb58"
+      "size": 1422,
+      "sha256": "f7e6692245e43a7166ae6885d5f337f507ebc0f04556f39aaeb51cadbb51ec29"
     },
     {
       "path": "assets/images/fahmix/week2/right.png",
@@ -3068,8 +3068,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/right.xml",
-      "size": 359,
-      "sha256": "620f3b3b32684af134ceeba9707b5f49e2aaabe9f23ebd8ce8b8443641620921"
+      "size": 356,
+      "sha256": "f58ca2b4f45be31c77f9654217a54cb140ef7eccfb37a6ec82687e005437fb80"
     },
     {
       "path": "assets/images/fahmix/week2/scared.png",
@@ -3078,8 +3078,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/scared.xml",
-      "size": 351,
-      "sha256": "4059df9a2103350e57f669e7f6d0d06a588dd85a74cd97421e9af373eb6234d6"
+      "size": 348,
+      "sha256": "e979422630dc0d2220dd42bce14e81ee3a457fce29a29ded9a5e6d3075598621"
     },
     {
       "path": "assets/images/fahmix/week2/spookeez-credits.png",
@@ -3098,8 +3098,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/Spooky-fah.xml",
-      "size": 6772,
-      "sha256": "aea1407c4bd20e3de14832974a439b13f9ad26570bd69b70edb25b746e6cfe96"
+      "size": 6736,
+      "sha256": "d8e5a774514830d5429de60da63cbf9dcb895c803b3e41d1984d1c2e9d2f371b"
     },
     {
       "path": "assets/images/fahmix/week2/ToT.png",
@@ -3108,8 +3108,8 @@
     },
     {
       "path": "assets/images/fahmix/week2/ToT.xml",
-      "size": 353,
-      "sha256": "a3c05a83a891cd9ae8a56ee45002d7539e5fe54fbf7d319094e4c47b0109b449"
+      "size": 350,
+      "sha256": "30b9944e692f8cc029037681efba8fa804cd8d06df35ada31b60d2b2938ed0d4"
     },
     {
       "path": "assets/images/fahmix/week3.png",
@@ -3128,8 +3128,8 @@
     },
     {
       "path": "assets/images/fahmix/week4/back-lamp-high.xml",
-      "size": 496,
-      "sha256": "41001c547fd3aca34fa3d24c99c01083dd34992e6512122c959f84f288744f69"
+      "size": 492,
+      "sha256": "cddc3c1003e38bf96b4cc6432e1fb83990945c529b0968c4838ef9d192f9fe0d"
     },
     {
       "path": "assets/images/fahmix/week4/back-lamp-low.png",
@@ -3138,8 +3138,8 @@
     },
     {
       "path": "assets/images/fahmix/week4/back-lamp-low.xml",
-      "size": 495,
-      "sha256": "cf4f3798122cc42582e3c04519d3f274cd5efb3d0939a94c6df595b0108a632a"
+      "size": 491,
+      "sha256": "a2ed9356419fff74dbad6a953c6d4c198f5bb82c1140ad0c74799e70e89f6bbc"
     },
     {
       "path": "assets/images/fahmix/week4/backcar.png",
@@ -3148,8 +3148,8 @@
     },
     {
       "path": "assets/images/fahmix/week4/backcar.xml",
-      "size": 499,
-      "sha256": "d02b9dfe1c73e58c08ed6aec34e1518ab34d0d6da36d1e5b662e72677e827ff4"
+      "size": 495,
+      "sha256": "1e1b5e3f1a3fa738dbc91fbb2245379aa28945d4c626375cbca0c0920bfbb46b"
     },
     {
       "path": "assets/images/fahmix/week4/fahny.png",
@@ -3158,8 +3158,8 @@
     },
     {
       "path": "assets/images/fahmix/week4/fahny.xml",
-      "size": 360,
-      "sha256": "c26249bcbc1f78be5c58f051bc315a9c99c311f813415fd3e2e5be1801405ac1"
+      "size": 357,
+      "sha256": "2853ea3f07f187d1282777dbe6366d158509f2f2f18954357e6c2bbfa05666a4"
     },
     {
       "path": "assets/images/fahmix/week4/fahrunner.png",
@@ -3168,8 +3168,8 @@
     },
     {
       "path": "assets/images/fahmix/week4/fahrunner.xml",
-      "size": 372,
-      "sha256": "5d84dab704e43b10d32243f582ea2e1f4909ea48df7f36b75fefcaa468815547"
+      "size": 369,
+      "sha256": "451667d943044c62596d65179e8dfa79b3e97f52652e37f68108d4b2ac1c8067"
     },
     {
       "path": "assets/images/fahmix/week4/front-lamp-high.png",
@@ -3178,8 +3178,8 @@
     },
     {
       "path": "assets/images/fahmix/week4/front-lamp-high.xml",
-      "size": 503,
-      "sha256": "fe501c0610e23b35e43993288601b8549ac74faddda517d9836c89d47cb6a2b1"
+      "size": 499,
+      "sha256": "9321925fb19f805a3e43690096c6d51fd4c8f7bfffe99a81506bddd975040330"
     },
     {
       "path": "assets/images/fahmix/week4/front-lamp-low.png",
@@ -3188,8 +3188,8 @@
     },
     {
       "path": "assets/images/fahmix/week4/front-lamp-low.xml",
-      "size": 496,
-      "sha256": "95d040f7ee15ef07df1dc3914c812ddc0d444f87160d7f8912ac7673eb02eff4"
+      "size": 492,
+      "sha256": "ce7ed970a3768e13cc4c0fe5e695f18417f828cb94211d10eeefed7480883ede"
     },
     {
       "path": "assets/images/fahmix/week4/frontcar.png",
@@ -3198,8 +3198,8 @@
     },
     {
       "path": "assets/images/fahmix/week4/frontcar.xml",
-      "size": 501,
-      "sha256": "5edc65cb75a8d8786767ce2dbc39b9d95f3fc495e7c426085b2f98f2127c36a6"
+      "size": 497,
+      "sha256": "ac627908fce1baff8b0a4c2132fc085828f875af300b0431a2fff7a1598242ed"
     },
     {
       "path": "assets/images/fahmix/week4/high-credits.png",
@@ -3218,8 +3218,8 @@
     },
     {
       "path": "assets/images/fahmix/week4/indicator.xml",
-      "size": 634,
-      "sha256": "4a391fe93dc400d08d9599ecd80454144b6d73d876fdce39e68c6bf0915a8baa"
+      "size": 629,
+      "sha256": "2b8e449de9b6fce0fbccc26c09dc883bd7402fe6b37760b20d8fbca605a1cfb4"
     },
     {
       "path": "assets/images/fahmix/week4/lines.png",
@@ -3228,8 +3228,8 @@
     },
     {
       "path": "assets/images/fahmix/week4/lines.xml",
-      "size": 504,
-      "sha256": "c63e15ac84907515dd5fd9e07a157972b79f75a8ff1201da387cf104c26eec46"
+      "size": 500,
+      "sha256": "e23204a01efb44c3e1a3a2d688bbf66e33c77ab29372a0c4f051182d9dbf0d93"
     },
     {
       "path": "assets/images/fahmix/week4/mama-credits.png",
@@ -3248,8 +3248,8 @@
     },
     {
       "path": "assets/images/fahmix/week4/many.xml",
-      "size": 357,
-      "sha256": "8c21c4177f1b7430919f4cbde39642726a7d441aa2ff76eb4d282096ab5ff91f"
+      "size": 354,
+      "sha256": "f37ff4d05cf9f40224617344c85c053695b31901d4b1755107760d2fbb3273cf"
     },
     {
       "path": "assets/images/fahmix/week4/minion.png",
@@ -3258,8 +3258,8 @@
     },
     {
       "path": "assets/images/fahmix/week4/minion.xml",
-      "size": 896,
-      "sha256": "fbcf66715a41faa7bd20facabd793d6c653bfc83cf522a838f32fc3c6bebe630"
+      "size": 889,
+      "sha256": "fd75d03e839f41fc985f530a8374af999dc7dabed4e9cb8c5a92149bb1a72262"
     },
     {
       "path": "assets/images/fahmix/week4/miniopndeadtophalf.png",
@@ -3273,8 +3273,8 @@
     },
     {
       "path": "assets/images/fahmix/week4/sun.xml",
-      "size": 495,
-      "sha256": "85ebfc3c91e0ca8f1eec17f304716cd00ca451596d2aa65f59f5b6c1ceb71ef7"
+      "size": 491,
+      "sha256": "0776fad61e2c4423fc6a79b72b39ec8b127a41d90c410331fb3029e7c2c46f33"
     },
     {
       "path": "assets/images/fahmix/week4/undies-credits.png",
@@ -3303,8 +3303,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/aubrey.xml",
-      "size": 501,
-      "sha256": "694ed6c5cefb931448d7795d9f7671bda36aa66a4ba975b773ba0a7f2002bcc5"
+      "size": 497,
+      "sha256": "8cf59a136d8797b0c82507fe05c3797035850620aeaca1fd5c15041a864fcad1"
     },
     {
       "path": "assets/images/fahmix/week5/back-merry.png",
@@ -3313,8 +3313,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/back-merry.xml",
-      "size": 499,
-      "sha256": "1e4531c564e2c94ddc69991fa4e9163918ac62a2d0a8a801c4b3b12a5c7daa81"
+      "size": 495,
+      "sha256": "94adfd94219842e7295fb1630b55f63ea009f4ede07c06d8054b82e3fd77cf8b"
     },
     {
       "path": "assets/images/fahmix/week5/bg-merry.png",
@@ -3323,8 +3323,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/bg-merry.xml",
-      "size": 918,
-      "sha256": "d7c24758f440b73050b94e2c3a3bf5207c834195774eedbe7416926efe2563e7"
+      "size": 910,
+      "sha256": "35ad8de7e6acae2afa871b6fc0b00e202c4589fe721b600a13ba59dd167e2192"
     },
     {
       "path": "assets/images/fahmix/week5/biggest.png",
@@ -3333,8 +3333,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/biggest.xml",
-      "size": 356,
-      "sha256": "6adb584726a1d8df8bdf7c9d7773a41b066b82552edf5784e947d38fa76966ea"
+      "size": 353,
+      "sha256": "01ced985f5064dd7de57fdf43c28fb83b5b33527e25e12e113b0f640a417b4e3"
     },
     {
       "path": "assets/images/fahmix/week5/biters/dad-bite.png",
@@ -3343,8 +3343,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/biters/dad-bite.xml",
-      "size": 789,
-      "sha256": "37f77fb4f608c10e6c4a6f6356e48712b4c70a73db259dfb57b75de20f4fbba8"
+      "size": 783,
+      "sha256": "e399bb5be1b503ba2c802e536b711fe820cfbde62c0e0a5e322d57e11c49066a"
     },
     {
       "path": "assets/images/fahmix/week5/biters/fah-bite.png",
@@ -3353,8 +3353,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/biters/fah-bite.xml",
-      "size": 936,
-      "sha256": "0a493bb0682966ed2561d0da0a30ab666a19f1bb1ba92960b23d28cdc7001d77"
+      "size": 929,
+      "sha256": "29118ff8ef0818208c672c66f468790750434538875f141a23ad5d8e5782fce8"
     },
     {
       "path": "assets/images/fahmix/week5/biters/mom-bite.png",
@@ -3363,8 +3363,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/biters/mom-bite.xml",
-      "size": 789,
-      "sha256": "63fddcabc91a51b6be81c6d703488e7fa0a219f736cf93c496c357279867baeb"
+      "size": 783,
+      "sha256": "81db2acf22f5353efb68bea4af47db43d5ec10a5f382c086732f6e45f48ef743"
     },
     {
       "path": "assets/images/fahmix/week5/dahlia.png",
@@ -3373,8 +3373,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/dahlia.xml",
-      "size": 501,
-      "sha256": "5086c0e1fc81e32c3d36e7eb92f1d3afad84616a3976599a752c7fd5874169c0"
+      "size": 497,
+      "sha256": "fdb813991bd774c15737b8150d6b7aa5bb993eabff2515e6c1d9e05f0c9351f3"
     },
     {
       "path": "assets/images/fahmix/week5/dusk.png",
@@ -3383,8 +3383,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/dusk.xml",
-      "size": 499,
-      "sha256": "3354958ea5b44a60402580eef1fdfcece7be84547df4ed1c1a81b425e4cad428"
+      "size": 495,
+      "sha256": "86e2a750d82dabe2c87ffd8b08794d7a58564f02cfe1caf361babc320e49314e"
     },
     {
       "path": "assets/images/fahmix/week5/eggnog-credits.png",
@@ -3403,8 +3403,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/lights.xml",
-      "size": 896,
-      "sha256": "fb01ee3f8073b26d953c1284ab9cd884016c022238c001b6be20d2f36ff11663"
+      "size": 889,
+      "sha256": "68b2e350b73893fffac73e721e44dc748d1fc0ab5a07ee67b8935f83d3aca85f"
     },
     {
       "path": "assets/images/fahmix/week5/lolly.png",
@@ -3418,8 +3418,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/merry-pee.xml",
-      "size": 623,
-      "sha256": "6058a66ef8778f53f9bed273c78fb3a6e059cef4e7ca35ebfab7be96b69cd48c"
+      "size": 618,
+      "sha256": "e7c393c575c61e103fbf22050140e9cfed800cf9c6e23507db6126cb7d7a227f"
     },
     {
       "path": "assets/images/fahmix/week5/merry-ray.png",
@@ -3428,8 +3428,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/merry-ray.xml",
-      "size": 623,
-      "sha256": "2b27458fbb635afda1de3108e1d31fa2354cd4d1945077be2a7360cf63e7857b"
+      "size": 618,
+      "sha256": "db8f6b3b1987be9ed0b24b921b27164d67864eb7ee343e0c0b58577a4c4e6357"
     },
     {
       "path": "assets/images/fahmix/week5/middle.png",
@@ -3438,8 +3438,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/middle.xml",
-      "size": 360,
-      "sha256": "9004992e047c2e184344e1ed5a2334740c907e56dc16fdee303380c130285b93"
+      "size": 357,
+      "sha256": "84cca23bbaf3208dd716bac41f4ef4db9e37b345353087dbf73d706ed6177f56"
     },
     {
       "path": "assets/images/fahmix/week5/poppy.png",
@@ -3448,8 +3448,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/poppy.xml",
-      "size": 480,
-      "sha256": "bc786777204f15d65f9d0bc1757ae0e393d945ac0d057ed542819b4dcb8a7252"
+      "size": 476,
+      "sha256": "dc4d0096eb6002009e3ddd052ae188f59ef43ae1d40d3474fc776a0a5771a19f"
     },
     {
       "path": "assets/images/fahmix/week5/salena.png",
@@ -3458,8 +3458,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/salena.xml",
-      "size": 488,
-      "sha256": "9f2d15e8679e740672c02bb2da6571b6fd4d42e2b6f8001a3c539e914d43fc32"
+      "size": 484,
+      "sha256": "95f30699a4e37df1d764756bb43c28dccda6e5c19daa0aac340cd1445e2f0b87"
     },
     {
       "path": "assets/images/fahmix/week5/santa.png",
@@ -3468,8 +3468,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/santa.xml",
-      "size": 896,
-      "sha256": "ff5a54a12386cebaceceb82fe0468ae95c53e237ddcf726fcdc3c1c30636dd0e"
+      "size": 889,
+      "sha256": "f8a6fd83fb1c1ead56f278d0060b46d061fd3b07a360277af0b2b07674f0410e"
     },
     {
       "path": "assets/images/fahmix/week5/second-biggest.png",
@@ -3478,8 +3478,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/second-biggest.xml",
-      "size": 367,
-      "sha256": "3fb02018eeb25c322d3c9e85b72d9364b7adb1fa446e6c121b6947cbf23de482"
+      "size": 364,
+      "sha256": "702f0f2541d747ce7fedebdbe1360f0f814637d64c3fcb039b007fcdf74cde6f"
     },
     {
       "path": "assets/images/fahmix/week5/second-smallest.png",
@@ -3488,8 +3488,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/second-smallest.xml",
-      "size": 365,
-      "sha256": "96da48b4df84a0b382373ec3fc6563ecf5a23e9cf304ac6cbfa47a9b48850c9e"
+      "size": 362,
+      "sha256": "bdad5826a551846abc12ee2ef019f191b763ab7635a26826b3ae18e1407ac3bb"
     },
     {
       "path": "assets/images/fahmix/week5/smallest.png",
@@ -3498,8 +3498,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/smallest.xml",
-      "size": 352,
-      "sha256": "4b6e1dc3e00d5f2c2aa1e64cad5f856e86fb045b68df0a54c265359c8e3bfa49"
+      "size": 349,
+      "sha256": "23c74d430eeb682f5a80fffed8c1db8d27659f7c0d7f85d39c1263fc349b2d81"
     },
     {
       "path": "assets/images/fahmix/week5/week5-walkers.png",
@@ -3508,8 +3508,8 @@
     },
     {
       "path": "assets/images/fahmix/week5/week5-walkers.xml",
-      "size": 4768,
-      "sha256": "95d56b342f4a526332f1a7c17b5c416c07a352ae71996a02140667e84c3e68cf"
+      "size": 4737,
+      "sha256": "7b75e55258a4c82001b92bc1eba3d740236eda94724195e427b326ba223fb6e6"
     },
     {
       "path": "assets/images/fahmix/week6-thorns.png",
@@ -3528,8 +3528,8 @@
     },
     {
       "path": "assets/images/fahmix/week6/bag.xml",
-      "size": 485,
-      "sha256": "e8fd4c397c2edaf510c62b13c9bc61d6adde72e5048f5aa28fa70aaa6a440c72"
+      "size": 481,
+      "sha256": "211fb50cc8ee3cfb716e9d0aa64a1e3e8fe2aebfefccd854acdc882299ff6b70"
     },
     {
       "path": "assets/images/fahmix/week6/MSpaint.png",
@@ -3538,8 +3538,8 @@
     },
     {
       "path": "assets/images/fahmix/week6/MSPaint.xml",
-      "size": 361,
-      "sha256": "f8f3c8eba977650adb57a5a833217779f15eaac1cbc264f3b5e6a6319508e71e"
+      "size": 358,
+      "sha256": "86b111899dde81b5361bf1cf017c1f385f7dce8ce6dd9a3f8b42529233e0e697"
     },
     {
       "path": "assets/images/fahmix/week6/mspee.png",
@@ -3548,8 +3548,8 @@
     },
     {
       "path": "assets/images/fahmix/week6/mspee.xml",
-      "size": 619,
-      "sha256": "aac9d364a3916242d7fc0d8be3996db8ec920b8e44e461afe6751b04a05ff284"
+      "size": 614,
+      "sha256": "1c1439281721453d00b796c3a4cddb4aab9aa421e2734d046076bda8f77f5ce2"
     },
     {
       "path": "assets/images/fahmix/week6/msray.png",
@@ -3558,8 +3558,8 @@
     },
     {
       "path": "assets/images/fahmix/week6/msray.xml",
-      "size": 619,
-      "sha256": "450570fa91d58bdea264ed7e856a866d52e399aa845bc4cde6f4e057c23e77f2"
+      "size": 614,
+      "sha256": "561e9381eeb943cfd6889489b8080d7985c0f402506c1dec8dced519519df88b"
     },
     {
       "path": "assets/images/fahmix/week6/popups/fah.png",
@@ -3568,8 +3568,8 @@
     },
     {
       "path": "assets/images/fahmix/week6/popups/fah.xml",
-      "size": 1643,
-      "sha256": "413152084180353e46e502034f716dc83a18230b699943b26933b439c53b1275"
+      "size": 1630,
+      "sha256": "b525be2eda6894d9bed08ead5f4bcfd6f0d9460531f27772ea283b1cf0a9230a"
     },
     {
       "path": "assets/images/fahmix/week6/popups/senpai.png",
@@ -3578,8 +3578,8 @@
     },
     {
       "path": "assets/images/fahmix/week6/popups/senpai.xml",
-      "size": 1652,
-      "sha256": "1a719e98f87619e3e903ccd9351d820914710e392cddecc04da0dc4d764d544f"
+      "size": 1639,
+      "sha256": "8fbe0e63c321883469dfd89f05bd0d79c5c0a1353232a040a21e383a5adf6804"
     },
     {
       "path": "assets/images/fahmix/week6/roses-credits.png",
@@ -3598,8 +3598,8 @@
     },
     {
       "path": "assets/images/fahmix/week6/school.xml",
-      "size": 508,
-      "sha256": "b3a2ba7068cbfeafda64bef02f2f7d15fe8e5aaaadf126d849821757a3a513d6"
+      "size": 504,
+      "sha256": "5fdb9b9f92bef7c23ee524cbdf7621f12c751ebe0f52f96382c0ba77d5763cd0"
     },
     {
       "path": "assets/images/fahmix/week6/senpai-clock.png",
@@ -3608,8 +3608,8 @@
     },
     {
       "path": "assets/images/fahmix/week6/senpai-clock.xml",
-      "size": 362,
-      "sha256": "2a798bf4604b0e98b6037f0a2e2b516f9174ae2502f21ced69900e5fe84d5d43"
+      "size": 359,
+      "sha256": "139e9072e05016ab54c8db830ff5f91c3be9ca1f60f8547261104c1e1b4ab283"
     },
     {
       "path": "assets/images/fahmix/week6/senpai-credits.png",
@@ -3628,8 +3628,8 @@
     },
     {
       "path": "assets/images/fahmix/week6/shortie-sad.xml",
-      "size": 1726,
-      "sha256": "a8ab85174f16f79f0c451f3aa255727d9aca9f55ab53bd66692269da108dc0ed"
+      "size": 1713,
+      "sha256": "76e80ae7499962313cd88a2124a1d6e35b0eddec9c8155ec24e6995f5fc21c5f"
     },
     {
       "path": "assets/images/fahmix/week6/shortie.png",
@@ -3638,8 +3638,8 @@
     },
     {
       "path": "assets/images/fahmix/week6/shortie.xml",
-      "size": 2381,
-      "sha256": "1e788b27d3f7db419a2139d0d2e72cb0848deb43d187a23c4ecd08835ae8760d"
+      "size": 2363,
+      "sha256": "e6608ffe48be23b1d13ab062ea97b326ed2f649f877d57a54f146433dd50368f"
     },
     {
       "path": "assets/images/fahmix/week6/tallie-sad.png",
@@ -3648,8 +3648,8 @@
     },
     {
       "path": "assets/images/fahmix/week6/tallie-sad.xml",
-      "size": 1823,
-      "sha256": "0c64312d45fb3d852cd8b167e5a496303ee86c5d3f100163807e593aef141159"
+      "size": 1808,
+      "sha256": "dccc36b8469f32f3f87b51a90ec6f6aabf3ff9abbce26eb38bec2d92959cce80"
     },
     {
       "path": "assets/images/fahmix/week6/tallie.png",
@@ -3658,8 +3658,8 @@
     },
     {
       "path": "assets/images/fahmix/week6/tallie.xml",
-      "size": 1964,
-      "sha256": "4b66ede9e7356f78cc41b38d9ef9831fad5f9a783fa5f17a9d39f2e15da85eba"
+      "size": 1949,
+      "sha256": "f057f0dc39f3c9a91dda292bef2dd94c366b38c26789ac4e4b3b488bc8140214"
     },
     {
       "path": "assets/images/fahmix/week6/trees.png",
@@ -3668,8 +3668,8 @@
     },
     {
       "path": "assets/images/fahmix/week6/trees.xml",
-      "size": 507,
-      "sha256": "b912d552db9cf0146be5a4f8d78445644f24a16dbfc26e63e5a8209a12a08a5d"
+      "size": 503,
+      "sha256": "8242f2d9d9f129c4cd718c3ee3a7f3d600c7af048f5a5345e7936fc9f4698bff"
     },
     {
       "path": "assets/images/fahmix/week7.png",
@@ -3683,8 +3683,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/bell.xml",
-      "size": 657,
-      "sha256": "119a0f69f353332f365a08dd2cd86d5aa5668fb3c4874c71f5e8680a9ac98d9b"
+      "size": 652,
+      "sha256": "481448aefe2a030afed18156c7c0752cee9ebebf4450099b1a6143ec47bff132"
     },
     {
       "path": "assets/images/fahmix/week7/bg-tank.png",
@@ -3693,8 +3693,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/bg-tank.xml",
-      "size": 498,
-      "sha256": "a538c9644db7a0d3dd27ad390b36e4df34f329311f9b4d5e6cfc102a5babece7"
+      "size": 494,
+      "sha256": "1dbc6df9b1e50fe48c8cb49a6472b3798c800b14903ab2923fefb1ad0f6d3005"
     },
     {
       "path": "assets/images/fahmix/week7/BG.png",
@@ -3703,8 +3703,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/BG.xml",
-      "size": 909,
-      "sha256": "ff0777d10e288fb55f9ab0cb4b1ce4b675338da836b72e5fbb5ccdd7d05dd697"
+      "size": 901,
+      "sha256": "38f3fdd2a18a1a72f2b7438f002d68d9551d9387ef416a9150c6314d947cec63"
     },
     {
       "path": "assets/images/fahmix/week7/bleh-credits.png",
@@ -3723,8 +3723,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/bonus.xml",
-      "size": 365,
-      "sha256": "5c2b2215ff4a129edbb364cc482eb57048283c1156ec96e61cb70e1ecc3dbc96"
+      "size": 362,
+      "sha256": "31766b4f68465d04cf8b8242c193613ae76a20f7bce0973110584c725874e6e7"
     },
     {
       "path": "assets/images/fahmix/week7/cymbal.png",
@@ -3733,8 +3733,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/cymbal.xml",
-      "size": 782,
-      "sha256": "35166393f2c17596f9743c9e03b99542448fa27217b413bedd68bd909263ebc7"
+      "size": 776,
+      "sha256": "2c5689df8cd0985391923fb896652d80ea6630c0e48a6b06c495babaf6a0aa7f"
     },
     {
       "path": "assets/images/fahmix/week7/drummer.png",
@@ -3743,8 +3743,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/drummer.xml",
-      "size": 794,
-      "sha256": "aa34ef1e2e8155f91b73cb7d04021de3bcaf3c4842668c80f11c3761b6857305"
+      "size": 791,
+      "sha256": "7eced5b78b5f4dc2f1ab0bfe81a7a39159b6ebe38f42dd2fc76352aeb8627183"
     },
     {
       "path": "assets/images/fahmix/week7/duck.png",
@@ -3753,8 +3753,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/duck.xml",
-      "size": 358,
-      "sha256": "ccb4d8e18d8485f1528221cee5b575714c9486eb7247b51543173b6a4336e009"
+      "size": 355,
+      "sha256": "5f735388a1a423d75957476c453a9cfbf7a30713050ef5230dbb9b1c344e469e"
     },
     {
       "path": "assets/images/fahmix/week7/firework.png",
@@ -3763,8 +3763,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/firework.xml",
-      "size": 956,
-      "sha256": "acfa8dad9f9005d9390034eb0f0119bf894eb9fdf432edd68afdfacefc879406"
+      "size": 949,
+      "sha256": "08964610232ee7c3069942964de788f79ab643de9498d21b00f832bda844b27e"
     },
     {
       "path": "assets/images/fahmix/week7/floor.png",
@@ -3773,8 +3773,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/floor.xml",
-      "size": 494,
-      "sha256": "9086319ab89aeeb648b09c1b6e7651395d0aebbc56aba74ff21e3c94edecce9e"
+      "size": 490,
+      "sha256": "d486e9a56adb475b421d8d557bcc1810191c97749e75b3edc95429fbb5946f02"
     },
     {
       "path": "assets/images/fahmix/week7/flyers.png",
@@ -3783,8 +3783,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/flyers.xml",
-      "size": 488,
-      "sha256": "a46ccc6358b15dea6dde4c11499d4e0c7b7f11ac0217370a9233f884484f10ad"
+      "size": 484,
+      "sha256": "704f27ab778b5e9cb32fa5e5672c05a7831d0c39907776297d4af0221ff2d1d6"
     },
     {
       "path": "assets/images/fahmix/week7/intro/besties.png",
@@ -3793,8 +3793,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/intro/besties.xml",
-      "size": 2779,
-      "sha256": "8517d8e6c052d512abc10216a156c8e2ee8ee99e55bc6a5ae24c230a7144d2c5"
+      "size": 2759,
+      "sha256": "32f0bce8e3eaecce734564a6c780230cea8757b2911de76dfd07f559a4b2499f"
     },
     {
       "path": "assets/images/fahmix/week7/intro/cocky.png",
@@ -3803,8 +3803,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/intro/cocky.xml",
-      "size": 1626,
-      "sha256": "9477e989d45a048a8a0f4bc6c27c9fccc1a87e5712cbdcc77b5570c51f4b829c"
+      "size": 1614,
+      "sha256": "dc7551b4ed3b8b45c43c2c5f59787d6e381de04e946a15ea27354fb30661d809"
     },
     {
       "path": "assets/images/fahmix/week7/intro/kiddin.png",
@@ -3813,8 +3813,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/intro/kiddin.xml",
-      "size": 1329,
-      "sha256": "1c1e19ac597abafa100357fb0c6d39d9b9e3496d049c40bc0d275d052fa7a212"
+      "size": 1319,
+      "sha256": "0b9bca79d8cd2bafc573c44f227278cc63e8c37b0051b8f7817114010bc83b1b"
     },
     {
       "path": "assets/images/fahmix/week7/intro/p-anim.png",
@@ -3843,8 +3843,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/intro/raven-walk.xml",
-      "size": 1388,
-      "sha256": "c42175b14b305ca869c25cfb875f3be57b1f7f9e8f33822e65eb117ce42c9330"
+      "size": 1378,
+      "sha256": "67768c3ab50d862edd4cf6a66a167d655930ad69b3564b79609c95d4a8a12b39"
     },
     {
       "path": "assets/images/fahmix/week7/intro/snap.png",
@@ -3853,8 +3853,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/intro/snap.xml",
-      "size": 768,
-      "sha256": "aeecc746306310b3165aeabb8fc4075bfc0ffdb2c6e75f738cfdf48627644c64"
+      "size": 762,
+      "sha256": "bb5dd92ed97a8c81a7bac860426367b6134bed2a3d39fe345bba1f1a88c80987"
     },
     {
       "path": "assets/images/fahmix/week7/intro/steve-walk.png",
@@ -3863,8 +3863,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/intro/steve-walk.xml",
-      "size": 516,
-      "sha256": "13fe894501d772c64ac46b896d3fd24ae162f75317a1330d80b74f182ec90bcd"
+      "size": 512,
+      "sha256": "0e1d51fe5d26953c84a9f026dfa0112d25c3f539da82932fc01814834d0eb1b7"
     },
     {
       "path": "assets/images/fahmix/week7/kevin.png",
@@ -3873,8 +3873,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/kevin.xml",
-      "size": 370,
-      "sha256": "79a329eff8038fa7da33cda810fa995df11fa506b30a3d57588a31a0c1df6fa7"
+      "size": 367,
+      "sha256": "c5883fff155af5796ebc82a32d6dff48d3fb8e26b2eea631aa90186d051807b8"
     },
     {
       "path": "assets/images/fahmix/week7/kill.png",
@@ -3883,8 +3883,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/kill.xml",
-      "size": 2307,
-      "sha256": "43228bb47b8b9f7c3b2fb23f596bb84d6bf8a6cf9d54a4c2585825d257415b8c"
+      "size": 2290,
+      "sha256": "7a1c412946e6f5503ed0f60e2746fc7b7634b04cfaee22177f77160202fbae99"
     },
     {
       "path": "assets/images/fahmix/week7/notehang.png",
@@ -3893,8 +3893,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/notehang.xml",
-      "size": 894,
-      "sha256": "a4acc32322e6baa538863288c85f66e05a0008b940f6cba6e50a922162210975"
+      "size": 887,
+      "sha256": "a050c7cd5938847a8e64118851b004166a3613b5cdba18893c1d1d44e5cdffe2"
     },
     {
       "path": "assets/images/fahmix/week7/notepush.png",
@@ -3903,8 +3903,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/notepush.xml",
-      "size": 892,
-      "sha256": "b05539dbd6c022cccf1b0cd3e7ff2d7d4d90129ee5c34ea13b9e279811737595"
+      "size": 885,
+      "sha256": "dcff7e74254264a68a20973bf4c04ec68ca041b321c47542876ea4a38f912f12"
     },
     {
       "path": "assets/images/fahmix/week7/pee.png",
@@ -3913,8 +3913,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/pee.xml",
-      "size": 617,
-      "sha256": "152d0d4d4b9a4cea7a92e5c91710b4e3036150f168857b8b9c91537c79afcae0"
+      "size": 612,
+      "sha256": "d6559eba128c717a6d48b4c5b742194a8327a6d9bca7bb6731926dc9aba2f493"
     },
     {
       "path": "assets/images/fahmix/week7/pews-credits.png",
@@ -3943,8 +3943,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/ray.xml",
-      "size": 619,
-      "sha256": "b512f18e01800ed1df049c4b28a59d3ea99c9611c306396e02b3085880abf741"
+      "size": 614,
+      "sha256": "9f41491d29bdc527b25cf0e44141acfe3520ada44ad5c61df4a32bae50f00dfc"
     },
     {
       "path": "assets/images/fahmix/week7/steve-stress.png",
@@ -3953,8 +3953,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/steve-stress.xml",
-      "size": 1291,
-      "sha256": "8008ce0800cad58027a54dd66acf1736cd382e8aafe057aa839f54b189ac45b3"
+      "size": 1281,
+      "sha256": "b14e5078e2f06cf17dd2656f31ca384e99eb0790c03e7ba66617ab46a55c4c43"
     },
     {
       "path": "assets/images/fahmix/week7/steve.png",
@@ -3963,8 +3963,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/steve.xml",
-      "size": 504,
-      "sha256": "49efa9ebe7d6cab26d196fdf21a9eb6de1863ca6c5bcf534551b3075a925add8"
+      "size": 500,
+      "sha256": "3295ccd051791b68309a29af3dbae97a282c249fff13f0cf62b9e23738153396"
     },
     {
       "path": "assets/images/fahmix/week7/stress-logo.png",
@@ -3978,8 +3978,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/tank.xml",
-      "size": 486,
-      "sha256": "c0af34c31bf75831fbed26d62c4ef9116156f93b1503ac66f01229584b8e31eb"
+      "size": 482,
+      "sha256": "b96862b1808e7befa799fb9fabfe4dc2e8f7f2259381a69d2ee3b8b285904e0d"
     },
     {
       "path": "assets/images/fahmix/week7/tankman-fallers.png",
@@ -3988,8 +3988,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/tankman-fallers.xml",
-      "size": 951,
-      "sha256": "d436b850276d359c6d1d8cbe3c1465e9b245f4739097f8b60c71afd51b991fd3"
+      "size": 944,
+      "sha256": "51493a02cd9d67c2562c939d23e11ee3a2f89ab0e665a142cff027920aa2ef36"
     },
     {
       "path": "assets/images/fahmix/week7/tankman-runner.png",
@@ -3998,8 +3998,8 @@
     },
     {
       "path": "assets/images/fahmix/week7/tankman-runner.xml",
-      "size": 1180,
-      "sha256": "a115a3245ebb398d02fe9013142cd51a726180aa177fc097522b0c5bdb6adccc"
+      "size": 1171,
+      "sha256": "f3b825ef26ded76a6e5792a801609e9eb519e800d8c75d0df3f1ec3e4cfcec1e"
     },
     {
       "path": "assets/images/fahmix/weekend1.png",
@@ -4013,8 +4013,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/ashbaby.xml",
-      "size": 366,
-      "sha256": "7c17482ee74990fc62ccee88d14fc33b6fe40db4ec2e57cdaa3b802b0df43e7b"
+      "size": 363,
+      "sha256": "4cb274743237a22c1aa9cfff74acadcf8decdf175cefde89e14080edd47cb5b7"
     },
     {
       "path": "assets/images/fahmix/weekend1/bg.png",
@@ -4023,8 +4023,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/bg.xml",
-      "size": 501,
-      "sha256": "92158364451f3bec6dd4fa826ec3c53d67ce5919a2da428bd79a8f2f22e09851"
+      "size": 497,
+      "sha256": "e83904033228052769dccb1b3a3da00881c17669ba6a0710d337762c6c143653"
     },
     {
       "path": "assets/images/fahmix/weekend1/burger.png",
@@ -4033,8 +4033,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/burger.xml",
-      "size": 372,
-      "sha256": "dde85f393de4bf1d7c73246f647ccea2c3118517b933cd20c4e3099141e4aa87"
+      "size": 369,
+      "sha256": "656c418b66bbf0ca49bc7cd7e5d237d6b8d79d90df258b578c57e22eb818f511"
     },
     {
       "path": "assets/images/fahmix/weekend1/car1.png",
@@ -4043,8 +4043,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/car1.xml",
-      "size": 486,
-      "sha256": "011b825f5fd710bcb3ff197f9d6926a8f455655f9ab260146cbe3f3386b6832a"
+      "size": 482,
+      "sha256": "cf1aa7ac33b5edf028f502172bf346b98ed5aa4ee97ad903c166915c0979d3ab"
     },
     {
       "path": "assets/images/fahmix/weekend1/car2.png",
@@ -4053,8 +4053,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/car2.xml",
-      "size": 493,
-      "sha256": "6d315a734f0b3e5fbb3917dc8b7cd972a5e7dcf8b5f9d6b39036dda72dee4bd8"
+      "size": 489,
+      "sha256": "f148d408a4f2d58c5ea84e9471432fe3320fa19c39765ff3f48915f2e0102b39"
     },
     {
       "path": "assets/images/fahmix/weekend1/car3.png",
@@ -4063,8 +4063,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/car3.xml",
-      "size": 493,
-      "sha256": "87c9da873f338cfddb4206089e6e5515155fe60e78ab7b4087d6e7a0dc681546"
+      "size": 489,
+      "sha256": "f8bb07e46429e2d1931c01592414b0b3ed0f96e2d447ff4d5965f91bf68d1bd6"
     },
     {
       "path": "assets/images/fahmix/weekend1/darnell-credits.png",
@@ -4083,8 +4083,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/darnell-sword.xml",
-      "size": 389,
-      "sha256": "ec7b2aadfd652f331df121cc1151967697b4d1713e10c3b46d8b038dd46b2bc4"
+      "size": 386,
+      "sha256": "f80b7c258ca5e855c914162a62beebdac4a8312a7e9d002268fc6c5a7b4f09aa"
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay1.png",
@@ -4093,8 +4093,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay1.xml",
-      "size": 358,
-      "sha256": "bcbc1ee98acc4fab1e9bfbeef09897ad83d92bda0c41c68d0e7c1992ff4b584c"
+      "size": 355,
+      "sha256": "6edf1eca93f90ded810d7efa1235d32941f5b17ba93fe4760830f05017a2d4c6"
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay10.png",
@@ -4103,8 +4103,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay10.xml",
-      "size": 356,
-      "sha256": "52799d7ddff72dce13a4b5421106f8f59f4d68e8a80e5c4f10ddb884998cbe43"
+      "size": 353,
+      "sha256": "14fd024c748152abe0248d06f2fdd7cffd86156fdaab0aa482f752de7da86e9a"
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay2.png",
@@ -4113,8 +4113,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay2.xml",
-      "size": 358,
-      "sha256": "49d76787f831707fed6e53f7d407e8caf12e7d2bf2325e94b94795c3efeed9cb"
+      "size": 355,
+      "sha256": "0fce42884f12017f75d3d122c2fb6066cd85b4364da645292f53271f120b2959"
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay3.png",
@@ -4123,8 +4123,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay3.xml",
-      "size": 358,
-      "sha256": "2f97d66ce1cf9ac08578aa9abfde8debc49361695c94a4153745c880ac0e875d"
+      "size": 355,
+      "sha256": "8ed774d60721775fa2b1aa1c3e57b35b7d4b6cad9af5ce836d5dacc7ee596f98"
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay4.png",
@@ -4133,8 +4133,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay4.xml",
-      "size": 356,
-      "sha256": "38ffb1db3e72d70358937ff9d6b624637291e1f41a6cb52453bf679f24b43018"
+      "size": 353,
+      "sha256": "8b91340dc772082491f9bdf64cf1e91eb49a426d8ab67564876881710f4cdc17"
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay5.png",
@@ -4143,8 +4143,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay5.xml",
-      "size": 361,
-      "sha256": "fa297770376ddee93fc48b7b71b4134b206968fafbcbaa23681c241d26602f73"
+      "size": 358,
+      "sha256": "df82708cdf2491872c39fe389a2682cdb63fbd414ca5dfb29cb2f84d0bd5b378"
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay6.png",
@@ -4153,8 +4153,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay6.xml",
-      "size": 359,
-      "sha256": "932ec7f1990927ad0bfe192d62bdeb9a8b0b9e64a5cb20a771e42961be904ed3"
+      "size": 356,
+      "sha256": "09ff4ea4143e86bf7497f3849e02766b3f418759bfae3a81d0ebd6a989f631b9"
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay7.png",
@@ -4163,8 +4163,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay7.xml",
-      "size": 358,
-      "sha256": "6745e79ad67bf31fefda79627320160b9c18a26cd4023fcd2e1969db04c1a265"
+      "size": 355,
+      "sha256": "f59f3d68a7377cf31a88d9ccb84fc2bc064a4376fa7e11cc603d47dcdf6a8605"
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay8.png",
@@ -4173,8 +4173,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay8.xml",
-      "size": 359,
-      "sha256": "93ab2b6636b876a6969192882ec46483fbb1f4b6fa89879128b2521ddfa6ba54"
+      "size": 356,
+      "sha256": "4e919f46fed15077784171ad97bea6a9c38a28e5969a498d2cffd6a91f2b2c61"
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay9.png",
@@ -4183,8 +4183,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/distractions/overlay9.xml",
-      "size": 363,
-      "sha256": "4881981df105ba9ea683b92b9a15c24f691c9af1a533e14a4e343b548fae1a0f"
+      "size": 360,
+      "sha256": "ea9f0b8d72dc016b523f33264b2fcb4256383977450c94038ad54b1b803b7564"
     },
     {
       "path": "assets/images/fahmix/weekend1/fahmmy-bear.png",
@@ -4193,8 +4193,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/fahmmy-bear.xml",
-      "size": 379,
-      "sha256": "24ca652a755ab7cdab68599ea6b47e7980beb523606f26379e746e7f5fb4cd65"
+      "size": 376,
+      "sha256": "5ccc78cfd8f865cf9cac8c0cd1e6b942d908e294d0440c0bc3d32594d03c2619"
     },
     {
       "path": "assets/images/fahmix/weekend1/far.png",
@@ -4203,8 +4203,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/far.xml",
-      "size": 358,
-      "sha256": "61a504acbec53a1434fdd1e4a241154c4550d4cf56e81d1fb4abdf93e09fcbc6"
+      "size": 355,
+      "sha256": "2de24b21e06a0815fe1fb34595389dceed0dd788b5aa9f2cab10f3b332f34c99"
     },
     {
       "path": "assets/images/fahmix/weekend1/fog.png",
@@ -4213,8 +4213,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/fog.xml",
-      "size": 358,
-      "sha256": "49c1c3f49ec8f9bede2789dadd563c69321ad227e73e2617b8760a9b83ecf18d"
+      "size": 355,
+      "sha256": "8492e0777b1202a55a158b2b758f854bee567e35f3158b9212c569633d80380c"
     },
     {
       "path": "assets/images/fahmix/weekend1/fore.png",
@@ -4223,8 +4223,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/fore.xml",
-      "size": 501,
-      "sha256": "92158364451f3bec6dd4fa826ec3c53d67ce5919a2da428bd79a8f2f22e09851"
+      "size": 497,
+      "sha256": "e83904033228052769dccb1b3a3da00881c17669ba6a0710d337762c6c143653"
     },
     {
       "path": "assets/images/fahmix/weekend1/giggle.png",
@@ -4233,8 +4233,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/giggle.xml",
-      "size": 787,
-      "sha256": "e5bfe0a9942faea3b24ff11191df7e25fe0753e30183da79633b09af7a76c441"
+      "size": 781,
+      "sha256": "98c050c8582b425e77ade8072a466d5320544d3189564c9364d07df86335a097"
     },
     {
       "path": "assets/images/fahmix/weekend1/lit-up-logo.png",
@@ -4248,8 +4248,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/nene.xml",
-      "size": 900,
-      "sha256": "25715311637b3df19a083e26330506cc5e4541c6b39fe049ba9802d1f6d0d666"
+      "size": 893,
+      "sha256": "0db55719fbd05ae5b1b9d078600f3a613867bf5165daca38e0bd6a7d94f2aabc"
     },
     {
       "path": "assets/images/fahmix/weekend1/rain.png",
@@ -4258,8 +4258,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/rain.xml",
-      "size": 363,
-      "sha256": "d25994e7bb1f3ddf7380caffa19abd908508707c020794efc4feb446fc1c25af"
+      "size": 360,
+      "sha256": "118fda51a6365171c5c3b86c9d707eb893743d1b443bf870bc87ad971c1bd7b5"
     },
     {
       "path": "assets/images/fahmix/weekend1/spring.png",
@@ -4268,8 +4268,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/spring.xml",
-      "size": 371,
-      "sha256": "28f96118b90a097a71c505f43c0203409eebe36a08b86ddf5f309890a7d2d31a"
+      "size": 368,
+      "sha256": "3ba05bc30d013d128cdb433127ec5342ea6635a75872c4f6b69c385e357479be"
     },
     {
       "path": "assets/images/fahmix/weekend1/yippee.png",
@@ -4278,8 +4278,8 @@
     },
     {
       "path": "assets/images/fahmix/weekend1/yippee.xml",
-      "size": 364,
-      "sha256": "fd5ce1777697dd7f5b06f01c57847fb48fa37833ec577c66fc594f502be9c076"
+      "size": 361,
+      "sha256": "a803282e5812737abc11d3d581aab276c798a9bb53eff0b335dacb2fa45712dd"
     },
     {
       "path": "assets/images/fahmix/what-the-fah/senpai-draw-pencil.png",
@@ -4293,8 +4293,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/bf-note.xml",
-      "size": 941,
-      "sha256": "84ccb50d0e27d1bf8f09d38fb70dae481143f68e9e54b7e08604ea2da3a5fa80"
+      "size": 934,
+      "sha256": "9fe076d4c6fa5a42e6997f6ceab7b32588e36f1473f67840557d6307846b52e9"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/BG.png",
@@ -4303,8 +4303,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/BG.xml",
-      "size": 909,
-      "sha256": "ff0777d10e288fb55f9ab0cb4b1ce4b675338da836b72e5fbb5ccdd7d05dd697"
+      "size": 901,
+      "sha256": "38f3fdd2a18a1a72f2b7438f002d68d9551d9387ef416a9150c6314d947cec63"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/big-orange.png",
@@ -4313,8 +4313,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/big-orange.xml",
-      "size": 1550,
-      "sha256": "6877aed7ead621302d432b6650cd6b2c506e71957a855b08da363fc2077c2952"
+      "size": 1539,
+      "sha256": "7c78e7a9d4d31120eea293657dc9f9dc3a43b00b2aafb9cee00080d003a5917a"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/blue-car.png",
@@ -4323,8 +4323,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/blue-car.xml",
-      "size": 376,
-      "sha256": "7fb003b72cdb4906f3179bdb4bc547ba52962a9ea51c3047174f524cfa1116f1"
+      "size": 373,
+      "sha256": "a795083f9596a924856a1cc259c80bf8190f05a97407761b1b368eede35cffc9"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/clouds.png",
@@ -4333,8 +4333,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/clouds.xml",
-      "size": 516,
-      "sha256": "8e98934f0aeecd7e45954bead721c493d33a7350f87798a8c0ee24e6b270bf56"
+      "size": 512,
+      "sha256": "06420fb5644938915cd928422b47f53b60cd3905188a83f6146d549b7ec917dc"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/credits.png",
@@ -4348,8 +4348,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/fairy/fairy1.xml",
-      "size": 370,
-      "sha256": "9eee1923c461c4e6e18b5a46e5741e153f9407fdb13437e3be7a51d99aceb20f"
+      "size": 367,
+      "sha256": "0b5e43f8418cdab4b2e63153462c90282b1138d720f57e15d2eb24ad7deeeea1"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/fairy/fairy2.png",
@@ -4358,8 +4358,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/fairy/fairy2.xml",
-      "size": 370,
-      "sha256": "e25256c40a623336bef9ed041f934d5897d6ec1c90181c3cc4c32ef5b377a780"
+      "size": 367,
+      "sha256": "7629212305e319f59c65d7d72f98c8bc9f1d11b234a33504d0f22ca2bdbb208b"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/fairy/fairy3.png",
@@ -4368,8 +4368,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/fairy/fairy3.xml",
-      "size": 370,
-      "sha256": "d5730ac3050c77287304c7c8d428b49451c6e9283e48c1452cde8cf3bf22b866"
+      "size": 367,
+      "sha256": "b9ed141591955bef86775dab0810e2e61857514bcf15529f98355d91e73f29ab"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/fairy/fairy4.png",
@@ -4378,8 +4378,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/fairy/fairy4.xml",
-      "size": 368,
-      "sha256": "d4e254e3243ef8357454b67524034d99de6645b1f707bcb6c2a13b040699d684"
+      "size": 365,
+      "sha256": "92f064a62a99a57f018a9342b06bad6b0d2059d830a629aff983515d9fd50e58"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/fairy/fairy5.png",
@@ -4388,8 +4388,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/fairy/fairy5.xml",
-      "size": 370,
-      "sha256": "dcc4ae826f45811f16408dd5e7663c8ba7147d3c748ff92049a23919697c2b8c"
+      "size": 367,
+      "sha256": "9d6d7c3a93696f0b295b14e85f825fc935a69e00cd5525bfcd4ba80d245afebc"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/flowers/flower1.png",
@@ -4398,8 +4398,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/flowers/flower1.xml",
-      "size": 373,
-      "sha256": "da7094265494463921009f7bd216e0df7b55b296d6ca9bdc565970fbae0711a9"
+      "size": 370,
+      "sha256": "afbbc1e6a29313eff4701eab54c1bd63b0f31dc09c091acd254ec541a47bd710"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/flowers/flower2.png",
@@ -4408,8 +4408,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/flowers/flower2.xml",
-      "size": 373,
-      "sha256": "3e3bf811f2845487d73e55c1ffe6e16ebcf8bdbf12c12ac351024d43e0af400b"
+      "size": 370,
+      "sha256": "7838abba5ada927b216af90a3edb1680398badd5de195273ae8d0b16c7fe9a9f"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/flowers/flower3.png",
@@ -4418,8 +4418,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/flowers/flower3.xml",
-      "size": 373,
-      "sha256": "734c9c2972f87195b1f4dd0e6566361d3a93836f3574a48c71adbac65f92cbc7"
+      "size": 370,
+      "sha256": "ce0b72b70a748901a74baabea5c5c5998bd031dbb66551906895302d3711939e"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/flowers/flower4.png",
@@ -4428,8 +4428,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/flowers/flower4.xml",
-      "size": 373,
-      "sha256": "9cdb8b1facf5a97eafb1057f0243295bdc0aafbb1ed474ca20157f334a8ef0d4"
+      "size": 370,
+      "sha256": "2b8349f7cafac068b165c93341e98be2c4fe17702fd619ab24428def77ca7008"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/flowers/flower5.png",
@@ -4438,8 +4438,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/flowers/flower5.xml",
-      "size": 373,
-      "sha256": "b84f79f24cff29972bc13a32b1500089a06df1559d55369dc13de4a0b4b9f90c"
+      "size": 370,
+      "sha256": "d58b9ad2a36ad81ebb8d9fb421a9454962ea44dcd6cc7b72fb84a4859f740caf"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/flowers/flower6.png",
@@ -4448,8 +4448,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/flowers/flower6.xml",
-      "size": 373,
-      "sha256": "c4f38b4a7b36a0183785607c48aa8793888fe26f09d902ff72af06233e79d639"
+      "size": 370,
+      "sha256": "fc23e4a5fc221c077a9bf6db33639e1879a86e949f49c847c0436b2817cf3f62"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/hi.png",
@@ -4458,8 +4458,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/hi.xml",
-      "size": 355,
-      "sha256": "c1bdf399a0f0a7cddf81808e7a3bdc376df51c66272164698f2ebbe3da569131"
+      "size": 352,
+      "sha256": "936b0a0a8cd9478bf38c02d4665897f155da1b84fc301c99097ac7ec82fa6d9b"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/misc/misc1.png",
@@ -4468,8 +4468,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/misc/misc1.xml",
-      "size": 367,
-      "sha256": "8316ca418484d14b7014b64e8317c3069374ef3e99c3a10e26c13872aaf8b540"
+      "size": 364,
+      "sha256": "d295695ebed7097f418e57d541ff973a407aefef6aadb309d2a27025eb7d0256"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/misc/misc2.png",
@@ -4478,8 +4478,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/misc/misc2.xml",
-      "size": 367,
-      "sha256": "55ed5008fcf13842cf5802dd289970d3140ea545a5d07379017a765633b4a4e6"
+      "size": 364,
+      "sha256": "8d134d63b898ed8eddf5925dd4eafced2180c49dd7b33830c626a1506202de05"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/misc/misc3.png",
@@ -4488,8 +4488,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/misc/misc3.xml",
-      "size": 367,
-      "sha256": "099032e93a8794c104ff7658cf051300f2cc21c08e576f421b0a1785422def53"
+      "size": 364,
+      "sha256": "b973fc0335fd11efe5a2dc729135b0a583ee96963dc2c9458d8919e462b90541"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/misc/misc4.png",
@@ -4498,8 +4498,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/misc/misc4.xml",
-      "size": 367,
-      "sha256": "570055184838bb249e9ef30f11143c217544510b21e1d236c9a03e2d984e29ed"
+      "size": 364,
+      "sha256": "b58d32c852f545e43448498000dd796da6ff2266a2e48d861a9fafef8e12fd16"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/misc/misc5.png",
@@ -4508,8 +4508,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/misc/misc5.xml",
-      "size": 367,
-      "sha256": "e0c38b1fa43d5580a8a1fb8859e4d330211f7228abd0622b5112375fd4ae4dbb"
+      "size": 364,
+      "sha256": "a3d05845dc8b9fc06ef9c08f2ac478374b10af3204bf935a21f982c0d52abd0f"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/spinny.png",
@@ -4523,8 +4523,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/sunky/sunky1.xml",
-      "size": 368,
-      "sha256": "b3350c4ce0c01eed2446c56d5950a92156dde6e3b7f5dd7f6a8b3ac4f692b61f"
+      "size": 365,
+      "sha256": "ef9768f4c588eeb80a14a30bbe93e5d39b3a301296f92d519d37b2f63074e366"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/sunky/sunky2.png",
@@ -4533,8 +4533,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/sunky/sunky2.xml",
-      "size": 370,
-      "sha256": "fde1d650b096dc5b2a8c59aeaf44c188b7d42c4431f9317c310036f34c937944"
+      "size": 367,
+      "sha256": "a494c2b8abfc0817a2cbffc03a0e982112d95a31f013f99d5107f0c598ff2274"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/sunky/sunky3.png",
@@ -4543,8 +4543,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/sunky/sunky3.xml",
-      "size": 370,
-      "sha256": "456738dbb550b070fc4e5b3174466aac4c3f54cd90bf83f4f70a3e4cdf8cd881"
+      "size": 367,
+      "sha256": "66839957107eaf90033d1c38ad45b46aeea77fae01cf936ccc916dd7c16c0272"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/sunky/sunky4.png",
@@ -4553,8 +4553,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/sunky/sunky4.xml",
-      "size": 370,
-      "sha256": "480a24db76aa952920d272f248a3cc1e7c1e3ce5eb38e24da2ad0a6d63782629"
+      "size": 367,
+      "sha256": "98f5cbb4f65b4e8e7b517915f7477a5e0fa6d1af2090667c814f5fc4f99fc535"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/tiger/tiger1.png",
@@ -4563,8 +4563,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/tiger/tiger1.xml",
-      "size": 368,
-      "sha256": "50e94eb44d33d893af8a70835c25ec1034bdad6cb567a00fa3f0fbbdcb2a582a"
+      "size": 365,
+      "sha256": "54f6baad4244f9a262c665ac8a556cdf2393afa37c359e34918f58e9504467a3"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/tiger/tiger2.png",
@@ -4573,8 +4573,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/tiger/tiger2.xml",
-      "size": 368,
-      "sha256": "520fd7774752fd412eb5636a6ca495293c2ad2aa50d3304c4d9191243a386a68"
+      "size": 365,
+      "sha256": "5df72770c887cbd1a9c4c3f5dee04d7c8132a95373bf5da71e0b8ec5d285b01a"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/tiger/tiger3.png",
@@ -4583,8 +4583,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/tiger/tiger3.xml",
-      "size": 370,
-      "sha256": "eb5d5f7e682e7eb43d496c02502bcf6d476f72e65c96bd3aad47bc85bd3a017c"
+      "size": 367,
+      "sha256": "e104663d18ebe1018c701abd6f6ecad82561d485e8ae1d51b7bbf02ed72ea5c2"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/tiger/tiger4.png",
@@ -4593,8 +4593,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/tiger/tiger4.xml",
-      "size": 370,
-      "sha256": "3b203b6b610f55d3f00764e1b3f445fd7407c0895ecddd0b567f1716ab34ac46"
+      "size": 367,
+      "sha256": "68df0a6f36212141e16e6b986cbd8127087d8b0bdbe6a851c97b2fe7cf2ea555"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/timber/timber1.png",
@@ -4603,8 +4603,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/timber/timber1.xml",
-      "size": 372,
-      "sha256": "26b795338cb1b86b20a7d7ecd2f948d412a9c18e2c92154cef05bae0578f8fe0"
+      "size": 369,
+      "sha256": "55456e70e0448560c78e1a3e2ac636a2496f9838ec487b5518af66740c5ec56d"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/timber/timber2.png",
@@ -4613,8 +4613,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/timber/timber2.xml",
-      "size": 373,
-      "sha256": "a25ed38be6ca07403969aa4b21c6c725e8e1592358a299c682e30aad6b1a49c0"
+      "size": 370,
+      "sha256": "64e924bd18dc2d9e193f1c5d59b20fc36032e287c4e1f183a0861bc961afb95e"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/timber/timber3.png",
@@ -4623,8 +4623,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/timber/timber3.xml",
-      "size": 372,
-      "sha256": "d1b7c5fb4c4a38a013751501f86f62add84a76017ae971a44c1491fb312add37"
+      "size": 369,
+      "sha256": "a4dbb936adfd9cafb597ab8456e6837087d7a29d731ed7afcb8283676f1462aa"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/trucker.png",
@@ -4633,8 +4633,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/distractions/trucker.xml",
-      "size": 375,
-      "sha256": "37819037190f3b1057fd1e7c0e74b3bd0acd0f63831efd6b8e49e912e535db10"
+      "size": 372,
+      "sha256": "b458fb7a6e216480d3ba01f6da2ccf45efc2c65057f6b9a3999c6fba6d722e7f"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/diving.png",
@@ -4643,8 +4643,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/diving.xml",
-      "size": 1076,
-      "sha256": "19d9fd50e86db39ab89c41184c328c345291294a61dd2df4a86d25b159737d8c"
+      "size": 1068,
+      "sha256": "98cca87624c2d4eddbe1db899ab6e6db1c749c3a32e24ed1b976cd6db2462f8b"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/dots-bottom.png",
@@ -4653,8 +4653,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/dots-bottom.xml",
-      "size": 1860,
-      "sha256": "3eca55181d72098cb7e7097d7a758bd6a137baf920c1ba30082e7af18aeb6ba1"
+      "size": 1847,
+      "sha256": "8902f4ee3e0b24316f0aef137447a7f740860d1c2ebf940fbe295a246bd6587f"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/dots-mid.png",
@@ -4663,8 +4663,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/dots-mid.xml",
-      "size": 1839,
-      "sha256": "0962aa3a0f81024cb7564699c1955103b883234dea4c1e64b942fa7050b7b85d"
+      "size": 1826,
+      "sha256": "8242d16c371e2cbef2aa655f0e7c6832e435c8d373d9201882d8b8abf68c18ab"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/dots-top.png",
@@ -4673,8 +4673,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/dots-top.xml",
-      "size": 1803,
-      "sha256": "3dc355c2cee8b2aff89b8c633efa1a155d6e34cbfa6f938ee21f23f70df22fed"
+      "size": 1790,
+      "sha256": "b27c6dcf2b4dd7772d3d7547b0585631bd90d753b6ecb7278f55a9aa75f456ac"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/eventstuff/bars.png",
@@ -4683,8 +4683,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/eventstuff/bars.xml",
-      "size": 367,
-      "sha256": "14d4b90e78916eb031e35aab8bf987aa593daf34b6fb006358bb04af6ec86c11"
+      "size": 364,
+      "sha256": "5f8484ae50d0af3221bc6986ed0823d3d811f47283001f99e3eceed7444aa1df"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/fah-note.png",
@@ -4693,8 +4693,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/fah-note.xml",
-      "size": 955,
-      "sha256": "0407a86590afb2eca8420130aabb482837736e081b91fac7f668ad1637f190d9"
+      "size": 948,
+      "sha256": "10aa39132be1faab4398ccaf2ba987dbf6fe986eaab20ffeda580e4470e3de21"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/fah.png",
@@ -4703,8 +4703,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/fah.xml",
-      "size": 369,
-      "sha256": "d7978350cf904895dc9f39cbe6e163fdb0e4835045c6468921e3e9ffc70fbf10"
+      "size": 366,
+      "sha256": "4612b7868cc636b93f954b0ad1037451e5d6ecfae8ff79273f523ef3861e3192"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/falling.png",
@@ -4713,8 +4713,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/falling.xml",
-      "size": 513,
-      "sha256": "c76e58de1cfbe5b2f105b7bc6a87516ffce3646da46a79794b777cbc9cf691c3"
+      "size": 509,
+      "sha256": "8f0a9d7312f4d61d1c481251b6c268baa4a84453bb0fa150f75603fbba72fbaa"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/floor.png",
@@ -4723,8 +4723,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/floor.xml",
-      "size": 517,
-      "sha256": "32240ea090e8eea5a3994644bf307ba42cc1a79e3c2cb484191d4a47483cf158"
+      "size": 513,
+      "sha256": "fe44fd1e75fb24aab371f32c12b04d77061b7a9ba25886cc228ed2117edd17e1"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/flower-floor.png",
@@ -4733,8 +4733,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/flower-floor.xml",
-      "size": 2355,
-      "sha256": "19a085af17c13f7c18ce9ccf67d730a40cbac324a3b71c04819b13993c91c1aa"
+      "size": 2339,
+      "sha256": "4fdf375a4124f938d93dfd32b65a75e4bdb58f7ed86d58412c7e531f0c2f89bb"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/flower-foreground.png",
@@ -4743,8 +4743,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/flower-foreground.xml",
-      "size": 1321,
-      "sha256": "4ac42ad019f53024772af9f835b20e42c84afefad7a1cc67850105efedfb950e"
+      "size": 1312,
+      "sha256": "78bd170f55803551514b72b62bf5ae5e00428e7db806c7eb5d3eda04898ed342"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/flower-short.png",
@@ -4753,8 +4753,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/flower-short.xml",
-      "size": 2466,
-      "sha256": "2d994dedfcb836eae33b52ac557854ab0a13df8c94d9de2c87eb1d2eef941947"
+      "size": 2449,
+      "sha256": "09e87ab1749b7a0caf33ab006ececf3dc4d52fc4573eec1ee3329405e122a90e"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/flower-tall.png",
@@ -4763,8 +4763,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/flower-tall.xml",
-      "size": 3193,
-      "sha256": "7ec566e15466276c2ea2c29518531d4fadd5a10eeb9e23a6076224f419da3286"
+      "size": 3171,
+      "sha256": "c3871b52b1c7effafc15b7b78fe5f8c8aad996e08bc33e275c1c7f8738d82542"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/fly.png",
@@ -4783,8 +4783,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/green-car.xml",
-      "size": 379,
-      "sha256": "ee4793a553783f0544a5dcf49f7ebe8adbc058cd35a183241d6b00e4d928a40f"
+      "size": 376,
+      "sha256": "d969a7c63eb61c33185cd3898e594e914aced1d75e28c53fffd830975139c93f"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/logo.png",
@@ -4798,8 +4798,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/autistic-person1.xml",
-      "size": 366,
-      "sha256": "6d1c2cf9511b57a7cfa42ac542c560721e9cfa050032f899acd185e11393d005"
+      "size": 363,
+      "sha256": "8dd9c17a700b4305617e22339f95c7cbe17ff1594e84bb412951b4b2cf6b356c"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/autistic-person2.png",
@@ -4808,8 +4808,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/autistic-person2.xml",
-      "size": 366,
-      "sha256": "e6d2596d1a5e66eda3601a5830bd9699412bad7c70ee08c70f23ef159d75a685"
+      "size": 363,
+      "sha256": "949afb8cfd67940dc15a0330e9514edb8dcea84e62e8bce0216c95e1b7f1ecba"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/dance.png",
@@ -4818,8 +4818,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/dance.xml",
-      "size": 1151,
-      "sha256": "3ce3e1fc86fb64231b21a7837b4e96c7f9b053a064adb3e8a9da9a150a5cdb71"
+      "size": 1142,
+      "sha256": "026dbfb1b6269b427b222781124baaa0441fc9b9fd93aa1ccdaf4deed9c8c062"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/fahlace.png",
@@ -4828,8 +4828,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/fahlace.xml",
-      "size": 357,
-      "sha256": "7cf2eec9b914324026e7be056c48db40fc359b4165c0a85694f3b2e9ff554dff"
+      "size": 354,
+      "sha256": "e014a2e490537d7b130f6aa70935b914fdfa9bacf1f07e783f8b702cc4c4132d"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/hello.png",
@@ -4838,8 +4838,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/hello.xml",
-      "size": 359,
-      "sha256": "0c2816596e29cc3f6cfa22560664177f685755dff1105636f4a56e6631da8b74"
+      "size": 356,
+      "sha256": "489626fc12f49245e00dc84d18ee90ad4486a45d5933ed19c9d1335409688f64"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/jumpybf.png",
@@ -4848,8 +4848,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/jumpybf.xml",
-      "size": 754,
-      "sha256": "435ff13ad877019086f6505f165b0d53561a3ca14c2b0775d03a4161c2d0e284"
+      "size": 748,
+      "sha256": "d4ea3788d4d09a9797b584170cc554f2d01feb2bfa679c098c840559678d2523"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/jumpyfah.png",
@@ -4858,8 +4858,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/jumpyfah.xml",
-      "size": 756,
-      "sha256": "a5854f285e36c5807db4cd302996b030e194b96be7609b51829e5dddc405e932"
+      "size": 750,
+      "sha256": "ba885cef66cbefda8640d2c155f1bb80044c4fb16efde9bf91ad38f2285ef837"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/tiger-roar.png",
@@ -4868,8 +4868,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/tiger-roar.xml",
-      "size": 1548,
-      "sha256": "13cb7caeac849f4b7cac7ee576de82476a8203f4f48e916ea4c67e7d69c6c846"
+      "size": 1537,
+      "sha256": "3dd580c18635c343294e81ab419aa4431c8f898d3a8568606412fc28e5af2ef7"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/trampoline.png",
@@ -4878,8 +4878,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/overlay/trampoline.xml",
-      "size": 360,
-      "sha256": "7e8ce43aece39e134e30f333be03f31039a45e69585904839c60b2461237474d"
+      "size": 357,
+      "sha256": "496f9618fa9fd6fc9195e1813be528cf482c4153fa8e86d75c0a0aaaac8dcef8"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/pee.png",
@@ -4888,8 +4888,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/pee.xml",
-      "size": 649,
-      "sha256": "ceb08930e5b09c3a137922f3865e6d3041480cbcf573d9215520017c9980aa19"
+      "size": 644,
+      "sha256": "c258c6b801a4a394e3bf7921df2ffcc140caee048c30b5fbd38e349d68e9ad7e"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/people-chain.png",
@@ -4898,8 +4898,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/people-chain.xml",
-      "size": 387,
-      "sha256": "57de8cb3e8b9598690d9a296711a729f2a8b9002a81ebc8eeb3d31c171906ac7"
+      "size": 384,
+      "sha256": "f373c5ab3bcc716ba88d9ece15d905df7507590f7a8a06ec9790a61e35ee1b70"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/pheeven-dance.png",
@@ -4908,8 +4908,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/pheeven-dance.xml",
-      "size": 681,
-      "sha256": "a4622918646eac037cf3d6d6917651ba5e0a44862b8ca87cd06658e23940b495"
+      "size": 676,
+      "sha256": "4c150721d28c7cb6314218726602b436b36bcff887c62ac82d638e6c04b1bc1e"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/ray.png",
@@ -4918,8 +4918,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/ray.xml",
-      "size": 649,
-      "sha256": "121408d38c560baabf3d99980a6cb678ff4020a289b952bf302ffeadf6f7fb0b"
+      "size": 644,
+      "sha256": "67197bf0db4ad191940c1db045165ceedf6961238f32cb61d618fde70ad7fcb9"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/red-car.png",
@@ -4928,8 +4928,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/red-car.xml",
-      "size": 373,
-      "sha256": "9759b2ec0d49fbf3bc988ac629fb1194fb553dcc405d511c799259ef769a7bc3"
+      "size": 370,
+      "sha256": "673a1e3cb032f0c4469d37d625b7b05c0f0da740f206478839b2fba267709ace"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/sun-2.png",
@@ -4938,8 +4938,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/sun-2.xml",
-      "size": 1773,
-      "sha256": "01f4bca90c92b569cf3109184c3c5ac91ad9d02a08e06c9a9c184dfc8fbd96a5"
+      "size": 1760,
+      "sha256": "fe4476bd8ed3c6532b1c8138aebc33916f027cf406fe2432e2146076db7d74fd"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/sun.png",
@@ -4948,8 +4948,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/sun.xml",
-      "size": 633,
-      "sha256": "4189007ed0f18857d751fe689e45c5870650e404d9f4dbfbab418969d3106375"
+      "size": 628,
+      "sha256": "19304e8fc2f99ed187cbcd0a8fd33ceba94377b797b8b06f2273a85e7d5f559a"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/sweater.png",
@@ -4958,8 +4958,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/sweater.xml",
-      "size": 373,
-      "sha256": "eb7bec41f8c7f505e0b30f7d204bfd105200b5563b2102080baf6b91b889a893"
+      "size": 370,
+      "sha256": "e4d771261e169fe4446a10e78d838cdb3623241c0e2e38967d1297adc74c9488"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/the.png",
@@ -4968,8 +4968,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/the.xml",
-      "size": 365,
-      "sha256": "7b80d30d86f3035d891a3a3b739783abc374921785a4a1fed5ed5fc734e267e3"
+      "size": 362,
+      "sha256": "d0375eb7565aa06462d084748223e8737e009699037191f1be4f72841edc2825"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/trans.png",
@@ -4978,8 +4978,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/trans.xml",
-      "size": 647,
-      "sha256": "8fd24037ac1dd60a20a4022479ee27f9bfe796214aa67f391a1afc4473b16674"
+      "size": 642,
+      "sha256": "c99ab04eb3173cf86e278008ad997916e921e48da3f5263fa7ae0d552818851d"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/tree.png",
@@ -4988,8 +4988,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/tree.xml",
-      "size": 1754,
-      "sha256": "30b29b57bc807e29a2a730893f9ff6e52cdf6ef0391d41e2d49d7a18df67b764"
+      "size": 1741,
+      "sha256": "38632efd01eb5324e067c5bc961c7787755b735aeae6e563b19b4e8e5d88fce1"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/trix.png",
@@ -4998,8 +4998,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/trix.xml",
-      "size": 364,
-      "sha256": "79743c32d5e7bdae3f1c4293ca7e25e239791d0b7ad0174ed54e23eb5924b379"
+      "size": 361,
+      "sha256": "a826935fc5fb0f93baef010e10da7a0a8de47debf9b4be4dd486682378c9dbdf"
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/what.png",
@@ -5008,8 +5008,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/fah/what.xml",
-      "size": 366,
-      "sha256": "0526eed2c77976040e0eac24adfbea400d1a73adf86a5ed76bc97b330c7eb7f3"
+      "size": 363,
+      "sha256": "2280243ce05881ac1ade9de89e43be753fe6323aab9257aaf99210b4ef80f7e9"
     },
     {
       "path": "assets/images/Freeplay-Chrs/gabriella/gabby/black.png",
@@ -5108,8 +5108,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/burnmark1.xml",
-      "size": 1093,
-      "sha256": "43d773880ad1ef4fb4a4c7de4e816493c5c23ae0d0d9ca29d6d96f0cfcc17725"
+      "size": 1085,
+      "sha256": "cf3bd7d993ce34919e2e8b44f4ca16517a18cc379fd0e31dc02520bda2915158"
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/burnmark2.png",
@@ -5118,8 +5118,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/burnmark2.xml",
-      "size": 983,
-      "sha256": "9155c4984358a0623286314e97892aa26dad94a389c76e30012933219df17ab3"
+      "size": 976,
+      "sha256": "cfe7c0e231dad38706f095ade034f0896efa43cd927c9e62d41f46d20847917f"
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/credits.png",
@@ -5133,8 +5133,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/fire1.xml",
-      "size": 1546,
-      "sha256": "a25fe6b8d6658e5c0ec2dd7988035088a929220e618c89c64273febda335ca72"
+      "size": 1535,
+      "sha256": "170065413a012d9f006378040cd25fe18967910ab4788343413bb325ab26d132"
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/fire2.png",
@@ -5143,8 +5143,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/fire2.xml",
-      "size": 1251,
-      "sha256": "3900e92f3e8f671d59b40350e71fcbb53fefe7b3ecbdfe4e5dc1c5bedd9f5cfe"
+      "size": 1242,
+      "sha256": "bae16a8015a9431c85e712951f6fa9fc259ee9f7b32d5580db6e2d32cbc6034c"
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/logo.png",
@@ -5158,8 +5158,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/phoenix-body.xml",
-      "size": 540,
-      "sha256": "17d2703ed2c7676a3bf8686dee7935929c71bde8b64eba66871dc0293ca53986"
+      "size": 536,
+      "sha256": "a57efa8238b56b32135a416bbca5e7295960066f5db004089ad8f3dc90beef6b"
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/phoenix-eyes.png",
@@ -5168,8 +5168,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/phoenix-eyes.xml",
-      "size": 3452,
-      "sha256": "68302f257f15e641c87631606fd6b9c5360d7c6f219dfed0e90a03860521675c"
+      "size": 3430,
+      "sha256": "f8c4f76b1193024f57a70216a1502f95d7b315a84c9234b567be52a9dcc1b8de"
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/phoenix-head.png",
@@ -5178,8 +5178,8 @@
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/phoenix-head.xml",
-      "size": 1585,
-      "sha256": "b868865982a5ca78228759ab41b13ba57845c194caf4623cadfb66bf91008d6a"
+      "size": 1574,
+      "sha256": "826ee4fafb3dce0925db763228e5b0b8779395152eadb6b215cfe76f2755011c"
     },
     {
       "path": "assets/images/Freeplay-Chrs/phoenix/spotlightlight.png",
@@ -5443,8 +5443,8 @@
     },
     {
       "path": "assets/images/friendly/body-mask.xml",
-      "size": 531,
-      "sha256": "6373a1cee6bcde76602fa0804dc0ed0a20ded1cb96f48715d906f36129277b8c"
+      "size": 526,
+      "sha256": "952d3061223dcbc2b8d32d850e74c83ff7afa67d69b2104be33adfd26a8fc975"
     },
     {
       "path": "assets/images/friendly/bopper-mask.png",
@@ -5453,8 +5453,8 @@
     },
     {
       "path": "assets/images/friendly/bopper-mask.xml",
-      "size": 3661,
-      "sha256": "79991081bc148244510145c34a418984886dce86bca7655e0843fe41f6641984"
+      "size": 3637,
+      "sha256": "fdc95cd0fe8701c08924b9d80a3777da9901a777f997107711abe9cd70ddae1f"
     },
     {
       "path": "assets/images/friendly/fah-censor.png",
@@ -5463,8 +5463,8 @@
     },
     {
       "path": "assets/images/friendly/fah-censor.xml",
-      "size": 376,
-      "sha256": "e0c8e9e3a68b717e9d698d89c2e05c06d651d6848d4939ba10a808e60f09a31f"
+      "size": 372,
+      "sha256": "5a43a3a6fc836a48574c21af2e0bb8afb1c039475d3081ccfec6c52d0e30330b"
     },
     {
       "path": "assets/images/friendly/gabby-mask.png",
@@ -5473,8 +5473,8 @@
     },
     {
       "path": "assets/images/friendly/gabby-mask.xml",
-      "size": 1939,
-      "sha256": "1bdbde7374e0a426fbbf79f32e89efa3f65bb6a639048d699ea06585668e46bb"
+      "size": 1924,
+      "sha256": "6f8d8dba02b09d04bab1ac3ea11212c6567a8ae9960f0dd172a398302eeb9fcb"
     },
     {
       "path": "assets/images/friendly/senpai-censor.png",
@@ -5483,8 +5483,8 @@
     },
     {
       "path": "assets/images/friendly/senpai-censor.xml",
-      "size": 385,
-      "sha256": "88f9aab29da9ac09c060d6fa74482076640539237e82a7866df2484984667cef"
+      "size": 381,
+      "sha256": "157e8675c900a7ebe6b4847631c92d9f3146d1ea437e5b69dc9b9681bdffc0bd"
     },
     {
       "path": "assets/images/friendly/stickers.png",
@@ -5503,8 +5503,8 @@
     },
     {
       "path": "assets/images/Hud/aom-hold-splash.xml",
-      "size": 4604,
-      "sha256": "95eb6e93ee71643624a45c98e8bd8ae37d6c5229bec911eaad325d1083972a29"
+      "size": 4571,
+      "sha256": "09d91b3e620f50441f1e6032f663cf209b2b67a3f265031adaeb345277ec1cd5"
     },
     {
       "path": "assets/images/Hud/aom-noteskin.png",
@@ -5513,8 +5513,8 @@
     },
     {
       "path": "assets/images/Hud/aom-noteskin.xml",
-      "size": 5093,
-      "sha256": "e0bdbf4b77a30fc9020640ab5dfc22c638ebd205712e3ef1e27427353d07d4f0"
+      "size": 5064,
+      "sha256": "5c96a4a9e6f1d7a14fca96bb8360c7af5e7a7ada8dee91ae08d8af001b6d3b4c"
     },
     {
       "path": "assets/images/Hud/aom-notesplash.png",
@@ -5523,8 +5523,8 @@
     },
     {
       "path": "assets/images/Hud/aom-notesplash.xml",
-      "size": 5988,
-      "sha256": "56f972b57157f66cdf919ffcdc526670a9d53be928d7ac379bfdb9930da6a2db"
+      "size": 5947,
+      "sha256": "b87ce71639eb71f1f25bd788a88e742484117cd7e997de727a8560904b84b095"
     },
     {
       "path": "assets/images/Hud/bar-fill.png",
@@ -5548,8 +5548,8 @@
     },
     {
       "path": "assets/images/Hud/fah-hold-splashes.xml",
-      "size": 4571,
-      "sha256": "c753fdd7f9652aba080ff69158a47d8c859e07cf96f5f9137074b7bbce8f0f29"
+      "size": 4538,
+      "sha256": "174563fa912b93146fb403769c3d1502062bbf1df0442cd7e52f5312aaa6e6c9"
     },
     {
       "path": "assets/images/Hud/fah-notes.png",
@@ -5558,8 +5558,8 @@
     },
     {
       "path": "assets/images/Hud/fah-notes.xml",
-      "size": 5592,
-      "sha256": "4c045b92aa721997e45505af6bc2bfe86880d750694b20042d856ac56b3c4808"
+      "size": 5551,
+      "sha256": "a7cd95fa7ef3034974d32f45c17499a062fd6bd2ed0da26a28d2b6aa0084f548"
     },
     {
       "path": "assets/images/Hud/fah-splashes.png",
@@ -5568,8 +5568,8 @@
     },
     {
       "path": "assets/images/Hud/fah-splashes.xml",
-      "size": 2452,
-      "sha256": "c9302ca71c77d301d441b40b5c224e8c328285f6a55ac218bbc77264a4bd6754"
+      "size": 2435,
+      "sha256": "9c0dfe6ebd9910899272deb802e4cd23e806928830fe6439fbfa197b2af81c92"
     },
     {
       "path": "assets/images/Hud/Fah/font/fah-boil.png",
@@ -5598,8 +5598,8 @@
     },
     {
       "path": "assets/images/Hud/Fah/numbers.xml",
-      "size": 1329,
-      "sha256": "3e7960829f29c9d8d4a453545be26739545616617269435b8d3b17a4377885eb"
+      "size": 1318,
+      "sha256": "7466ef95093026f0b41c17a52c2906afc83fc14da956b11df76929f48c7f51df"
     },
     {
       "path": "assets/images/Hud/Fah/ratings/bad.png",
@@ -5638,8 +5638,8 @@
     },
     {
       "path": "assets/images/Hud/Fah/ui/bar-outline.xml",
-      "size": 361,
-      "sha256": "a8a6dc1a9f832fbb02cfe5bb80e259eca09f6cecfcb3809ce2877005efb96af0"
+      "size": 358,
+      "sha256": "e136cd50928b6f41f99d1e16d0615359111230365bc7b89b27befcfc08867716"
     },
     {
       "path": "assets/images/Hud/Fah/ui/clock.png",
@@ -5648,8 +5648,8 @@
     },
     {
       "path": "assets/images/Hud/Fah/ui/clock.xml",
-      "size": 363,
-      "sha256": "027ece0068b183f53cb51ba26d081a3981730350eaf9b08ccd058be451eebe35"
+      "size": 360,
+      "sha256": "44239e50b9bd71e2b17fbfe648048473213f5cbad44745c4d4173e0913cae39e"
     },
     {
       "path": "assets/images/Hud/Fah/ui/fill.png",
@@ -5658,8 +5658,8 @@
     },
     {
       "path": "assets/images/Hud/Fah/ui/fill.xml",
-      "size": 361,
-      "sha256": "d7aae516dbfc70e5845f173731aab92dd62a419f0841fbef1bcccfe0407b5ffb"
+      "size": 358,
+      "sha256": "c5738662ba0c3ce6a4b061777ff62bb21a86a4a399166c39f4011db90e3cfa17"
     },
     {
       "path": "assets/images/Hud/FahMix/week2/o-fill.png",
@@ -5683,8 +5683,8 @@
     },
     {
       "path": "assets/images/Hud/FahMix/week6/bar-back.xml",
-      "size": 373,
-      "sha256": "0bae8b3a280c079f06a18344f914aa66dfff29d334925a3636bb5fcff2216663"
+      "size": 370,
+      "sha256": "d9c83313588022dd96d302bb3d624423ca4bb98e287f8a74b8d45ce4cc0dce75"
     },
     {
       "path": "assets/images/Hud/FahMix/week6/bar-fill.png",
@@ -5698,8 +5698,8 @@
     },
     {
       "path": "assets/images/Hud/FahMix/week6/bar-front-roses.xml",
-      "size": 386,
-      "sha256": "7eff4e047d6aef9dc461b44c2e5f980014cccd681a86e8b1ea8f6da654ba3047"
+      "size": 383,
+      "sha256": "ea57f3244614a60ac3185ccfa857fa38b4e79571d2973a8a5c2db42dd40bc670"
     },
     {
       "path": "assets/images/Hud/FahMix/week6/bar-front-sen.png",
@@ -5708,8 +5708,8 @@
     },
     {
       "path": "assets/images/Hud/FahMix/week6/bar-front-sen.xml",
-      "size": 386,
-      "sha256": "7eff4e047d6aef9dc461b44c2e5f980014cccd681a86e8b1ea8f6da654ba3047"
+      "size": 383,
+      "sha256": "ea57f3244614a60ac3185ccfa857fa38b4e79571d2973a8a5c2db42dd40bc670"
     },
     {
       "path": "assets/images/Hud/FahMix/week6/bar-front.png",
@@ -5718,8 +5718,8 @@
     },
     {
       "path": "assets/images/Hud/FahMix/week6/bar-front.xml",
-      "size": 376,
-      "sha256": "dacb9aa5018ba190f32510aae38085be2a52a468a93f4599b24443e78d2b4898"
+      "size": 373,
+      "sha256": "5189d14c189553892499a283cfcc89d27a7f731cf85e644029b5227bd188ba54"
     },
     {
       "path": "assets/images/Hud/FahMix/week6/font/percent_0000.png",
@@ -5763,8 +5763,8 @@
     },
     {
       "path": "assets/images/Hud/FahMix/week6/ratings/senpai-numbers.xml",
-      "size": 1335,
-      "sha256": "d609afdb01eb81a98f4e5972ccff681aaa946fe6de5a49d56bb6d7aa97ce5152"
+      "size": 1324,
+      "sha256": "ee4d9ad9757f167ae4321cea5663c1343973af25c0195061232185e6251e2db3"
     },
     {
       "path": "assets/images/Hud/FahMix/week6/ratings/shit.png",
@@ -5793,8 +5793,8 @@
     },
     {
       "path": "assets/images/Hud/FahMix/week6/senpai-bar-outline.xml",
-      "size": 368,
-      "sha256": "ac0741247dd3bb9e5c1f9ebdb50e386c8aaa8225a8c160e83e7aa229233c0e78"
+      "size": 365,
+      "sha256": "4677adafbf545a824946e48451b885378d332388a0bc24b944064abc82e89549"
     },
     {
       "path": "assets/images/Hud/FahMix/week7/bar-push.png",
@@ -5803,8 +5803,8 @@
     },
     {
       "path": "assets/images/Hud/FahMix/week7/bar-push.xml",
-      "size": 626,
-      "sha256": "3e950c3cca97ec5113d678b237f422a39358caee526dfdbabbdb9824b42f94f6"
+      "size": 621,
+      "sha256": "2adc934f7812da011aff9d3a4de1ce46c035d2582cf4c9d60b165c509eed3d38"
     },
     {
       "path": "assets/images/Hud/FahMix/week7/numbers.png",
@@ -5833,8 +5833,8 @@
     },
     {
       "path": "assets/images/Hud/Gabriella-Legacy/noteSplashes.xml",
-      "size": 4710,
-      "sha256": "932664149c1980d76d8ecb289b75cac56931526f0e2f26af9b6444a530da46ad"
+      "size": 4673,
+      "sha256": "0e69ed6bbe175876e23c7b5bf2229a3fae82da9fa15f44c9fa2d48358d806ce6"
     },
     {
       "path": "assets/images/Hud/Gabriella-Legacy/numbers/num0.png",
@@ -5923,8 +5923,8 @@
     },
     {
       "path": "assets/images/Hud/numbers.xml",
-      "size": 1394,
-      "sha256": "3690d17747377e13270b565d26754f3fcf1753dd6fc615afd8e4a6030c78d588"
+      "size": 1383,
+      "sha256": "6f4b7da6905a4cb969b5f3067ddb701f902afbf4dfcf2eab991e98350b228e18"
     },
     {
       "path": "assets/images/Hud/ratings/bad.png",
@@ -5953,8 +5953,8 @@
     },
     {
       "path": "assets/images/Hud/senpai-fah-hold-splashes.xml",
-      "size": 4512,
-      "sha256": "c15d2e9a0ec7424b8078c5c4cb15d6f777605a1f3b7ac28d5cbb3626a061e8f3"
+      "size": 4479,
+      "sha256": "a76bfd70bed41007dd866d0e33543115f8c968df4355a60108f5ca5d21b2280d"
     },
     {
       "path": "assets/images/Hud/senpai-fah-notes.png",
@@ -5963,8 +5963,8 @@
     },
     {
       "path": "assets/images/Hud/senpai-fah-notes.xml",
-      "size": 5582,
-      "sha256": "472a0c015668407404965a72ad4784696cc53edbc64aa14cdcea4c38cd13754b"
+      "size": 5541,
+      "sha256": "24a046196e976475034c8de89c62304346c216fc91c57f302f8fd2580d0c7fc6"
     },
     {
       "path": "assets/images/Hud/senpai-fah-splashes.png",
@@ -5973,8 +5973,8 @@
     },
     {
       "path": "assets/images/Hud/senpai-fah-splashes.xml",
-      "size": 2461,
-      "sha256": "5c70709dd1ed445fa6cc703a4678474507a9be6d7bfae8f4509ae47865cf4906"
+      "size": 2444,
+      "sha256": "69cb4f12bc7c03aa0739759159e587b5661470ef54bb8e87d37259eb58a6daf4"
     },
     {
       "path": "assets/images/Hud/timebar.png",
@@ -5988,8 +5988,8 @@
     },
     {
       "path": "assets/images/icons/dad-fah.xml",
-      "size": 1284,
-      "sha256": "18c3e91ec04144cbddc5c237729414f47640e9f969e57a608e72d3bd2fa3bebc"
+      "size": 1274,
+      "sha256": "5e48ad5d8ca503414c7c6eacca95610ad28e1207e6b94ab1ae7ff5a8ec2f0eca"
     },
     {
       "path": "assets/images/icons/darnell-fah.png",
@@ -5998,8 +5998,8 @@
     },
     {
       "path": "assets/images/icons/darnell-fah.xml",
-      "size": 1288,
-      "sha256": "de27915e35e48224585d2b03c177b835c76315fa103c57d75797ccff1fe96006"
+      "size": 1278,
+      "sha256": "fc94c454607c85093997b375877456cbf811f7644270f9319afb8d73d88079fc"
     },
     {
       "path": "assets/images/icons/fah-bf.png",
@@ -6008,8 +6008,8 @@
     },
     {
       "path": "assets/images/icons/fah-bf.xml",
-      "size": 1275,
-      "sha256": "0e9773e8ffc1d747547c7cea741eacb8474064c0e3606f2646a0312def164e79"
+      "size": 1265,
+      "sha256": "f3706c93e11e47a85b91b38ccea7ad82f61c99e7aaa76252b4df0d75beffc4a8"
     },
     {
       "path": "assets/images/icons/fah-tiger.png",
@@ -6018,8 +6018,8 @@
     },
     {
       "path": "assets/images/icons/fah-tiger.xml",
-      "size": 1273,
-      "sha256": "67aa6d10d5aea342e968a85e22eb57af12f6dabd0212aba01a2568bc9734f0e2"
+      "size": 1263,
+      "sha256": "8dc996d2bdcc0c800e04c835f567d4839f34b07d6a1ace36c3ab47b053462460"
     },
     {
       "path": "assets/images/icons/fah.png",
@@ -6028,8 +6028,8 @@
     },
     {
       "path": "assets/images/icons/fah.xml",
-      "size": 1260,
-      "sha256": "558fd649c3a4617ee38671d62d3d272bc0e6b21080e7e97137a5c020bd9419ad"
+      "size": 1250,
+      "sha256": "dbb436e48414883e75d0a737fe575a2765305bca4dc2da8f16747d2609e8a90b"
     },
     {
       "path": "assets/images/icons/fahger-playable.png",
@@ -6038,8 +6038,8 @@
     },
     {
       "path": "assets/images/icons/fahger-playable.xml",
-      "size": 1279,
-      "sha256": "fb10417720e815be696604b56aaf1b51bdd2a500dcf4b37ed6c08f6af18e6240"
+      "size": 1269,
+      "sha256": "b1c96ad640fc7e40ad2491692c94f6eba7581bd716e7653be5c10f038ce42b2c"
     },
     {
       "path": "assets/images/icons/fahmas-playable.png",
@@ -6048,8 +6048,8 @@
     },
     {
       "path": "assets/images/icons/fahmas-playable.xml",
-      "size": 1281,
-      "sha256": "a063d8838a882a8e62509625fc554952a1666293307844f5de8d937363081a5d"
+      "size": 1271,
+      "sha256": "58a5894931fdd0ff39b9ca45ca84daf9095d014631863df3d9e4c4e03e711648"
     },
     {
       "path": "assets/images/icons/fahtank-playable.png",
@@ -6058,8 +6058,8 @@
     },
     {
       "path": "assets/images/icons/fahtank-playable.xml",
-      "size": 1273,
-      "sha256": "011970655f3c7129145d843f889cafb144d08729599ff6c8f017e6f224684d05"
+      "size": 1263,
+      "sha256": "c87c09ec3a2eea1e77f19cd771c54a201f0bd17acd6910bcadfcf8328610f770"
     },
     {
       "path": "assets/images/icons/icon-ar.png",
@@ -6153,8 +6153,8 @@
     },
     {
       "path": "assets/images/icons/merrydad-fah-nopop.xml",
-      "size": 1289,
-      "sha256": "b184778a6e74aebe3d053488d2d1bcb576be39cc4f87d574863dfea6df9cddbd"
+      "size": 1279,
+      "sha256": "1d1dba8b91fa9bfbbe934dd9e1404016c50bc25528af3f51c41cd38cbd02de39"
     },
     {
       "path": "assets/images/icons/merrydad-fah.png",
@@ -6163,8 +6163,8 @@
     },
     {
       "path": "assets/images/icons/merrydad-fah.xml",
-      "size": 1283,
-      "sha256": "f39db3f406b0e2207ea65ee6855377971832c198ad7009caa2cc9c573d1bfbca"
+      "size": 1273,
+      "sha256": "4d8dda30232080e84727b8280b4f1b4800b518d4e64390cc551090a03cf339ec"
     },
     {
       "path": "assets/images/icons/mom-fah.png",
@@ -6173,8 +6173,8 @@
     },
     {
       "path": "assets/images/icons/mom-fah.xml",
-      "size": 1284,
-      "sha256": "2a6e3065fd26c77e8c9adfc77181e8f21aa6dde8bef00b39b5b16f75441e77ca"
+      "size": 1274,
+      "sha256": "df0f6b634c7315122a176c2474ec93813b7b708aca3c5f3ff27620076a40ab72"
     },
     {
       "path": "assets/images/icons/msfah-playable.png",
@@ -6183,8 +6183,8 @@
     },
     {
       "path": "assets/images/icons/msfah-playable.xml",
-      "size": 1289,
-      "sha256": "6502535a6c92ccd71d0bf45a499525b3b76bc730509cca2c6b9f004dcb5c0c58"
+      "size": 1279,
+      "sha256": "3666542a3fb66ce979f3393fe320bfcfe1371b4fb0f6119d6a676e7592030ab0"
     },
     {
       "path": "assets/images/icons/pico-fah.png",
@@ -6193,8 +6193,8 @@
     },
     {
       "path": "assets/images/icons/pico-fah.xml",
-      "size": 1278,
-      "sha256": "d0ccc2cf41ced2a869b81104b4bcff773ae5c10036e3c03800657a3ec3f0b0fc"
+      "size": 1268,
+      "sha256": "7b55b492e460b6b49c7a4dc6673af90a6ef5ca3c4e8d0697fc8e79afaffd0950"
     },
     {
       "path": "assets/images/icons/pisspai-fah.png",
@@ -6203,8 +6203,8 @@
     },
     {
       "path": "assets/images/icons/pisspai-fah.xml",
-      "size": 1270,
-      "sha256": "8eee68e2aefe8843bd3b39771f54760611571fc680112d2166cfd2daeacffed2"
+      "size": 1260,
+      "sha256": "b0ced218ee241797a0180f2770040c35c30f69e56d4d37cae8ae5103d4e59919"
     },
     {
       "path": "assets/images/icons/senpai-fah.png",
@@ -6213,8 +6213,8 @@
     },
     {
       "path": "assets/images/icons/senpai-fah.xml",
-      "size": 1271,
-      "sha256": "10dc15092afbd09235e30d80c26612455dea4607e7b8753c912dd6803382c4ad"
+      "size": 1261,
+      "sha256": "3dfc9de631e807aa7b295d0da90f21b21f0122b8cb0b4a5944f2f3e9a8325517"
     },
     {
       "path": "assets/images/icons/spookykids-fah.png",
@@ -6223,8 +6223,8 @@
     },
     {
       "path": "assets/images/icons/spookykids-fah.xml",
-      "size": 1293,
-      "sha256": "1c66d42acd8a5e63976431cba65692382eac20a49174f259d3f504a5cf9d0a97"
+      "size": 1283,
+      "sha256": "456c9040889cb117c56004a9c5a35f64a06f6f14dbb35c70dfa71eb9eb2b6cb9"
     },
     {
       "path": "assets/images/icons/tankman-fah.png",
@@ -6233,8 +6233,8 @@
     },
     {
       "path": "assets/images/icons/tankman-fah.xml",
-      "size": 1290,
-      "sha256": "50932cf5bd54fb420aba44ea3ca442c1d51ea621c59e07df483c2cf292505019"
+      "size": 1280,
+      "sha256": "a7a9f1cfabf0f9be8728c7722f18738ea89247521653894bcbdcb2f6100c6abb"
     },
     {
       "path": "assets/images/loading/bg1.png",
@@ -6383,8 +6383,8 @@
     },
     {
       "path": "assets/images/Menus/Intro-stuff/alphabet.xml",
-      "size": 57613,
-      "sha256": "df87d65e2508390d363905574d181157233fe5ccc35c2136b8b941264e8c5303"
+      "size": 56982,
+      "sha256": "f0204f3093422bdd20a34da3400c09a8a9510a46dc49c23725515b1b3ae1791f"
     },
     {
       "path": "assets/images/Menus/Intro-stuff/Chibis/Fah.png",
@@ -6393,8 +6393,8 @@
     },
     {
       "path": "assets/images/Menus/Intro-stuff/Chibis/Fah.xml",
-      "size": 907,
-      "sha256": "9ea658eb954e6aa56119c57e62b8e195bf3329caf1dac161c93dcef5f1af90b9"
+      "size": 900,
+      "sha256": "71bd6308861ac28d8ddc12bb359baa64751122da1e1f87db9952a6dd193ee4fd"
     },
     {
       "path": "assets/images/Menus/Intro-stuff/Chibis/Gabby.png",
@@ -6403,8 +6403,8 @@
     },
     {
       "path": "assets/images/Menus/Intro-stuff/Chibis/Gabby.xml",
-      "size": 921,
-      "sha256": "06fc06b6b1ef8a4328897cc8a2302d08b286f4fc52ab2a6a48228057d796ac11"
+      "size": 914,
+      "sha256": "a6a0514931c4e46301e24fee695ed04f78d4f7fee97d47a5e212adcb4e52adf5"
     },
     {
       "path": "assets/images/Menus/Intro-stuff/Chibis/Moth.png",
@@ -6413,8 +6413,8 @@
     },
     {
       "path": "assets/images/Menus/Intro-stuff/Chibis/Moth.xml",
-      "size": 914,
-      "sha256": "aab5c8727b4170d56e91a8df62979e34c8e061b13919abc91fac2b07eb2a974e"
+      "size": 907,
+      "sha256": "69e881cc945bbc8a7f67b6596281bae529d8ee22811dd2111a9150c8b4c1585f"
     },
     {
       "path": "assets/images/Menus/Intro-stuff/Chibis/Nola.png",
@@ -6423,8 +6423,8 @@
     },
     {
       "path": "assets/images/Menus/Intro-stuff/Chibis/Nola.xml",
-      "size": 916,
-      "sha256": "7c6ec5983051d28ba9f3d97907c31a3e135d46e0aecf2124e6d98e1f25d6695d"
+      "size": 909,
+      "sha256": "c5c35b3c8937c8a9738de97556d9a01d7c6a51bcb558845b9071cbebdb73a1c7"
     },
     {
       "path": "assets/images/Menus/Intro-stuff/Chibis/Phoenix.png",
@@ -6433,8 +6433,8 @@
     },
     {
       "path": "assets/images/Menus/Intro-stuff/Chibis/Phoenix.xml",
-      "size": 933,
-      "sha256": "5eab175747b1252b42f56415859cc8cb16f7a5f87ab47e9597c981cdb55ed1ab"
+      "size": 926,
+      "sha256": "b055901320ace264e152914eb3cf147a7d571659238eff0b9d24f0b974eaf708"
     },
     {
       "path": "assets/images/Menus/Intro-stuff/Chibis/Raven.png",
@@ -6443,8 +6443,8 @@
     },
     {
       "path": "assets/images/Menus/Intro-stuff/Chibis/Raven.xml",
-      "size": 919,
-      "sha256": "f45aab0431fde68e3271c7c440497a09f59c9202a954d6e0b648e07dbbede25e"
+      "size": 912,
+      "sha256": "bb4c5973fe0ab98c8c437980f08b78be7501d44e63deff58a07197e6778623c1"
     },
     {
       "path": "assets/images/Menus/Intro-stuff/credits/anto.png",
@@ -6618,8 +6618,8 @@
     },
     {
       "path": "assets/images/Menus/Intro-stuff/logoBumpin.xml",
-      "size": 2191,
-      "sha256": "2d45870e1774ea55bb5e2128d804d8247678ec8c538fcabe76f550d581c019db"
+      "size": 2175,
+      "sha256": "4b19826da6a2505a793f1949b6d73e79794a8a47da7900f7fbf4e17a95f3fce8"
     },
     {
       "path": "assets/images/Menus/Intro-stuff/mellori_logo.png",
@@ -6998,8 +6998,8 @@
     },
     {
       "path": "assets/images/Menus/MainMenu-stuff/mainmenu/menu_credits.xml",
-      "size": 372,
-      "sha256": "b29444b82ccbed8c95e22a38eb9df33b39b00f7b5a618f6597f5a7023ecc66df"
+      "size": 369,
+      "sha256": "e2ee0940e2138dd246ca4535dcbc16eeff5c210a02eb49034ede5c3f8f7bbe27"
     },
     {
       "path": "assets/images/Menus/MainMenu-stuff/mainmenu/menu_fahmix.png",
@@ -7008,8 +7008,8 @@
     },
     {
       "path": "assets/images/Menus/MainMenu-stuff/mainmenu/menu_fahmix.xml",
-      "size": 377,
-      "sha256": "b37750a4e157014125847169f046e94dceafc92e00269ee47591beb868298a2b"
+      "size": 374,
+      "sha256": "5754ad2869d0af2eb8373a24be1af948f776d15be6ac5e12f3320b96a22be625"
     },
     {
       "path": "assets/images/Menus/MainMenu-stuff/mainmenu/menu_freeplay.png",
@@ -7018,8 +7018,8 @@
     },
     {
       "path": "assets/images/Menus/MainMenu-stuff/mainmenu/menu_freeplay.xml",
-      "size": 375,
-      "sha256": "2d2f81bda290d9287294ce5b895c1e9c7cc23b6079487ca45487a822267681c8"
+      "size": 372,
+      "sha256": "f3b4f47c79fc654cdac76cf5085125c0f476582d3eb1dc3663737af118a1d510"
     },
     {
       "path": "assets/images/Menus/MainMenu-stuff/mainmenu/menu_options.png",
@@ -7028,8 +7028,8 @@
     },
     {
       "path": "assets/images/Menus/MainMenu-stuff/mainmenu/menu_options.xml",
-      "size": 372,
-      "sha256": "bd1e5d8a37c46c25e35ad7524d8396e69f7195d0954591e85aa903646c2341c7"
+      "size": 369,
+      "sha256": "df3adf7a84cbd2295491c1d96679948fdb2470a22a3af14acf765af8b9e7b578"
     },
     {
       "path": "assets/images/Menus/MainMenu-stuff/menuArt/art1.png",
@@ -7388,8 +7388,8 @@
     },
     {
       "path": "assets/images/Menus/results/bf.xml",
-      "size": 1176,
-      "sha256": "02a97c4cc07f0a3dec3aff619d4ecc1823d06e421f1d67a2a073209d0db4c90c"
+      "size": 1166,
+      "sha256": "900d3d50d03952f59700b640a4291dc4a04783662b1689fb5dd81e126f1946cc"
     },
     {
       "path": "assets/images/Menus/results/fah.png",
@@ -7398,8 +7398,8 @@
     },
     {
       "path": "assets/images/Menus/results/fah.xml",
-      "size": 1189,
-      "sha256": "06afc96916c78b3930cbf7d3fb33e6acdb643d177f24f36ebd72d7848e14292e"
+      "size": 1179,
+      "sha256": "06ff1dff690ff02177aa8d701c9df0d6d5313d2d6ab0222ef59847e83492c1d4"
     },
     {
       "path": "assets/images/Menus/secretDeath/bf.png",
@@ -7418,8 +7418,8 @@
     },
     {
       "path": "assets/images/Mirror/crowd.xml",
-      "size": 504,
-      "sha256": "f993244bfea8002778a48961392083e5defbdac640573d4574dcca4be18a8efc"
+      "size": 500,
+      "sha256": "f95a7005dbe1cb964c84c98a9fd4a5a2b73e4d270eb9b37f2c4a4d6833602390"
     },
     {
       "path": "assets/images/Mirror/dad hey.png",
@@ -7428,8 +7428,8 @@
     },
     {
       "path": "assets/images/Mirror/dad hey.xml",
-      "size": 369,
-      "sha256": "dacc201b0088e47d186d89953c6f121a41d0969cb7604dc2e04fe8d32debb148"
+      "size": 366,
+      "sha256": "b62d0088c391629f251398e221edf80ee0896064c20b07c54d4cd110354e9bb6"
     },
     {
       "path": "assets/images/Mirror/heart mouse.png",
@@ -7448,8 +7448,8 @@
     },
     {
       "path": "assets/images/Mirror/lock senpai.xml",
-      "size": 369,
-      "sha256": "0b0fcd5d02d4a11ff2a3336f0df4d9311e4be2f4ca0ef9ef6122f23d897d2198"
+      "size": 366,
+      "sha256": "d1d40b85b7cafc2de0add0980a59d50ebc7275770d1a9be1c2ed9f9815214592"
     },
     {
       "path": "assets/images/Mirror/middle finger mouse.png",
@@ -7468,8 +7468,8 @@
     },
     {
       "path": "assets/images/Mirror/mom hit by post.xml",
-      "size": 540,
-      "sha256": "65e199936a1b90e9efc0983a07a469f46b0f849a7384bd7e4854346de22a9868"
+      "size": 536,
+      "sha256": "725eb51f1ddc9f01d825978a21b9ce9de5b89176ef140bb366544abd84b58b29"
     },
     {
       "path": "assets/images/Mirror/shoot note.png",
@@ -7478,8 +7478,8 @@
     },
     {
       "path": "assets/images/Mirror/shoot note.xml",
-      "size": 376,
-      "sha256": "c3b11ca4a115ce5ad0da441e57d199e8dd0e1ebbcf8b9d66f64a85ac4bff340a"
+      "size": 373,
+      "sha256": "4ab2c969f1cdda0ba0b08ed163d1567f45cc13545b9f47dc9d9fec801d61d6b7"
     },
     {
       "path": "assets/images/Mirror/tankman-crowd.png",
@@ -7488,8 +7488,8 @@
     },
     {
       "path": "assets/images/Mirror/tankman-crowd.xml",
-      "size": 543,
-      "sha256": "b723ccf9f3fb7dd5e8d6d21442e881aa186707b888ccd8ac70b0cafa5d4d9902"
+      "size": 539,
+      "sha256": "1e103bd56d37281b1ada198a6ba3cfb26768c05a2c2d9623da50b14f7cba4af2"
     },
     {
       "path": "assets/images/Mirror/tankman-fahsticker.png",
@@ -7513,8 +7513,8 @@
     },
     {
       "path": "assets/images/pauses/fah/fah-pause-exit.xml",
-      "size": 406,
-      "sha256": "6622c6237bcb4c7a3417a4d9175ba58feb8d38760e49061428c6e3ad69107324"
+      "size": 403,
+      "sha256": "6cf001d2c5d24428009b689dbf00539b1a1bb93a1ee9c240a63a7973a47896af"
     },
     {
       "path": "assets/images/pauses/fah/fah-pause-restart.png",
@@ -7523,8 +7523,8 @@
     },
     {
       "path": "assets/images/pauses/fah/fah-pause-restart.xml",
-      "size": 415,
-      "sha256": "cb0628d6158e7597434487e493d6205b416dbc762a0fdaef8ef5d6eafaa1c9a6"
+      "size": 412,
+      "sha256": "2ac8a902b3b08f2c4b52bbabdc713ec75cb7038fcdf4220be96084ba88c2485d"
     },
     {
       "path": "assets/images/pauses/fah/fah-pause-resume.png",
@@ -7533,8 +7533,8 @@
     },
     {
       "path": "assets/images/pauses/fah/fah-pause-resume.xml",
-      "size": 410,
-      "sha256": "8c490046e2b0b95bbd6a0f5798bd1451e44b520f063f2b6d0451709dc7d150f4"
+      "size": 407,
+      "sha256": "623d2f4fdf2fef15f283908d1be9faf5e1c3cdef7806a592f85ff00ff634a16b"
     },
     {
       "path": "assets/images/pauses/fah/fahmix/blammed.png",
@@ -7663,8 +7663,8 @@
     },
     {
       "path": "assets/images/pauses/phoenix/phoenix-pause-exit.xml",
-      "size": 418,
-      "sha256": "05e548c045acf38381c4303812030511197e84d178715e2f0c85b01af75cd401"
+      "size": 415,
+      "sha256": "a63aab1d6464b701260c389153c9f436339112a472b2d2b24b8c762481d97bcc"
     },
     {
       "path": "assets/images/pauses/phoenix/phoenix-pause-restart.png",
@@ -7673,8 +7673,8 @@
     },
     {
       "path": "assets/images/pauses/phoenix/phoenix-pause-restart.xml",
-      "size": 428,
-      "sha256": "064a6149631390bc60e4fd7d949ed7e98beb9333abf5ec62d5fee4e810b67295"
+      "size": 425,
+      "sha256": "194834617fc50fa424d3cb314180eb6a0d5690e0e55afa6b1fe533c932fecbef"
     },
     {
       "path": "assets/images/pauses/phoenix/phoenix-pause-resume.png",
@@ -7703,8 +7703,8 @@
     },
     {
       "path": "assets/images/pauses/raven/raven-pause-exit.xml",
-      "size": 411,
-      "sha256": "02df3494b31137852f914df5b5341a009ee77318f84d7f47bf0d69ba58bddbfb"
+      "size": 409,
+      "sha256": "69c01aae6c3c2abd38319c248d4cc74cb4e8501776714d65200119c3184d28f0"
     },
     {
       "path": "assets/images/pauses/raven/raven-pause-restart.png",
@@ -7713,8 +7713,8 @@
     },
     {
       "path": "assets/images/pauses/raven/raven-pause-restart.xml",
-      "size": 421,
-      "sha256": "2404f6b43fc38853c39ea8ed91894cb3270dcbf193b3e1a54c4019cbce4d0f8c"
+      "size": 418,
+      "sha256": "9726abb813883435d831a66c3a53ab552c3e2303caaa6cbe1c3a78f78f698459"
     },
     {
       "path": "assets/images/pauses/raven/raven-pause-resume.png",
@@ -7723,8 +7723,8 @@
     },
     {
       "path": "assets/images/pauses/raven/raven-pause-resume.xml",
-      "size": 416,
-      "sha256": "fb0081961cf7ebb63e8e7e644a83d6def910b9937b51d92a9090c4d03a863e52"
+      "size": 413,
+      "sha256": "9d495ccc2366067588475b0fc789423ab7e1a3d820d67cf60ed962a51f8214e6"
     },
     {
       "path": "assets/images/pauses/raven/sidebar.png",
@@ -7983,13 +7983,13 @@
     },
     {
       "path": "assets/shaders/checkerboard-legacy.frag",
-      "size": 1245,
-      "sha256": "a09d4462b9cad83c5a2c62763532197c6510d649d95ce14c44d286e098bc7bec"
+      "size": 1195,
+      "sha256": "b5e7ec990d53e525152e7a7a108f6afcec5aaf9dbe21c77a8cbb80011bc0e0c3"
     },
     {
       "path": "assets/shaders/checkerboard.frag",
-      "size": 759,
-      "sha256": "6e30873a4d59ae42768406623679118b432f77e1adfd3d23a45f9c1261f7f844"
+      "size": 744,
+      "sha256": "613c93adbf7764ea770c9777ca234dd0e792c54f77b9dc7b236b0d05e0b4c5b5"
     },
     {
       "path": "assets/shaders/darnell-paint-reveal.frag",
@@ -7998,13 +7998,13 @@
     },
     {
       "path": "assets/shaders/Grayscale.frag",
-      "size": 338,
-      "sha256": "0a9cd3b9a69964a3c679e24e455599531f887f2a8b37e5a61e94b40f48f182c7"
+      "size": 336,
+      "sha256": "0586b1d00e40d5c1253ce2760607748784f38b7681b455c1a7f1dc436c9ce88c"
     },
     {
       "path": "assets/shaders/invert.frag",
-      "size": 785,
-      "sha256": "4d9395b8fbfd6075fcb9431e095934bcb864c1ddfde447ae1b9bd1d4b4f5be9f"
+      "size": 764,
+      "sha256": "ea12b598be62fd0102b3f1376b21b6cb5f3c5221e4355d3b2e8529caa27a622a"
     },
     {
       "path": "assets/shaders/ntsc.frag",
@@ -8018,13 +8018,13 @@
     },
     {
       "path": "assets/shaders/uh.frag",
-      "size": 11474,
-      "sha256": "d7c98cb2585e249f36f911a87a8d58481961acd33f7d94d39677cb2070d3107d"
+      "size": 10808,
+      "sha256": "2638b53c3f4b70e4dcefdc6813d899c46e52c2a4b8887887e9bad853122cdf16"
     },
     {
       "path": "assets/shaders/void.frag",
-      "size": 1611,
-      "sha256": "71d47c6a94b7e1f873d097eca85b905a45f20bb403eb5b56b76fd49dd5dbf942"
+      "size": 1560,
+      "sha256": "8f3577946abc0e654e3ffed1f1468aa5930dc1d86143e285a42a9862a9f7cea5"
     },
     {
       "path": "assets/shared/images/bad.png",
@@ -9253,18 +9253,18 @@
     },
     {
       "path": "assets/stages/fah-week1.json",
-      "size": 180,
-      "sha256": "36d856fd25c0423db2cdad92495b666a2302aa1f18bfe453fbaf3821d84703cb"
+      "size": 170,
+      "sha256": "8eadfdaa5c6a9a4cea5a431f36ce3c17f9f8655dc923925f93d389f86826de89"
     },
     {
       "path": "assets/stages/fah-week1.lua",
-      "size": 2307,
-      "sha256": "80c0b242c0ab986c7dcbdac5dd5831f143a9d8f754e46dd7facd17281149ebb9"
+      "size": 2251,
+      "sha256": "6f8d55636b1c332439d2a2feae41cabc9f2cc9cba3b8e72c1ffe93ef5b6e518b"
     },
     {
       "path": "assets/stages/fah-week2.json",
-      "size": 179,
-      "sha256": "e9ffbb22ebbf89455402b3ee8b33c4ef2fd4421e147cb3c71fe3dd125bfb308c"
+      "size": 169,
+      "sha256": "80d56143b1ea0af985cd9bad67d21e9ea88e20568a72684d34bab0b7c6b7b9be"
     },
     {
       "path": "assets/stages/fah-week2.lua",
@@ -9273,43 +9273,43 @@
     },
     {
       "path": "assets/stages/fah-week3.json",
-      "size": 180,
-      "sha256": "173629406b4c593c8d661f47c4910ba013c36637d2a91289e6016068b80ed834"
+      "size": 170,
+      "sha256": "20a778581a4c63dbba8bd91de54f08adc9dd3ceaf87d0d2874cc511cc0a792c6"
     },
     {
       "path": "assets/stages/fah-week3.lua",
-      "size": 10926,
-      "sha256": "fa37f904b5e6b2e1ada9fda6b71c0db8fa32e8c8987ffdc2f0cb6eec7cb77096"
+      "size": 10692,
+      "sha256": "cfceebd7601d2ea70759641e8ab0390889d6ef567857b75001d75c5ebc953c77"
     },
     {
       "path": "assets/stages/fah-week4.json",
-      "size": 180,
-      "sha256": "d9cf390e3ad840dd308c2787e13854f71d8e50320fadd732058f4661e7e6bc94"
+      "size": 170,
+      "sha256": "b0c466c36b87b772fecfecc273f4566e29f7624e78256a273740f530c1d905a3"
     },
     {
       "path": "assets/stages/fah-week4.lua",
-      "size": 13589,
-      "sha256": "79e76759408b57e814e69c9c726244c160b2dd539cdfaedda8909d2e211623e8"
+      "size": 13324,
+      "sha256": "3fb74ba3b59168d9e8ba5ebf200597aaff73454a95a5eb31fab0e86bfa05c506"
     },
     {
       "path": "assets/stages/fah-week5.json",
-      "size": 177,
-      "sha256": "cf01aa6c74d280685327d95fa489d73735df54cdbc538a37df3bff2d3888ed85"
+      "size": 167,
+      "sha256": "e20abccde1b4b676b29a96816cdce7ee1e0ca105f018f319f3eb7212ebcf9d0d"
     },
     {
       "path": "assets/stages/fah-week5.lua",
-      "size": 8182,
-      "sha256": "28e0e484b65f13628ce39b0d1dbdc6d910b4d9a709bbec6c721003a0fb8bf1a9"
+      "size": 7945,
+      "sha256": "f3a0a7d75b3901353d991b4228b45c469ae01c4e604b37ed99bcbf76977bebdf"
     },
     {
       "path": "assets/stages/fah-week6-b.json",
-      "size": 181,
-      "sha256": "37d4ad24832f8e44cfe99bd4b871f5f4d867bd8b7fd3b8139fb94e8d4eeecee0"
+      "size": 171,
+      "sha256": "58d66bdf37c3fccaa732f08b77bc58c1ec05aaab5bbf2e7a1d363e0b8b5a2709"
     },
     {
       "path": "assets/stages/fah-week6-b.lua",
-      "size": 6030,
-      "sha256": "0a81dc15d3d67cc18d2ebb7a03aca1f4f9d33b8d93e993fd583dfc717370ae0f"
+      "size": 5928,
+      "sha256": "20609d2827c50fb26f865d6566e8a56049d01a316f26f0b764bd41e32d1a8db8"
     },
     {
       "path": "assets/stages/fah-week7-b.json",
@@ -9323,8 +9323,8 @@
     },
     {
       "path": "assets/stages/fah-week7.json",
-      "size": 181,
-      "sha256": "bb2d340566becfa8dbd2a7a5845ac02acc8c9da7fa1c1861c3b9fe375907293a"
+      "size": 171,
+      "sha256": "91bda2f077079467ac63dd2c903078f2143023fed323c75666fe7e90698789ef"
     },
     {
       "path": "assets/stages/fah-week7.lua",
@@ -9343,33 +9343,33 @@
     },
     {
       "path": "assets/stages/fah.json",
-      "size": 180,
-      "sha256": "b28ea363e32d2fc52f80b7ac5a1ec36c9a58b51e096953741b9a6f0003f597d1"
+      "size": 171,
+      "sha256": "c184b42da583dc8a14d33dbaa57e1f14b28c9d5eb1184e84a102fafffe1116c5"
     },
     {
       "path": "assets/stages/fah.lua",
-      "size": 28168,
-      "sha256": "d1767bbaefb6622476c5a17bd34a9ece9717b2e9a70e13c4e44d87a12c119cc5"
+      "size": 27787,
+      "sha256": "ad85deb34888f8b1a1376311896fb70685b6ab40db9d83442499c8b18a156340"
     },
     {
       "path": "assets/stages/gabby-legacy.json",
-      "size": 205,
-      "sha256": "e26e56c7793132ab1f313750d177b65f62949865393521d2c11f423f2a34f2ab"
+      "size": 194,
+      "sha256": "5df4da35f1ace345736eedac7bd5501b6309d0cf59f82d43aab693a2588c6aaf"
     },
     {
       "path": "assets/stages/gabby-legacy.lua",
-      "size": 14388,
-      "sha256": "21bb7829cd523f7b2ee1b154c060c7a12a4fe6557d57264eabb109813624fb2d"
+      "size": 14122,
+      "sha256": "e95c6a7e0ae5b82fb3c8d438063e16324193daf43827dbf09aed864d37e0aa51"
     },
     {
       "path": "assets/stages/gabby.json",
-      "size": 207,
-      "sha256": "2bbf93fe74e1fdfbc789140baa93dc0c489079199405944b278e06410e953c4b"
+      "size": 196,
+      "sha256": "767bb55c94d6e573ba370d26848f7e86d4800c6481e4793b195cc4a2224872cb"
     },
     {
       "path": "assets/stages/gabby.lua",
-      "size": 16983,
-      "sha256": "cf821c2fbae33dd3684191b9d03febd942d6e281945ed3fe9ece40d5d81f1240"
+      "size": 16856,
+      "sha256": "24acf0576ce375236e5a162a18f25868b1e8b1ae535fab384c24d21062b57dc0"
     },
     {
       "path": "assets/stages/nola.json",
@@ -9383,23 +9383,23 @@
     },
     {
       "path": "assets/stages/phoenix.json",
-      "size": 305,
-      "sha256": "ece782a5f3d8871f53cdf02fee39683bcb9fa16ae1e1eaef1e67e73b740b97cf"
+      "size": 290,
+      "sha256": "3b02c97ab031a0aea3d39e208072f26556e2a471f2a23b9973d1614adb2980ef"
     },
     {
       "path": "assets/stages/phoenix.lua",
-      "size": 12892,
-      "sha256": "eddc942bc4ce5063491a8ba6ea013047bdb4529bb1fe6fcd092cd9eeac84052c"
+      "size": 12571,
+      "sha256": "1477fb842210a7396da3d8d91f6e0b5eea71a28cbfe3394ee7639bd72210db56"
     },
     {
       "path": "assets/stages/raven.json",
-      "size": 207,
-      "sha256": "22aed7ef627040c47cdf3dad252d1dee4136ca51aeca53c5a06dc98098b06766"
+      "size": 196,
+      "sha256": "cae8883bf3ff356c2dce625bab5dd157f736528fe16d13e000e495837c8350b0"
     },
     {
       "path": "assets/stages/raven.lua",
-      "size": 33469,
-      "sha256": "97188b2c05c499129fa2f3a72f11a4a595b86cde657085c57a830d730d1c76f3"
+      "size": 32923,
+      "sha256": "0e86c247448c6df69c1246e468ae9e7465c6e364251ce0d7d7d5d699f3872c04"
     },
     {
       "path": "assets/stages/stage.json",
@@ -9408,13 +9408,13 @@
     },
     {
       "path": "assets/stages/week0.json",
-      "size": 180,
-      "sha256": "647960fa009e06912d2fb9d8e6b4a14198df89ee6b3178d8438346aa54389dab"
+      "size": 171,
+      "sha256": "018ea97142150ce7db3c37ff9b10681b01eee73a40f7a78ecec4b909021551dc"
     },
     {
       "path": "assets/stages/week0.lua",
-      "size": 1105,
-      "sha256": "3935723162d90a08687ef249d34759b5bacfcd1f8707adca514be6360afb7c1c"
+      "size": 1065,
+      "sha256": "998e7ddace15c74f64667b6118334455de4a12c292c1f2054e4748761b72a660"
     },
     {
       "path": "assets/videos/fahscene.mp4",
@@ -9533,13 +9533,13 @@
     },
     {
       "path": "assets/weeks/fah-week5.json",
-      "size": 179,
-      "sha256": "1969f2001d34ed69295f5619a566aaa4ba6b6fa6923ba5df14ede5a5fe6ef815"
+      "size": 169,
+      "sha256": "8bf44c9f90e0323b630cb3076dffb5392ae896d06c72fe2ad33c034e76716ad7"
     },
     {
       "path": "assets/weeks/fah-week5.lua",
-      "size": 4549,
-      "sha256": "5b32e2934d746c7aeabd2f8516f0f24e4b7c5cd162636104b3e933597061982f"
+      "size": 4381,
+      "sha256": "b5c475b94335a21d2694a2bbe0ab39c12cd55a4bcd9261f0e155ece5d593e71f"
     },
     {
       "path": "assets/weeks/gabby.json",
