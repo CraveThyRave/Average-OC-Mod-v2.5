@@ -7,7 +7,7 @@ local appliedTimeTxtStyle = false
 local WTF_REST_OFFSET_Y = 50
 local fakeMiddleScroll = false
 local lastMiddleScroll = nil
-local FAKE_MIDDLE_OFFSET_X = 350
+local FAKE_MIDDLE_OFFSET_X = 338
 
 local function playerRestY(lane)
     local downscroll = getPropertyFromClass('ClientPrefs', 'downScroll')
