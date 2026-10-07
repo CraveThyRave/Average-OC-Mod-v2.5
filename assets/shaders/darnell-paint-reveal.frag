@@ -2,6 +2,8 @@
 
 uniform float u_progress;
 uniform float u_seed;
+uniform vec3 u_paperColor;
+uniform float u_paperAmount;
 
 float paintHash(float value)
 {
@@ -12,6 +14,14 @@ void main()
 {
     vec2 uv = openfl_TextureCoordv;
     vec4 color = flixel_texture2D(bitmap, uv);
+    if (u_paperAmount > 0.0)
+    {
+        vec4 raw = texture2D(bitmap, uv);
+        vec3 rgb = raw.a > 0.0 ? raw.rgb / raw.a : vec3(0.0);
+        float paper = min(rgb.r, min(rgb.g, rgb.b));
+        vec3 shift = paper * (vec3(1.0) - u_paperColor);
+        color.rgb *= mix(vec3(1.0), max(vec3(0.0), vec3(1.0) - shift / max(rgb, vec3(0.00001))), u_paperAmount);
+    }
     if (u_progress >= 0.999)
     {
         gl_FragColor = color;

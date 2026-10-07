@@ -1,12 +1,26 @@
 {
   "format": 2,
-  "version": "2.5.8",
-  "baseVersion": "2.5.7",
+  "version": "2.5.9",
+  "baseVersion": "2.5.8",
   "files": [
     {
+      "path": "assets/data/what-the-fah/04-hud-overlay-and-transitions.lua",
+      "size": 14781,
+      "sha256": "5541afb4b7b27d3d73cd33a6c1b3be99829184119a6faf9c85c1f622978f9232",
+      "textSha256": "5541afb4b7b27d3d73cd33a6c1b3be99829184119a6faf9c85c1f622978f9232",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shaders/darnell-paint-reveal.frag",
+      "size": 2520,
+      "sha256": "a02a02416fe3befba1fddf04c99164479ebd865f0050e0f50c34d8b8e5ac8010",
+      "textSha256": "a02a02416fe3befba1fddf04c99164479ebd865f0050e0f50c34d8b8e5ac8010",
+      "change": "changed"
+    },
+    {
       "path": "Average OC Mod.exe",
-      "size": 37304832,
-      "sha256": "b8c253213fe0179c23bf3bef044fc775eb120dc3bee715f3789f1c7728b86df0",
+      "size": 37305856,
+      "sha256": "034bfee2fc6d1b4d376f244d78944724bbacae9e9bbcf68f676e32e182663ba3",
       "change": "changed"
     }
   ],
