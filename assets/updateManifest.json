@@ -1,5 +1,5 @@
 {
-  "version": "2.5.8",
+  "version": "2.5.9",
   "files": [
     {
       "path": ".gitattributes",
@@ -1665,8 +1665,8 @@
     {
       "path": "assets/data/what-the-fah/04-hud-overlay-and-transitions.lua",
       "size": 14781,
-      "sha256": "4a771bf1c15f4d278e561817faa50e15b846c05c162388b6279eb928e8810cf6",
-      "textSha256": "4a771bf1c15f4d278e561817faa50e15b846c05c162388b6279eb928e8810cf6"
+      "sha256": "5541afb4b7b27d3d73cd33a6c1b3be99829184119a6faf9c85c1f622978f9232",
+      "textSha256": "5541afb4b7b27d3d73cd33a6c1b3be99829184119a6faf9c85c1f622978f9232"
     },
     {
       "path": "assets/data/what-the-fah/05-throwable-arc-props.lua",
@@ -8676,9 +8676,9 @@
     },
     {
       "path": "assets/shaders/darnell-paint-reveal.frag",
-      "size": 2096,
-      "sha256": "7f7d5fc8c2757a4a0ef9924e60bcd6fedba8eb1d43d4583549440798d5556357",
-      "textSha256": "7f7d5fc8c2757a4a0ef9924e60bcd6fedba8eb1d43d4583549440798d5556357"
+      "size": 2520,
+      "sha256": "a02a02416fe3befba1fddf04c99164479ebd865f0050e0f50c34d8b8e5ac8010",
+      "textSha256": "a02a02416fe3befba1fddf04c99164479ebd865f0050e0f50c34d8b8e5ac8010"
     },
     {
       "path": "assets/shaders/Grayscale.frag",
@@ -10309,8 +10309,8 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 37304832,
-      "sha256": "b8c253213fe0179c23bf3bef044fc775eb120dc3bee715f3789f1c7728b86df0"
+      "size": 37305856,
+      "sha256": "034bfee2fc6d1b4d376f244d78944724bbacae9e9bbcf68f676e32e182663ba3"
     },
     {
       "path": "icon.ico",
