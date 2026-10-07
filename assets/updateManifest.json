@@ -1,35 +1,18 @@
 {
   "format": 2,
-  "version": "2.5.5",
-  "baseVersion": "2.5.4",
+  "version": "2.5.6",
+  "baseVersion": "2.5.5",
   "files": [
     {
-      "path": "assets/songs/stress - Copy/BF.ogg",
-      "size": 7106288,
-      "sha256": "7b16976e531ccd6baa9b1b5cdfcc5caec424496fffbdbd590b2aebc74b71fd32",
-      "change": "added"
-    },
-    {
-      "path": "assets/songs/stress - Copy/Dad.ogg",
-      "size": 6967696,
-      "sha256": "3eaad19fd173992a92e7bc5a9002c40a0e5e35d00b863bcb26237e1ceae4710d",
-      "change": "added"
-    },
-    {
-      "path": "assets/songs/stress - Copy/Inst.ogg",
-      "size": 10341016,
-      "sha256": "60f3bac02c49a22e081b3499dedbee82571b8876e752586fc06710ecdbcc688a",
-      "change": "added"
-    },
-    {
       "path": "Average OC Mod.exe",
-      "size": 37285888,
-      "sha256": "0db70b8029315349ea02bbf16c83b127308b0dcbe5901dedea6b21def87e4630",
+      "size": 37294592,
+      "sha256": "5523696b0fd0829d853b144da6f033d083ab94a6e2694302dad8f76766330ebc",
       "change": "changed"
     }
   ],
   "delete": [
-    "assets/songs/test - Copy/Inst.ogg",
-    "assets/songs/test - Copy/Voices.ogg"
+    "assets/songs/stress - Copy/BF.ogg",
+    "assets/songs/stress - Copy/Dad.ogg",
+    "assets/songs/stress - Copy/Inst.ogg"
   ]
 }
