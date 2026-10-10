@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="achievement.png">
+<SubTexture name="achievement idle0000" x="944" y="0" width="952" height="238" frameX="0" frameY="0" frameWidth="952" frameHeight="263" />
+<SubTexture name="achievement idle0001" x="0" y="0" width="944" height="241" frameX="0" frameY="0" frameWidth="952" frameHeight="263" />
+</TextureAtlas>

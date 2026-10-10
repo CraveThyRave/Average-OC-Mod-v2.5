@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="militus.png">
+  <SubTexture name="militus think0000" x="1290" y="0" width="1280" height="655" frameX="0" frameY="-65" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus think0001" x="0" y="671" width="1280" height="651" frameX="0" frameY="-69" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus think0002" x="0" y="0" width="1280" height="661" frameX="0" frameY="-59" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus excited0000" x="3870" y="1874" width="1280" height="612" frameX="0" frameY="-108" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus excited0001" x="3870" y="1250" width="1280" height="614" frameX="0" frameY="-106" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus excited0002" x="3870" y="0" width="1280" height="615" frameX="0" frameY="-105" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus mad0000" x="3870" y="625" width="1280" height="615" frameX="0" frameY="-105" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus mad0001" x="3870" y="2496" width="1280" height="612" frameX="0" frameY="-108" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus mad0002" x="0" y="3264" width="1280" height="612" frameX="0" frameY="-108" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus annoyed0000" x="1290" y="3264" width="1280" height="588" frameX="0" frameY="-132" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus annoyed0001" x="2580" y="3264" width="1280" height="586" frameX="0" frameY="-134" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus annoyed0002" x="3870" y="3264" width="1280" height="586" frameX="0" frameY="-134" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus smug0000" x="2580" y="3886" width="1280" height="525" frameX="0" frameY="-195" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus smug0001" x="1290" y="3886" width="1280" height="527" frameX="0" frameY="-193" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus smug0002" x="0" y="3886" width="1280" height="528" frameX="0" frameY="-192" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus pray0000" x="1290" y="2628" width="1280" height="623" frameX="0" frameY="-97" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus pray0001" x="2580" y="2628" width="1280" height="623" frameX="0" frameY="-97" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus pray0002" x="0" y="2628" width="1280" height="626" frameX="0" frameY="-94" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus greedy0000" x="2580" y="653" width="1280" height="642" frameX="0" frameY="-78" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus greedy0001" x="2580" y="0" width="1280" height="643" frameX="0" frameY="-77" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus greedy0002" x="0" y="1332" width="1280" height="644" frameX="0" frameY="-76" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus shady0000" x="1290" y="4424" width="1280" height="413" frameX="0" frameY="-307" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus shady0001" x="3870" y="3886" width="1280" height="417" frameX="0" frameY="-303" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus shady0002" x="0" y="4424" width="1280" height="417" frameX="0" frameY="-303" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus talk0000" x="1290" y="1332" width="1280" height="644" frameX="0" frameY="-76" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus talk0001" x="1290" y="671" width="1280" height="647" frameX="0" frameY="-73" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus talk0002" x="2580" y="1305" width="1280" height="642" frameX="0" frameY="-78" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus idle0000" x="1290" y="1986" width="1280" height="629" frameX="0" frameY="-91" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus idle0001" x="0" y="1986" width="1280" height="632" frameX="0" frameY="-88" frameWidth="1280" frameHeight="720" />
+  <SubTexture name="militus idle0002" x="2580" y="1986" width="1280" height="627" frameX="0" frameY="-93" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

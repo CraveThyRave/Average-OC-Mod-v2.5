@@ -50,7 +50,7 @@ function onCreate()
 
 
 
-  makeLuaSprite('logo', 'fahmix/week5/eggnog-logo', 320, -600);
+  makeLuaSprite('logo', 'fahmix/week5/eggnog-logo', 320, -700);
   setProperty('logo.flipX', getPropertyFromClass('MirrorMode', 'active'))
 	scaleObject('logo', 0.47, 0.47);
 	setObjectCamera('logo', 'other')

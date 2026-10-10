@@ -24,6 +24,7 @@ local function smoothstep(value)
 end
 
 local function setFilterActive(active)
+	if lowQuality then return end
 	if filterActive == active then return end
 	runHaxeCode([[
 		var holder = game.getLuaObject("]] .. SHADER_HOLDER .. [[");
@@ -88,6 +89,7 @@ function onCreatePost()
 	makeGraphic(SHADER_HOLDER, 1, 1, 'FFFFFF')
 	setProperty(SHADER_HOLDER .. '.visible', false)
 	addLuaSprite(SHADER_HOLDER, false)
+	if lowQuality then return end
 	addHaxeLibrary('ShaderFilter', 'openfl.filters')
 	shaderReady = initLuaShader(SHADER_NAME)
 	if shaderReady then
@@ -140,6 +142,7 @@ function onDestroy()
 	setVar('skylineNtscBackgroundFade', 1)
 	setVar('skylineNtscBackgroundStrength', 0)
 	setProperty('defaultCamZoom', normalZoom)
+	if lowQuality then return end
 	runHaxeCode([[
 		if (skylineNtscResizeFix != null)
 			FlxG.signals.gameResized.remove(skylineNtscResizeFix);
