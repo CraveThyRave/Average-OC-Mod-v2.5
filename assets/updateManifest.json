@@ -1,5 +1,5 @@
 {
-  "version": "2.5.10",
+  "version": "2.5.11",
   "files": [
     {
       "path": ".gitattributes",
@@ -1682,9 +1682,9 @@
     },
     {
       "path": "assets/data/what-the-fah/07-random-distraction-images.lua",
-      "size": 12319,
-      "sha256": "772fba13c8c47293dffae609afe1192b1c95a9172c044c46e28f6036e109f15c",
-      "textSha256": "772fba13c8c47293dffae609afe1192b1c95a9172c044c46e28f6036e109f15c"
+      "size": 12599,
+      "sha256": "d594e55fa883887a3ae5a23adaf38d88db30e6c5a9c49f040738de8162852d5c",
+      "textSha256": "50b3b2b1f54fa82d7ddfa7a6ebfe48ca1c0bc51ed506290f40d7189bcba1c63f"
     },
     {
       "path": "assets/data/what-the-fah/credits.txt",
@@ -1819,6 +1819,11 @@
       "sha256": "12a2219e2fb5b30d2b3560af5b925897c3544406edbdd5740a42e96162f759d8"
     },
     {
+      "path": "assets/images/achievements/awesome.png",
+      "size": 19583,
+      "sha256": "dcb3978fc33c1f61e3dfe26d6c7224e8d10bef11ab3ab366b817bf66cc32274d"
+    },
+    {
       "path": "assets/images/achievements/Chibi.png",
       "size": 16131,
       "sha256": "a129485c40d8d78b5a7fff1e398916f0c63341965c2124647b317b3016b6481e"
@@ -1852,6 +1857,11 @@
       "path": "assets/images/achievements/DOD.png",
       "size": 13411,
       "sha256": "8d315d08c5013a347b3333037823fbf0cc9d34918966296cacbcd28251b93ee4"
+    },
+    {
+      "path": "assets/images/achievements/donations.png",
+      "size": 15930,
+      "sha256": "6cdef9ca8c37c4a7fb71e7d557917654f359efbd9e6efb8eb15d4bdb31fd2af0"
     },
     {
       "path": "assets/images/achievements/enough.png",
@@ -1927,6 +1937,11 @@
       "path": "assets/images/achievements/hanging-sign.png",
       "size": 129596,
       "sha256": "b643d0890a89056c24228d119af76ccc0b3d5611cc4d7e42bbca9e82b6fddb99"
+    },
+    {
+      "path": "assets/images/achievements/hell.png",
+      "size": 15001,
+      "sha256": "fb15feced4955a72fa5283dc96d2e6d6c17a4251628fd8cabe2a13e6ebfc9f77"
     },
     {
       "path": "assets/images/achievements/hidden.png",
@@ -7362,6 +7377,16 @@
       "sha256": "ebfcfc7bb309a42bb97ef72e9c8daa918bc0df3e44325d5e53dcdc34a9b5d2cd"
     },
     {
+      "path": "assets/images/Menus/Intro-stuff/credits/social-newgrounds.png",
+      "size": 28913,
+      "sha256": "456dbf6d8ecfc32d06f8b63eb3025fb90183210871c36bf24155e495e621e373"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/social-tiktok.png",
+      "size": 20940,
+      "sha256": "f20b714b01b4204112f38b2d8abed410302b63f37348c375b0348b6594e9616b"
+    },
+    {
       "path": "assets/images/Menus/Intro-stuff/credits/social-twitter.png",
       "size": 38128,
       "sha256": "5b39d50d42fee8937093a4df2d61c51a80b31c66a31fc722ae593c983903b63a"
@@ -9163,9 +9188,9 @@
     },
     {
       "path": "assets/shaders/shopShader.frag",
-      "size": 4301,
-      "sha256": "af986e7ee3b7b98eab672b283964ff6a1809cc9d2b6f8d4f7ba4253ac0918fed",
-      "textSha256": "af986e7ee3b7b98eab672b283964ff6a1809cc9d2b6f8d4f7ba4253ac0918fed"
+      "size": 4352,
+      "sha256": "5e06c44bef5a97d8739718a67abe08a5453e069e79bf46a0c2e8e2d223b63435",
+      "textSha256": "5e06c44bef5a97d8739718a67abe08a5453e069e79bf46a0c2e8e2d223b63435"
     },
     {
       "path": "assets/shaders/uh.frag",
@@ -10520,9 +10545,9 @@
     },
     {
       "path": "assets/stages/fah-week7-b.lua",
-      "size": 24270,
-      "sha256": "cd0ce8041cdab28a0e3e743709e811c8e452d267cc790ea5c0b52ae45867a1d2",
-      "textSha256": "cd0ce8041cdab28a0e3e743709e811c8e452d267cc790ea5c0b52ae45867a1d2"
+      "size": 24243,
+      "sha256": "346c09ae3dc664102808f7fa1a776b22d8d8d1a9fb1557a06e1f90e57e75ede8",
+      "textSha256": "346c09ae3dc664102808f7fa1a776b22d8d8d1a9fb1557a06e1f90e57e75ede8"
     },
     {
       "path": "assets/stages/fah-week7.json",
@@ -10532,9 +10557,9 @@
     },
     {
       "path": "assets/stages/fah-week7.lua",
-      "size": 5428,
-      "sha256": "679eaf714a352adc2769660df136a34517b373558af986a86445caa163457c90",
-      "textSha256": "679eaf714a352adc2769660df136a34517b373558af986a86445caa163457c90"
+      "size": 5401,
+      "sha256": "bd849e76f2e241005e7ad4327dd9b21302c5f552508c18642bf4486fede14590",
+      "textSha256": "bd849e76f2e241005e7ad4327dd9b21302c5f552508c18642bf4486fede14590"
     },
     {
       "path": "assets/stages/fah-weekend1.json",
@@ -10797,8 +10822,8 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 38867456,
-      "sha256": "2a16a0f5e38d0c340a75207725d73937d51ffd05f96127fa2f851ad262705358"
+      "size": 38907392,
+      "sha256": "08e3601c68a73b8822ce91c8c7b5746140d859dd167035c62cc39c9ad8f53016"
     },
     {
       "path": "icon.ico",

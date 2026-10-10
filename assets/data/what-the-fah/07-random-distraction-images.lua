@@ -2,6 +2,7 @@
 local currentSprite = nil
 local spriteData = {}
 local usedImages = {}
+local lowQualityImages = {}
 local spriteTags = {}
 local sets
 
@@ -43,8 +44,9 @@ local function preloadDistractions()
 			end
 		end
 		local imageCount = lowQuality and 1 or #set.images
+		if lowQuality and shouldLoad then lowQualityImages[set.name] = getRandomImage(set) end
 		if shouldLoad then for j = 1, imageCount do
-            local path = set.images[j]
+            local path = lowQuality and lowQualityImages[set.name] or set.images[j]
             local tag = 'img_' .. index
             local base = path:match('([^/]+)$')
 
@@ -81,6 +83,7 @@ function onCreate()
     currentSprite = nil
     spriteData = {}
     usedImages = {}
+    lowQualityImages = {}
     achievementEligibleUntil = -1
     achievementWindowActive = false
     lastDistractionWindowStep = -1
@@ -148,12 +151,11 @@ end
 function getRandomSet()
     local valid=getValidSets()
     if #valid == 0 then return sets[1] end
-    if lowQuality then return valid[1] end
     return valid[getRandomInt(1,#valid)]
 end
 
 function getRandomImage(set)
-    if lowQuality then return set.images[1] end
+    if lowQuality and lowQualityImages[set.name] then return lowQualityImages[set.name] end
     if not usedImages[set.name] then
         usedImages[set.name] = {}
     end
