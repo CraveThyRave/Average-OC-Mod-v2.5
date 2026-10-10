@@ -131,5 +131,6 @@ void main() {
 	video *= validuv(uvn) ? mix(1.0, vignette, effectStrength) : vignette;
 	video *= mix(1.0, (12.+mod(uvn.y*30.+ noiseTime,1.))/13., effectStrength);
 
-	gl_FragColor = vec4(video * visibility, 1.0);
+	float alpha = texture2D(bitmap, uvn).a;
+	gl_FragColor = vec4(video * visibility * alpha, alpha);
 }
