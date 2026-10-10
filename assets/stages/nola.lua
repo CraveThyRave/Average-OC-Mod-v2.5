@@ -112,11 +112,13 @@ end
 function onCreate()
 	makeLuaSprite('nolaVoid', 'dawhite', -680, 0)
 	addLuaSprite('nolaVoid', false)
-	initLuaShader('void')
-	setSpriteShader('nolaVoid', 'void')
-	setShaderFloat('nolaVoid', 'u_mix', 0.03)
-	setShaderFloatArray('nolaVoid', 'u_scale', {1, 1})
-	setShaderFloatArray('nolaVoid', 'u_offset', {0, 0})
+	if not lowQuality then
+		initLuaShader('void')
+		setSpriteShader('nolaVoid', 'void')
+		setShaderFloat('nolaVoid', 'u_mix', 0.03)
+		setShaderFloatArray('nolaVoid', 'u_scale', {1, 1})
+		setShaderFloatArray('nolaVoid', 'u_offset', {0, 0})
+	end
 
 	makeLuaSprite('nolaBlack', 'Freeplay-Chrs/nola/black', -500, 0)
 	scaleObject('nolaBlack', 1.5, 1.5)
@@ -146,8 +148,8 @@ function onTimerCompleted(tag)
 end
 
 function onUpdate(elapsed)
-	setShaderFloat('nolaVoid', 'u_time', getSongPosition() / 1250)
 	if lowQuality then return end
+	setShaderFloat('nolaVoid', 'u_time', getSongPosition() / 1250)
 	spawnClock = spawnClock + math.max(0, elapsed) * 60
 	if activeParticleCount < 25 and spawnClock >= 5 then
 		spawnClock = spawnClock % 5

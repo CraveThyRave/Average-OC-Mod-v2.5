@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="greedy.png">
+<SubTexture name="greedy idle0000" x="0" y="654" width="1280" height="642" frameX="0" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="greedy idle0001" x="1290" y="0" width="1280" height="643" frameX="0" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="greedy idle0002" x="0" y="0" width="1280" height="644" frameX="0" frameY="-76" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

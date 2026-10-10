@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shady.png">
+<SubTexture name="shady idle0000" x="0" y="854" width="1280" height="413" frameX="0" frameY="-307" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shady idle0001" x="0" y="0" width="1280" height="417" frameX="0" frameY="-303" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shady idle0002" x="0" y="427" width="1280" height="417" frameX="0" frameY="-303" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
