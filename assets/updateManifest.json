@@ -1,26 +1,1099 @@
 {
   "format": 2,
-  "version": "2.5.9",
-  "baseVersion": "2.5.8",
+  "version": "2.5.10",
+  "baseVersion": "2.5.9",
   "files": [
     {
-      "path": "assets/data/what-the-fah/04-hud-overlay-and-transitions.lua",
-      "size": 14781,
-      "sha256": "5541afb4b7b27d3d73cd33a6c1b3be99829184119a6faf9c85c1f622978f9232",
-      "textSha256": "5541afb4b7b27d3d73cd33a6c1b3be99829184119a6faf9c85c1f622978f9232",
+      "path": "assets/data/blammed/blammed-hard.json",
+      "size": 71622,
+      "sha256": "bf22d386a3422c9faed6b52d6f8a16d9a3953e6ac88589a37c043a90a59318f2",
+      "textSha256": "bf22d386a3422c9faed6b52d6f8a16d9a3953e6ac88589a37c043a90a59318f2",
       "change": "changed"
     },
     {
-      "path": "assets/shaders/darnell-paint-reveal.frag",
-      "size": 2520,
-      "sha256": "a02a02416fe3befba1fddf04c99164479ebd865f0050e0f50c34d8b8e5ac8010",
-      "textSha256": "a02a02416fe3befba1fddf04c99164479ebd865f0050e0f50c34d8b8e5ac8010",
+      "path": "assets/data/eggnog/06-hud-overlay-and-transitions.lua",
+      "size": 4647,
+      "sha256": "95a424d69f151835f7c82343789d77064805ce545601421627fab4073e5535c7",
+      "textSha256": "95a424d69f151835f7c82343789d77064805ce545601421627fab4073e5535c7",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/fresh/fresh-hard.json",
+      "size": 53048,
+      "sha256": "1ea05c63c61201594b9b8dc2b1ef78019311c088239b7473a6b1a772605c53b4",
+      "textSha256": "1ea05c63c61201594b9b8dc2b1ef78019311c088239b7473a6b1a772605c53b4",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/high/high-hard.json",
+      "size": 47501,
+      "sha256": "8eecbfe56611d25595e538a48a0d72dbc22bc504e86aa66e304aef171bc9f09c",
+      "textSha256": "8eecbfe56611d25595e538a48a0d72dbc22bc504e86aa66e304aef171bc9f09c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/senpai/senpai-hard.json",
+      "size": 65579,
+      "sha256": "69e85830a767f3bc3e5a53b27242b1fb7b10b6f0d31effc9f124a7494346ebbd",
+      "textSha256": "69e85830a767f3bc3e5a53b27242b1fb7b10b6f0d31effc9f124a7494346ebbd",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/skyline/ntsc-transition.lua",
+      "size": 4911,
+      "sha256": "3cf7915b35330b20b8b7096d5b27ce8d9a4f5f8086fe7324def0fa529abdf14c",
+      "textSha256": "3cf7915b35330b20b8b7096d5b27ce8d9a4f5f8086fe7324def0fa529abdf14c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/skyline/scrolling.lua",
+      "size": 7844,
+      "sha256": "78d70d3fee0ca3d22daf7f6580203d11a695f9552ded9ce8356d4f33a5f0175c",
+      "textSha256": "78d70d3fee0ca3d22daf7f6580203d11a695f9552ded9ce8356d4f33a5f0175c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/what-the-fah/what-the-fah-hard.json",
+      "size": 127271,
+      "sha256": "9fac948f3ffd741455996c5b60ac843a90a00a5d254cadb3330586137c506fc6",
+      "textSha256": "9fac948f3ffd741455996c5b60ac843a90a00a5d254cadb3330586137c506fc6",
+      "change": "changed"
+    },
+    {
+      "path": "assets/fonts/Milmoney-Regular.ttf",
+      "size": 4372,
+      "sha256": "f406a06f72ed39436a6f0ea4d162f6e58327531859dcc1695f5c4c2dfbab010e",
+      "change": "added"
+    },
+    {
+      "path": "assets/fonts/Sellbuyshopmil-Regular.ttf",
+      "size": 4296,
+      "sha256": "7bd9d32298ac0c8eb86db4686d5eef18009f4bea8ad5b8d4998afd8671a074d3",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/100.png",
+      "size": 14704,
+      "sha256": "5041003fb1a250922779a7fbbd5d16bb9c357ea91ad6d3a0818305d655892988",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/achevframe.png",
+      "size": 6645,
+      "sha256": "f577809cb8c269a449035391359086f864d1115a728eb91ff63aebf98a35abd5",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/achievement.png",
+      "size": 100188,
+      "sha256": "a7fbe7d5c2096914e78c443723da3afd8b4e1fa83daf39ae73ee258b9be92c02",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/achievement.xml",
+      "size": 377,
+      "sha256": "fe28db6584c82e2a18049df3ee82dc20d821a182a6bbe9db78cf780cb2d74eb5",
+      "textSha256": "5a4ba30e6a2d1a242e7e33b4300243bf91d3b90cc72634fe2d2991a9e1637801",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/achievements box.png",
+      "size": 104281,
+      "sha256": "a31911e185158243b11dc0286d080442178dd547073a28edae220bbeb047a902",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/achievements box.xml",
+      "size": 392,
+      "sha256": "9c82b4d18605e6bcc356a65e5916b3f0585bacd6bab5f135ce923fa8cffc9a98",
+      "textSha256": "5d1b1fdc847ce99a0e0a75e26e39066fbc65a1049e475bf107806b572083c1ed",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/arrow.png",
+      "size": 1654,
+      "sha256": "36a4114ec4532574fe41571eefb5f77e71b3a483faed5fceaa37a8c09385c79b",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/artsy.png",
+      "size": 13247,
+      "sha256": "12d0296992bea62b4578cf2904aad182cd0666719af46eb669dcc60200b0a432",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/Artsy2.png",
+      "size": 15009,
+      "sha256": "58f5289ad935ceac58b7c0025f7a871b401a2f21788746cbe76470e5b952ad24",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Atrsy.png",
+      "size": 10251,
+      "sha256": "12a2219e2fb5b30d2b3560af5b925897c3544406edbdd5740a42e96162f759d8",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Chibi.png",
+      "size": 16131,
+      "sha256": "a129485c40d8d78b5a7fff1e398916f0c63341965c2124647b317b3016b6481e",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Close.png",
+      "size": 14003,
+      "sha256": "694640aca07813b9974fbc690c066efb271b98b15b7fa44b3169724e465bd525",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Daring.png",
+      "size": 12168,
+      "sha256": "16c61a013761e508b233d66d7338296653a1b3791ba1f14d048c266691e9a5cb",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/darnell.png",
+      "size": 20987,
+      "sha256": "3c1221a8d36fbe0d5a9119fb47475a27e42756a378b4349d017e5b02e36d4468",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Die.png",
+      "size": 13992,
+      "sha256": "f234fe4ed4341e0c41472b61180dd2ccf95699d6613f2c6d28ce9abc467da0be",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Distracted.png",
+      "size": 10649,
+      "sha256": "9f168db190839e9fe8c1aad1f6246ba1c1a38a256d507d4f4fe8fe814c087853",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/DOD.png",
+      "size": 13411,
+      "sha256": "8d315d08c5013a347b3333037823fbf0cc9d34918966296cacbcd28251b93ee4",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/enough.png",
+      "size": 12735,
+      "sha256": "5464ab3f2e6e9c2b1ff76cce9e9dc73272f7f011522e5a219a211e39751e7f1e",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/FC/Main.png",
+      "size": 23896,
+      "sha256": "a39e58e4b3f4bd2f82230b12b8c6f9c290933a1625e642fbdefeca81dfb6ede6",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/FC/Tutorial.png",
+      "size": 21723,
+      "sha256": "98166b7ccc384d0d27b2b8ab4a1d2a95927aef25ae8fb30c5c38e6ff0558ac58",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/FC/Week1.png",
+      "size": 24396,
+      "sha256": "c088ffe3b70205b7624ebd8463c52990685eec75489acab2252aafd33e61cc23",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/FC/Week2.png",
+      "size": 16536,
+      "sha256": "35576f10f22c32b050937b161bec33d27635e7a60c020b385c8aa80e3e664388",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/FC/Week3.png",
+      "size": 22121,
+      "sha256": "bc19af153154c8a582bd55f7994793a615e4692dc4eaa406e0471217422a899e",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/FC/Week4.png",
+      "size": 13901,
+      "sha256": "0d6d4c4d294fe6ea4e5ac9336a827d44a96198da8467ab8b1c20e19d4613d2ec",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/FC/Week5.png",
+      "size": 9913,
+      "sha256": "8edbc7b9bf333621839b98ae0709998c16fd983f91be988ed9d91d3c3b71cbe4",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/FC/Week6.png",
+      "size": 10194,
+      "sha256": "093f7df9f8e2268895bdb235cae08c09724d37675697e7c8cbdcec6bbffc1747",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/FC/Week7.png",
+      "size": 14246,
+      "sha256": "307c4dba5df6b1b6cb6e085b9f80d1886e06420c65e8c4c5afb7399493bd4c85",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/FC/Weekend1.png",
+      "size": 16712,
+      "sha256": "b3fbfb9857203991888ab1716b1c4c2fb5f7e6dc88470c45112504f3d7793882",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/gold-lock.png",
+      "size": 6338,
+      "sha256": "15caabaec716ec06941c92fd3d053ddca4a4c434826a72078fd78f4025e90ae1",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/Gooner.png",
+      "size": 13910,
+      "sha256": "57949a20acb0a08ab1cbc6b4d5d0a5d72f60ac19c51095a946dad0e3c2fb402d",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Gooning.png",
+      "size": 14350,
+      "sha256": "8aff557a568a0ac0657418dad9a02342d44ec594750614c398fa1bd22eea885f",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/hanging-sign.png",
+      "size": 129596,
+      "sha256": "b643d0890a89056c24228d119af76ccc0b3d5611cc4d7e42bbca9e82b6fddb99",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/hidden.png",
+      "size": 6911,
+      "sha256": "f39ff596ac2b56c7870484175c0146ec2c10ba9418c3520673246d984c92150c",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/info.png",
+      "size": 6599,
+      "sha256": "9b832aba3bb99c9a23390eb783c8104371ee62e4463999f05e829479027d5f38",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/Intro.png",
+      "size": 19277,
+      "sha256": "7afd7958467da16d80ce6316ebe165a7a922b9cd6f5765600ab8e75d56e9b47e",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Loading.png",
+      "size": 16600,
+      "sha256": "e46057464f6a03f4520f2568ae46f8d2176f0ba3d964dbdd11dcd346b2085a29",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/loopy.png",
+      "size": 25171,
+      "sha256": "8eab36ed188ad542c87b9273d429c8e6086ea53147bcfd4184f0da44f4289bec",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/loud.png",
+      "size": 15774,
+      "sha256": "823c868771b64d6f43e1118ac3b43b580e626636973d3f7103e209c0947e7df9",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Menu.png",
+      "size": 17641,
+      "sha256": "a0c61ece0b3541c076a049e40cc454629999969cfe350dccef8b86d67ba19866",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Menu15.png",
+      "size": 17704,
+      "sha256": "5ce55022a91b93c00f8e15ef8d6c0c2c2d81184418d67b82756d86e94011f604",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Menu2.png",
+      "size": 17554,
+      "sha256": "f12d9b044a7c1971415e6325f3d2e686984a7d91a519795b89d254f62422c452",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Menu5.png",
+      "size": 19230,
+      "sha256": "e4065a24b34e48ed8134ba93dae3e297ef33f4b04f00bfa4cf5a28701dd5c280",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/mirrors.png",
+      "size": 7343,
+      "sha256": "dd99f22843814c6f24666fecbfbfb81ef2a77eb9e1159d5b72d1f631a9a325f6",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Name.png",
+      "size": 20349,
+      "sha256": "a6d50d762ddd918f3066cf1c5a5d86fe4d45ee7f0b9becc1f870c6ee16e882b0",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Needed.png",
+      "size": 16254,
+      "sha256": "64eb9b9e457c3be135027083f009866780a7931a38fa5c66fc44faaaf56cdfdc",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/normal/Main.png",
+      "size": 17827,
+      "sha256": "2ea817b7fb5a627dcf637c344a27a6a97b751841eaf879ecb00e85557aaf12b7",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/normal/Tutorial.png",
+      "size": 14911,
+      "sha256": "df9442751ada7bbe7e7cb578dc0bc62cbea1b064d67ca3caff8a938aec1e30e8",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/normal/Week1.png",
+      "size": 18398,
+      "sha256": "b6a7899d8a58e63de6f5a5e913d40daa9c4d95a557259ec9d9dd77f7db921a42",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/normal/Week2.png",
+      "size": 13859,
+      "sha256": "0b163bad69803ba28008732c52472ff43ee37b2e4d6fc206b5b36dcaa7894979",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/normal/Week3.png",
+      "size": 13560,
+      "sha256": "79f26ee729f578e1330e44b1a829c70c2f8ec430829bc1596875a7c21beae533",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/normal/Week4.png",
+      "size": 12873,
+      "sha256": "e51897970f44d03fc1923692d5991550d1aff9979af1972354bcda3c1bcc12d7",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/normal/Week5.png",
+      "size": 13452,
+      "sha256": "19a2185e4129c945a5ac25a09671ea4d3d59300eaa4a7442794218314d88182b",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/normal/Week6.png",
+      "size": 13495,
+      "sha256": "1429970cf734e36288796f3eebc3854dc333f80a44939ed8314a1b3edcb2a6e0",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/normal/Week7.png",
+      "size": 7853,
+      "sha256": "ee72d92670fcc5050ad14e8ca7ee6aa581c952f7c200d5b9803ebdcdf4552dca",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/normal/Weekend1.png",
+      "size": 14653,
+      "sha256": "91d0e8ff7a74693ea479cf0b795fb0b87237b95ef922f4ccb524f1fd9fa53d1b",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Pacifist.png",
+      "size": 17424,
+      "sha256": "7446a1774b7a4a6608d0ec8afe20a05fe66119e08baf8ee54ef719165a0617a9",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/PhoenixLines.png",
+      "size": 13835,
+      "sha256": "aab1cd33de5cfbf86c219c0e1d2fa5668ffdc3bff4d9bea97f283be707a340bd",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Portfolio.png",
+      "size": 16422,
+      "sha256": "2cdf19ef83d501368b0a684f4b4b7c48a4f1adf3d7cae71551dd10fecf414cfb",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Pose1.png",
+      "size": 10563,
+      "sha256": "074443c142877e79f7e6de3f1c0b0ad40724811e5cb48537757fe942ea37edc5",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Pose2.png",
+      "size": 11680,
+      "sha256": "4fd5b37486b944a7977022f4c464d035eaedf0087fcfa850c7fa2e2f12c4b697",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Proud.png",
+      "size": 14321,
+      "sha256": "11cb2713d071218e0372248a0cbfe7e95271cc09f169fdeda9bcaebed199ee43",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/puffers.png",
+      "size": 12252,
+      "sha256": "b3fb9ab735e7c8d44890b74aceb55c9c9ce8e9e072d0901945d0ca6cf2245a7a",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/Quickscope.png",
+      "size": 13704,
+      "sha256": "c512eb5ba9b8cf0cff748640b0b20fb58f886962de6b7f14d9071d95ac39839c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/scrolling-border.png",
+      "size": 22827,
+      "sha256": "cdf8e4e1d8b0dffbe825b52e11538d23d3001c3a5407e9fb3029d7417879c88a",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/secret/birthdays/FahBirth.png",
+      "size": 19973,
+      "sha256": "a1a92c4edc9a384a4c02ffdbfd07c78578aad5f6b1f9d557c3bfee4ca9f0b16c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/secret/birthdays/GabbyBirth.png",
+      "size": 18871,
+      "sha256": "fd6b01896685d1fcb6c54bed17ca47b5a4a0dc223760fec6c6b06b3d83c0f2b0",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/secret/birthdays/MilitusBirth.png",
+      "size": 15659,
+      "sha256": "94c463c969f7d63930107acc451d9f2b6303ee1b7bd0e5abfc12cdb99788aef6",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/secret/birthdays/MothBirth.png",
+      "size": 19399,
+      "sha256": "2530287c5ac2e993e4b7b0a36ca5437e84510a3b841db2a9ab7b6c455faf130c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/secret/birthdays/NolaBirth.png",
+      "size": 19624,
+      "sha256": "cf6a3a4f499a648103997f1d090d26f36a550cb289f7a1e0f5884e0cba594d3c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/secret/birthdays/PhoenixBirth.png",
+      "size": 19479,
+      "sha256": "303c71db7afe09f932bbe3e01b27b76f990707059da83aa326e3d8434ba44a6d",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/secret/birthdays/RavenBirth.png",
+      "size": 24034,
+      "sha256": "e68812df303c3d84092986886482f3ca131410db919cec2e8aea1b10d8327863",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/secret/Hints.png",
+      "size": 10828,
+      "sha256": "ed9457feb4e71b0e04e542a375fe9b23f895348dc4466f8ea0cd16ee3676ff69",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/secret/Retro.png",
+      "size": 11793,
+      "sha256": "60414282faa163973c9e221b04dcbc380b0b69673ffc69d39db48fe3485dec3c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/secret/Squishy.png",
+      "size": 14757,
+      "sha256": "8bc17839736405f31d7382632b4ec875bc0c4c3bcd042072d542fa26f2cc86fb",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/See.png",
+      "size": 10335,
+      "sha256": "7a5ae956726150f0005048aad677990f79f05512211b25f493471f9e6080a854",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/shop.png",
+      "size": 4548,
+      "sha256": "81e6142dff0119d91eb6c4a268d9aed2bedf90061d7575bb5c0bf1c75966a6b0",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/Single.png",
+      "size": 16211,
+      "sha256": "f32545b4b0f9a07ba41a572cc6037e86183508c0dace4840605408cdeb384c88",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/spoend.png",
+      "size": 20500,
+      "sha256": "297034d7da09be3c4bacde608f062896f036bf65fc76282903591c99bcda5eb1",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/Steve.png",
+      "size": 8267,
+      "sha256": "42239c5f3e27014a3ec4b1f3f9aa278d6e893e684a5e19928642754b4405a2ee",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/talk.png",
+      "size": 32613,
+      "sha256": "079d4ee8889faee07d440beb60b173c70f195fe1a47b4ef4c82683bcc6715f9a",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/TankmanLines.png",
+      "size": 12810,
+      "sha256": "f366397e57e7ccd5aa3aa1fb4f0399405e04e74fe645bdcbb539a63428e69a90",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/theme.png",
+      "size": 14269,
+      "sha256": "149d08247f489903b64e85cb455aa0f6cb69ad1c71383e6e9b00cb91c190a308",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/two of them.png",
+      "size": 17400,
+      "sha256": "a9616057481a33dbfac9e0f62b7189c43462f2b9bf3aa32617140500e36de64d",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/waste of time.png",
+      "size": 14299,
+      "sha256": "1b92f8e4539dc141c059268b789563adbecf7e534a1296e5781a8c10fb07e301",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Week2.png",
+      "size": 17009,
+      "sha256": "796aef268f07b12d41238f48da7155c7055b8fc24f0649d1fc843c3c479e3496",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Week3.png",
+      "size": 13278,
+      "sha256": "fee47ba7bff23a2798decdca0b0a738eff760f90e47f3f7eccacbafe56f3c724",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/achievements/Week6.png",
+      "size": 16385,
+      "sha256": "0a565c100a56af31044ff153b58b7fb7b9c157c4d22861fdb63c6a67cb124c3b",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/loading/bg26.png",
+      "size": 236562,
+      "sha256": "d2c41cebca249e5e566957cfbf108ffd69196b486f7a72a9158a3a1911aa624b",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/loading/fahmix.txt",
+      "size": 411,
+      "sha256": "4c0886722b7215dfa4340291e08485e52d3f623c2ebc5e21c3ababe5dbc5dcff",
+      "textSha256": "419ab01503f2a105fc4d992e0659765c4bb24c3ca9558b0e95f7f940dc25b19f",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/Chibis/Militus.png",
+      "size": 123128,
+      "sha256": "6dcc3e172344ed12a7b010bef1e8d55a5fcfd93a3110dcb418adcd0b949e9f86",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/Chibis/Militus.xml",
+      "size": 971,
+      "sha256": "a0f9518ab984747108377a02bb6276cba27b9aec11836b351bd592fd8a2c0e3e",
+      "textSha256": "d3b5081f65bd20a9c2f840dce39fb32f2a80cf354d78972b184c3f481ab691cc",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/name-tag.png",
+      "size": 15222,
+      "sha256": "4dc2e128e0dc69ba579246d22a16fd640336fc2cdea2c9e012ead2e1e732eff3",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/portrait-ant.png",
+      "size": 46340,
+      "sha256": "3028c1e3fda0ca65dee283e1a794655c1daa5969188fafabd5d67a8ec28d439d",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/portrait-bip.png",
+      "size": 42487,
+      "sha256": "0af75ba9809dca0adfcb9f7c86d1f87b22f7d27b7f169ef9dd07e0b3178514b1",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/portrait-gas.png",
+      "size": 37752,
+      "sha256": "2fc550d6efd19952ffee077aed6a63a154afade03692689195f9f61c5e040f97",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/portrait-poly.png",
+      "size": 47216,
+      "sha256": "a603bb1d09c0c5d9c67f00215076b8f825b03e160dbfdf34f93b030c628678b9",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/portrait-ravenm.png",
+      "size": 35543,
+      "sha256": "c26cdfa0846101e57ea4349c30b868bba0de8e61c843098a1efd7c45a8e4e48a",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/portrait-sunfe.png",
+      "size": 48775,
+      "sha256": "2d17c8502afd836a6dacc6971c6c4e7688704de8e6321a969e69f619e63415ad",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/portrait-tabby.png",
+      "size": 61842,
+      "sha256": "0ebbdaed3970be8b0f4b977d0df41dbea498567aee82770dea0a3411ca342ad0",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/portrait-tato.png",
+      "size": 50336,
+      "sha256": "e9c424fb7b9ebfed152e85c215b7ea0968b7d0eecbd9061271a23111a9cebb30",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/social-discord.png",
+      "size": 28319,
+      "sha256": "ebfcfc7bb309a42bb97ef72e9c8daa918bc0df3e44325d5e53dcdc34a9b5d2cd",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/social-twitter.png",
+      "size": 38128,
+      "sha256": "5b39d50d42fee8937093a4df2d61c51a80b31c66a31fc722ae593c983903b63a",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/social-youtube.png",
+      "size": 15033,
+      "sha256": "c185fe578245074e307042fb6fdd5279f942e2fbba3e6eeec8d72c3af0f15072",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/MainMenu-stuff/achievement-pull/achievments.png",
+      "size": 3346,
+      "sha256": "4fd99e494ad88cdadec20e6ab9b37ecf5ef4dc29ff49fba4a86fe22fc186a8d1",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/MainMenu-stuff/achievement-pull/taddercolor.png",
+      "size": 5619,
+      "sha256": "d34964629e0688bf3aebd4ef2fc8a4caf9bf4b088a66fb01282b5a511e00a003",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/MainMenu-stuff/achievement-pull/taddernocolor.png",
+      "size": 15520,
+      "sha256": "8a74f704eca26c7238f5446d7318fd59ecf09499291da5d9987d9b16e003208a",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/MainMenu-stuff/bios/portraits/Militus.png",
+      "size": 44354,
+      "sha256": "b2c1c74feaa6d29f02e5f11e044ce5ebabb068ea6f215d7ae256a8618e5f30f3",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/MainMenu-stuff/bios/refs/militus.png",
+      "size": 968873,
+      "sha256": "1ba7ef3d6c3cd9fe84d10b13b1f867ea663cde09b4e8e629f6aaebb791bd9508",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/MainMenu-stuff/menuArt/art17.png",
+      "size": 170284,
+      "sha256": "814a17ed2f6d621786957f8c5df1ac713891c31bcf008f47c20a86543feccd89",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/MainMenu-stuff/menuArt/colors.txt",
+      "size": 367,
+      "sha256": "64f431fa62fd9e7d101610ad5156f70d7017793e30e453fe08c3e0cfeeb9836b",
+      "textSha256": "ebee8261ce3cc5244e83f214ba5d59d0ba5915a1ceff84919e7ee69e95df16ad",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/Menus/MainMenu-stuff/plushies/militus.png",
+      "size": 60071,
+      "sha256": "9dc708069f33b194a0b0c9ac05d81140c7d49b6b384eae7bb5c005a400ce791b",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/bag.png",
+      "size": 7873,
+      "sha256": "de3454b186cc95b83d8b9376e78be7626c61ce8cb81b7f1237db9a810537cc27",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/eye.png",
+      "size": 31253,
+      "sha256": "425a92fc59b3f277adae000b3c0b3129898387599ad0942892196f1f496230e3",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/greedy.png",
+      "size": 324696,
+      "sha256": "d63855a5072ab903f50cc0611c53a823a39345faccb2e886308b21657838b020",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/greedy.xml",
+      "size": 506,
+      "sha256": "f70f9e80247e4130419a851aa3b84c0702596519e988f36baa59abe7f06660a0",
+      "textSha256": "f70f9e80247e4130419a851aa3b84c0702596519e988f36baa59abe7f06660a0",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/inside.png",
+      "size": 63731,
+      "sha256": "69a051e311345c81e2cf19513bd83842e86b9ccb01166a8b05b8d42a046a0e93",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/materials/ash.png",
+      "size": 15954,
+      "sha256": "ae0f971ff4e5f1601e97b94bb6670026be72f2ca7ed3f1ef169d196a7d6a5401",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/materials/cloth.png",
+      "size": 9860,
+      "sha256": "b78492d198f56514a181e3ae282b4b660492c520829d6a5c65691c6647f564e0",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/materials/hair.png",
+      "size": 23136,
+      "sha256": "1f1cad41a96512b02303133b4ded90e14261fa731f704946054de8f03a18c01f",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/materials/paper.png",
+      "size": 23554,
+      "sha256": "72f4a79b728933f1f27e53b1debb523a69978bac37b679143b8e239ab5d78bf0",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/militus-talk.png",
+      "size": 299540,
+      "sha256": "152c4ed41cf1cd3ae19d79d86a8e640ad270cd2791f120bcc4dfe98644281c5f",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/militus-talk.xml",
+      "size": 539,
+      "sha256": "460525fd6fa28a61a83b68dcd835e3156d0ee918efbdc6c5f45a8301363185cd",
+      "textSha256": "460525fd6fa28a61a83b68dcd835e3156d0ee918efbdc6c5f45a8301363185cd",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/militus.png",
+      "size": 3290907,
+      "sha256": "e623d7be4a2ce2f9d43c5b6e85a2e3732f469071fdb519644b245c4f6b6af563",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/militus.xml",
+      "size": 4480,
+      "sha256": "8cfa635182bada1a5ddb68beb548f3f7207fd96b7e820e35e5303347f47b8434",
+      "textSha256": "2e370396eb1c12ab7c3f2f5b078ce09e809976a0f004e73e7d44bba72d191c49",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/modifiers/awesome.png",
+      "size": 16474,
+      "sha256": "0e42bdc3a78f82f180887242dc54b350e24490eca94f1e01eb0d38f3ea70f85c",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/modifiers/hell.png",
+      "size": 13965,
+      "sha256": "3b3532fa3e09e789628cb4347dbfeb88216246e3655d5e6f056d056350f94344",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/modifiers/randomizer.png",
+      "size": 15295,
+      "sha256": "c1362b420b96d5d380c10ff5120f488c535ca51911b4822d4f8e80a3132631d1",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/modifiers/speed.png",
+      "size": 18677,
+      "sha256": "c9cad072a351509b39791ad609aa5369c4d3d14fc6558afff9268bff2b2412fc",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/moneybox.png",
+      "size": 7539,
+      "sha256": "07ce731c7bd450dd11168bb447fea4315e11dd0577f94fc6e195e1f5a4f09eb6",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/nail.png",
+      "size": 3649,
+      "sha256": "311be5f37cacd1024454361d95aa7d2b575729e48a4b11f4b7469880f6300479",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/out.png",
+      "size": 9307,
+      "sha256": "7bf21aaba647a5e614942229df604bee26481e569e9b1fe80eaa6545832275b7",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/box.png",
+      "size": 25552,
+      "sha256": "f948a6b30ae6f73ce39bc35eb0056cab7f294be8533fdd4791772e6b0ea4c6bb",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/brav.png",
+      "size": 8815,
+      "sha256": "d0f3968ed577aeee241de5aeedf10f6e6d1f018b2e7de212f932f71f8cb75130",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/bravcioin.png",
+      "size": 13134,
+      "sha256": "fa1f8472ea36310503bae27c7be7aa1b32a2cf82697b4393aaa645330484cc9a",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/earpluig.png",
+      "size": 12095,
+      "sha256": "2902fb11c9b05c7d2344141f5dcfa392b84d51618fe4f8b45fbac0442985a2bf",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/eyecoin.png",
+      "size": 14751,
+      "sha256": "4b48493f2f1048f66c23f35347d9dce461ddb314a8233ba5ff9bfd161ca206d2",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/heavcoin.png",
+      "size": 14279,
+      "sha256": "51bbe9672a666399f1165d51ca5942dda4530aae2ceac4b5f8721ddf10c9c536",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/heavhand.png",
+      "size": 12087,
+      "sha256": "f3a3a364b888c45569895616d42cebd667a3fba8a57a75df8b04ca2e8c9f5a79",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/hpcoin.png",
+      "size": 11773,
+      "sha256": "6c25a02fe5035c295727ed1002d094ba2f6019c1b6bdfdac84a4ee0204c1d240",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/ironskin.png",
+      "size": 9642,
+      "sha256": "84395d9357d59fab111ce02eabff9fe77ce8efc5c82961a2a30067c406737bd1",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/ironskincoin.png",
+      "size": 12579,
+      "sha256": "de5e0d711ec831fe6043fde3e80868eeeb2bd321d8a369c50d0a35570c68a31b",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/muffcoin.png",
+      "size": 12828,
+      "sha256": "063fdd0f62a7e26156ba7e7c96f911372844967e231bac64eeaaf840518c8e5e",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/nozle.png",
+      "size": 5392,
+      "sha256": "33e98897fafef67c11491b5444677907d5115752ba659409d36447ef255354f5",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/res.png",
+      "size": 9148,
+      "sha256": "9b9fce6a5a9ecafe246e25425641259b87ca6c8644e72c39a3d2c125b233ecd9",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/scattercoin.png",
+      "size": 14167,
+      "sha256": "9e709a68f4124b7c5e6dfc77c0114eba6692bab0e9c14dc6d40d81c2dc11f88e",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/spread.png",
+      "size": 14830,
+      "sha256": "7ea49598f254c86833cc1c80fcd9e33f3e8ebaae4e51ab84b2eeea0280c5dec3",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/tickwet.png",
+      "size": 7820,
+      "sha256": "59bb0312525313a12f3bb226a35221fc89794576896447a859b929711bc85fec",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/w3ipecoin.png",
+      "size": 15107,
+      "sha256": "ebd5bfad09bf5698dbf46b160ff920adc29716f49e6ea152059a2118deec4062",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/water.png",
+      "size": 11452,
+      "sha256": "e53727b38f37bd168162564dcee4848eda36be3fdb78e263601b792aa4f03a0d",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/watercoin.png",
+      "size": 12884,
+      "sha256": "881d6873768caff1d7d506ba264cc3ec7afa90830f9d934904119b2786b49ea8",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/powerups/wipe.png",
+      "size": 11246,
+      "sha256": "dae871494aebcd18400ab83c1e00ed893a46719256942fc1ef884734ee874b32",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/shady.png",
+      "size": 313478,
+      "sha256": "7de027082cc8dc8f2220c29814444fd571b00530599dceb2f6ba9784592a2a79",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/shady.xml",
+      "size": 504,
+      "sha256": "925fe959ea9dfd4036cd2df4a452ecdaa9063d0cdafed76707c11a388cd53ad5",
+      "textSha256": "925fe959ea9dfd4036cd2df4a452ecdaa9063d0cdafed76707c11a388cd53ad5",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/shelf.png",
+      "size": 2203,
+      "sha256": "c33795aedbf5b884b0e5662b668048bc27012f184288e71498f0ba10db2283db",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/sign.png",
+      "size": 24154,
+      "sha256": "df86db51c4e68e2cb03eba20ff5b2727d6ef95f5b4ccfff4029ee869ee945539",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/sold.png",
+      "size": 4468,
+      "sha256": "32b6eebeb34e4339786c14459f57301cf29093b867674f67a0910589fbb87cbf",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/tag.png",
+      "size": 4511,
+      "sha256": "72ab5d8e0d23341442eed3b4b705fa7c69b9635bcb37aee14f05ac7bdd52811b",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/themetemplate.png",
+      "size": 8523,
+      "sha256": "a8af302449e8fd6ecd6b265dffb763f36bf8229da70ae34b21899fbf5b870d0a",
+      "change": "added"
+    },
+    {
+      "path": "assets/music/FreakyMenu-Achievements.ogg",
+      "size": 2556526,
+      "sha256": "37964e2b2528558243a98773b4e82f4c8bdb0256b6c05034c39c0133e3299764",
+      "change": "added"
+    },
+    {
+      "path": "assets/music/FreakyMenu-Shop.ogg",
+      "size": 2555010,
+      "sha256": "dff17adb5496672fb24cc0e34e2e328dedf97ac53601f9d5e49fe72b79411859",
+      "change": "added"
+    },
+    {
+      "path": "assets/shaders/shopShader.frag",
+      "size": 4301,
+      "sha256": "af986e7ee3b7b98eab672b283964ff6a1809cc9d2b6f8d4f7ba4253ac0918fed",
+      "textSha256": "af986e7ee3b7b98eab672b283964ff6a1809cc9d2b6f8d4f7ba4253ac0918fed",
+      "change": "added"
+    },
+    {
+      "path": "assets/sounds/shop/blips/default.ogg",
+      "size": 7422,
+      "sha256": "d2db104be4d805a1c3e2314d4e7f2ef2d7c98f0ca232849106c44998e04c2438",
+      "change": "added"
+    },
+    {
+      "path": "assets/sounds/shop/blips/mad.ogg",
+      "size": 7527,
+      "sha256": "53bc4f103557e9be803c47d073d815d8c0b4e480b2c1c6e1bb3aeb9366a1a6ae",
+      "change": "added"
+    },
+    {
+      "path": "assets/sounds/shop/blips/smug.ogg",
+      "size": 7756,
+      "sha256": "005c13c5c29092ccc522bff5e87a977569a6969ea0e36f9552fd4c5ca4d7b7de",
+      "change": "added"
+    },
+    {
+      "path": "assets/sounds/snap.ogg",
+      "size": 5910,
+      "sha256": "be72b884219209f456ca9987be10376b6a1acbaa31430414827a5ce6cf67e2a8",
+      "change": "added"
+    },
+    {
+      "path": "assets/sounds/tug.ogg",
+      "size": 16050,
+      "sha256": "834bd94e607e57fbcd8a52674dd36a28d9fb5b44bfe2fa1879395c0682d9d4f4",
+      "change": "added"
+    },
+    {
+      "path": "assets/stages/nola.lua",
+      "size": 4927,
+      "sha256": "e97e5e75dd86534b94c28303da9ea00252955f7b2eb9f3150e3b6b5758da3df2",
+      "textSha256": "e97e5e75dd86534b94c28303da9ea00252955f7b2eb9f3150e3b6b5758da3df2",
       "change": "changed"
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 37305856,
-      "sha256": "034bfee2fc6d1b4d376f244d78944724bbacae9e9bbcf68f676e32e182663ba3",
+      "size": 38867456,
+      "sha256": "2a16a0f5e38d0c340a75207725d73937d51ffd05f96127fa2f851ad262705358",
+      "change": "changed"
+    },
+    {
+      "path": "plugins/plugins.dat",
+      "size": 256718,
+      "sha256": "4de0f4f0c9243fd23d03134f282595edb92dcb69ff3a01ca219f2c0df1274376",
       "change": "changed"
     }
   ],

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mini-militus.png">
+<SubTexture name="mini-militus click0000" x="415" y="0" width="195" height="257" frameX="-22" frameY="-18" frameWidth="265" frameHeight="283" />
+<SubTexture name="mini-militus stare0000" x="216" y="260" width="210" height="256" frameX="-23" frameY="-19" frameWidth="265" frameHeight="283" />
+<SubTexture name="mini-militus sit0000" x="610" y="0" width="221" height="230" frameX="-21" frameY="-43" frameWidth="265" frameHeight="283" />
+<SubTexture name="mini-militus walk0000" x="0" y="260" width="216" height="257" frameX="-36" frameY="-12" frameWidth="265" frameHeight="283" />
+<SubTexture name="mini-militus walk0001" x="0" y="0" width="186" height="260" frameX="-38" frameY="-14" frameWidth="265" frameHeight="283" />
+<SubTexture name="mini-militus walk0002" x="186" y="0" width="229" height="259" frameX="-36" frameY="-13" frameWidth="265" frameHeight="283" />
+</TextureAtlas>

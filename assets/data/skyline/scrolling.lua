@@ -63,6 +63,7 @@ local function createSkylineSprite(tag, x)
 end
 
 function reloadShader()
+	if lowQuality then return end
 	runHaxeCode([[
 		var shaderName = "]] .. SHADER_NAME .. [[";
 		var holder = game.getLuaObject("]] .. SHADER_HOLDER .. [[");
@@ -78,6 +79,7 @@ function reloadShader()
 end
 
 local function setFilterActive(active)
+	if lowQuality then return end
 	if filterActive == active then return end
 	runHaxeCode([[
 		var holder = game.getLuaObject("]] .. SHADER_HOLDER .. [[");
@@ -156,27 +158,29 @@ function onCreatePost()
 	makeLuaSprite(SHADER_HOLDER, '', 0, 0)
 	makeGraphic(SHADER_HOLDER, 1, 1, 'FFFFFF')
 	setProperty(SHADER_HOLDER .. '.visible', false)
-	addHaxeLibrary('ShaderFilter', 'openfl.filters')
-	reloadShader()
-	setShaderFloat(SHADER_HOLDER, 'effectStrength', 0)
-	setFilterActive(true)
-	shaderPrewarmPending = true
-	runHaxeCode([[
-		nolaShaderResizeFix = function(?_)
-		{
-			var reset = function(sprite)
+	if not lowQuality then
+		addHaxeLibrary('ShaderFilter', 'openfl.filters')
+		reloadShader()
+		setShaderFloat(SHADER_HOLDER, 'effectStrength', 0)
+		setFilterActive(true)
+		shaderPrewarmPending = true
+		runHaxeCode([[
+			nolaShaderResizeFix = function(?_)
 			{
-				if (sprite == null || sprite.filters == null || sprite.filters.length == 0) return;
-				sprite.__cacheBitmap = null;
-				sprite.__cacheBitmapData = null;
+				var reset = function(sprite)
+				{
+					if (sprite == null || sprite.filters == null || sprite.filters.length == 0) return;
+					sprite.__cacheBitmap = null;
+					sprite.__cacheBitmapData = null;
+				};
+				reset(game.camGame.flashSprite);
+				reset(game.camHUD.flashSprite);
+				reset(game.camOther.flashSprite);
 			};
-			reset(game.camGame.flashSprite);
-			reset(game.camHUD.flashSprite);
-			reset(game.camOther.flashSprite);
-		};
-		FlxG.signals.gameResized.add(nolaShaderResizeFix);
-		nolaShaderResizeFix();
-	]])
+			FlxG.signals.gameResized.add(nolaShaderResizeFix);
+			nolaShaderResizeFix();
+		]])
+	end
 	local openingOwner = runHaxeCode([[return game.hudSectionOwner();]])
 	targetSpeed = openingOwner == 'bf' and BF_SPEED or OPPONENT_SPEED
 	currentSpeed = targetSpeed
@@ -233,6 +237,7 @@ function onUpdate(elapsed)
 end
 
 function onDestroy()
+	if lowQuality then return end
 	runHaxeCode([[
 		if (nolaShaderResizeFix != null)
 			FlxG.signals.gameResized.remove(nolaShaderResizeFix);
