@@ -1,5 +1,5 @@
 {
-  "version": "2.5.11",
+  "version": "2.5.12",
   "files": [
     {
       "path": ".gitattributes",
@@ -8738,6 +8738,17 @@
       "textSha256": "2e370396eb1c12ab7c3f2f5b078ce09e809976a0f004e73e7d44bba72d191c49"
     },
     {
+      "path": "assets/images/shop/mill.png",
+      "size": 616226,
+      "sha256": "a66f2f74a2e3d1b239592c38207b7a336c85c7f97f16306d79aa31d9c3f90959"
+    },
+    {
+      "path": "assets/images/shop/mill.xml",
+      "size": 951,
+      "sha256": "82d873b275ebb53e535765b95d9682ea6805093b4338ee994f608c9db5631713",
+      "textSha256": "650d43677ca067bcbe3b1a941aa745222140d89a17cb01f2cb5cc7fedcf0572b"
+    },
+    {
       "path": "assets/images/shop/modifiers/awesome.png",
       "size": 16474,
       "sha256": "0e42bdc3a78f82f180887242dc54b350e24490eca94f1e01eb0d38f3ea70f85c"
@@ -10822,8 +10833,8 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 38907392,
-      "sha256": "08e3601c68a73b8822ce91c8c7b5746140d859dd167035c62cc39c9ad8f53016"
+      "size": 38947840,
+      "sha256": "fcc1603b97d95004539660eb101f92c1e4b54bac1f77424be83335fb73c5b5d6"
     },
     {
       "path": "icon.ico",
