@@ -1,25 +1,12 @@
 {
   "format": 2,
-  "version": "2.5.12",
-  "baseVersion": "2.5.11",
+  "version": "2.5.13",
+  "baseVersion": "2.5.12",
   "files": [
     {
-      "path": "assets/images/shop/mill.png",
-      "size": 616226,
-      "sha256": "a66f2f74a2e3d1b239592c38207b7a336c85c7f97f16306d79aa31d9c3f90959",
-      "change": "added"
-    },
-    {
-      "path": "assets/images/shop/mill.xml",
-      "size": 951,
-      "sha256": "82d873b275ebb53e535765b95d9682ea6805093b4338ee994f608c9db5631713",
-      "textSha256": "650d43677ca067bcbe3b1a941aa745222140d89a17cb01f2cb5cc7fedcf0572b",
-      "change": "added"
-    },
-    {
       "path": "Average OC Mod.exe",
-      "size": 38947840,
-      "sha256": "fcc1603b97d95004539660eb101f92c1e4b54bac1f77424be83335fb73c5b5d6",
+      "size": 38948864,
+      "sha256": "cda2ac58d0ba107af5c653c6a5fd277a78075fcbac6778e9c30941171013467c",
       "change": "changed"
     }
   ],
