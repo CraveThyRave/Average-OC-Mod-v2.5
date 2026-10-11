@@ -1,70 +1,25 @@
 {
   "format": 2,
-  "version": "2.5.11",
-  "baseVersion": "2.5.10",
+  "version": "2.5.12",
+  "baseVersion": "2.5.11",
   "files": [
     {
-      "path": "assets/data/what-the-fah/07-random-distraction-images.lua",
-      "size": 12599,
-      "sha256": "d594e55fa883887a3ae5a23adaf38d88db30e6c5a9c49f040738de8162852d5c",
-      "textSha256": "50b3b2b1f54fa82d7ddfa7a6ebfe48ca1c0bc51ed506290f40d7189bcba1c63f",
-      "change": "changed"
-    },
-    {
-      "path": "assets/images/achievements/awesome.png",
-      "size": 19583,
-      "sha256": "dcb3978fc33c1f61e3dfe26d6c7224e8d10bef11ab3ab366b817bf66cc32274d",
+      "path": "assets/images/shop/mill.png",
+      "size": 616226,
+      "sha256": "a66f2f74a2e3d1b239592c38207b7a336c85c7f97f16306d79aa31d9c3f90959",
       "change": "added"
     },
     {
-      "path": "assets/images/achievements/donations.png",
-      "size": 15930,
-      "sha256": "6cdef9ca8c37c4a7fb71e7d557917654f359efbd9e6efb8eb15d4bdb31fd2af0",
+      "path": "assets/images/shop/mill.xml",
+      "size": 951,
+      "sha256": "82d873b275ebb53e535765b95d9682ea6805093b4338ee994f608c9db5631713",
+      "textSha256": "650d43677ca067bcbe3b1a941aa745222140d89a17cb01f2cb5cc7fedcf0572b",
       "change": "added"
-    },
-    {
-      "path": "assets/images/achievements/hell.png",
-      "size": 15001,
-      "sha256": "fb15feced4955a72fa5283dc96d2e6d6c17a4251628fd8cabe2a13e6ebfc9f77",
-      "change": "added"
-    },
-    {
-      "path": "assets/images/Menus/Intro-stuff/credits/social-newgrounds.png",
-      "size": 28913,
-      "sha256": "456dbf6d8ecfc32d06f8b63eb3025fb90183210871c36bf24155e495e621e373",
-      "change": "added"
-    },
-    {
-      "path": "assets/images/Menus/Intro-stuff/credits/social-tiktok.png",
-      "size": 20940,
-      "sha256": "f20b714b01b4204112f38b2d8abed410302b63f37348c375b0348b6594e9616b",
-      "change": "added"
-    },
-    {
-      "path": "assets/shaders/shopShader.frag",
-      "size": 4352,
-      "sha256": "5e06c44bef5a97d8739718a67abe08a5453e069e79bf46a0c2e8e2d223b63435",
-      "textSha256": "5e06c44bef5a97d8739718a67abe08a5453e069e79bf46a0c2e8e2d223b63435",
-      "change": "changed"
-    },
-    {
-      "path": "assets/stages/fah-week7-b.lua",
-      "size": 24243,
-      "sha256": "346c09ae3dc664102808f7fa1a776b22d8d8d1a9fb1557a06e1f90e57e75ede8",
-      "textSha256": "346c09ae3dc664102808f7fa1a776b22d8d8d1a9fb1557a06e1f90e57e75ede8",
-      "change": "changed"
-    },
-    {
-      "path": "assets/stages/fah-week7.lua",
-      "size": 5401,
-      "sha256": "bd849e76f2e241005e7ad4327dd9b21302c5f552508c18642bf4486fede14590",
-      "textSha256": "bd849e76f2e241005e7ad4327dd9b21302c5f552508c18642bf4486fede14590",
-      "change": "changed"
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 38907392,
-      "sha256": "08e3601c68a73b8822ce91c8c7b5746140d859dd167035c62cc39c9ad8f53016",
+      "size": 38947840,
+      "sha256": "fcc1603b97d95004539660eb101f92c1e4b54bac1f77424be83335fb73c5b5d6",
       "change": "changed"
     }
   ],
