@@ -1,0 +1,51 @@
+AVERAGE OC MOD: MODCHART EDITOR
+
+Open the main menu, press 7, and choose Modchart Editor below Theme Editor.
+Select a song and difficulty. The editor uses AOM's native chart, stage,
+characters, receptors, note skins, audio and HUD profile.
+
+Timeline Items adds a post-process shader, GPU note modifier, or FunkinModchart
+modifier. Click a track's name to edit its item, color, starting values and
+targets. Click an empty track area to add a tween. Double-click or right-click
+an event to edit its step, duration, start/target values, easing and downscroll
+inversion. Time and duration are measured in steps: four steps make one beat.
+
+Drag events to move them. Ctrl-click toggles selection. Drag empty space to
+select a rectangle. Ctrl+A selects all. Ctrl+C/X/V copies, cuts and pastes at
+the playhead. Delete removes selected events. Ctrl+Z/Y undoes/redoes changes.
+Shift+Left/Right shifts selected events by the current snap interval.
+
+Space plays or pauses. A/D moves by 16 steps. Left/Right moves by one snap
+interval. Home/End jumps to song boundaries. Drag the ruler to seek. The Song
+menu independently mutes instrumental and voices. Playback speed is adjustable.
+Mouse wheel scrolls tracks; Shift+wheel scrolls time; Ctrl+wheel zooms around
+the pointer. Drag the bottom scrollbar to move through the song.
+
+F toggles fullscreen preview. Right or middle drag pans the stage; wheel zooms
+the stage. View offers downscroll, stage visibility and note-path previews.
+
+Ctrl+S saves. File offers shared and difficulty-specific saves. Files live
+beside the selected AOM chart: assets/data/<song>/modchart.xml or
+modchart-<difficulty>.xml, including charts in mod folders. The matching
+difficulty file takes precedence over a shared file in the same song folder.
+Existing files get a .bak copy when overwritten. No chart JSON is rewritten.
+Gameplay loads these same XML files automatically.
+
+Ctrl+O imports the supplied editor's XML format. Ctrl+Shift+S exports a packaged
+XML with its shader and GPU modifier source embedded, for sharing. Import is
+followed by Save to choose the native song destination. Unsupported XML nodes
+are retained and reported instead of silently deleted.
+
+Additional shader .frag/.vert/.ini files go in modchart-editor/shaders; GPU
+modifier .vert/.ini files go in modchart-editor/modifiers. Use the folder under
+assets, or a mod's modchart-editor folder to override or add resources.
+Nested folders are supported. INI numeric properties become editable defaults.
+
+FunkinModchart items select a compiled modifier class and a value name exposed
+by that class. Multiple items can animate different sub-values of one class.
+Strumline -1 applies to every row, 0 to opponent, 1 to player. A lane value of
+-1 selects every lane. Playfield -1 selects every playfield; 0 is the first.
+Extra playfields duplicate the note field for visual effects.
+
+The preview does not play a scored attempt or write achievements and progress.
+Exiting restores preferences. The separate Fah Modchart editor remains available.

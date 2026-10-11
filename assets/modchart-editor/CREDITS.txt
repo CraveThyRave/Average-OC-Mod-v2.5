@@ -1,0 +1,16 @@
+Modchart editor resources
+
+Codename Engine 1.0.1 Modchart Editor port supplied by the user:
+https://github.com/Martincraft7887/modcharteditor-cne-1.0.1
+
+The bundled GPU modifier and post-process shader sources retain their original
+author credits. They are adapted at runtime for Average OC Mod's renderer.
+
+FunkinModchart 1.2.4 by TheoDevelops / dotaxel and contributors:
+https://github.com/dotaxel/FunkinModchart
+https://lib.haxe.org/p/funkin-modchart/1.2.4/
+Licensed under Apache License 2.0. See FUNKIN-MODCHART-LICENSE.txt.
+
+Average OC Mod integration includes native editor states, XML loading/saving,
+timeline sampling, AOM note/HUD adapters, shader color preservation, preview
+isolation, and compatibility fixes. Existing AOM assets and editors are retained.
