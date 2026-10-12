@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sun lines.png">
+<SubTexture name="sun lines idle0000" x="0" y="0" width="1142" height="1071" frameX="0" frameY="0" frameWidth="1142" frameHeight="1071" />
+<SubTexture name="sun lines idle0001" x="1142" y="0" width="1093" height="1055" frameX="-18" frameY="-2" frameWidth="1142" frameHeight="1071" />
+</TextureAtlas>

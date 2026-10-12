@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shrimp.png">
+<SubTexture name="shrimp idle0000" x="298" y="0" width="289" height="326" frameX="-4" frameY="-4" frameWidth="298" frameHeight="330" />
+<SubTexture name="shrimp idle0001" x="0" y="0" width="298" height="329" frameX="0" frameY="0" frameWidth="298" frameHeight="330" />
+</TextureAtlas>

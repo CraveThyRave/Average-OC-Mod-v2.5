@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cloud.png">
+<SubTexture name="cloud idle0000" x="0" y="0" width="679" height="318" frameX="-2" frameY="0" frameWidth="683" frameHeight="318" />
+<SubTexture name="cloud idle0001" x="679" y="0" width="683" height="305" frameX="0" frameY="-7" frameWidth="683" frameHeight="318" />
+</TextureAtlas>

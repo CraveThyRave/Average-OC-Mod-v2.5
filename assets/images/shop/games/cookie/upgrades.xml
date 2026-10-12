@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="upgrades.png">
+<SubTexture name="unlocksfah 90000" x="1199" y="0" width="356" height="612" frameX="-136" frameY="-65" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 90001" x="887" y="0" width="312" height="621" frameX="-167" frameY="-41" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah lucky0000" x="0" y="0" width="441" height="646" frameX="-64" frameY="0" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah lucky0001" x="441" y="0" width="446" height="644" frameX="-65" frameY="-1" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 30000" x="906" y="646" width="454" height="451" frameX="-53" frameY="-126" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 30001" x="468" y="1951" width="457" height="246" frameX="-51" frameY="-334" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 40000" x="685" y="1559" width="690" height="383" frameX="0" frameY="-92" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 40001" x="0" y="1559" width="685" height="392" frameX="-2" frameY="-86" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 80000" x="1555" y="439" width="341" height="438" frameX="-151" frameY="-146" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 80001" x="1024" y="1121" width="340" height="426" frameX="-153" frameY="-159" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 20000" x="0" y="1951" width="468" height="334" frameX="-18" frameY="-108" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 20001" x="2039" y="0" width="454" height="336" frameX="-28" frameY="-128" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 10000" x="1555" y="0" width="484" height="439" frameX="-80" frameY="-70" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 10001" x="534" y="1121" width="490" height="429" frameX="-72" frameY="-86" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 60000" x="374" y="646" width="532" height="457" frameX="-65" frameY="-113" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 60001" x="0" y="1121" width="534" height="438" frameX="-67" frameY="-128" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah click0000" x="1364" y="1121" width="241" height="420" frameX="-117" frameY="-46" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah click0001" x="1605" y="1121" width="239" height="386" frameX="-118" frameY="-81" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 50000" x="2039" y="598" width="356" height="245" frameX="-130" frameY="-203" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 50001" x="2039" y="336" width="365" height="262" frameX="-133" frameY="-186" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 70000" x="0" y="646" width="374" height="475" frameX="-164" frameY="-40" frameWidth="690" frameHeight="677" />
+<SubTexture name="unlocksfah 70001" x="1375" y="1559" width="380" height="376" frameX="-163" frameY="-153" frameWidth="690" frameHeight="677" />
+</TextureAtlas>
