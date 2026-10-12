@@ -1,1293 +1,580 @@
 {
   "format": 2,
-  "version": "2.5.15",
-  "baseVersion": "2.5.14",
+  "version": "2.5.16",
+  "baseVersion": "2.5.15",
   "files": [
     {
-      "path": "assets/data/senpai/credits.txt",
-      "size": 196,
-      "sha256": "5672d96dbd1f3d581c9d2c5c3753e415a3b9f98404348c74b334fcbb2b53eef6",
-      "textSha256": "5672d96dbd1f3d581c9d2c5c3753e415a3b9f98404348c74b334fcbb2b53eef6",
+      "path": "assets/data/shiftr/03-screen-overlay-transitions.lua",
+      "size": 722,
+      "sha256": "b0c4cbcf3114b6f04e3e37b7dce271c0d71e20ff1eb32a3fec193273360d9357",
+      "textSha256": "b0c4cbcf3114b6f04e3e37b7dce271c0d71e20ff1eb32a3fec193273360d9357",
       "change": "changed"
     },
     {
-      "path": "assets/data/sunburnt/credits.txt",
-      "size": 225,
-      "sha256": "c0480bfc2539fe158a85cebe1f5a6afafc2ef4678edffccda4222955353b42d4",
-      "textSha256": "c0480bfc2539fe158a85cebe1f5a6afafc2ef4678edffccda4222955353b42d4",
+      "path": "assets/images/achievements/fah-high.png",
+      "size": 14154,
+      "sha256": "cff7705c75c58273784089195faeff6fa2f4995c1482cee66266a44a1f64c365",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/gabby-high.png",
+      "size": 15648,
+      "sha256": "edc7958c6cea31d7fb395fa8e03140b26983d63a9feb7270260080e9da2c6d93",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/phoenix-high.png",
+      "size": 12245,
+      "sha256": "b836f48b6a86ea2b5de132b9768123baefbdea0f7e58b2226684a9e9805749c7",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/achievements/raven-high.png",
+      "size": 13354,
+      "sha256": "dc166f281a0fac40a0209d3b0361b48f79d0500288910330ad85aeb688e97d02",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/portrait-ravenm.png",
+      "size": 39433,
+      "sha256": "3115af9e0c66c9c42fe30b252d18faa74d90d5eaf8cb49154d23d2bef1426a57",
       "change": "changed"
     },
     {
-      "path": "assets/modchart-editor/CREDITS.txt",
-      "size": 767,
-      "sha256": "11c79628b3c352370ee4c43cecfc644c4aa8e0a261473a7202ffd2b0d48f486c",
-      "textSha256": "11c79628b3c352370ee4c43cecfc644c4aa8e0a261473a7202ffd2b0d48f486c",
+      "path": "assets/images/shop/games/cookie/cookie-art.png",
+      "size": 52312,
+      "sha256": "874ca59fa237be4f021c88bfbae178d9e9c347aae8a540faed5f8087d53f69ee",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/FUNKIN-MODCHART-LICENSE.txt",
-      "size": 11556,
-      "sha256": "5ad8c213095c573921d7388edf93f6a9f54490b8ebf3b165ae8ef1947cf70846",
-      "textSha256": "43070e2d4e532684de521b885f385d0841030efa2b1a20bafb76133a5e1379c1",
+      "path": "assets/images/shop/games/cookie/cookie.png",
+      "size": 12915,
+      "sha256": "85cad1746f865acd38a629c00d22fcaaaa74d111e7faa15c71ff350c4ecbf6dd",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/funkin-values.json",
-      "size": 2698,
-      "sha256": "d2d235a094712fd1e60cbb71c0671a622c67aff554b9e88a5ffe6ca7dddf9603",
-      "textSha256": "984d9b362e4c2ba0d0822ac2be54711322030c573d7098c4303144905e9199a6",
+      "path": "assets/images/shop/games/cookie/fah-head.png",
+      "size": 146003,
+      "sha256": "5ad83a3005a7006fe24033bc905c2cc72eecc20735e531907534dc4c92ef8ddc",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/gpu/notePerspective.frag",
-      "size": 376,
-      "sha256": "2dd2bd14a98d459260ada4c84a1ee5e3f1039432cc647be2b3aefe27bcc51b08",
-      "textSha256": "2dd2bd14a98d459260ada4c84a1ee5e3f1039432cc647be2b3aefe27bcc51b08",
+      "path": "assets/images/shop/games/cookie/fah-head.xml",
+      "size": 370,
+      "sha256": "1dfa136534d3bb1500f645efb9eb86b1d93099072248094907d6f6a957fc2d59",
+      "textSha256": "45424d3e6af5f7aaf18ba3ccad9eca07a0aa65c3229530ad7e40db6d55f5f0f2",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/gpu/notePerspective.vert",
-      "size": 3585,
-      "sha256": "c5c2dfba27982c20aed77f5fe40cc6596bd44714c126d9482fe033c9d3780d7b",
-      "textSha256": "c5c2dfba27982c20aed77f5fe40cc6596bd44714c126d9482fe033c9d3780d7b",
+      "path": "assets/images/shop/games/cookie/fahbg.png",
+      "size": 296252,
+      "sha256": "0961327682cb7c5ceaaecfff3c492785e040ae52d2ef4264182b9c7085946c5a",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/GUIDE.txt",
-      "size": 3027,
-      "sha256": "11601da13297e9dfa89bfa44e51f55667cfe49020e1541e1bd0fa57515a295de",
-      "textSha256": "11601da13297e9dfa89bfa44e51f55667cfe49020e1541e1bd0fa57515a295de",
+      "path": "assets/images/shop/games/cookie/upgrades.png",
+      "size": 1667530,
+      "sha256": "36da5dd5571b4c4eba8cbcda6f9ad17c5e8c53b7679dcfca2304d8cd2fbed119",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/alpha.vert",
-      "size": 49,
-      "sha256": "6a7aeeb815d0163e450c30220cae4db091ebad76eb02fa4d59406d83dfb097ec",
-      "textSha256": "6a7aeeb815d0163e450c30220cae4db091ebad76eb02fa4d59406d83dfb097ec",
+      "path": "assets/images/shop/games/cookie/upgrades.xml",
+      "size": 3249,
+      "sha256": "021f976384dd09455420e1aefb0433b532408bdb0cce5f3b372a8048018cefb0",
+      "textSha256": "49dd12f0eec989317d582f4861f4634ce15976f81f8a81b8ef7a543caa69c733",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/angleX.vert",
-      "size": 46,
-      "sha256": "fddedff606f25fa20f3762be6c1439d43f6a1b53911892770935f98974467747",
-      "textSha256": "fddedff606f25fa20f3762be6c1439d43f6a1b53911892770935f98974467747",
+      "path": "assets/images/shop/games/dinosaur/bench_0000.png",
+      "size": 37563,
+      "sha256": "dffa0b19e2e073dee8b2fa56ba75f3db39bdb9325989d83912538baad0762a59",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/angleXSplit.vert",
-      "size": 121,
-      "sha256": "3e5de31b677f333b70caa70a0079d7910295c94c3658f70f0606ea5a22f2d7ec",
-      "textSha256": "3e5de31b677f333b70caa70a0079d7910295c94c3658f70f0606ea5a22f2d7ec",
+      "path": "assets/images/shop/games/dinosaur/bench_0001.png",
+      "size": 38316,
+      "sha256": "6bd5709ac85323db385c89c64b33408fa96819d0bab8161f6f798c32cd212766",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/angleY.vert",
-      "size": 46,
-      "sha256": "ad918353e58003795b3e3d8e496bfc89c1f64dbcd82b15331ef7862b6a1230a7",
-      "textSha256": "ad918353e58003795b3e3d8e496bfc89c1f64dbcd82b15331ef7862b6a1230a7",
+      "path": "assets/images/shop/games/dinosaur/cloud.png",
+      "size": 72891,
+      "sha256": "8501112aea014da1fe051ac634c182d2fdbd90055e77c2f18505d52c527cdda6",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/angleYSplit.vert",
-      "size": 121,
-      "sha256": "540c47cf6dd9c6828a6f98ff3e09f5106a1b7a14f666dd5d72cf6f63a60d56d8",
-      "textSha256": "540c47cf6dd9c6828a6f98ff3e09f5106a1b7a14f666dd5d72cf6f63a60d56d8",
+      "path": "assets/images/shop/games/dinosaur/cloud.xml",
+      "size": 361,
+      "sha256": "27bcd46dfcc751fa3bffff7269d82c0afc8fe441c95dfce355dcb359230d1b9d",
+      "textSha256": "b299204ee8e8489a3c1d01160a2d80124d4f320b2267760519706e8af2ca6d41",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/angleZ.vert",
-      "size": 46,
-      "sha256": "7181142bf8769366b454202a566df840c971a6c3f0efd21f6cca184699fc908c",
-      "textSha256": "7181142bf8769366b454202a566df840c971a6c3f0efd21f6cca184699fc908c",
+      "path": "assets/images/shop/games/dinosaur/dinosaur-art.png",
+      "size": 60445,
+      "sha256": "e7b3fc7d75bcae7aed72818abe2fc445df3bbe6c4e8bc1060edf66f3d13c82d4",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/angleZSplit.vert",
-      "size": 121,
-      "sha256": "8d623253727ee7ec2df75752f600a01570613d1bcd7a4e6ee68a81a30154b9c7",
-      "textSha256": "8d623253727ee7ec2df75752f600a01570613d1bcd7a4e6ee68a81a30154b9c7",
+      "path": "assets/images/shop/games/dinosaur/dinosaur.png",
+      "size": 12390,
+      "sha256": "9e23425a899f0a765f207888503148d8db9d1c933f9b3d7b4fdfb3f537b54793",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/beatScaleX.vert",
-      "size": 141,
-      "sha256": "66dfb898ee4eb83862c4f5fd48c92428730d953dfc305e5e212f9f438d77fffe",
-      "textSha256": "66dfb898ee4eb83862c4f5fd48c92428730d953dfc305e5e212f9f438d77fffe",
+      "path": "assets/images/shop/games/dinosaur/dumpster.png",
+      "size": 128195,
+      "sha256": "72d8ee3c8004609bdf7589ce21fc7c292530ab86db53933422dc8dee2049d693",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/beatScaleY.vert",
-      "size": 141,
-      "sha256": "b87eee3a5877d3313b8455a4114f6a61f485d1d81000013b7ee1c96422396e47",
-      "textSha256": "b87eee3a5877d3313b8455a4114f6a61f485d1d81000013b7ee1c96422396e47",
+      "path": "assets/images/shop/games/dinosaur/dumpster.xml",
+      "size": 370,
+      "sha256": "b3654ac005f93db691702ec0b064da3c8bf6b05286debb6ea6f3fd0ee6b0c789",
+      "textSha256": "34b0e952ec6ad9b1ee47a26e548b43deb3a403b5f3f185dc790581bbd8a6efaf",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/beatX.vert",
-      "size": 916,
-      "sha256": "b68e7f8fe3c8a0c9e086ed8acee65904817279adde9a755c1c3e75e40a09bc52",
-      "textSha256": "b68e7f8fe3c8a0c9e086ed8acee65904817279adde9a755c1c3e75e40a09bc52",
+      "path": "assets/images/shop/games/dinosaur/explosion.png",
+      "size": 12845,
+      "sha256": "daf7828940214d4647be6ff2f1bbc63b5542b8c4b98bba2c1d36f16c0ac6e344",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/beatY.vert",
-      "size": 916,
-      "sha256": "5bf0244a6481713f0fa1b614038ef6f22040b1024edcd8eb48d3524fda216742",
-      "textSha256": "5bf0244a6481713f0fa1b614038ef6f22040b1024edcd8eb48d3524fda216742",
+      "path": "assets/images/shop/games/dinosaur/explosion.xml",
+      "size": 2399,
+      "sha256": "b73a4f3c70fe785b9f620836b7adfc423f54808d5088e2dfdcac748adcd9740a",
+      "textSha256": "7bf18baf51f31b5a3bd9a1a569e6ad3c11ed87804b23d2e8e9a838072fd0db6f",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/beatZ.vert",
-      "size": 916,
-      "sha256": "df27140db519de4e48326a69939c8cff2b622ad5b2ae47123d8b79080ef2ec2d",
-      "textSha256": "df27140db519de4e48326a69939c8cff2b622ad5b2ae47123d8b79080ef2ec2d",
+      "path": "assets/images/shop/games/dinosaur/flycat_0000.png",
+      "size": 40810,
+      "sha256": "9cbfdc626a3a39acecee30e0f82194eb0a556d96ea78cf765c936f4107aa6b23",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/boost.vert",
-      "size": 455,
-      "sha256": "d02e8a2e4f6434255ba93f6091f8f2ab57ed87cbac85e4ee9a5f0c7c19b06fff",
-      "textSha256": "d02e8a2e4f6434255ba93f6091f8f2ab57ed87cbac85e4ee9a5f0c7c19b06fff",
+      "path": "assets/images/shop/games/dinosaur/flycat_0001.png",
+      "size": 38800,
+      "sha256": "5848c00647b7580a1c7c721e19ca5a549e8c676886063890469ea71a1d0b7393",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/brake.vert",
-      "size": 411,
-      "sha256": "5b73b8fbd8d34fbf64ba3da467842eb4bdb453c0e448887e958dffe23d815a75",
-      "textSha256": "5b73b8fbd8d34fbf64ba3da467842eb4bdb453c0e448887e958dffe23d815a75",
+      "path": "assets/images/shop/games/dinosaur/gabbg.png",
+      "size": 232749,
+      "sha256": "bd38b56bc0cc19031743db5be2da5db732828e791f4d56eef96ad299c851b44c",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/drunk.ini",
-      "size": 60,
-      "sha256": "06826f9f1cae2e810bca173689694bfdf5b09dcb0a4c78b0f6a7fb2fc9fbb39c",
-      "textSha256": "06826f9f1cae2e810bca173689694bfdf5b09dcb0a4c78b0f6a7fb2fc9fbb39c",
+      "path": "assets/images/shop/games/dinosaur/gabby-bike.png",
+      "size": 301716,
+      "sha256": "743afa8c2b6137e9b1209be73a763f4d5e0fb033fbd99bfb7bab03e1b1846787",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/drunk.vert",
-      "size": 137,
-      "sha256": "8c689ef12f5d3e3df5b680c5f5255129126536d0f790b5da025b83daedfcaacc",
-      "textSha256": "8c689ef12f5d3e3df5b680c5f5255129126536d0f790b5da025b83daedfcaacc",
+      "path": "assets/images/shop/games/dinosaur/gabby-bike.xml",
+      "size": 519,
+      "sha256": "0245412870f0aee9e42399c393cfdc739765539d24af9621321915298cd4c810",
+      "textSha256": "1b95c94ac84efa53b9ee5ec059ec2da0d58a1f89145ed8a2d8098bf1c43d9e71",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/drunknotime.vert",
-      "size": 70,
-      "sha256": "78d07007fcb9a13861dfb68e7987a9cd401af0daa2dd8095c98c657256d63f66",
-      "textSha256": "78d07007fcb9a13861dfb68e7987a9cd401af0daa2dd8095c98c657256d63f66",
+      "path": "assets/images/shop/games/dinosaur/grass.png",
+      "size": 36866,
+      "sha256": "183acb63cbf34e20be20cfb6fb2a43d2c51bf071952d6cbcdb359aecd7f29a06",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/flip.vert",
-      "size": 150,
-      "sha256": "36214b51575d43fa221a7427438a010046f6634e976ea2d26b2dd31d8a01d9a8",
-      "textSha256": "36214b51575d43fa221a7427438a010046f6634e976ea2d26b2dd31d8a01d9a8",
+      "path": "assets/images/shop/games/dinosaur/grass.xml",
+      "size": 361,
+      "sha256": "2a1877a37fc9d4026b887548e920ccdf81c8368653691fb683a526b8db144999",
+      "textSha256": "935de8ec9e6d854c960b38f3e753c4a5b0f4b7f8bd8fe692333b5419261ae30e",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/fusionreactor/iaXOld.vert",
-      "size": 54,
-      "sha256": "79f14478161ead7438eadbc9143d3f5d32e1af7dddd193531efd2aaf802e830c",
-      "textSha256": "79f14478161ead7438eadbc9143d3f5d32e1af7dddd193531efd2aaf802e830c",
+      "path": "assets/images/shop/games/dinosaur/lamp.png",
+      "size": 77910,
+      "sha256": "e8fc9673712814caac9be16394e2a22be9203b676f004354dff32b58618675c6",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/fusionreactor/iaYOld.vert",
-      "size": 54,
-      "sha256": "bf18f57c89d78ad69249d3a86d198f3a0a91358e1a758a14744f1f3f9670ee95",
-      "textSha256": "bf18f57c89d78ad69249d3a86d198f3a0a91358e1a758a14744f1f3f9670ee95",
+      "path": "assets/images/shop/games/dinosaur/lamp.xml",
+      "size": 357,
+      "sha256": "da131c18bd3ea254457d2dc7db5d44c7684efca99a39451f7a0184c4229721d3",
+      "textSha256": "bf5f68a888fecf5fd38969195be0cb3b0ba25e679f426a9a28088d80a38a3f84",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/fusionreactor/IncomingAngleCurve.vert",
-      "size": 73,
-      "sha256": "e6651cdd2c823a222f126f4a41252751b2c3732c118e9718d9a59b631c78b978",
-      "textSha256": "e6651cdd2c823a222f126f4a41252751b2c3732c118e9718d9a59b631c78b978",
+      "path": "assets/images/shop/games/dinosaur/sun-lines.png",
+      "size": 189032,
+      "sha256": "f4164cc9e37f9b657e784f87bf4e9d7765a42354fda7c813edb99d149cb57a98",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/fusionreactor/IncomingAngleSmooth.vert",
-      "size": 73,
-      "sha256": "5968d24944b2c774bf0b7a386e616f37c5bb99a269772a5297e6e13c1b304cad",
-      "textSha256": "5968d24944b2c774bf0b7a386e616f37c5bb99a269772a5297e6e13c1b304cad",
+      "path": "assets/images/shop/games/dinosaur/sun-lines.xml",
+      "size": 383,
+      "sha256": "dc2380ffb597aa3cf6b8b7abd3bf8cb0039554b386d30baea4172ebf5272877d",
+      "textSha256": "e5cdc299c103d7d9fbea6d60c7176a6a55b5a7cfd937571b8541dcaaa9831282",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/fusionreactor/InvertIncomingAngle.vert",
-      "size": 198,
-      "sha256": "2fb69f8b0222d1fe5d543a6a92eec53449713f76890cc3b92276affe16a25fd4",
-      "textSha256": "2fb69f8b0222d1fe5d543a6a92eec53449713f76890cc3b92276affe16a25fd4",
+      "path": "assets/images/shop/games/dinosaur/sun.png",
+      "size": 103213,
+      "sha256": "7b7b4e6f3cdb528895d651e156bf715fb9af08e94d1010c1f459e01a770f5a03",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/fusionreactor/MoveYWaveShit.vert",
-      "size": 101,
-      "sha256": "c1e78365a4cffdd76c5d8aa22f43fb23be2ca1157c114d85c9d232bc5a98ebb4",
-      "textSha256": "c1e78365a4cffdd76c5d8aa22f43fb23be2ca1157c114d85c9d232bc5a98ebb4",
+      "path": "assets/images/shop/games/dinosaur/sun.xml",
+      "size": 369,
+      "sha256": "5eb82c61e95d66c898024254e6a0313dd86086c64239e9d611e14d71d60d5b85",
+      "textSha256": "e7e466b240aab536722285d54578a2b26d2f4178cdf7739df05462043dae8990",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/fusionreactor/zold.vert",
-      "size": 48,
-      "sha256": "01872d177d19b169907ba5c64cc4be6c82fcbb94d66c66d02b8bc385700cc274",
-      "textSha256": "01872d177d19b169907ba5c64cc4be6c82fcbb94d66c66d02b8bc385700cc274",
+      "path": "assets/images/shop/games/flappy/flappy-art.png",
+      "size": 63039,
+      "sha256": "f955990d51abba13b92c2371de8ed65fe6d227b5512b652eea92fde3bc4f02b5",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/incomingAngleX.vert",
-      "size": 54,
-      "sha256": "faa3c1ac96a0e59b8588cb51169f558f6748878d3ac3efa313184adcc2b59596",
-      "textSha256": "faa3c1ac96a0e59b8588cb51169f558f6748878d3ac3efa313184adcc2b59596",
+      "path": "assets/images/shop/games/flappy/flappy.png",
+      "size": 14176,
+      "sha256": "bcc5136f767dbdd68912ed2b7bf1f08888a33a16444076b881222c266277a055",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/incomingAngleY.vert",
-      "size": 54,
-      "sha256": "ebe713c85473c629f4c8a51eaebcc4300e3e00e63d29118f74ee435308a8cc6b",
-      "textSha256": "ebe713c85473c629f4c8a51eaebcc4300e3e00e63d29118f74ee435308a8cc6b",
+      "path": "assets/images/shop/games/flappy/pipe.png",
+      "size": 65299,
+      "sha256": "5f0c2f3aecac02095a715b3bbdd25d6fb2b53cac82f67dc476ee6a3ea6356c73",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/incomingAngleZ.vert",
-      "size": 54,
-      "sha256": "bf18f57c89d78ad69249d3a86d198f3a0a91358e1a758a14744f1f3f9670ee95",
-      "textSha256": "bf18f57c89d78ad69249d3a86d198f3a0a91358e1a758a14744f1f3f9670ee95",
+      "path": "assets/images/shop/games/flappy/pipe.xml",
+      "size": 357,
+      "sha256": "a6d5e0fe7c87b08f3702e2f3fe9910bf73c3574172f66a2488f61949b9e957ba",
+      "textSha256": "a33fbdc6698f4d7862f2960c2ce2135a54007a0e0db21325da1ea0611928eaac",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/invert.vert",
-      "size": 154,
-      "sha256": "078fdd3a78c3fbca2dab5c77d32adee9c214a72c93c00f8d92d6793daa521b5b",
-      "textSha256": "078fdd3a78c3fbca2dab5c77d32adee9c214a72c93c00f8d92d6793daa521b5b",
+      "path": "assets/images/shop/games/flappy/ravbg.png",
+      "size": 203601,
+      "sha256": "bc9754bf1975d66a9b6e41af46cbd5e3fab9916263924be5e69adc5c12f160b9",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/M/9kagleXsplit.vert",
-      "size": 140,
-      "sha256": "6acf688d09489a1d994eccc38ef9aa35df5baff2a6497dcd1fd0586ebfce9507",
-      "textSha256": "6acf688d09489a1d994eccc38ef9aa35df5baff2a6497dcd1fd0586ebfce9507",
+      "path": "assets/images/shop/games/flappy/raven.png",
+      "size": 332520,
+      "sha256": "c965d80c10fed2c7604fa939099ffa0818569f08127d15de289cb27559e0f9d0",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/M/9kagleYsplit.vert",
-      "size": 140,
-      "sha256": "f972300dc55cee3a0f78fec62c703200d50f638dc38ea7eb37365331264804aa",
-      "textSha256": "f972300dc55cee3a0f78fec62c703200d50f638dc38ea7eb37365331264804aa",
+      "path": "assets/images/shop/games/flappy/raven.xml",
+      "size": 785,
+      "sha256": "6f036ab3112fafb403a2d33cd21b7ec4a5c3119ee1cec017d17bd39032665026",
+      "textSha256": "71906567fd0893809bc9a404c740dc08f2ab7b8e513d55a9a0f288fc895501fc",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/M/9kagleZsplit.vert",
-      "size": 140,
-      "sha256": "77e95db2cec1c203cc7fa84483eeacb9ec0266ca033bb2ea4f8f3fff4cb50727",
-      "textSha256": "77e95db2cec1c203cc7fa84483eeacb9ec0266ca033bb2ea4f8f3fff4cb50727",
+      "path": "assets/images/shop/games/shared/arrow.png",
+      "size": 4985,
+      "sha256": "89ed44fae01b81e47030034b496c0be09cecf5eaed618b4b560fdd7843c8f979",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/M/9kX.vert",
-      "size": 130,
-      "sha256": "26a6b8a50896b0e412de6815063597608e28dea7de4b9c6d231574a81aaa1d7d",
-      "textSha256": "26a6b8a50896b0e412de6815063597608e28dea7de4b9c6d231574a81aaa1d7d",
+      "path": "assets/images/shop/games/shared/bumper.png",
+      "size": 24118,
+      "sha256": "276815b79de7f980af4c32f74ec6fba3d3dcc2f408df97b6f90fb14f9391fbc0",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/M/9kY.vert",
-      "size": 130,
-      "sha256": "751f83928ca0c158c02031cb3a3a6c1cbeb72ec9f00514cde63f76e3c2d19022",
-      "textSha256": "751f83928ca0c158c02031cb3a3a6c1cbeb72ec9f00514cde63f76e3c2d19022",
+      "path": "assets/images/shop/games/shared/cartridge.png",
+      "size": 27850,
+      "sha256": "3944ef7745cd50b2b006456e0c763a7f0c13cd11e92d8cf2b9c7a0eb4ddd7952",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/M/9kZ.vert",
-      "size": 130,
-      "sha256": "75202ec93c30813b5387f239dfefb9c7e8087a5eda0de0af76e4fa13f17f834b",
-      "textSha256": "75202ec93c30813b5387f239dfefb9c7e8087a5eda0de0af76e4fa13f17f834b",
+      "path": "assets/images/shop/games/shared/console.png",
+      "size": 8404,
+      "sha256": "5efffe9a5fba1f8a675062bcd327cf5a1b750444683a31b3a63cd0cccf654e08",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/noteScale.vert",
-      "size": 85,
-      "sha256": "8199cd7e73b416f7ae7c4f334d20986c070fc4401e67e11c0e6460831cd71b96",
-      "textSha256": "8199cd7e73b416f7ae7c4f334d20986c070fc4401e67e11c0e6460831cd71b96",
+      "path": "assets/images/shop/games/shared/screen.png",
+      "size": 51144,
+      "sha256": "483bea3e69df37b43d58ed49c21a3cf44f20274a6fb1100e234065d82e42ee80",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/reverse.ini",
-      "size": 9,
-      "sha256": "149d5d8c742ee4d4a64eb4f74970141ffa950674824363446388888f97886f5a",
-      "textSha256": "149d5d8c742ee4d4a64eb4f74970141ffa950674824363446388888f97886f5a",
+      "path": "assets/images/shop/games/snake/pheebg.png",
+      "size": 204076,
+      "sha256": "d29828246cc1246290f9e3941f6915f79ba57a329a62de4cf3d1a794463cbc89",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/reverse.vert",
-      "size": 84,
-      "sha256": "c8a5ce9dc13099dc0672bd89bd552fc5d1c13110af29c1f75376f6cae3deb467",
-      "textSha256": "c8a5ce9dc13099dc0672bd89bd552fc5d1c13110af29c1f75376f6cae3deb467",
+      "path": "assets/images/shop/games/snake/phoenix.png",
+      "size": 250035,
+      "sha256": "0f4f162ae5bad8683a2f08f78e8b34a8bf4b98435a4bb318efdf4ba9c2e561e3",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/scaleX.vert",
-      "size": 46,
-      "sha256": "a6e886065e87d6be607eeefb5885081d601c2b73b71a9808c93adc538df1c29b",
-      "textSha256": "a6e886065e87d6be607eeefb5885081d601c2b73b71a9808c93adc538df1c29b",
+      "path": "assets/images/shop/games/snake/phoenix.xml",
+      "size": 923,
+      "sha256": "dc7c1bc25bfc24ea11a359ccec29aaceb15f96778ddc14fc4b4d6ccdf3990bfb",
+      "textSha256": "eeecb6a7ac32543e67c97ebb8ecd69c14ae3e30304ae128099b7db0ff50f9308",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/scaleY.vert",
-      "size": 46,
-      "sha256": "7226d28585586cbd17c1ad356dbae0559368e61325679c51a82fa942213fd67e",
-      "textSha256": "7226d28585586cbd17c1ad356dbae0559368e61325679c51a82fa942213fd67e",
+      "path": "assets/images/shop/games/snake/shrimp.png",
+      "size": 58284,
+      "sha256": "5858c7025d476d21436a9949b467ab3873b34011f59962d85111031b90726a69",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/speed.vert",
-      "size": 46,
-      "sha256": "48ba30e1f233739dd940079541e4fa7ce64f0142a5c68e7ac9aa27d5da4e6913",
-      "textSha256": "48ba30e1f233739dd940079541e4fa7ce64f0142a5c68e7ac9aa27d5da4e6913",
+      "path": "assets/images/shop/games/snake/shrimp.xml",
+      "size": 364,
+      "sha256": "a95e92eae679af76f32c310dc8ae8f76adb10e6907440fea400a3572b281da78",
+      "textSha256": "784abeedc716f3bae359c9ed7a6693db6db196b2a91d238e1c4a22bd6626bc3f",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/strumLineRotate.ini",
-      "size": 18,
-      "sha256": "e874a040491f93b73747d8f172cdac58c80677bc1218b43a92208c5670a94377",
-      "textSha256": "e874a040491f93b73747d8f172cdac58c80677bc1218b43a92208c5670a94377",
+      "path": "assets/images/shop/games/snake/snake-art.png",
+      "size": 57290,
+      "sha256": "e419ce86fbc8d10a4951616edde95e9e7d9f452bbb4008362dd69be696852d89",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/strumLineRotate.vert",
-      "size": 702,
-      "sha256": "da570a8ea3311f0e5cd9c33566b6b8ef107d9dbc1f7a4a5fc4d7e0081442a273",
-      "textSha256": "da570a8ea3311f0e5cd9c33566b6b8ef107d9dbc1f7a4a5fc4d7e0081442a273",
+      "path": "assets/images/shop/games/snake/snake.png",
+      "size": 13742,
+      "sha256": "93e1084e7b889f1fbc7c5af0040d0f4931d0a43b12bf0401088a4df6086f1d0c",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/tipsy.ini",
-      "size": 52,
-      "sha256": "3648338963b8ae2ec18c6932c85b060c32b1e73147c1377b708775fe4671be70",
-      "textSha256": "3648338963b8ae2ec18c6932c85b060c32b1e73147c1377b708775fe4671be70",
+      "path": "assets/images/shop/modifiers/devotion.png",
+      "size": 12457,
+      "sha256": "6b88f00a121889e429b69c775f2e4a0dab313d7588ccccf4b0a3f54d2f7d133f",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/tipsy.vert",
-      "size": 124,
-      "sha256": "657bf3df85bcdaea302404e85316ad67276f9d10d39879a3c27cb24da079293f",
-      "textSha256": "657bf3df85bcdaea302404e85316ad67276f9d10d39879a3c27cb24da079293f",
+      "path": "assets/images/shop/modifiers/reverse.png",
+      "size": 15780,
+      "sha256": "099c817051d8e70290c7a70c89f4d6d2016ac6c2c2eeca86b10b1e75360f7791",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/x.vert",
-      "size": 41,
-      "sha256": "6f751109c2d6bd643411fad3ac5b00ce745fc8f5b76582b0374b971737e748c8",
-      "textSha256": "6f751109c2d6bd643411fad3ac5b00ce745fc8f5b76582b0374b971737e748c8",
+      "path": "assets/images/shop/modifiers/sidescroll.png",
+      "size": 17397,
+      "sha256": "b4e7f517e8ff988afbc1d204faf97c848ae94df45cc7cd2efc7ccead9bf6c2fe",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/xSplit.vert",
-      "size": 111,
-      "sha256": "5f119fb7b3fa5f38e06c201dd88cbcaad1889039d70d242da157f85f23f3a50c",
-      "textSha256": "5f119fb7b3fa5f38e06c201dd88cbcaad1889039d70d242da157f85f23f3a50c",
+      "path": "assets/images/shop/modifiers/strum-randomizer.png",
+      "size": 15718,
+      "sha256": "dfcce371dc6fa7196f3a13c1804f125392eb2e2d226ef30f3ca676d3ea18dfd7",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/y.vert",
-      "size": 41,
-      "sha256": "bb26df51f7ddb82338da7ac903a6fbd1dda2c16c718e1161d36a7229bfc1fdde",
-      "textSha256": "bb26df51f7ddb82338da7ac903a6fbd1dda2c16c718e1161d36a7229bfc1fdde",
+      "path": "assets/images/shop/powerups/capitalist.png",
+      "size": 13830,
+      "sha256": "afb24143ed75658010ca2b65fb826071147098b5e840cd748aa456925e78b9fa",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/ySplit.vert",
-      "size": 111,
-      "sha256": "5f39816e65304ca40deb7f3c3e98fcb25d585c6ecafbd5b7a8bbd36a9b131042",
-      "textSha256": "5f39816e65304ca40deb7f3c3e98fcb25d585c6ecafbd5b7a8bbd36a9b131042",
+      "path": "assets/images/shop/powerups/coincapital.png",
+      "size": 12578,
+      "sha256": "ef787cc7db92f1b7672bf2e9f3dba29b85c398b282f07f8981ac7fdc0b760f72",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/z.vert",
-      "size": 41,
-      "sha256": "e09b37b7d703fe781af01922bc1535e92f063c99215cb7f3786d0675861f1e07",
-      "textSha256": "e09b37b7d703fe781af01922bc1535e92f063c99215cb7f3786d0675861f1e07",
+      "path": "assets/images/shop/powerups/lifecoin.png",
+      "size": 12944,
+      "sha256": "d470813ff7c3e257c97f548de8a8b597643d6f99c6c3e29d336f54da682e750c",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/ZintercaledImpar.vert",
-      "size": 98,
-      "sha256": "14dc9ec1d67961e901f221d00290a497db78aba8325754a2b1c969b95c0937eb",
-      "textSha256": "14dc9ec1d67961e901f221d00290a497db78aba8325754a2b1c969b95c0937eb",
+      "path": "assets/images/shop/powerups/overshield.png",
+      "size": 14669,
+      "sha256": "92339487e5aed6edb7119fc922d3252721af9089f02baed8b58167c4a7bc3f8a",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/modifiers/ZintercaledPar.vert",
-      "size": 98,
-      "sha256": "8681aa6d9a843e0298db7d4cf313b0de55956432dfac45f128e79d30abc4330b",
-      "textSha256": "8681aa6d9a843e0298db7d4cf313b0de55956432dfac45f128e79d30abc4330b",
+      "path": "assets/images/shop/powerups/second-life.png",
+      "size": 11278,
+      "sha256": "a1a1eb5c6fa854cc1c906671b59336201bbab58cd53da3ea12a8284e25758fb6",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BarrelBlurEffect.frag",
-      "size": 3079,
-      "sha256": "a8ba6378c9276f91bd5c20052bac20fcf0c0d33ecdb10f3bca71611407888982",
-      "textSha256": "a8ba6378c9276f91bd5c20052bac20fcf0c0d33ecdb10f3bca71611407888982",
+      "path": "assets/images/shop/powerups/shieldcoin.png",
+      "size": 13402,
+      "sha256": "6c1e4b10a03d18a068828f9cd299236905eeb537ab03761efdc47120a76131c2",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BarrelBlurEffect.ini",
-      "size": 54,
-      "sha256": "d762dbff47a0e1c41ead1497471874007170a1a0f315209114a172797d66a0c2",
-      "textSha256": "d762dbff47a0e1c41ead1497471874007170a1a0f315209114a172797d66a0c2",
+      "path": "assets/images/shop/quests/ach.png",
+      "size": 11560,
+      "sha256": "f3337bc06b5d73ff4ae493a2cf70e674ebbe802318b6ec1b976100fa0edf6300",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BarrelBlurEffect.txt",
-      "size": 44,
-      "sha256": "4fa9c337f25e030f77c3cafd9d9ec2417ca8c13ee1644f999745ed36843e3d36",
-      "textSha256": "4fa9c337f25e030f77c3cafd9d9ec2417ca8c13ee1644f999745ed36843e3d36",
+      "path": "assets/images/shop/quests/boards.png",
+      "size": 201377,
+      "sha256": "0ef25ad0c7604fb1a8ce31cb064a89e3b189a3b854b66dfa5a9ebda63fd6a6d3",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/barscolor.frag",
-      "size": 968,
-      "sha256": "7c726aa1f0f6e75aeebbbb82c276a2e3e4c8c8073f4a601a7ae476bb91c5e4f2",
-      "textSha256": "7c726aa1f0f6e75aeebbbb82c276a2e3e4c8c8073f4a601a7ae476bb91c5e4f2",
+      "path": "assets/images/shop/quests/choose.png",
+      "size": 35330,
+      "sha256": "f09f7b36fd2df20336be19aa93104e8113cd36ac76076fbf50bb1251cbc7223c",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/barscolor.ini",
-      "size": 45,
-      "sha256": "7ec421a0ba25d9c90d5e37f8ea0bd44d79ee4c0805e1a6ec697aadaae213a9b3",
-      "textSha256": "7ec421a0ba25d9c90d5e37f8ea0bd44d79ee4c0805e1a6ec697aadaae213a9b3",
+      "path": "assets/images/shop/quests/gam.png",
+      "size": 11056,
+      "sha256": "e69f8d50a770111e9eb3745d4568c24676a3eb793039aa7833660eccc46a26ee",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BarsEffect.frag",
-      "size": 304,
-      "sha256": "9badb17aa7bbdb1ce6167613080670046f81606119b2d5b58696ee908a9b25d1",
-      "textSha256": "9badb17aa7bbdb1ce6167613080670046f81606119b2d5b58696ee908a9b25d1",
+      "path": "assets/images/shop/quests/line.png",
+      "size": 16755,
+      "sha256": "8143ecc5033a3f25ef4154abcb27375321aae3370ef65c06a9adecb917ca42da",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BarsEffect.ini",
-      "size": 10,
-      "sha256": "202cd7545dc6468b9f0129be70672fa3ad9b69609814971dfc18ece84b1ae16d",
-      "textSha256": "202cd7545dc6468b9f0129be70672fa3ad9b69609814971dfc18ece84b1ae16d",
+      "path": "assets/images/shop/quests/linecol.png",
+      "size": 15152,
+      "sha256": "d0e7334af32b675b0623a9cf8ba138662715983b289758c372d32972de7452c5",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BGFade.frag",
-      "size": 247,
-      "sha256": "11320efd61c02465b8e750fc5f490363a3eaa3314baa84730d56a0a3f2af64e6",
-      "textSha256": "11320efd61c02465b8e750fc5f490363a3eaa3314baa84730d56a0a3f2af64e6",
+      "path": "assets/images/shop/quests/linsign.png",
+      "size": 14388,
+      "sha256": "6365a5ba6962d4039070e9c52f66268ce8a040d326805c8edd6e4d0d0044e606",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BGFade.ini",
-      "size": 8,
-      "sha256": "add03a2fe87c85ffe01407c0e0ee6564fdcf767e44a1806be05ce22818fb0dac",
-      "textSha256": "add03a2fe87c85ffe01407c0e0ee6564fdcf767e44a1806be05ce22818fb0dac",
+      "path": "assets/images/shop/quests/not.png",
+      "size": 8834,
+      "sha256": "804c6693de4e9fe05ba754049e937e33711b4dd2122e6bfa228b9f1a7aca3303",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BloomEffect.frag",
-      "size": 1249,
-      "sha256": "721ca5b50477e9d0a3a29b4d30226c604c8d9f70988370db73a58d5887f70d6c",
-      "textSha256": "721ca5b50477e9d0a3a29b4d30226c604c8d9f70988370db73a58d5887f70d6c",
+      "path": "assets/images/shop/quests/page1.png",
+      "size": 61815,
+      "sha256": "68a4092644f8708307d6c028a386756fc35f8e4db90f6c35d942d691de2cd168",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BloomEffect.ini",
-      "size": 51,
-      "sha256": "b0c744d76abab281b7e41b6d8214c5879807d8d80aa1affb63ff65ff91f23a87",
-      "textSha256": "b0c744d76abab281b7e41b6d8214c5879807d8d80aa1affb63ff65ff91f23a87",
+      "path": "assets/images/shop/quests/page2.png",
+      "size": 62931,
+      "sha256": "5ddb58022fbfd850a2a54b05c89670d4eadace0c9760faacff98bc52a01f118d",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BloomEffect.txt",
-      "size": 43,
-      "sha256": "841cab1bf49d90ea6316d364e004ecb335eb00108f94a0942345f87da24bbfed",
-      "textSha256": "841cab1bf49d90ea6316d364e004ecb335eb00108f94a0942345f87da24bbfed",
+      "path": "assets/images/shop/quests/signtop.png",
+      "size": 49811,
+      "sha256": "a91c6d309daf7d2d3c52ff18fca87bc142191847021b59ddf08859bbb958458f",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BloomVerticalEffect.frag",
-      "size": 912,
-      "sha256": "6761a366dd6b29adc690abf1f49bee6e1242261c6e4c0605a5d9b805e98b672c",
-      "textSha256": "6761a366dd6b29adc690abf1f49bee6e1242261c6e4c0605a5d9b805e98b672c",
+      "path": "assets/images/shop/scroll-knob.png",
+      "size": 4529,
+      "sha256": "a461fe5e1a6a0901ac47e4084c5961aea75a92ad1fc626995684a5a4f3159d4b",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BloomVerticalEffect.ini",
-      "size": 23,
-      "sha256": "eaffc56499b3ae5cd144af20a04e297e58888765d432d56ce5034ce24cb57a96",
-      "textSha256": "eaffc56499b3ae5cd144af20a04e297e58888765d432d56ce5034ce24cb57a96",
+      "path": "assets/sounds/shop/games/cookie/cash-register.ogg",
+      "size": 9634,
+      "sha256": "92b19907deb91869fddb826e5ebaa0bd14bd972d948e20e848c1fcefe33435b0",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BloomVerticalEffect.txt",
-      "size": 19,
-      "sha256": "d7f52cadb5610da19665c0e26f9d35013f1d36b63b0fdfc53bb21c8442e7e18d",
-      "textSha256": "d7f52cadb5610da19665c0e26f9d35013f1d36b63b0fdfc53bb21c8442e7e18d",
+      "path": "assets/sounds/shop/games/cookie/fahcky-clicker.ogg",
+      "size": 744436,
+      "sha256": "0823196f52bd967e74f198bc13f2dcb649403f14704a94176167650ff9f1b95a",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/blur.frag",
-      "size": 1310,
-      "sha256": "a9481e965a74e6c12cba9cff14bd671245a10697b9dda06dccac224dab634b1a",
-      "textSha256": "a9481e965a74e6c12cba9cff14bd671245a10697b9dda06dccac224dab634b1a",
+      "path": "assets/sounds/shop/games/cookie/purchase-error.ogg",
+      "size": 9043,
+      "sha256": "473f6dfce35eb27b9eb67779e5900199d47d8a186957f36e3080beb3b15f5bbc",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/blur.ini",
-      "size": 30,
-      "sha256": "c006c1a2c27d9f365745cb38e604cfba818646ffdb1434bb13082cf74ce75a21",
-      "textSha256": "c006c1a2c27d9f365745cb38e604cfba818646ffdb1434bb13082cf74ce75a21",
+      "path": "assets/sounds/shop/games/cookie/squish.ogg",
+      "size": 8716,
+      "sha256": "0db6e12c35531fb746d59760306796035d8c7c00da17595df446e28ea1cc7a67",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BlurEffect.frag",
-      "size": 721,
-      "sha256": "36e11538a0a2a9c3d5b21bcbca44d32c278259855e7838252b20ed7286595b83",
-      "textSha256": "36e11538a0a2a9c3d5b21bcbca44d32c278259855e7838252b20ed7286595b83",
+      "path": "assets/sounds/shop/games/dinosaur/dino-runner-gabby.ogg",
+      "size": 777193,
+      "sha256": "1fca7d247fc355bf56ed5e95f7089b3e35ed0e03397a3cc742a2e7a2781fa064",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BlurEffect.ini",
-      "size": 26,
-      "sha256": "5b95ae4c3d51f856a32a50f5ffd62f4e335c8794ac6a7cc9540b8af7ac5654fb",
-      "textSha256": "5b95ae4c3d51f856a32a50f5ffd62f4e335c8794ac6a7cc9540b8af7ac5654fb",
+      "path": "assets/sounds/shop/games/dinosaur/gabby-explosion.ogg",
+      "size": 15912,
+      "sha256": "9aab036a6d7a81c30b729e083dda61a1ee5b524b84787b97bd3cb15623093459",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BreakGlassMania.frag",
-      "size": 1935,
-      "sha256": "941911a51d12402a25fadf76d85061eb4a9dc9b72508cad67e0d3aac4f25a130",
-      "textSha256": "941911a51d12402a25fadf76d85061eb4a9dc9b72508cad67e0d3aac4f25a130",
+      "path": "assets/sounds/shop/games/dinosaur/gabby-jump.ogg",
+      "size": 6552,
+      "sha256": "24fc2e5fa166e62c85f1d698fcc22b761a4daae09f43242c08630be9ee47abaa",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/BreakGlassMania.ini",
-      "size": 29,
-      "sha256": "2ac4e9a1beb15b98f6ee34ee24f093edd92c1c2eb6cad49a5b6ed3686d4bfdc0",
-      "textSha256": "2ac4e9a1beb15b98f6ee34ee24f093edd92c1c2eb6cad49a5b6ed3686d4bfdc0",
+      "path": "assets/sounds/shop/games/dinosaur/gabby-squish.ogg",
+      "size": 5644,
+      "sha256": "068723fc53e8d0734df3112e41b1111a037a741e6b2da2618e01f7de3a731b0f",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/ChessMania.frag",
-      "size": 2096,
-      "sha256": "029764065489b207408226f2d37c8191769f85ec9c1d316eaf0076aef027d45f",
-      "textSha256": "029764065489b207408226f2d37c8191769f85ec9c1d316eaf0076aef027d45f",
+      "path": "assets/sounds/shop/games/flappy/flappy-bird-raven.ogg",
+      "size": 658086,
+      "sha256": "61a6821cbacbbf92ecfdfb94ff28375fb13228e355d0e52e3570e68c1d978b22",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/ChessMania.ini",
-      "size": 158,
-      "sha256": "a8577f14c84c199cb096f7069f86df205586ba792354f1d661c912dc11b8b1b4",
-      "textSha256": "a8577f14c84c199cb096f7069f86df205586ba792354f1d661c912dc11b8b1b4",
+      "path": "assets/sounds/shop/games/flappy/raven-flap.ogg",
+      "size": 7168,
+      "sha256": "8777465403fdb37316564abe62fb9e2508ab5f423b02bc6e14a35b8e5a387d8c",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/ChromAbBlueSwapEffect.frag",
-      "size": 319,
-      "sha256": "463de76935a675d4cad20fa6f6ac66472902516ba821d8379b6a3269c8efbd52",
-      "textSha256": "463de76935a675d4cad20fa6f6ac66472902516ba821d8379b6a3269c8efbd52",
+      "path": "assets/sounds/shop/games/snake/shrimp-bite.ogg",
+      "size": 8192,
+      "sha256": "7997e303cf9aeb44d50ab3fa3f71c13dc776732d3e727c66375bc22faa323724",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/ChromAbBlueSwapEffect.ini",
-      "size": 12,
-      "sha256": "687d9da958553b826132cbf947c5acff88139b1bb54b60e57886d86fbfec646b",
-      "textSha256": "687d9da958553b826132cbf947c5acff88139b1bb54b60e57886d86fbfec646b",
+      "path": "assets/sounds/shop/games/snake/snake.ogg",
+      "size": 919408,
+      "sha256": "2925caf1bec335f4fb00c0eb9951552d5f5e828d4290e266e9f705d4382dc750",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/ChromAbBlueSwapEffect.txt",
-      "size": 10,
-      "sha256": "7804fb243bd87bdfe5a364c015f1c99f5ca4170a273b80aa225da48ed65beead",
-      "textSha256": "7804fb243bd87bdfe5a364c015f1c99f5ca4170a273b80aa225da48ed65beead",
+      "path": "assets/sounds/shop/purchase.ogg",
+      "size": 18689,
+      "sha256": "337f32dfea159cc5be548674a8656f20ec9414401eeb2984ebe3192a66626e80",
       "change": "added"
     },
     {
-      "path": "assets/modchart-editor/shaders/ChromAbEffect.frag",
-      "size": 319,
-      "sha256": "003c41465216d2ca437ce5e45dc1f234fb27f7ecdabd94811be677dfec98d0cd",
-      "textSha256": "003c41465216d2ca437ce5e45dc1f234fb27f7ecdabd94811be677dfec98d0cd",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/ChromAbEffect.ini",
-      "size": 12,
-      "sha256": "687d9da958553b826132cbf947c5acff88139b1bb54b60e57886d86fbfec646b",
-      "textSha256": "687d9da958553b826132cbf947c5acff88139b1bb54b60e57886d86fbfec646b",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/ColorFillEffect.frag",
-      "size": 391,
-      "sha256": "cffb7570357b5fff417d730c1af5757502ab7ab205fbf6ef6b827c185d5e9a91",
-      "textSha256": "cffb7570357b5fff417d730c1af5757502ab7ab205fbf6ef6b827c185d5e9a91",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/ColorFillEffect.ini",
-      "size": 35,
-      "sha256": "e4d54355ec9cd3eba4d89072ca5e61a6a57ef0b8c745655f36f33225b63b4461",
-      "textSha256": "e4d54355ec9cd3eba4d89072ca5e61a6a57ef0b8c745655f36f33225b63b4461",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/ColorFillEffect.txt",
-      "size": 27,
-      "sha256": "ee5151f7315f4553b5c44ffc980c395d8cdd9673cb990fa5bbe5e053525c5422",
-      "textSha256": "ee5151f7315f4553b5c44ffc980c395d8cdd9673cb990fa5bbe5e053525c5422",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/ColorOverrideEffect.frag",
-      "size": 263,
-      "sha256": "09435ac89e15c225b6852b162b399685f801b12671ed42445516a8394b3b7bbd",
-      "textSha256": "09435ac89e15c225b6852b162b399685f801b12671ed42445516a8394b3b7bbd",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/ColorOverrideEffect.ini",
-      "size": 26,
-      "sha256": "8921188516f7ab8ec9b46d23f8fb45cd342c4e148629034345fb09660ea2d6ef",
-      "textSha256": "8921188516f7ab8ec9b46d23f8fb45cd342c4e148629034345fb09660ea2d6ef",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/ColorOverrideEffect.txt",
-      "size": 20,
-      "sha256": "4d8fc1fcb40ba22fc30c3dcc23a08ef31b9c0111719ecc382f60a6d52d313b49",
-      "textSha256": "4d8fc1fcb40ba22fc30c3dcc23a08ef31b9c0111719ecc382f60a6d52d313b49",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/colorswap.frag",
-      "size": 1673,
-      "sha256": "747d5b4b862cbd91e1dae026033edd7853eb7c9c94d2b1ab459f9760a716cc32",
-      "textSha256": "747d5b4b862cbd91e1dae026033edd7853eb7c9c94d2b1ab459f9760a716cc32",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/colorswap.ini",
-      "size": 24,
-      "sha256": "1df66d714c815554c1ca2661e82820f2167da3b421a60f8d2bd35b5b27d8b3ba",
-      "textSha256": "1df66d714c815554c1ca2661e82820f2167da3b421a60f8d2bd35b5b27d8b3ba",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/ColorSwapEffect.frag",
-      "size": 1673,
-      "sha256": "747d5b4b862cbd91e1dae026033edd7853eb7c9c94d2b1ab459f9760a716cc32",
-      "textSha256": "747d5b4b862cbd91e1dae026033edd7853eb7c9c94d2b1ab459f9760a716cc32",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/ColorSwapEffect.ini",
-      "size": 30,
-      "sha256": "2d504e718c745ca099d58d8ae183cee23b7009d83f3f69b6789e09954ae37aca",
-      "textSha256": "2d504e718c745ca099d58d8ae183cee23b7009d83f3f69b6789e09954ae37aca",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/GlitchEffect.frag",
-      "size": 2414,
-      "sha256": "892e004519d40b8a733772cdeeb8fdec590387aefbe67289dcfd4a9d132dfd90",
-      "textSha256": "892e004519d40b8a733772cdeeb8fdec590387aefbe67289dcfd4a9d132dfd90",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/GlitchEffect.ini",
-      "size": 24,
-      "sha256": "38894bfa728d04d550aee892ece4f70ae7370db75cb7e49280396e98ebf9600e",
-      "textSha256": "38894bfa728d04d550aee892ece4f70ae7370db75cb7e49280396e98ebf9600e",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/GlitchEffect.txt",
-      "size": 20,
-      "sha256": "6b8286db47be7890dbbaa5065ff6e8a1d00cbe6158fc853659816ae57045647c",
-      "textSha256": "6b8286db47be7890dbbaa5065ff6e8a1d00cbe6158fc853659816ae57045647c",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/godray.frag",
-      "size": 782,
-      "sha256": "46ab3fceb44089fe74ffdad90c01a352bef87bfece6d9adc2af01ec419a6f207",
-      "textSha256": "46ab3fceb44089fe74ffdad90c01a352bef87bfece6d9adc2af01ec419a6f207",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/godray.ini",
-      "size": 61,
-      "sha256": "0e75a2677af6235cb1b199b08ab609ffc361aedcb2c550c1cc32b852a55e3159",
-      "textSha256": "0e75a2677af6235cb1b199b08ab609ffc361aedcb2c550c1cc32b852a55e3159",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/GreyscaleEffect.frag",
-      "size": 295,
-      "sha256": "321d4db7b9e4a50dbb82c59829826ebe173c8bcc4189637626594c230b4ab947",
-      "textSha256": "321d4db7b9e4a50dbb82c59829826ebe173c8bcc4189637626594c230b4ab947",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/GreyscaleEffect.ini",
-      "size": 12,
-      "sha256": "687d9da958553b826132cbf947c5acff88139b1bb54b60e57886d86fbfec646b",
-      "textSha256": "687d9da958553b826132cbf947c5acff88139b1bb54b60e57886d86fbfec646b",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/HeatShader.frag",
-      "size": 822,
-      "sha256": "fcc436ac5ca0311e07d27819fb5822a6d858ef08d9ec68f4733bfa48a5a2cf77",
-      "textSha256": "fcc436ac5ca0311e07d27819fb5822a6d858ef08d9ec68f4733bfa48a5a2cf77",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/HeatShader.ini",
-      "size": 22,
-      "sha256": "998f11742d6c24b6ecf2c33fb203e8101d91e632875a48fcb3e4025e9a074183",
-      "textSha256": "998f11742d6c24b6ecf2c33fb203e8101d91e632875a48fcb3e4025e9a074183",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/M/3DMIrror.frag",
-      "size": 1974,
-      "sha256": "fb8e4822c9eac30a24795dc277b6b6c8c3eb66d404d4c17470cb5d1018e11347",
-      "textSha256": "fb8e4822c9eac30a24795dc277b6b6c8c3eb66d404d4c17470cb5d1018e11347",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/M/3DMirror.ini",
-      "size": 89,
-      "sha256": "e8dfc91afa87bea551281b017293d6496f724092a59cc13c9e218e65f1451b0e",
-      "textSha256": "e8dfc91afa87bea551281b017293d6496f724092a59cc13c9e218e65f1451b0e",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/M/color.frag",
-      "size": 855,
-      "sha256": "ee1dbd7bc4b7f5457ca7d944c7f46603ce929373f535fa42d8b5b6e1e04e81e7",
-      "textSha256": "ee1dbd7bc4b7f5457ca7d944c7f46603ce929373f535fa42d8b5b6e1e04e81e7",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/M/color.ini",
-      "size": 43,
-      "sha256": "dde5c484d47ce6bb65bde93d5e0a6515f6b45fc3705bfa2d3516938772c2f651",
-      "textSha256": "dde5c484d47ce6bb65bde93d5e0a6515f6b45fc3705bfa2d3516938772c2f651",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/M/spiral.frag",
-      "size": 1311,
-      "sha256": "32b50590a428230017b85fa025d66899fdb4c63de7332608f42cc08979916150",
-      "textSha256": "32b50590a428230017b85fa025d66899fdb4c63de7332608f42cc08979916150",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/M/spiral.ini",
-      "size": 32,
-      "sha256": "2b951f024f243fda8a56de431b49075038a9e46c6a4c759cd366f3f854695918",
-      "textSha256": "2b951f024f243fda8a56de431b49075038a9e46c6a4c759cd366f3f854695918",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/M/Sunrays.frag",
-      "size": 1401,
-      "sha256": "f88718dcd155798e1c242f79720ce52fae7f13119b32a960e687652e1a62d257",
-      "textSha256": "f88718dcd155798e1c242f79720ce52fae7f13119b32a960e687652e1a62d257",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/M/Sunrays.ini",
-      "size": 69,
-      "sha256": "ab5c8e3fb9f861d86ffcc8f6319f446654b74f2a80c645db481add8cd0129f33",
-      "textSha256": "ab5c8e3fb9f861d86ffcc8f6319f446654b74f2a80c645db481add8cd0129f33",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/M/WaterEffect.frag",
-      "size": 483,
-      "sha256": "7e47d35a400f832f3084878d63af8036cbda412c87ff19f148366a0a82b9fc95",
-      "textSha256": "7e47d35a400f832f3084878d63af8036cbda412c87ff19f148366a0a82b9fc95",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/M/WaterEffect.ini",
-      "size": 32,
-      "sha256": "4b5c99493c2c6377ba7382a840c084988b362317e2fa72c39254f79da1adeae7",
-      "textSha256": "4b5c99493c2c6377ba7382a840c084988b362317e2fa72c39254f79da1adeae7",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/MirrorRepeatEffect.frag",
-      "size": 1299,
-      "sha256": "85d10c78baa38fbeff96caee87e65e11cf00f0b4c073c27c86601052b7ff2274",
-      "textSha256": "85d10c78baa38fbeff96caee87e65e11cf00f0b4c073c27c86601052b7ff2274",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/MirrorRepeatEffect.ini",
-      "size": 30,
-      "sha256": "a89b57609d9b8412343cb943f439e480bbdd8d37f88a65c3293c7a32a8fd1eff",
-      "textSha256": "a89b57609d9b8412343cb943f439e480bbdd8d37f88a65c3293c7a32a8fd1eff",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/MirrorRepeatEffectN.frag",
-      "size": 1299,
-      "sha256": "85d10c78baa38fbeff96caee87e65e11cf00f0b4c073c27c86601052b7ff2274",
-      "textSha256": "85d10c78baa38fbeff96caee87e65e11cf00f0b4c073c27c86601052b7ff2274",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/MirrorRepeatEffectN.ini",
-      "size": 30,
-      "sha256": "a89b57609d9b8412343cb943f439e480bbdd8d37f88a65c3293c7a32a8fd1eff",
-      "textSha256": "a89b57609d9b8412343cb943f439e480bbdd8d37f88a65c3293c7a32a8fd1eff",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/MirrorRepeatWarpBackBlendEffect.frag",
-      "size": 1585,
-      "sha256": "e26b2593f5c70bbc3d45c2a57013faa3c191dc4d78a2816795194c5136f7b4cf",
-      "textSha256": "e26b2593f5c70bbc3d45c2a57013faa3c191dc4d78a2816795194c5136f7b4cf",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/MirrorRepeatWarpBackBlendEffect.ini",
-      "size": 54,
-      "sha256": "d0c988ef558c2e20dce89447d82ab82b49555cd1e82219a1c2f9529995f17e7e",
-      "textSha256": "d0c988ef558c2e20dce89447d82ab82b49555cd1e82219a1c2f9529995f17e7e",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/MirrorRepeatWarpEffect.frag",
-      "size": 1403,
-      "sha256": "a43760e65757f05310a5ecc22fe4270222a8aaf01ce25088f8cabdce52d67d5e",
-      "textSha256": "a43760e65757f05310a5ecc22fe4270222a8aaf01ce25088f8cabdce52d67d5e",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/MirrorRepeatWarpEffect.ini",
-      "size": 39,
-      "sha256": "8b6de9807813f1056cb0bf9ccbefed1416498282e4ec3058b8ad39fa28f8d1d9",
-      "textSha256": "8b6de9807813f1056cb0bf9ccbefed1416498282e4ec3058b8ad39fa28f8d1d9",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/MirrorRepeatWarpEffect.txt",
-      "size": 29,
-      "sha256": "94bfc1625809474a588899e1a45e3dcd706e733b1edb7d42bc0f08c00a7b745b",
-      "textSha256": "94bfc1625809474a588899e1a45e3dcd706e733b1edb7d42bc0f08c00a7b745b",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/MosaicEffect.frag",
-      "size": 312,
-      "sha256": "4ee7dcc82f32aa3c9fdd1bca5cfb3b6060e32901b38b4c7645d04a1597915c17",
-      "textSha256": "4ee7dcc82f32aa3c9fdd1bca5cfb3b6060e32901b38b4c7645d04a1597915c17",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/MosaicEffect.ini",
-      "size": 12,
-      "sha256": "687d9da958553b826132cbf947c5acff88139b1bb54b60e57886d86fbfec646b",
-      "textSha256": "687d9da958553b826132cbf947c5acff88139b1bb54b60e57886d86fbfec646b",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/MosaicEffect.txt",
-      "size": 10,
-      "sha256": "7804fb243bd87bdfe5a364c015f1c99f5ca4170a273b80aa225da48ed65beead",
-      "textSha256": "7804fb243bd87bdfe5a364c015f1c99f5ca4170a273b80aa225da48ed65beead",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/negative.frag",
-      "size": 317,
-      "sha256": "8cd55c462b6ddf961a48597ceadc849a44524ce554cd20110a82ce3bfaadfed0",
-      "textSha256": "8cd55c462b6ddf961a48597ceadc849a44524ce554cd20110a82ce3bfaadfed0",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/notePerspective.frag",
-      "size": 376,
-      "sha256": "2dd2bd14a98d459260ada4c84a1ee5e3f1039432cc647be2b3aefe27bcc51b08",
-      "textSha256": "2dd2bd14a98d459260ada4c84a1ee5e3f1039432cc647be2b3aefe27bcc51b08",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/notePerspective.vert",
-      "size": 3587,
-      "sha256": "beb849a0f608ad21510752aec22b200b6a8fba78bd0b368e2a7f64c6ce197619",
-      "textSha256": "beb849a0f608ad21510752aec22b200b6a8fba78bd0b368e2a7f64c6ce197619",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/PaletteEffect.frag",
-      "size": 498,
-      "sha256": "b151a25d5d5a09930c6036ab0d8bff458a061d7620d1a37bda9adc4b334aa9c9",
-      "textSha256": "b151a25d5d5a09930c6036ab0d8bff458a061d7620d1a37bda9adc4b334aa9c9",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/PaletteEffect.ini",
-      "size": 28,
-      "sha256": "da0b25f948eb2b59349d7db63d9880741d3b11af2219846333365f3581cf62af",
-      "textSha256": "da0b25f948eb2b59349d7db63d9880741d3b11af2219846333365f3581cf62af",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/PerlinMirrorRepeatEffect.frag",
-      "size": 1486,
-      "sha256": "073400d27dbfcfa7426d82037225b2dab39321005ff60b125cdee28ef814d96c",
-      "textSha256": "073400d27dbfcfa7426d82037225b2dab39321005ff60b125cdee28ef814d96c",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/PerlinMirrorRepeatEffect.ini",
-      "size": 96,
-      "sha256": "04cc39a11c95f2744d04fde2660386f0b83c505d2ff4a8785a3813149aa3d2ac",
-      "textSha256": "04cc39a11c95f2744d04fde2660386f0b83c505d2ff4a8785a3813149aa3d2ac",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/PerlinMirrorRepeatEffect.txt",
-      "size": 76,
-      "sha256": "aa4f2804e5c03356ab308e26ae9b9659b0e0cfa108225fca34e6b9f58d6f6dab",
-      "textSha256": "aa4f2804e5c03356ab308e26ae9b9659b0e0cfa108225fca34e6b9f58d6f6dab",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/PerlinMirrorRepeatEffect.vert",
-      "size": 2884,
-      "sha256": "8090f5ded476aefe14e85a406c3179e02d2b7d452876c1d2ebd8d18aa5bbdc67",
-      "textSha256": "8090f5ded476aefe14e85a406c3179e02d2b7d452876c1d2ebd8d18aa5bbdc67",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/PerlinSmokeEffect.frag",
-      "size": 3678,
-      "sha256": "47f0c596722c250c045204b08e562dfc312ee70844247e8e8f266fcd0a189d62",
-      "textSha256": "47f0c596722c250c045204b08e562dfc312ee70844247e8e8f266fcd0a189d62",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/PerlinSmokeEffect.ini",
-      "size": 44,
-      "sha256": "8cb0243b3d7cc672685180f3682d0bb0281685e6cff31dbe90c2eced8210452a",
-      "textSha256": "8cb0243b3d7cc672685180f3682d0bb0281685e6cff31dbe90c2eced8210452a",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/PerlinSmokeEffect.txt",
-      "size": 38,
-      "sha256": "d65912210373774d855fba18870ebd56a5ff3d458bbeecbdf2a9cc35e1886050",
-      "textSha256": "d65912210373774d855fba18870ebd56a5ff3d458bbeecbdf2a9cc35e1886050",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/PopoEffect.frag",
-      "size": 1718,
-      "sha256": "09776fd84491f8c08f8fe58b91488be3ab358fc5f968ae0f770520eb8adff01c",
-      "textSha256": "09776fd84491f8c08f8fe58b91488be3ab358fc5f968ae0f770520eb8adff01c",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/PopoEffect.ini",
-      "size": 40,
-      "sha256": "5912bbf0e2b16bbf73cf051c07d4044112b55431c08bc0fdb712b92ba47acf7c",
-      "textSha256": "5912bbf0e2b16bbf73cf051c07d4044112b55431c08bc0fdb712b92ba47acf7c",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/RainEffect.frag",
-      "size": 1722,
-      "sha256": "255285623c4cf0d00a9581d2608259f0a8af3837874483b5c5c93e400bc250ba",
-      "textSha256": "255285623c4cf0d00a9581d2608259f0a8af3837874483b5c5c93e400bc250ba",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/RainEffect.ini",
-      "size": 9,
-      "sha256": "1bdcbf2fdd6a88a94c6539dec391c5d4b8cf3f873753768c594cf79a12a4b269",
-      "textSha256": "1bdcbf2fdd6a88a94c6539dec391c5d4b8cf3f873753768c594cf79a12a4b269",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/RainEffect.txt",
-      "size": 7,
-      "sha256": "e6576bae46907e8067088ae325c57c0a6e2a3d7be83c4a2f3394e141157a16b6",
-      "textSha256": "e6576bae46907e8067088ae325c57c0a6e2a3d7be83c4a2f3394e141157a16b6",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/rayMarch.frag",
-      "size": 5152,
-      "sha256": "4f364ab21417dfd351fc74f11fddce443e36b791ff86f662abccab0690004645",
-      "textSha256": "4f364ab21417dfd351fc74f11fddce443e36b791ff86f662abccab0690004645",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/rayMarch.ini",
-      "size": 108,
-      "sha256": "da846deba7d11bfd4fec31ebd8a90bf880779a8400789110c0094bc656f96b87",
-      "textSha256": "da846deba7d11bfd4fec31ebd8a90bf880779a8400789110c0094bc656f96b87",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/RaymarchDepthEffect.frag",
-      "size": 5786,
-      "sha256": "37ab54f85a30baf0c4249afbda4147467371379a09921f480873e19fc575a631",
-      "textSha256": "37ab54f85a30baf0c4249afbda4147467371379a09921f480873e19fc575a631",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/RaymarchDepthEffect.ini",
-      "size": 141,
-      "sha256": "586c1ba15d74a6a22d57f323706bc1927d5370c4c53a5182e4900fe47630c3ef",
-      "textSha256": "586c1ba15d74a6a22d57f323706bc1927d5370c4c53a5182e4900fe47630c3ef",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/RayMarchEffect.frag",
-      "size": 3101,
-      "sha256": "c15a57c2298a4b09f0559d1d6fb6a8257c0392e7bcd4518e0526a400f84a1341",
-      "textSha256": "c15a57c2298a4b09f0559d1d6fb6a8257c0392e7bcd4518e0526a400f84a1341",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/raytracingcube.frag",
-      "size": 3526,
-      "sha256": "d9c6a3f44c8b16e95b031f010d64c2ea6d7e726798f173251f6e66be5eddc899",
-      "textSha256": "d9c6a3f44c8b16e95b031f010d64c2ea6d7e726798f173251f6e66be5eddc899",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/raytracingcube.ini",
-      "size": 61,
-      "sha256": "a8469bc462271385e445c0e9e978f5178dbe7a1553bc7904f9d6c9354f6b8f7a",
-      "textSha256": "a8469bc462271385e445c0e9e978f5178dbe7a1553bc7904f9d6c9354f6b8f7a",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/ScanlineEffect.frag",
-      "size": 896,
-      "sha256": "1af9027416e51217c305b688975efb16db5fdd845425453ac7de83de472f51a4",
-      "textSha256": "1af9027416e51217c305b688975efb16db5fdd845425453ac7de83de472f51a4",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/ScanlineEffect.ini",
-      "size": 52,
-      "sha256": "418546129f8c40602f04a294a6d0c5c2bfe1d9a926af71e7cefc766da5be8e7c",
-      "textSha256": "418546129f8c40602f04a294a6d0c5c2bfe1d9a926af71e7cefc766da5be8e7c",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SobelEffect.frag",
-      "size": 1282,
-      "sha256": "071b5e5da8e7cdd6c7239d2a60539b08a075d3c7a88f9ab7d000decb9d7a47fd",
-      "textSha256": "071b5e5da8e7cdd6c7239d2a60539b08a075d3c7a88f9ab7d000decb9d7a47fd",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SobelEffect.ini",
-      "size": 26,
-      "sha256": "ab330cfdb374119cdfee2cebdb786c81493fbec3f1c0b8cd78d6a04c7987a45a",
-      "textSha256": "ab330cfdb374119cdfee2cebdb786c81493fbec3f1c0b8cd78d6a04c7987a45a",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SobelEffect.txt",
-      "size": 22,
-      "sha256": "285d7300879ad3e936182e0d705e14ab72fc19d646e595a88506df9801f2cbb9",
-      "textSha256": "285d7300879ad3e936182e0d705e14ab72fc19d646e595a88506df9801f2cbb9",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SparkEffect.frag",
-      "size": 5953,
-      "sha256": "e200193bfef7c8a40df4972eda3745133a0bc5510aff7333d3c8087c8c8ac59b",
-      "textSha256": "e200193bfef7c8a40df4972eda3745133a0bc5510aff7333d3c8087c8c8ac59b",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SparkEffect.ini",
-      "size": 93,
-      "sha256": "f2ea8a4fe3d0e57ac3410e970251bd26ebf889426e6da3cf2385478f37397645",
-      "textSha256": "f2ea8a4fe3d0e57ac3410e970251bd26ebf889426e6da3cf2385478f37397645",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SparkEffect.txt",
-      "size": 77,
-      "sha256": "16dc52aad4814ab36abe681e7a9fe83071ecc79d311bd5b71e7657147efe5d5b",
-      "textSha256": "16dc52aad4814ab36abe681e7a9fe83071ecc79d311bd5b71e7657147efe5d5b",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SpeedEffect.frag",
-      "size": 1362,
-      "sha256": "6d4e9652f4b9b55c45c5a62be2ab7ba31d33fe7b916c106eb81f3aa96f0e5c67",
-      "textSha256": "6d4e9652f4b9b55c45c5a62be2ab7ba31d33fe7b916c106eb81f3aa96f0e5c67",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SpeedEffect.ini",
-      "size": 20,
-      "sha256": "15d830a4648e1a79107d38cc2bf2d5e17defae948f2c725bc32d9b65227fd589",
-      "textSha256": "15d830a4648e1a79107d38cc2bf2d5e17defae948f2c725bc32d9b65227fd589",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SpeedEffect.txt",
-      "size": 16,
-      "sha256": "4f9dd8455f01b6cf0dcdcf5cab88d9424a428968eea787af8c8ee288c54e9d73",
-      "textSha256": "4f9dd8455f01b6cf0dcdcf5cab88d9424a428968eea787af8c8ee288c54e9d73",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SpiralTunnelEffect.frag",
-      "size": 1198,
-      "sha256": "96a2fb735fec77ac86c046a31f11b24f28aada92c34de19055e488fa62d0e4e9",
-      "textSha256": "96a2fb735fec77ac86c046a31f11b24f28aada92c34de19055e488fa62d0e4e9",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SpiralTunnelEffect.ini",
-      "size": 22,
-      "sha256": "a98e8aec3a7bd66c68be5c6017542bfb595958ec96c58078d50795dc5287e6ce",
-      "textSha256": "a98e8aec3a7bd66c68be5c6017542bfb595958ec96c58078d50795dc5287e6ce",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SpiralTunnelEffect.txt",
-      "size": 18,
-      "sha256": "207b811443ac770a2d4aaa05a07cbefff0575187c8e339e0ea429a8f1390e402",
-      "textSha256": "207b811443ac770a2d4aaa05a07cbefff0575187c8e339e0ea429a8f1390e402",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SplitCamMania.frag",
-      "size": 2434,
-      "sha256": "143e4cc50c9f30c639b47f07e598e6295b3db96b5fc4a6379abd1933d76712be",
-      "textSha256": "143e4cc50c9f30c639b47f07e598e6295b3db96b5fc4a6379abd1933d76712be",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/SplitCamMania.ini",
-      "size": 94,
-      "sha256": "9a77874e98b9139a4eb00d23ae27d56a5b4ba527d54896e83ac088508dc23eb0",
-      "textSha256": "9a77874e98b9139a4eb00d23ae27d56a5b4ba527d54896e83ac088508dc23eb0",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/VHSEffect.frag",
-      "size": 2065,
-      "sha256": "636614f730a409ccaefd15637be1f0b4188cd7a42a9d501f85e0ecf1d0f71c58",
-      "textSha256": "636614f730a409ccaefd15637be1f0b4188cd7a42a9d501f85e0ecf1d0f71c58",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/VHSEffect.ini",
-      "size": 42,
-      "sha256": "b7f8caf4d0acad374392ad64f0b246486a372748629b4a634650b5d9688f41f8",
-      "textSha256": "b7f8caf4d0acad374392ad64f0b246486a372748629b4a634650b5d9688f41f8",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/VHSEffect.txt",
-      "size": 36,
-      "sha256": "f1cbb572896092568ae13d0c455768126cf37b2544128b7f9e008254e66bd1df",
-      "textSha256": "f1cbb572896092568ae13d0c455768126cf37b2544128b7f9e008254e66bd1df",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/VignetteEffect.frag",
-      "size": 521,
-      "sha256": "59899e714c511fe61442ca0fe101859d7326be003cd0a89200489d490a76baba",
-      "textSha256": "59899e714c511fe61442ca0fe101859d7326be003cd0a89200489d490a76baba",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/VignetteEffect.ini",
-      "size": 48,
-      "sha256": "3c263a6431da2840a8f64c4a2b2ea935abc4b57af6963331bc6df4e9ef1e166e",
-      "textSha256": "3c263a6431da2840a8f64c4a2b2ea935abc4b57af6963331bc6df4e9ef1e166e",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/VortexEffect.frag",
-      "size": 3183,
-      "sha256": "abe6f859d54d1a0329248ac5924254de8c4190139668c558b73a1ac72a9376ac",
-      "textSha256": "abe6f859d54d1a0329248ac5924254de8c4190139668c558b73a1ac72a9376ac",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/WaterEffect.frag",
-      "size": 629,
-      "sha256": "8dfd2cecfc2e32394cd82a263eb41db3bc694e98ddf7440733f03a9eab454b54",
-      "textSha256": "8dfd2cecfc2e32394cd82a263eb41db3bc694e98ddf7440733f03a9eab454b54",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/WaterEffect.ini",
-      "size": 32,
-      "sha256": "4b5c99493c2c6377ba7382a840c084988b362317e2fa72c39254f79da1adeae7",
-      "textSha256": "4b5c99493c2c6377ba7382a840c084988b362317e2fa72c39254f79da1adeae7",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/WaterEffect.txt",
-      "size": 27,
-      "sha256": "acd3b361a89364d74b19d6b8547c5eff1e7fb05d954bfa7083ff6b656680a61f",
-      "textSha256": "acd3b361a89364d74b19d6b8547c5eff1e7fb05d954bfa7083ff6b656680a61f",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/WaveBurstEffect.frag",
-      "size": 384,
-      "sha256": "7cf1c29c4eb3b6caad68596743b9b27e8c21733ebd59169d0582345c7019f5b0",
-      "textSha256": "7cf1c29c4eb3b6caad68596743b9b27e8c21733ebd59169d0582345c7019f5b0",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/WiggleEffect.frag",
-      "size": 1974,
-      "sha256": "e4b446884be38f89f78b0712e5eea445ed966721a4ef979016481b8d350eb5f8",
-      "textSha256": "e4b446884be38f89f78b0712e5eea445ed966721a4ef979016481b8d350eb5f8",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shaders/WiggleEffect.ini",
-      "size": 59,
-      "sha256": "34ae1388fecfaa4e0822c97fd51fa8ffa65716d230b48b3d488225d0dd241775",
-      "textSha256": "34ae1388fecfaa4e0822c97fd51fa8ffa65716d230b48b3d488225d0dd241775",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shapes/arrowShape.csv",
-      "size": 1520,
-      "sha256": "244c078567e6e69a537f31649f6536b510f55fbfdab81f787a951dd319eb72c9",
-      "textSha256": "244c078567e6e69a537f31649f6536b510f55fbfdab81f787a951dd319eb72c9",
-      "change": "added"
-    },
-    {
-      "path": "assets/modchart-editor/shapes/eyeShape.csv",
-      "size": 4334,
-      "sha256": "089280def4976aa3541477a704361997030fce23f0a7d96791357cd2a2c4fa69",
-      "textSha256": "089280def4976aa3541477a704361997030fce23f0a7d96791357cd2a2c4fa69",
-      "change": "added"
+      "path": "assets/stages/gabby.lua",
+      "size": 16857,
+      "sha256": "d39e7a3ee0e7ee041cf86839166b827a92bbada050576467dd990a1ecca80a53",
+      "textSha256": "d39e7a3ee0e7ee041cf86839166b827a92bbada050576467dd990a1ecca80a53",
+      "change": "changed"
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 41249792,
-      "sha256": "b0953f11b88c0738131a53841f3b9131c8bd2f3af892a94798c63b4d478a21a9",
+      "size": 42311680,
+      "sha256": "3efae23fecff99388af3766c1f8306930e405eb2db368007ab277ae5b40b9cae",
+      "change": "changed"
+    },
+    {
+      "path": "plugins/plugins.dat",
+      "size": 256718,
+      "sha256": "8f835a3966e6443ed22a6624edcea4a77a8d91540d16c85117e73a098c25ce70",
       "change": "changed"
     }
   ],

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gabby bike.png">
+<SubTexture name="gabby bike idle0000" x="0" y="0" width="556" height="519" frameX="0" frameY="0" frameWidth="557" frameHeight="519" />
+<SubTexture name="gabby bike idle0001" x="556" y="0" width="533" height="515" frameX="-21" frameY="-3" frameWidth="557" frameHeight="519" />
+<SubTexture name="gabby bike idle0002" x="0" y="519" width="533" height="511" frameX="-24" frameY="-6" frameWidth="557" frameHeight="519" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phoenix.png">
+<SubTexture name="phoenix turn0000" x="439" y="0" width="438" height="433" frameX="-4" frameY="0" frameWidth="442" frameHeight="434" />
+<SubTexture name="phoenix turn0001" x="0" y="0" width="439" height="434" frameX="-3" frameY="0" frameWidth="442" frameHeight="434" />
+<SubTexture name="phoenix head0000" x="0" y="434" width="497" height="358" frameX="0" frameY="-214" frameWidth="497" frameHeight="667" />
+<SubTexture name="phoenix head0001" x="877" y="0" width="491" height="342" frameX="-3" frameY="-231" frameWidth="497" frameHeight="667" />
+<SubTexture name="phoenix end0000" x="0" y="792" width="467" height="247" frameX="-16" frameY="-3" frameWidth="497" frameHeight="251" />
+<SubTexture name="phoenix end0001" x="877" y="342" width="465" height="251" frameX="-17" frameY="0" frameWidth="497" frameHeight="251" />
+</TextureAtlas>
