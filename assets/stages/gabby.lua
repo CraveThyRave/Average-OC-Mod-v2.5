@@ -212,6 +212,7 @@ end
 function onUpdatePost()
 
 
+
 	if curStep < 287 then
 		setProperty('camHUD.alpha', 0)
 		setProperty('blackoverlay.alpha', curStep < 32 and 1 or 0)

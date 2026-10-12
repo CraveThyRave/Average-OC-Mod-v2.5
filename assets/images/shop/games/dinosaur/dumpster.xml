@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dumpster.png">
+<SubTexture name="dumpster idle0000" x="0" y="0" width="500" height="487" frameX="-1" frameY="0" frameWidth="502" frameHeight="488" />
+<SubTexture name="dumpster idle0001" x="500" y="0" width="502" height="485" frameX="0" frameY="-3" frameWidth="502" frameHeight="488" />
+</TextureAtlas>
