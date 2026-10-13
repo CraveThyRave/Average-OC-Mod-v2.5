@@ -24,7 +24,8 @@ float noise(vec2 v) {
 	vec2 b = a - o + k.y;
 	vec2 c = a - 1.0 + 2.0 * k.y;
 	vec3 h = max(0.5 - vec3(dot(a, a), dot(b, b), dot(c, c)), 0.0);
-	vec3 n = pow(h, vec3(4.0)) * vec3(dot(a, hash(i)), dot(b, hash(i + o)), dot(c, hash(i + 1.0)));
+	h *= h;
+	vec3 n = (h * h) * vec3(dot(a, hash(i)), dot(b, hash(i + o)), dot(c, hash(i + 1.0)));
 	return dot(n, vec3(70.0));
 }
 
@@ -37,9 +38,10 @@ void main() {
 			noise(uv + 1e1 + u_offset.y)
 		);
 		
-		weight.r += sin(1e1 * (uv.x - uv.y - 0.01));
-		weight.g += sin(1e1 * (uv.x - uv.y));
-		weight.b += sin(1e1 * (uv.x - uv.y + 0.01));
+		float phase = 10.0 * (uv.x - uv.y);
+		float wave = sin(phase);
+		float side = cos(phase) * 0.0998334166;
+		weight += vec3(wave * 0.9950041653 - side, wave, wave * 0.9950041653 + side);
 	}
 	
 	// The old 0.9-1.0 range was effectively invisible on the solid-white stage

@@ -13,6 +13,8 @@ local prewarmPending = false
 local prewarmApplied = false
 local normalZoom = 0.7
 local entryZoom = 0.7
+local lastStrength = -1
+local lastFrame = -1
 
 local function clamp(value)
 	return math.max(0, math.min(1, value))
@@ -62,14 +64,22 @@ local function applyTimeline()
 		entryZoom = getProperty('camGame.zoom')
 	end
 	local strength, backgroundAlpha, zoom = timelineValues()
-	setVar('skylineNtscBackgroundFade', backgroundAlpha)
-	setVar('skylineNtscBackgroundStrength', strength)
-	setProperty(SHADER_HOLDER .. '.alpha', strength)
+	if strength ~= lastStrength then
+		setVar('skylineNtscBackgroundFade', backgroundAlpha)
+		setVar('skylineNtscBackgroundStrength', strength)
+		setProperty(SHADER_HOLDER .. '.alpha', strength)
+		if shaderReady then setShaderFloat(SHADER_HOLDER, 'effectStrength', strength) end
+		lastStrength = strength
+	end
 	if shaderReady then
 		setFilterActive(strength > 0.001)
-		setShaderFloat(SHADER_HOLDER, 'effectStrength', strength)
-		setShaderFloat(SHADER_HOLDER, 'uInterlace', 1)
-		setShaderInt(SHADER_HOLDER, 'uFrame', math.floor(math.max(0, getSongPosition()) / 16.6667) % 2)
+		if strength > 0.001 then
+			local frame = math.floor(math.max(0, getSongPosition()) / 16.6667) % 2
+			if frame ~= lastFrame then
+				setShaderInt(SHADER_HOLDER, 'uFrame', frame)
+				lastFrame = frame
+			end
+		end
 	end
 	if zoom ~= nil then
 		setProperty('defaultCamZoom', zoom)
@@ -133,6 +143,7 @@ function onUpdatePost(elapsed)
 		game.camGame.setFilters(filters);
 	]])
 		setShaderFloat(SHADER_HOLDER, 'effectStrength', 0.001)
+		lastStrength = -1
 		filterActive = true
 		prewarmApplied = true
 	end
