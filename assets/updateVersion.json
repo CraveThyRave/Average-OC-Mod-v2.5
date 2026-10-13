@@ -1,10 +1,10 @@
 {
   "format": 2,
-  "version": "2.5.19",
-  "manifestSize": 3301,
-  "manifestSha256": "5c8a953b1ca6cef93990be2cf864172bfb4d819564ac4c2d8be0a36478a77aa6",
+  "version": "2.5.20",
+  "manifestSize": 284,
+  "manifestSha256": "b51640770fa33a7d8fd80263103a9d4c68f0316c86db7914eabefb4261920a2c",
   "inventorySize": 550766,
-  "inventorySha256": "3989045e3a4bba599ca6978b813e6d38d153c48f6b951a5911a47b6d24bfe0b4",
-  "releaseRef": "aom-delta-build-19",
-  "sourceCommit": "4d07dd2af398daf40709476ec34873a8c0cf6ace"
+  "inventorySha256": "e6d513d82216c97f456f51319df18e60f2dffd5d77c97319fe66b6dbe01a0924",
+  "releaseRef": "aom-delta-build-20",
+  "sourceCommit": "8464a6c1cd0309e56371c91978a74b76d30f5ab6"
 }
