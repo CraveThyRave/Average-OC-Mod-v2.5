@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="references.png">
+<SubTexture name="references chick0000" x="0" y="1306" width="363" height="310" frameX="0" frameY="-34" frameWidth="363" frameHeight="386" />
+<SubTexture name="references chick0001" x="1190" y="681" width="357" height="313" frameX="-3" frameY="-35" frameWidth="363" frameHeight="386" />
+<SubTexture name="references gaster0000" x="0" y="681" width="658" height="625" frameX="-6" frameY="-2" frameWidth="664" frameHeight="805" />
+<SubTexture name="references gaster0001" x="1039" y="0" width="664" height="627" frameX="0" frameY="0" frameWidth="664" frameHeight="805" />
+<SubTexture name="references isaac0000" x="1703" y="825" width="300" height="383" frameX="-24" frameY="-2" frameWidth="363" frameHeight="386" />
+<SubTexture name="references isaac0001" x="1703" y="439" width="309" height="386" frameX="-23" frameY="0" frameWidth="363" frameHeight="386" />
+<SubTexture name="references missingno0000" x="1703" y="0" width="532" height="439" frameX="-23" frameY="-209" frameWidth="664" frameHeight="805" />
+<SubTexture name="references missingno0001" x="658" y="681" width="532" height="460" frameX="-22" frameY="-203" frameWidth="664" frameHeight="805" />
+<SubTexture name="references natsuki0000" x="0" y="0" width="522" height="681" frameX="-61" frameY="-124" frameWidth="664" frameHeight="805" />
+<SubTexture name="references natsuki0001" x="522" y="0" width="517" height="674" frameX="-68" frameY="-123" frameWidth="664" frameHeight="805" />
+</TextureAtlas>

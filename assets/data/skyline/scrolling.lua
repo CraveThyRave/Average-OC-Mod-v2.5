@@ -86,9 +86,9 @@ local function setFilterActive(active)
 		var ntsc = game.getLuaObject("skylineNtscShaderHolder");
 		var filters = [];
 		if (]] .. tostring(active) .. [[ && holder != null && holder.shader != null)
-			filters.push(new ShaderFilter(holder.shader));
+			filters.push(new SkylineShaderFilter(holder.shader, game.camGame.flashSprite));
 		if (ntsc != null && ntsc.shader != null && ntsc.alpha > 0.001)
-			filters.push(new ShaderFilter(ntsc.shader));
+			filters.push(new SkylineShaderFilter(ntsc.shader, game.camGame.flashSprite));
 		game.camGame.setFilters(filters);
 	]])
 	filterActive = active
@@ -159,7 +159,7 @@ function onCreatePost()
 	makeGraphic(SHADER_HOLDER, 1, 1, 'FFFFFF')
 	setProperty(SHADER_HOLDER .. '.visible', false)
 	if not lowQuality then
-		addHaxeLibrary('ShaderFilter', 'openfl.filters')
+		addHaxeLibrary('SkylineShaderFilter')
 		reloadShader()
 		setShaderFloat(SHADER_HOLDER, 'effectStrength', 0)
 		setFilterActive(true)

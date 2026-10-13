@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rebirth.png">
+<SubTexture name="rebirth idle0000" x="455" y="0" width="450" height="425" frameX="0" frameY="-22" frameWidth="882" frameHeight="447" />
+<SubTexture name="rebirth idle0001" x="0" y="0" width="455" height="427" frameX="-194" frameY="0" frameWidth="882" frameHeight="447" />
+<SubTexture name="rebirth idle0002" x="0" y="427" width="450" height="425" frameX="-432" frameY="-18" frameWidth="882" frameHeight="447" />
+<SubTexture name="rebirth idle0003" x="0" y="0" width="455" height="427" frameX="-194" frameY="0" frameWidth="882" frameHeight="447" />
+</TextureAtlas>
