@@ -69,7 +69,7 @@ end
 
 
 function onBeatHit()
-    if lowQuality then return end
+    if lowQuality or not shaderRunning then return end
     if curBeat % 2 == 0 then
 			setProperty('checkerboard.angle', -4)
 			doTweenAngle('checkerboardBack', 'checkerboard', 0, crochet / 1000, 'cubeOut')

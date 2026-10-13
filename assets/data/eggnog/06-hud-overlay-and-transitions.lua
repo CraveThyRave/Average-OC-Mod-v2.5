@@ -152,18 +152,12 @@ end
 function onGameOverStart()
     inGameOver = true
 
-    setProperty('peepee.visible', false)
-    setProperty('rayray.visible', false)
-    setProperty('fahlace.visible', false)
-    setProperty('fahlace2.visible', false)
-    setProperty('dance.visible', false)
-    setProperty('hello.visible', false)
-    setProperty('trampoline.visible', false)
-    setProperty('jumpyfah.visible', false)
-    setProperty('jumpybf.visible', false)
-    setProperty('logo.visible', false)
-    setProperty('dablack.visible', false)
-    setProperty('dawhite.visible', false)
+    for _, tag in ipairs({'peepee', 'rayray', 'fahlace', 'fahlace2', 'dance', 'hello',
+        'trampoline', 'jumpyfah', 'jumpybf', 'logo', 'dablack', 'dawhite'}) do
+        if luaSpriteExists(tag) then
+            setProperty(tag .. '.visible', false)
+        end
+    end
 
     cancelTimer('dawhite')
     cancelTimer('applyTimeStyle')

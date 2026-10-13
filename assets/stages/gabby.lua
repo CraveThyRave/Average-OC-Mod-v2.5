@@ -59,11 +59,13 @@ function onCreate()
 	makeLuaSprite('bg', 'dawhite', -680, 0)
 
 	addLuaSprite('bg', false)
-	initLuaShader('void')
-	setSpriteShader('bg', 'void')
-	setShaderFloat('bg', 'u_mix', 0.03)
-	setShaderFloatArray('bg', 'u_scale', {1, 1})
-	setShaderFloatArray('bg', 'u_offset', {0, 0})
+	if not lowQuality then
+		initLuaShader('void')
+		setSpriteShader('bg', 'void')
+		setShaderFloat('bg', 'u_mix', 0.03)
+		setShaderFloatArray('bg', 'u_scale', {1, 1})
+		setShaderFloatArray('bg', 'u_offset', {0, 0})
+	end
 
 	makeLuaSprite('black1', 'Freeplay-Chrs/gabriella/gabby/black', -500, 0);
 	scaleObject('black1' ,1.5,1.5)
@@ -310,6 +312,7 @@ local modes = {'Blizzard', 'Fireflies', 'Embers', 'Snow', 'Wind Left', 'Wind Rig
 local freeParticleTags = {}
 local particleFadeOwners = {}
 local particlePoolSize = 25
+local prewarmParticlePoolChunk
 
 function onCreatePost()
     for index, availableMode in ipairs(modes) do
@@ -320,7 +323,7 @@ function onCreatePost()
         end
     end
     reCalcTicks()
-    if not lowQuality then runTimer('gabbyParticlePrewarm', 0.15, 8) end
+    if not lowQuality then prewarmParticlePoolChunk(particlePoolSize) end
 end
 
 
@@ -330,7 +333,7 @@ function reCalcTicks()
         or math.max(1, waitingTicks)
 end
 
-local function prewarmParticlePoolChunk(count)
+prewarmParticlePoolChunk = function(count)
     local lastIndex = math.min(particlePoolSize, particleSlotsCreated + count)
     for index = particleSlotsCreated + 1, lastIndex do
         local tag = 'gabbyParticle' .. index
