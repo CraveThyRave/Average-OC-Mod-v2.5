@@ -2,6 +2,14 @@
 
 uniform float effectStrength;
 uniform vec4 effectArea;
+uniform vec2 effectTextureSize;
+uniform vec2 effectTextureOffset;
+
+vec4 sampleSource(vec2 uv)
+{
+    vec2 size = effectTextureSize.x > 0.0 ? effectTextureSize : openfl_TextureSize;
+    return texture2D(bitmap, (uv * size - effectTextureOffset) / openfl_TextureSize);
+}
 
 vec3 curve(vec3 value)
 {
@@ -14,16 +22,17 @@ vec3 curve(vec3 value)
 
 float flareSample(vec2 uv, vec2 offset, float threshold)
 {
-    float a = texture2D(bitmap, uv + offset).r;
-    float b = texture2D(bitmap, uv - offset).r;
+    float a = sampleSource(uv + offset).r;
+    float b = sampleSource(uv - offset).r;
     return step(threshold, max(a, b));
 }
 
 void main()
 {
-    vec2 uv = openfl_TextureCoordv;
-    vec4 original = texture2D(bitmap, uv);
-    vec2 pixelPosition = uv * openfl_TextureSize;
+    vec2 sourceSize = effectTextureSize.x > 0.0 ? effectTextureSize : openfl_TextureSize;
+    vec2 uv = (openfl_TextureCoordv * openfl_TextureSize + effectTextureOffset) / sourceSize;
+    vec4 original = sampleSource(uv);
+    vec2 pixelPosition = uv * sourceSize;
     if(effectArea.z > effectArea.x && (pixelPosition.x < effectArea.x || pixelPosition.y < effectArea.y || pixelPosition.x > effectArea.z || pixelPosition.y > effectArea.w)) { gl_FragColor = original; return; }
     float strength = clamp(effectStrength, 0.0, 1.0);
     if(strength <= 0.001) { gl_FragColor = original; return; }
@@ -39,8 +48,8 @@ void main()
     float weight = 0.75;
     for(int i = 1; i <= 4; i++)
     {
-        color.r += texture2D(bitmap, uv - (float(i) * 2.0 - 0.6666666667) * aberration).r * weight;
-        color.b += texture2D(bitmap, uv + (float(i) * 2.0 - 0.6666666667) * aberration).b * weight;
+        color.r += sampleSource(uv - (float(i) * 2.0 - 0.6666666667) * aberration).r * weight;
+        color.b += sampleSource(uv + (float(i) * 2.0 - 0.6666666667) * aberration).b * weight;
         weight *= 0.25;
     }
     color *= 0.97;
