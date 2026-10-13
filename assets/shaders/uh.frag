@@ -1,6 +1,7 @@
 #pragma header
 
 uniform float effectStrength;
+uniform vec4 effectArea;
 
 vec3 curve(vec3 value)
 {
@@ -22,6 +23,8 @@ void main()
 {
     vec2 uv = openfl_TextureCoordv;
     vec4 original = texture2D(bitmap, uv);
+    vec2 pixelPosition = uv * openfl_TextureSize;
+    if(effectArea.z > effectArea.x && (pixelPosition.x < effectArea.x || pixelPosition.y < effectArea.y || pixelPosition.x > effectArea.z || pixelPosition.y > effectArea.w)) { gl_FragColor = original; return; }
     float strength = clamp(effectStrength, 0.0, 1.0);
     if(strength <= 0.001) { gl_FragColor = original; return; }
     if(original.a == 0.0) { gl_FragColor = vec4(0.0); return; }
