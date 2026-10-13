@@ -1,5 +1,5 @@
 {
-  "version": "2.5.16",
+  "version": "2.5.17",
   "files": [
     {
       "path": ".gitattributes",
@@ -800,9 +800,9 @@
     },
     {
       "path": "assets/data/eggnog/06-hud-overlay-and-transitions.lua",
-      "size": 4647,
-      "sha256": "95a424d69f151835f7c82343789d77064805ce545601421627fab4073e5535c7",
-      "textSha256": "95a424d69f151835f7c82343789d77064805ce545601421627fab4073e5535c7"
+      "size": 4420,
+      "sha256": "d7e2af0f5f807dab340bcb3e26b11f8e76da578326dd5540b5f67cdfba68148f",
+      "textSha256": "d7e2af0f5f807dab340bcb3e26b11f8e76da578326dd5540b5f67cdfba68148f"
     },
     {
       "path": "assets/data/eggnog/credits.txt",
@@ -1340,15 +1340,15 @@
     },
     {
       "path": "assets/data/shiftr/01-checkerboard-hud-motion.lua",
-      "size": 1946,
-      "sha256": "7252c4858b70d6944fb13cd993fcce3707b423010ccfb0bb8ead36bfe6afb855",
-      "textSha256": "7252c4858b70d6944fb13cd993fcce3707b423010ccfb0bb8ead36bfe6afb855"
+      "size": 1967,
+      "sha256": "c992223e522d7bff6cca239ed58fb47ecc68296c5745dcce908581854cce7171",
+      "textSha256": "c992223e522d7bff6cca239ed58fb47ecc68296c5745dcce908581854cce7171"
     },
     {
       "path": "assets/data/shiftr/02-guitar-orbit.lua",
-      "size": 3105,
-      "sha256": "ac6f8fab6a3ba41f0c2421556e501a1d0a4c6f66a9a227bf6daf8d93d3c44ac2",
-      "textSha256": "ac6f8fab6a3ba41f0c2421556e501a1d0a4c6f66a9a227bf6daf8d93d3c44ac2"
+      "size": 3370,
+      "sha256": "638566530b153afa5db32e2bfb6f46579987a733852c650997479d779a9c93f0",
+      "textSha256": "109ba8468d51ca130b267e25176f53081eacd5b57ea12915e2f560f4410bae23"
     },
     {
       "path": "assets/data/shiftr/03-screen-overlay-transitions.lua",
@@ -1412,9 +1412,9 @@
     },
     {
       "path": "assets/data/skyline/ntsc-transition.lua",
-      "size": 4911,
-      "sha256": "3cf7915b35330b20b8b7096d5b27ce8d9a4f5f8086fe7324def0fa529abdf14c",
-      "textSha256": "3cf7915b35330b20b8b7096d5b27ce8d9a4f5f8086fe7324def0fa529abdf14c"
+      "size": 5136,
+      "sha256": "2cb2160bffbeabbd5c29edbb08a6dd35df71521e374f637960f9e076775270f3",
+      "textSha256": "2cb2160bffbeabbd5c29edbb08a6dd35df71521e374f637960f9e076775270f3"
     },
     {
       "path": "assets/data/skyline/pause.txt",
@@ -1424,9 +1424,9 @@
     },
     {
       "path": "assets/data/skyline/scrolling.lua",
-      "size": 7844,
-      "sha256": "78d70d3fee0ca3d22daf7f6580203d11a695f9552ded9ce8356d4f33a5f0175c",
-      "textSha256": "78d70d3fee0ca3d22daf7f6580203d11a695f9552ded9ce8356d4f33a5f0175c"
+      "size": 7866,
+      "sha256": "e03e0b08ef783d4b70714761bd30ae418b5195e184bbb26ecf8641b9bf222cfe",
+      "textSha256": "e03e0b08ef783d4b70714761bd30ae418b5195e184bbb26ecf8641b9bf222cfe"
     },
     {
       "path": "assets/data/skyline/skyline-hard.json",
@@ -8042,9 +8042,9 @@
     },
     {
       "path": "assets/images/Menus/MainMenu-stuff/menuicons/new-song.txt",
-      "size": 18,
-      "sha256": "4efe5b21db8f2f152274baa5d8fd210968c64c16f3de0a1dc583c002286fc4c3",
-      "textSha256": "4efe5b21db8f2f152274baa5d8fd210968c64c16f3de0a1dc583c002286fc4c3"
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "textSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "assets/images/Menus/MainMenu-stuff/menuicons/nola.png",
@@ -10662,9 +10662,9 @@
     },
     {
       "path": "assets/shaders/ntsc.frag",
-      "size": 4477,
-      "sha256": "966a36e0840a2bfebef0ff0c824c0ec7ebc656bcb7d0eac6ea18ccf33c50f0da",
-      "textSha256": "966a36e0840a2bfebef0ff0c824c0ec7ebc656bcb7d0eac6ea18ccf33c50f0da"
+      "size": 4183,
+      "sha256": "800a16778d5e4871c2dfd60e3b97e8d5463174f3f67e1e618d025630ed2026bb",
+      "textSha256": "acededc54ddfc90a528d6e0717e97d2ea61f0addf2a025fe27757b4e35710310"
     },
     {
       "path": "assets/shaders/pixel.frag",
@@ -10680,15 +10680,15 @@
     },
     {
       "path": "assets/shaders/uh.frag",
-      "size": 10808,
-      "sha256": "2638b53c3f4b70e4dcefdc6813d899c46e52c2a4b8887887e9bad853122cdf16",
-      "textSha256": "2638b53c3f4b70e4dcefdc6813d899c46e52c2a4b8887887e9bad853122cdf16"
+      "size": 2401,
+      "sha256": "977d073cc096af8e218c28e69a3d5d102499b7940d7a879fbfba5b23f625fe4a",
+      "textSha256": "0f74c1ee67ffe75b32367de49470dedb6c554ce980af525c86fb66d3207fb20e"
     },
     {
       "path": "assets/shaders/void.frag",
-      "size": 1560,
-      "sha256": "8f3577946abc0e654e3ffed1f1468aa5930dc1d86143e285a42a9862a9f7cea5",
-      "textSha256": "8f3577946abc0e654e3ffed1f1468aa5930dc1d86143e285a42a9862a9f7cea5"
+      "size": 1665,
+      "sha256": "80a43edb3bc91c75d4da6388a95ba0d369711bc29aa574f5f0b469db498fa316",
+      "textSha256": "42457edded8d8d4f01f2cfccd7876dab431ebd39a36050a1fc7b8553b0efa7c0"
     },
     {
       "path": "assets/shared/images/bad.png",
@@ -12156,9 +12156,9 @@
     },
     {
       "path": "assets/stages/gabby.lua",
-      "size": 16857,
-      "sha256": "d39e7a3ee0e7ee041cf86839166b827a92bbada050576467dd990a1ecca80a53",
-      "textSha256": "d39e7a3ee0e7ee041cf86839166b827a92bbada050576467dd990a1ecca80a53"
+      "size": 16919,
+      "sha256": "87c40f057e2728c4b41ef9894f00dc06737355dc30bdb1bf9170fe455f377c7a",
+      "textSha256": "87c40f057e2728c4b41ef9894f00dc06737355dc30bdb1bf9170fe455f377c7a"
     },
     {
       "path": "assets/stages/nola.json",
@@ -12233,6 +12233,46 @@
       "path": "assets/videos/friendly/fahscene-3.mp4",
       "size": 2254909,
       "sha256": "948304f92ac416cc8860a2b3fd0624e0ac98b5cf770d9dc92fe75ee7893a8ac0"
+    },
+    {
+      "path": "assets/videos/friendly/fahscene-body-1.mp4",
+      "size": 2240725,
+      "sha256": "ae09e124692e96a1bfffb4786a50ea00d63edd4d1238ba531778e47939754750"
+    },
+    {
+      "path": "assets/videos/friendly/fahscene-body-2.mp4",
+      "size": 2239803,
+      "sha256": "05b23fe82cee642b5ac7d103a3af243e5abb8b45ec699b8b69b286e61c1ea3ee"
+    },
+    {
+      "path": "assets/videos/friendly/fahscene-body-3.mp4",
+      "size": 2236169,
+      "sha256": "4c4706a979520823f00fb4319ed44e8a5462157dc16d8508dc8d14f91804293f"
+    },
+    {
+      "path": "assets/videos/friendly/fahscene-body.mp4",
+      "size": 2233936,
+      "sha256": "d7d31e7310319ed1d864f62cdbf8bce2e32cd8b30f1eb21ab4cc2a80104ec4a0"
+    },
+    {
+      "path": "assets/videos/friendly/fahscene-lips-1.mp4",
+      "size": 2104295,
+      "sha256": "1dc2ea378f0ec486d964b4e73064f6cb9f69985bc20fb03f1e5133b82a0174ff"
+    },
+    {
+      "path": "assets/videos/friendly/fahscene-lips-2.mp4",
+      "size": 2100151,
+      "sha256": "72e980508f25673821238bd5f93711fbf35496a8614cce6d06efbd667becf5de"
+    },
+    {
+      "path": "assets/videos/friendly/fahscene-lips-3.mp4",
+      "size": 2104868,
+      "sha256": "5df67bb64ebb2ada702add4eb39791948e50f189429c9c64b53d9c05d7e26766"
+    },
+    {
+      "path": "assets/videos/friendly/fahscene-lips.mp4",
+      "size": 2098431,
+      "sha256": "8c538927776536534ca4a624066aa804173c8e265bc679cc7c7074f3f3cd3e1a"
     },
     {
       "path": "assets/videos/friendly/fahscene.mp4",
@@ -12373,8 +12413,8 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 42311680,
-      "sha256": "3efae23fecff99388af3766c1f8306930e405eb2db368007ab277ae5b40b9cae"
+      "size": 42375680,
+      "sha256": "80b3d4679feda364a72a4b5402e20c2320731454fb25221b87930a2b259b2e9e"
     },
     {
       "path": "icon.ico",
@@ -13383,7 +13423,7 @@
     {
       "path": "plugins/plugins.dat",
       "size": 256718,
-      "sha256": "8f835a3966e6443ed22a6624edcea4a77a8d91540d16c85117e73a098c25ce70"
+      "sha256": "20f8e13a4638bf45b764d2f0f2bf1df1e604aa3804394b40d2bd75d3ab1180ac"
     },
     {
       "path": "plugins/services_discovery/libmediadirs_plugin.dll",

@@ -87,7 +87,7 @@ local function setFilterActive(active)
 		var filters = [];
 		if (]] .. tostring(active) .. [[ && holder != null && holder.shader != null)
 			filters.push(new ShaderFilter(holder.shader));
-		if (ntsc != null && ntsc.shader != null)
+		if (ntsc != null && ntsc.shader != null && ntsc.alpha > 0.001)
 			filters.push(new ShaderFilter(ntsc.shader));
 		game.camGame.setFilters(filters);
 	]])

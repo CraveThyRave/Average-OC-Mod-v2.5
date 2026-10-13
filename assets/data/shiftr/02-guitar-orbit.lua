@@ -3,6 +3,7 @@ local t = 0
 local speed = 1.6
 local spinSpeed = 400
 local guitarScale = 0.4
+local guitarAngle = 0
 
 local introDone = false
 local exiting = false
@@ -101,11 +102,11 @@ function onStepHit()
 end
 
 function onUpdate(elapsed)
-
-    
+    guitarAngle = (guitarAngle + elapsed * spinSpeed) % 360
+    if not introStarted or (outroStarted and getProperty('guitar.alpha') <= 0) then return end
     setProperty(
         'guitar.angle',
-        getProperty('guitar.angle') + elapsed * spinSpeed
+        guitarAngle
     )
 
     
