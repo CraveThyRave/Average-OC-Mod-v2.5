@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phoenix ground.png">
+<SubTexture name="phoenix ground rock0000" x="1033" y="385" width="349" height="320" frameX="-57" frameY="-50" frameWidth="447" frameHeight="429" />
+<SubTexture name="phoenix ground rock0001" x="548" y="462" width="344" height="309" frameX="-58" frameY="-56" frameWidth="447" frameHeight="429" />
+<SubTexture name="phoenix ground grass0000" x="1033" y="0" width="574" height="385" frameX="0" frameY="-33" frameWidth="609" frameHeight="457" />
+<SubTexture name="phoenix ground grass0001" x="0" y="462" width="548" height="413" frameX="-2" frameY="0" frameWidth="609" frameHeight="457" />
+<SubTexture name="phoenix ground leaf0000" x="517" y="0" width="516" height="457" frameX="-41" frameY="-21" frameWidth="596" frameHeight="481" />
+<SubTexture name="phoenix ground leaf0001" x="0" y="0" width="517" height="462" frameX="-41" frameY="-19" frameWidth="596" frameHeight="481" />
+</TextureAtlas>

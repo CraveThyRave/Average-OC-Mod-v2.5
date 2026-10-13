@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="late.png">
+<SubTexture name="late spider0000" x="0" y="0" width="506" height="396" frameX="0" frameY="0" frameWidth="509" frameHeight="398" />
+<SubTexture name="late spider0001" x="506" y="0" width="504" height="396" frameX="-5" frameY="-2" frameWidth="509" frameHeight="398" />
+<SubTexture name="late locust0000" x="365" y="396" width="357" height="235" frameX="0" frameY="-3" frameWidth="385" frameHeight="279" />
+<SubTexture name="late locust0001" x="0" y="396" width="365" height="255" frameX="-1" frameY="0" frameWidth="385" frameHeight="279" />
+</TextureAtlas>

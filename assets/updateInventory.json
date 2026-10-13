@@ -1,5 +1,5 @@
 {
-  "version": "2.5.17",
+  "version": "2.5.18",
   "files": [
     {
       "path": ".gitattributes",
@@ -962,9 +962,9 @@
     },
     {
       "path": "assets/data/hodgepodge/hodgepodge-hard.json",
-      "size": 163838,
-      "sha256": "adfed087d1f75ae3142d693a5aedbc26fbe711756d06d1819952974858d20f13",
-      "textSha256": "adfed087d1f75ae3142d693a5aedbc26fbe711756d06d1819952974858d20f13"
+      "size": 163677,
+      "sha256": "8dae715d61fd1e43cc4c2e8c33707647920d5a6e01944a6b532ba8f168d046ad",
+      "textSha256": "8dae715d61fd1e43cc4c2e8c33707647920d5a6e01944a6b532ba8f168d046ad"
     },
     {
       "path": "assets/data/hodgepodge/hodgepodge.json",
@@ -1829,6 +1829,16 @@
       "sha256": "a129485c40d8d78b5a7fff1e398916f0c63341965c2124647b317b3016b6481e"
     },
     {
+      "path": "assets/images/achievements/city.png",
+      "size": 13935,
+      "sha256": "7d99fc6b6d462745e0158d16b72b49d6e568d45ffb13e920fb2ae905c0a063a2"
+    },
+    {
+      "path": "assets/images/achievements/cityrav.png",
+      "size": 14646,
+      "sha256": "cacc163b1cf08e9e1aaca2866f3c4222b53aa46dff418ee80657e2abe241b2d8"
+    },
+    {
       "path": "assets/images/achievements/Close.png",
       "size": 14003,
       "sha256": "694640aca07813b9974fbc690c066efb271b98b15b7fa44b3169724e465bd525"
@@ -1867,6 +1877,11 @@
       "path": "assets/images/achievements/enough.png",
       "size": 12735,
       "sha256": "5464ab3f2e6e9c2b1ff76cce9e9dc73272f7f011522e5a219a211e39751e7f1e"
+    },
+    {
+      "path": "assets/images/achievements/erryday.png",
+      "size": 22193,
+      "sha256": "86e5f05be4396ae1a16a839984b1e2acb4118ace55b95c456b1d6f36301efe7b"
     },
     {
       "path": "assets/images/achievements/fah-high.png",
@@ -1967,6 +1982,11 @@
       "path": "assets/images/achievements/Intro.png",
       "size": 19277,
       "sha256": "7afd7958467da16d80ce6316ebe165a7a922b9cd6f5765600ab8e75d56e9b47e"
+    },
+    {
+      "path": "assets/images/achievements/life2phee.png",
+      "size": 15750,
+      "sha256": "ce9e06ee872967382ccc44ce78d6be3a6cf32a7d01316c58ae70ed55e85f9173"
     },
     {
       "path": "assets/images/achievements/Loading.png",
@@ -2117,6 +2137,11 @@
       "path": "assets/images/achievements/raven-high.png",
       "size": 13354,
       "sha256": "dc166f281a0fac40a0209d3b0361b48f79d0500288910330ad85aeb688e97d02"
+    },
+    {
+      "path": "assets/images/achievements/reachspace.png",
+      "size": 16780,
+      "sha256": "46c443ace38c0518df4edb6e43714f4c39ff69c599e511ab5e876bd807a0f030"
     },
     {
       "path": "assets/images/achievements/scrolling-border.png",
@@ -6212,6 +6237,12 @@
       "sha256": "7f0f7568da0f3d03e2676f8333bacdda2602e4725d0cb2cf3cc4bb5a53f0b156"
     },
     {
+      "path": "assets/images/friendly/verity-video.json",
+      "size": 64437,
+      "sha256": "ddeb9b145e87a8df4cddea92b4b4add9965041318708125f113fa4307388b143",
+      "textSha256": "ddeb9b145e87a8df4cddea92b4b4add9965041318708125f113fa4307388b143"
+    },
+    {
       "path": "assets/images/gameOver/what-the-fah-pencil.png",
       "size": 207591,
       "sha256": "7957ce9b51edbe39dcc4cfc9d96aff97cb38884f1d8a066693e9417aa503a592"
@@ -8700,6 +8731,61 @@
       "sha256": "425a92fc59b3f277adae000b3c0b3129898387599ad0942892196f1f496230e3"
     },
     {
+      "path": "assets/images/shop/games/background/fahket.png",
+      "size": 67248,
+      "sha256": "c9dc8714a8128be6ece70098923f26b5be157ed7e4225b15964563d97d205035"
+    },
+    {
+      "path": "assets/images/shop/games/background/fahket.xml",
+      "size": 368,
+      "sha256": "f8293e3f3b5e48985e7f7213947839db79b1f7e95715f3361e8e03c0a065450e",
+      "textSha256": "cda77a38e760380f4cb0797c5a704dbd61d2df2ee66e7317c37031167b9701b9"
+    },
+    {
+      "path": "assets/images/shop/games/background/later stages.png",
+      "size": 1264667,
+      "sha256": "8818e02cafd0e25d207ffd270e42e5dce2e8cf6e968c5b3875afc5aae9c0c3b3"
+    },
+    {
+      "path": "assets/images/shop/games/background/later stages.xml",
+      "size": 1268,
+      "sha256": "5c952590bcdd9691e7e9cc639fa87080ac92a267284646e3c251c3d7b28967f3",
+      "textSha256": "e943615740d6688d18a8dfba5c3082704db3081fd089c8217e3b761e5712fa91"
+    },
+    {
+      "path": "assets/images/shop/games/background/raven.png",
+      "size": 274068,
+      "sha256": "3c7b6a4e78d2a4071681257381adb6022fe30946447930de69087180d6bfd488"
+    },
+    {
+      "path": "assets/images/shop/games/background/raven.xml",
+      "size": 918,
+      "sha256": "4e1d6354decd7efccd9ef1d18ee59bdfd8eed35d96feb20db75266f28ec1352f",
+      "textSha256": "9e97dd3cc6045caea85038f813a707aeab746c64f88e961515bf7c6899354f39"
+    },
+    {
+      "path": "assets/images/shop/games/background/stars.png",
+      "size": 38035,
+      "sha256": "9de1d4b14ae82bafc70f421a9985f77fdd89cd69253128ea054ad403324f676e"
+    },
+    {
+      "path": "assets/images/shop/games/background/stars.xml",
+      "size": 363,
+      "sha256": "16795d39570404e0bc7a6dca4f46aa859b118638738ad682719960f01446f232",
+      "textSha256": "657467ae1d679049854373291d047389bc0afcba39b2dfc57d762adebed13dcb"
+    },
+    {
+      "path": "assets/images/shop/games/coin.png",
+      "size": 28296,
+      "sha256": "bea01d325ebbbd29573b60ad7f2ffd00b29f39e48032e29de1e9fb739b612c69"
+    },
+    {
+      "path": "assets/images/shop/games/coin.xml",
+      "size": 358,
+      "sha256": "32904d5d8e1551465c311cfcc24fba9569bbb9b8095acea6bb330579b93ce543",
+      "textSha256": "494c7871c7ed5b266777ec39343e0cb6c88b37361df66617f4cdd28c958d4573"
+    },
+    {
       "path": "assets/images/shop/games/cookie/cookie-art.png",
       "size": 52312,
       "sha256": "874ca59fa237be4f021c88bfbae178d9e9c347aae8a540faed5f8087d53f69ee"
@@ -8838,6 +8924,17 @@
       "textSha256": "bf5f68a888fecf5fd38969195be0cb3b0ba25e679f426a9a28088d80a38a3f84"
     },
     {
+      "path": "assets/images/shop/games/dinosaur/late.png",
+      "size": 133119,
+      "sha256": "52ed943e06494a5e4d78ab1e81581b221eb5eb1b2fb8acf7dc60e1dd75c66dce"
+    },
+    {
+      "path": "assets/images/shop/games/dinosaur/late.xml",
+      "size": 636,
+      "sha256": "8fd6e19fd7dd8bd137515b3fa06cf79ab7ab4ee19885fd20e5dc14c85e27ceb8",
+      "textSha256": "ba7d778b92f419b54a1e9a7d3411432ec783835f617fa795774130ea0b8691ce"
+    },
+    {
       "path": "assets/images/shop/games/dinosaur/sun-lines.png",
       "size": 189032,
       "sha256": "f4164cc9e37f9b657e784f87bf4e9d7765a42354fda7c813edb99d149cb57a98"
@@ -8922,9 +9019,52 @@
       "sha256": "483bea3e69df37b43d58ed49c21a3cf44f20274a6fb1100e234065d82e42ee80"
     },
     {
+      "path": "assets/images/shop/games/snake/bigrock-0.png",
+      "size": 29769,
+      "sha256": "ae5888c8e83e281e710ec92db21d2ed05685ecc4e0fc4fb08f234987d637eb81"
+    },
+    {
+      "path": "assets/images/shop/games/snake/bigrock-1.png",
+      "size": 29729,
+      "sha256": "9ff58a043a1a7efbb206c73b53c1f5377b72be185307ce27631d7b6f5c6ab8b8"
+    },
+    {
+      "path": "assets/images/shop/games/snake/clam.png",
+      "size": 38455,
+      "sha256": "ee39a1b27e9da7af6890497a2d484995479bf0d0c76c179df11a032a3d537404"
+    },
+    {
+      "path": "assets/images/shop/games/snake/clam.xml",
+      "size": 364,
+      "sha256": "bba4d17f0f37757142af1ac5df68ee7bf9df014eabd2cd54a91664d40d6739d1",
+      "textSha256": "396dc3a34a04f29374883a60a38dbd3a4415df034e930862569f9a182deb10bb"
+    },
+    {
+      "path": "assets/images/shop/games/snake/lobbster.png",
+      "size": 51125,
+      "sha256": "419bbde51a70be4c70a41c2f55c64cbb9f08e7a4ebb7d490da7de1453700dd07"
+    },
+    {
+      "path": "assets/images/shop/games/snake/lobbster.xml",
+      "size": 376,
+      "sha256": "de1053bd71ca84b7fa20627f93f95b76b10b6b713bb5b4e152c7a7dbd9fb21bd",
+      "textSha256": "8b38d3f7637e830fcb693eccca91089bbacc390559eca1f0c11b5d0df9c9b8d6"
+    },
+    {
       "path": "assets/images/shop/games/snake/pheebg.png",
       "size": 204076,
       "sha256": "d29828246cc1246290f9e3941f6915f79ba57a329a62de4cf3d1a794463cbc89"
+    },
+    {
+      "path": "assets/images/shop/games/snake/phoenix ground.png",
+      "size": 192606,
+      "sha256": "0157248dd5ac6d8ed328a3d5c023fcf3962dc3d2743e0680f57914b07f24befb"
+    },
+    {
+      "path": "assets/images/shop/games/snake/phoenix ground.xml",
+      "size": 985,
+      "sha256": "78ce5f5e31c54f3edd6bab1229e4623a5f67220ea1d0e43509fa865c76716508",
+      "textSha256": "4c103f1de0b0ac8d8f4ebd027a1e3d00e3733711dd5d58cd8d6774a1dacc77ec"
     },
     {
       "path": "assets/images/shop/games/snake/phoenix.png",
@@ -8936,6 +9076,17 @@
       "size": 923,
       "sha256": "dc7c1bc25bfc24ea11a359ccec29aaceb15f96778ddc14fc4b4d6ccdf3990bfb",
       "textSha256": "eeecb6a7ac32543e67c97ebb8ecd69c14ae3e30304ae128099b7db0ff50f9308"
+    },
+    {
+      "path": "assets/images/shop/games/snake/scissors.png",
+      "size": 85301,
+      "sha256": "2f50f322e28ae95b83a8152ccc6ba42dd1103fcf6182e8647b88244ec11fd767"
+    },
+    {
+      "path": "assets/images/shop/games/snake/scissors.xml",
+      "size": 372,
+      "sha256": "5d0dfd3b65fee25200380104a9041e45a63855144500471a08c06ba140d8bc2c",
+      "textSha256": "8a83d32370c2699748a34536f60f1deaa915a0c2359e103ffa596d5a08cacf44"
     },
     {
       "path": "assets/images/shop/games/snake/shrimp.png",
@@ -10662,9 +10813,9 @@
     },
     {
       "path": "assets/shaders/ntsc.frag",
-      "size": 4183,
-      "sha256": "800a16778d5e4871c2dfd60e3b97e8d5463174f3f67e1e618d025630ed2026bb",
-      "textSha256": "acededc54ddfc90a528d6e0717e97d2ea61f0addf2a025fe27757b4e35710310"
+      "size": 3328,
+      "sha256": "23a9caf2d991195b4477e96ea4b8dfd49454251c33cf61a48624cd9dd7cfccff",
+      "textSha256": "2bc49f2632ba386e78ac167fb8fbe73491f73eb01227799d6b888b2c84e9f27b"
     },
     {
       "path": "assets/shaders/pixel.frag",
@@ -10680,15 +10831,15 @@
     },
     {
       "path": "assets/shaders/uh.frag",
-      "size": 2401,
-      "sha256": "977d073cc096af8e218c28e69a3d5d102499b7940d7a879fbfba5b23f625fe4a",
-      "textSha256": "0f74c1ee67ffe75b32367de49470dedb6c554ce980af525c86fb66d3207fb20e"
+      "size": 2507,
+      "sha256": "6c89fa5cb9d74043a30741dbdcd6aa28ed882ccc3be1e9d3a7d0f242047aac9f",
+      "textSha256": "ec31d1e9061679d6e174bb2473b1cedebd0c090dc3665f8a1bc6833b52e72833"
     },
     {
       "path": "assets/shaders/void.frag",
-      "size": 1665,
-      "sha256": "80a43edb3bc91c75d4da6388a95ba0d369711bc29aa574f5f0b469db498fa316",
-      "textSha256": "42457edded8d8d4f01f2cfccd7876dab431ebd39a36050a1fc7b8553b0efa7c0"
+      "size": 1543,
+      "sha256": "4a5b517c3a442e51bfd1ddd3ac5f3544c7f6c2138452f85d9500de721b4bba42",
+      "textSha256": "99b2525c52a20877d7a7774a67ee0562a1cb4bb6aebcb570fd3ef56492459d80"
     },
     {
       "path": "assets/shared/images/bad.png",
@@ -11662,6 +11813,11 @@
       "sha256": "3973f8fb5af913a7f76ef5291cd78bf973e190b09866bcafbcaf3fa14c54d103"
     },
     {
+      "path": "assets/sounds/friendly/verity.ogg",
+      "size": 12013,
+      "sha256": "2890136ca797fc0607f533640e8a3118ef81e1ca1d3b2c5bdf439a08a32d62c7"
+    },
+    {
       "path": "assets/sounds/gameOver.ogg",
       "size": 709995,
       "sha256": "0cb7c7c955aa1bfb6b78bda9e54b99de538946afd86ea310aabeb082f879e9b1"
@@ -11915,6 +12071,11 @@
       "path": "assets/sounds/shop/games/flappy/raven-flap.ogg",
       "size": 7168,
       "sha256": "8777465403fdb37316564abe62fb9e2508ab5f423b02bc6e14a35b8e5a387d8c"
+    },
+    {
+      "path": "assets/sounds/shop/games/snake/scissors.ogg",
+      "size": 158182,
+      "sha256": "3d368ed73e2128fdca2b0d5ca919c271a73fccab54badd1376f1439cf0cf9c80"
     },
     {
       "path": "assets/sounds/shop/games/snake/shrimp-bite.ogg",
@@ -12413,8 +12574,8 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 42375680,
-      "sha256": "80b3d4679feda364a72a4b5402e20c2320731454fb25221b87930a2b259b2e9e"
+      "size": 42598912,
+      "sha256": "2072a83cf8678708c0ab7a2efefe6867372fb75c42045c5725b9f437544791fd"
     },
     {
       "path": "icon.ico",

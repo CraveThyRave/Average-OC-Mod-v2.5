@@ -30,6 +30,8 @@ float noise(vec2 v) {
 }
 
 void main() {
+	vec4 source = flixel_texture2D(bitmap, openfl_TextureCoordv);
+	if(source.a == 0.0 || u_mix <= 0.0) { gl_FragColor = source; return; }
 	vec2 uv = openfl_TextureCoordv * openfl_TextureSize / openfl_TextureSize.y * u_scale - u_time / 1e1;
 	vec3 weight = vec3(0.0);
 	for (float i = 0.0; i < 2.0; i++) {
@@ -44,10 +46,7 @@ void main() {
 		weight += vec3(wave * 0.9950041653 - side, wave, wave * 0.9950041653 + side);
 	}
 	
-	// The old 0.9-1.0 range was effectively invisible on the solid-white stage
-	// backgrounds. Keep u_mix as a conventional 0-1 blend while giving the
-	// generated void pattern enough contrast to be clearly visible.
 	vec3 voidColor = smoothstep(-0.25, 0.25, weight) * 0.75 + 0.1;
 	gl_FragColor = vec4(mix(vec3(1.0), voidColor, clamp(u_mix, 0.0, 1.0)), 1.0)
-		* flixel_texture2D(bitmap, openfl_TextureCoordv);
+		* source;
 }

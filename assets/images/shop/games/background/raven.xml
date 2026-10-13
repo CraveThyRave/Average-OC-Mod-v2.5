@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="raven.png">
+<SubTexture name="raven plane0000" x="879" y="781" width="282" height="115" frameX="-11" frameY="-23" frameWidth="309" frameHeight="172" />
+<SubTexture name="raven plane0001" x="599" y="781" width="280" height="118" frameX="-11" frameY="-24" frameWidth="309" frameHeight="172" />
+<SubTexture name="raven moon0000" x="802" y="0" width="800" height="762" frameX="0" frameY="-12" frameWidth="806" frameHeight="781" />
+<SubTexture name="raven moon0001" x="0" y="0" width="802" height="781" frameX="-4" frameY="0" frameWidth="806" frameHeight="781" />
+<SubTexture name="raven birds0000" x="309" y="781" width="290" height="160" frameX="-6" frameY="-7" frameWidth="309" frameHeight="172" />
+<SubTexture name="raven birds0001" x="0" y="781" width="309" height="172" frameX="0" frameY="0" frameWidth="309" frameHeight="172" />
+</TextureAtlas>
