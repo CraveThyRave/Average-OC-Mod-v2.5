@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="later stages.png">
+<SubTexture name="later stages ast10000" x="286" y="1612" width="295" height="276" frameX="-33" frameY="-5" frameWidth="328" frameHeight="313" />
+<SubTexture name="later stages ast10001" x="0" y="1612" width="286" height="280" frameX="-34" frameY="0" frameWidth="328" frameHeight="313" />
+<SubTexture name="later stages ast20000" x="581" y="1612" width="240" height="237" frameX="-1" frameY="-25" frameWidth="264" frameHeight="262" />
+<SubTexture name="later stages ast20001" x="821" y="1612" width="233" height="231" frameX="0" frameY="-31" frameWidth="264" frameHeight="262" />
+<SubTexture name="later stages build10000" x="2179" y="0" width="818" height="1519" frameX="-3" frameY="-6" frameWidth="821" frameHeight="1530" />
+<SubTexture name="later stages build10001" x="1358" y="0" width="821" height="1530" frameX="0" frameY="0" frameWidth="821" frameHeight="1530" />
+<SubTexture name="later stages build20000" x="680" y="0" width="678" height="1593" frameX="-2" frameY="-3" frameWidth="680" frameHeight="1612" />
+<SubTexture name="later stages build20001" x="0" y="0" width="680" height="1612" frameX="0" frameY="0" frameWidth="680" frameHeight="1612" />
+</TextureAtlas>

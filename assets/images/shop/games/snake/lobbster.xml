@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lobbster.png">
+<SubTexture name="lobbster idle0000" x="0" y="0" width="286" height="270" frameX="-12" frameY="-13" frameWidth="298" frameHeight="330" />
+<SubTexture name="lobbster idle0001" x="286" y="0" width="268" height="262" frameX="-13" frameY="-12" frameWidth="298" frameHeight="330" />
+</TextureAtlas>
