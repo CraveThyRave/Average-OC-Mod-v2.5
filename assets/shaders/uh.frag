@@ -2,25 +2,29 @@
 
 uniform float effectStrength;
 
-float curve(float value, float amount, float correction)
+vec3 curve(vec3 value)
 {
-    float base = value < 0.5 ? 0.5 * pow(2.0 * value, amount) : 1.0 - 0.5 * pow(2.0 * (1.0 - value), amount);
-    return pow(base, correction);
+    vec3 lower = step(value, vec3(0.5));
+    vec3 base = 2.0 * mix(1.0 - value, value, lower);
+    base = vec3(pow(base.r, 2.1), pow(base.g, 2.3), base.b * base.b) * 0.5;
+    base = mix(1.0 - base, base, lower);
+    return vec3(base.r, pow(base.g, 0.85), pow(base.b, 0.8));
 }
 
 float flareSample(vec2 uv, vec2 offset, float threshold)
 {
-    float a = flixel_texture2D(bitmap, uv + offset).r;
-    float b = flixel_texture2D(bitmap, uv - offset).r;
+    float a = texture2D(bitmap, uv + offset).r;
+    float b = texture2D(bitmap, uv - offset).r;
     return step(threshold, max(a, b));
 }
 
 void main()
 {
     vec2 uv = openfl_TextureCoordv;
-    vec4 original = flixel_texture2D(bitmap, uv);
+    vec4 original = texture2D(bitmap, uv);
     float strength = clamp(effectStrength, 0.0, 1.0);
     if(strength <= 0.001) { gl_FragColor = original; return; }
+    if(original.a == 0.0) { gl_FragColor = vec4(0.0); return; }
     if(uv.y < 0.1 || uv.y > 0.9)
     {
         gl_FragColor = vec4(original.rgb * (1.0 - strength), original.a);
@@ -29,12 +33,12 @@ void main()
     vec2 delta = uv - 0.5;
     vec2 aberration = 0.022 * delta * delta * delta;
     vec3 color = vec3(0.0, original.g * 0.9961, 0.0);
-    float weight = 0.5;
-    for(int i = 1; i <= 8; i++)
+    float weight = 0.75;
+    for(int i = 1; i <= 4; i++)
     {
-        color.r += flixel_texture2D(bitmap, uv - float(i) * aberration).r * weight;
-        color.b += flixel_texture2D(bitmap, uv + float(i) * aberration).b * weight;
-        weight *= 0.5;
+        color.r += texture2D(bitmap, uv - (float(i) * 2.0 - 0.6666666667) * aberration).r * weight;
+        color.b += texture2D(bitmap, uv + (float(i) * 2.0 - 0.6666666667) * aberration).b * weight;
+        weight *= 0.25;
     }
     color *= 0.97;
     vec3 mapped = (color * (2.51 * color + 0.03)) / (color * (2.43 * color + 0.59) + 0.14);
@@ -42,7 +46,7 @@ void main()
     vec3 powered = pow(color, vec3(2.2));
     vec3 glow = powered * (1.0 + 0.99998 * smoothstep(0.58, 0.78, dot(powered, vec3(1.0 / 3.0))));
     color = mix(color, clamp(0.02 + glow * 1.08, 0.0, 1.0), 0.5);
-    color = mix(color, vec3(curve(color.r, 2.1, 1.0), curve(color.g, 2.3, 0.85), curve(color.b, 2.0, 0.8)), 0.45);
+    color = mix(color, curve(color), 0.45);
     float flare = step(0.94, original.r);
     for(int j = 0; j < 9; j++)
     {
