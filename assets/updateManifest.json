@@ -1,12 +1,26 @@
 {
   "format": 2,
-  "version": "2.5.20",
-  "baseVersion": "2.5.19",
+  "version": "2.5.21",
+  "baseVersion": "2.5.20",
   "files": [
     {
+      "path": "assets/shaders/ntsc.frag",
+      "size": 3842,
+      "sha256": "7e0c14e9af7dd0c74af151adc569c6041d9de20abcc3089d46c60efc21f78d37",
+      "textSha256": "7e0c14e9af7dd0c74af151adc569c6041d9de20abcc3089d46c60efc21f78d37",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shaders/uh.frag",
+      "size": 3111,
+      "sha256": "2a8a36dbbd1f03706d78a4a4ada3ce698350ca1fc3d60d9e8c28c16126c39213",
+      "textSha256": "2a8a36dbbd1f03706d78a4a4ada3ce698350ca1fc3d60d9e8c28c16126c39213",
+      "change": "changed"
+    },
+    {
       "path": "Average OC Mod.exe",
-      "size": 42795520,
-      "sha256": "9c230551f60def0f728139f0aca68a3af3f42c373704a5106e076db94ab4d3ec",
+      "size": 42820096,
+      "sha256": "afba0e0ffb06e21316ef9ff948238e0f3885859e7c32c1c3afb49eba21297a4b",
       "change": "changed"
     }
   ],
