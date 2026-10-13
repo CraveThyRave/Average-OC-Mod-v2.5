@@ -1,5 +1,5 @@
 {
-  "version": "2.5.18",
+  "version": "2.5.19",
   "files": [
     {
       "path": ".gitattributes",
@@ -1412,9 +1412,9 @@
     },
     {
       "path": "assets/data/skyline/ntsc-transition.lua",
-      "size": 5136,
-      "sha256": "2cb2160bffbeabbd5c29edbb08a6dd35df71521e374f637960f9e076775270f3",
-      "textSha256": "2cb2160bffbeabbd5c29edbb08a6dd35df71521e374f637960f9e076775270f3"
+      "size": 5422,
+      "sha256": "4605f1feda104f50c5d0cadf29c89e519b8f0e9e999409fb93943a4e95c6b60c",
+      "textSha256": "fbc514dd6e4e3f0e314a1d0b0078caea4b4285f66d7600e98149f47cd9ba53ac"
     },
     {
       "path": "assets/data/skyline/pause.txt",
@@ -1424,9 +1424,9 @@
     },
     {
       "path": "assets/data/skyline/scrolling.lua",
-      "size": 7866,
-      "sha256": "e03e0b08ef783d4b70714761bd30ae418b5195e184bbb26ecf8641b9bf222cfe",
-      "textSha256": "e03e0b08ef783d4b70714761bd30ae418b5195e184bbb26ecf8641b9bf222cfe"
+      "size": 8170,
+      "sha256": "e9c635d0acc15f0bf4ede529076764546527a46b05cc3654cd8c421d535f8b16",
+      "textSha256": "94a5c8124df3b0f0fb8393ff96c9694f742971da15af569fdbe65cc2eebb2c67"
     },
     {
       "path": "assets/data/skyline/skyline-hard.json",
@@ -1887,6 +1887,16 @@
       "path": "assets/images/achievements/fah-high.png",
       "size": 14154,
       "sha256": "cff7705c75c58273784089195faeff6fa2f4995c1482cee66266a44a1f64c365"
+    },
+    {
+      "path": "assets/images/achievements/fah-rebirth.png",
+      "size": 14315,
+      "sha256": "dd5c30b986ac2bbf38ad8f833febc9b8ff4be18e23125a1565fa3ac6085ac511"
+    },
+    {
+      "path": "assets/images/achievements/fah-secrets.png",
+      "size": 11117,
+      "sha256": "305786280d4bb05cf971a82edc5f9f88f7e6607557e4800fb5ce43e65824c6f9"
     },
     {
       "path": "assets/images/achievements/FC/Main.png",
@@ -8812,6 +8822,39 @@
       "sha256": "0961327682cb7c5ceaaecfff3c492785e040ae52d2ef4264182b9c7085946c5a"
     },
     {
+      "path": "assets/images/shop/games/cookie/late-upgrades.png",
+      "size": 943002,
+      "sha256": "655cb726df13b3d25093504f544c64d02a9f009a9cb0cfcb81b6382c82aa9056"
+    },
+    {
+      "path": "assets/images/shop/games/cookie/late-upgrades.xml",
+      "size": 1977,
+      "sha256": "2612b3744e978c0e9f0632939338b9ca6a712d847c84c59a4c51958fa0e09cd8",
+      "textSha256": "0595aa7f53c790e4c532c1dac586632dff9c1992318cc2b6834bc08ed80c5aaa"
+    },
+    {
+      "path": "assets/images/shop/games/cookie/rebirth.png",
+      "size": 211530,
+      "sha256": "191f64006458b162c2dd5ca6f9689590635bf02a2ccca0c3703047b25737cc80"
+    },
+    {
+      "path": "assets/images/shop/games/cookie/rebirth.xml",
+      "size": 648,
+      "sha256": "c7bfaf51df9b7deafaf8f39c268ebfcacb998d4752b5927e157e01517904bcca",
+      "textSha256": "15a131f69f46d5449d86f28fecb393431651edccf30b3c42174102c8ece3d3b7"
+    },
+    {
+      "path": "assets/images/shop/games/cookie/references.png",
+      "size": 941912,
+      "sha256": "ad48b0e0f7c3e18f3b57a0fe36ebea4b4caadc74ab0bd0c657d91d2f25f88720"
+    },
+    {
+      "path": "assets/images/shop/games/cookie/references.xml",
+      "size": 1556,
+      "sha256": "c18fd62cfa8954ff1721cd96b30fe7fb8045569286997393f1573e381bfa8732",
+      "textSha256": "2767015b915243355f09c54218610532e27afeb8e5501be9d714c8169b7d7966"
+    },
+    {
       "path": "assets/images/shop/games/cookie/upgrades.png",
       "size": 1667530,
       "sha256": "36da5dd5571b4c4eba8cbcda6f9ad17c5e8c53b7679dcfca2304d8cd2fbed119"
@@ -10813,9 +10856,9 @@
     },
     {
       "path": "assets/shaders/ntsc.frag",
-      "size": 3328,
-      "sha256": "23a9caf2d991195b4477e96ea4b8dfd49454251c33cf61a48624cd9dd7cfccff",
-      "textSha256": "2bc49f2632ba386e78ac167fb8fbe73491f73eb01227799d6b888b2c84e9f27b"
+      "size": 3617,
+      "sha256": "d52583cc7ef9a8f4856a64203e26a11c8cd0ed8772b6d35f18a69e9cb54b6cc3",
+      "textSha256": "2608603b454eca182bf6af6d70614a9c659ea85f3b1f4650080dc5b02780e9e5"
     },
     {
       "path": "assets/shaders/pixel.frag",
@@ -10831,9 +10874,9 @@
     },
     {
       "path": "assets/shaders/uh.frag",
-      "size": 2507,
-      "sha256": "6c89fa5cb9d74043a30741dbdcd6aa28ed882ccc3be1e9d3a7d0f242047aac9f",
-      "textSha256": "ec31d1e9061679d6e174bb2473b1cedebd0c090dc3665f8a1bc6833b52e72833"
+      "size": 2796,
+      "sha256": "d72c6b27b5b0edbb7f0f0502d3ad15d818fd3f190f1a3d0907b509095d847885",
+      "textSha256": "49153a885553ddeca6c8863d483f48c31e0de67daeb74713660b270194c12871"
     },
     {
       "path": "assets/shaders/void.frag",
@@ -12574,8 +12617,8 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 42598912,
-      "sha256": "2072a83cf8678708c0ab7a2efefe6867372fb75c42045c5725b9f437544791fd"
+      "size": 42795520,
+      "sha256": "d7dcbf5439475418e65a627420fe626ec7a9f376f24d24a285b7b189f0eee87d"
     },
     {
       "path": "icon.ico",

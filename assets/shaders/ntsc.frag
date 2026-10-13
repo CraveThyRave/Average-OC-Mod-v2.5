@@ -4,11 +4,14 @@
 uniform int uFrame;
 uniform float uInterlace;
 uniform float effectStrength;
+uniform vec4 effectArea;
 
 void main()
 {
     vec2 uv = openfl_TextureCoordv;
     vec4 original = texture2D(bitmap, uv);
+    vec2 pixelPosition = uv * openfl_TextureSize;
+    if(effectArea.z > effectArea.x && (pixelPosition.x < effectArea.x || pixelPosition.y < effectArea.y || pixelPosition.x > effectArea.z || pixelPosition.y > effectArea.w)) { gl_FragColor = original; return; }
     if(effectStrength <= 0.0001) { gl_FragColor = original; return; }
     if(original.a == 0.0) { gl_FragColor = vec4(0.0); return; }
     float pixel = 1.0 / openfl_TextureSize.x;

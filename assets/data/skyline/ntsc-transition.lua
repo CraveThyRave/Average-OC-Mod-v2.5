@@ -33,9 +33,9 @@ local function setFilterActive(active)
 		var scrolling = game.getLuaObject("nolaShaderHolder");
 		var filters = [];
 		if (scrolling != null && scrolling.shader != null && scrolling.alpha > 0.001)
-			filters.push(new ShaderFilter(scrolling.shader));
+			filters.push(new SkylineShaderFilter(scrolling.shader, game.camGame.flashSprite));
 		if (]] .. tostring(active) .. [[ && holder != null && holder.shader != null)
-			filters.push(new ShaderFilter(holder.shader));
+			filters.push(new SkylineShaderFilter(holder.shader, game.camGame.flashSprite));
 		game.camGame.setFilters(filters);
 	]])
 	filterActive = active
@@ -100,7 +100,7 @@ function onCreatePost()
 	setProperty(SHADER_HOLDER .. '.visible', false)
 	addLuaSprite(SHADER_HOLDER, false)
 	if lowQuality then return end
-	addHaxeLibrary('ShaderFilter', 'openfl.filters')
+	addHaxeLibrary('SkylineShaderFilter')
 	shaderReady = initLuaShader(SHADER_NAME)
 	if shaderReady then
 		setSpriteShader(SHADER_HOLDER, SHADER_NAME)
@@ -137,9 +137,9 @@ function onUpdatePost(elapsed)
 			var scrolling = game.getLuaObject("nolaShaderHolder");
 			var ntsc = game.getLuaObject("]] .. SHADER_HOLDER .. [[");
 			if (scrolling != null && scrolling.shader != null)
-				filters.push(new ShaderFilter(scrolling.shader));
+				filters.push(new SkylineShaderFilter(scrolling.shader, game.camGame.flashSprite));
 			if (ntsc != null && ntsc.shader != null)
-				filters.push(new ShaderFilter(ntsc.shader));
+				filters.push(new SkylineShaderFilter(ntsc.shader, game.camGame.flashSprite));
 		game.camGame.setFilters(filters);
 	]])
 		setShaderFloat(SHADER_HOLDER, 'effectStrength', 0.001)
