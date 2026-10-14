@@ -1,28 +1,170 @@
 {
   "format": 2,
-  "version": "2.5.21",
-  "baseVersion": "2.5.20",
+  "version": "2.5.22",
+  "baseVersion": "2.5.21",
   "files": [
     {
-      "path": "assets/shaders/ntsc.frag",
-      "size": 3842,
-      "sha256": "7e0c14e9af7dd0c74af151adc569c6041d9de20abcc3089d46c60efc21f78d37",
-      "textSha256": "7e0c14e9af7dd0c74af151adc569c6041d9de20abcc3089d46c60efc21f78d37",
-      "change": "changed"
+      "path": "assets/images/shop/games/minesweeper/icons.png",
+      "size": 123036,
+      "sha256": "f43335d256c570895aa05237d5e8b5892988a36b7c7b4786f42ed4f74cfc26b7",
+      "change": "added"
     },
     {
-      "path": "assets/shaders/uh.frag",
-      "size": 3111,
-      "sha256": "2a8a36dbbd1f03706d78a4a4ada3ce698350ca1fc3d60d9e8c28c16126c39213",
-      "textSha256": "2a8a36dbbd1f03706d78a4a4ada3ce698350ca1fc3d60d9e8c28c16126c39213",
-      "change": "changed"
+      "path": "assets/images/shop/games/minesweeper/icons.xml",
+      "size": 920,
+      "sha256": "3bf5d04a8042d7eac34134ee7dccdf7cedd337fc1643dffa10468426bd992aa4",
+      "textSha256": "e10eae9a2f0b271a58ab0c4804248b3d83d46e2f5a0a8cc1e17553368749e627",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/minesweeper/little millt.png",
+      "size": 79714,
+      "sha256": "5a92e6ada92403910ff62e74bc7a62dcd0331ed7e9d7e5e80205881a37623a5a",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/minesweeper/little millt.xml",
+      "size": 671,
+      "sha256": "10224b229cd95c8fb5f91b1d3e542bd2d8beea239149128827920d4131e82818",
+      "textSha256": "2ff4e389414fa098e659f14f7a6d3afd59b81425c1d79977cff1c93d58f24e91",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/minesweeper/milbg.png",
+      "size": 353204,
+      "sha256": "ee054bcd1dfa4a8e4a2949b7ee99895eb70154b6278f1b7f571949c6a948f8d2",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/minesweeper/militus head.png",
+      "size": 379942,
+      "sha256": "e33fdf78beab68f65ce65093f9d9e07393c6bc8a44ed54c798c0f8399dd38e56",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/minesweeper/militus head.xml",
+      "size": 995,
+      "sha256": "2821496e56cd7d84bbbd96c278326bbe660bd606c8d9178eb350e8c03a976918",
+      "textSha256": "523fc47d41c29c86ee12797e39551a4352e3941cadbf972b8b976d022873dfeb",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/minesweeper/minesweeper-art.png",
+      "size": 48981,
+      "sha256": "5f74f37f0302dc9b1bf1a4fdedf19b381b38bb121d929a6a5a912018264f2677",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/minesweeper/minesweeper.png",
+      "size": 12922,
+      "sha256": "c05bd845074e4ee0b1d9c87e0e3249e96918b7a1cfbce2c1925bc9903a25669d",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/minesweeper/tiles.png",
+      "size": 215209,
+      "sha256": "78f733c516b81f10c9190c51c336d444a296f33aae04e1aa4bf7f6d1224b92fc",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/minesweeper/tiles.xml",
+      "size": 925,
+      "sha256": "757e12d148c82e7a2d41f1fe75995a2d1db0333e7fa05c1d76abe6242b9cef79",
+      "textSha256": "a7df7017698fd5eef5f59460081c805658f4ee9f01dcf7cdb43b36b0cd40b9c2",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/pong/balls.png",
+      "size": 98938,
+      "sha256": "bf8a4129b78f390d47cd9e03c3aeb6a523c5da48149c12a15a48c300fd4d1c18",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/pong/balls.xml",
+      "size": 1495,
+      "sha256": "79d963c70b9cd905b6e661d4f6d91882a1812a7994dbbba07a92e9fccf6e9e3d",
+      "textSha256": "00b25ddcbfd07396ff5d954fd934f94d3f604f4225005d30d13f254057a1b918",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/pong/bars.png",
+      "size": 28309,
+      "sha256": "1e17726ceb1b45904fd2cd3bca2271e3ef9d852fcdbfb6d271381bb58cde36a7",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/pong/bars.xml",
+      "size": 359,
+      "sha256": "f3d55e83079d2c634c30f65217c5a26b79f1c0c4b3b7c30e9571a35ab7cb1d36",
+      "textSha256": "b48abff861455c7e6950b2cd09a3a773e4f26daeb94313f80faa55ac63b21f02",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/pong/icons.png",
+      "size": 562795,
+      "sha256": "5e41a9cc8ee64a233e140728b3330f24b054eb53477bfdce6c02c80f1310cb31",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/pong/icons.xml",
+      "size": 643,
+      "sha256": "ba7e6257fe5e32757973a4353b4b5daf0f9bc78f743f02c9fb599f333d9a2980",
+      "textSha256": "c3b5ca9b4f070b1c69ff684f602134defd722757d87546c565bb77f89489db49",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/pong/nolamoth.png",
+      "size": 343132,
+      "sha256": "d00ea5cfec2b187004ee0887949b00af6aebb99399d22879f01e170315fd27e5",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/pong/pong-art.png",
+      "size": 68144,
+      "sha256": "04ca61070ac1c0ed971dc8bf33b53c772f2e94b9503d11a601b4f215f55c73bc",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/pong/pong.png",
+      "size": 14742,
+      "sha256": "67bb64b30adb3e5ebe7509fb456315b174f7144942cc095d8612b70180ab88da",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/pong/pushers.png",
+      "size": 78625,
+      "sha256": "a11ef7298b30eea36fb597ada61ad3aee31502889b5a115392c837b8808c85a5",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/pong/pushers.xml",
+      "size": 662,
+      "sha256": "8daf8cff1edf9789e44f111eb7d9a55763833203fc6aad41c6ed81e0945f6728",
+      "textSha256": "2683b12c8ade0afc22594b017c1620793ee044f3b8761d6758b401d3a16e1d1c",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/snake/rock.png",
+      "size": 57117,
+      "sha256": "48f523803c4bf4bc074a8f153d18b3322d184462ddda02994205a23099732c18",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/shop/games/snake/rock.xml",
+      "size": 358,
+      "sha256": "25172b66f88c22eeaffcbefc55428ea90f366d38e0f7869f060eb71edabc8b1a",
+      "textSha256": "a7b8310d04628dd32b58c06b2ed75ec701a7b032417ad914c2022e1207f582e9",
+      "change": "added"
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 42820096,
-      "sha256": "afba0e0ffb06e21316ef9ff948238e0f3885859e7c32c1c3afb49eba21297a4b",
+      "size": 43145216,
+      "sha256": "0c92fe1566ebadfa33c9c67b41f8abfcf727e82806157dc2a4c4bb22db29af56",
       "change": "changed"
     }
   ],
-  "delete": []
+  "delete": [
+    "assets/images/shop/games/snake/bigrock-0.png",
+    "assets/images/shop/games/snake/bigrock-1.png"
+  ]
 }

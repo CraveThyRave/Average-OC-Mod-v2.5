@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pushers.png">
+<SubTexture name="pushers idle0000" x="343" y="0" width="193" height="234" frameX="-138" frameY="-128" frameWidth="424" frameHeight="496" />
+<SubTexture name="pushers idle0001" x="536" y="0" width="194" height="234" frameX="-136" frameY="-127" frameWidth="424" frameHeight="496" />
+<SubTexture name="pushers idle0002" x="158" y="0" width="185" height="208" frameX="-158" frameY="-154" frameWidth="424" frameHeight="496" />
+<SubTexture name="pushers idle0003" x="0" y="307" width="184" height="208" frameX="-159" frameY="-154" frameWidth="424" frameHeight="496" />
+</TextureAtlas>

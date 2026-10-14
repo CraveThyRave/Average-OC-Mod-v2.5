@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icons.png">
+<SubTexture name="icons sigil0000" x="235" y="271" width="229" height="208" frameX="-23" frameY="-87" frameWidth="277" frameHeight="295" />
+<SubTexture name="icons sigil0001" x="464" y="271" width="253" height="204" frameX="0" frameY="-89" frameWidth="277" frameHeight="295" />
+<SubTexture name="icons fire0000" x="0" y="0" width="245" height="271" frameX="-13" frameY="0" frameWidth="277" frameHeight="295" />
+<SubTexture name="icons fire0001" x="245" y="0" width="244" height="262" frameX="-13" frameY="-5" frameWidth="277" frameHeight="295" />
+<SubTexture name="icons time0000" x="0" y="271" width="235" height="250" frameX="-23" frameY="-11" frameWidth="277" frameHeight="295" />
+<SubTexture name="icons time0001" x="489" y="0" width="233" height="251" frameX="-23" frameY="-11" frameWidth="277" frameHeight="295" />
+</TextureAtlas>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="balls.png">
+<SubTexture name="balls normal0000" x="0" y="235" width="178" height="168" frameX="-12" frameY="-15" frameWidth="247" frameHeight="235" />
+<SubTexture name="balls normal0001" x="0" y="403" width="180" height="162" frameX="-11" frameY="-16" frameWidth="247" frameHeight="235" />
+<SubTexture name="balls split side0000" x="178" y="235" width="94" height="168" frameX="-96" frameY="-15" frameWidth="247" frameHeight="235" />
+<SubTexture name="balls split side0001" x="490" y="168" width="92" height="165" frameX="-96" frameY="-16" frameWidth="247" frameHeight="235" />
+<SubTexture name="balls spike0000" x="0" y="0" width="245" height="235" frameX="0" frameY="0" frameWidth="247" frameHeight="235" />
+<SubTexture name="balls spike0001" x="245" y="0" width="245" height="230" frameX="-2" frameY="-3" frameWidth="247" frameHeight="235" />
+<SubTexture name="balls shiny0000" x="272" y="235" width="178" height="168" frameX="-12" frameY="-15" frameWidth="247" frameHeight="235" />
+<SubTexture name="balls shiny0001" x="180" y="403" width="180" height="162" frameX="-11" frameY="-16" frameWidth="247" frameHeight="235" />
+<SubTexture name="balls split0000" x="490" y="0" width="178" height="168" frameX="-12" frameY="-15" frameWidth="247" frameHeight="235" />
+<SubTexture name="balls split0001" x="360" y="403" width="180" height="162" frameX="-11" frameY="-16" frameWidth="247" frameHeight="235" />
+</TextureAtlas>

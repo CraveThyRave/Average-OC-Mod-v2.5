@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="militus head.png">
+<SubTexture name="militus head lose0000" x="540" y="0" width="540" height="426" frameX="0" frameY="0" frameWidth="540" frameHeight="432" />
+<SubTexture name="militus head lose0001" x="1080" y="0" width="536" height="415" frameX="-2" frameY="-10" frameWidth="540" frameHeight="432" />
+<SubTexture name="militus head idle0000" x="0" y="431" width="540" height="426" frameX="0" frameY="0" frameWidth="540" frameHeight="432" />
+<SubTexture name="militus head idle0001" x="1080" y="415" width="536" height="415" frameX="-2" frameY="-10" frameWidth="540" frameHeight="432" />
+<SubTexture name="militus head hover while hold click0000" x="0" y="0" width="540" height="431" frameX="0" frameY="0" frameWidth="540" frameHeight="432" />
+<SubTexture name="militus head hover while hold click0001" x="540" y="431" width="536" height="422" frameX="-2" frameY="-10" frameWidth="540" frameHeight="432" />
+</TextureAtlas>
