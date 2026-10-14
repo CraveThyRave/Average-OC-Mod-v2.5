@@ -1,48 +1,12 @@
 {
   "format": 2,
-  "version": "2.5.23",
-  "baseVersion": "2.5.22",
+  "version": "2.5.24",
+  "baseVersion": "2.5.23",
   "files": [
     {
-      "path": "assets/images/achievements/gqameforminute.png",
-      "size": 13951,
-      "sha256": "268c596d63020ce0b22263aa12fd6a4afca304e32c81085d0dac4d00d869d916",
-      "change": "added"
-    },
-    {
-      "path": "assets/images/achievements/hit30.png",
-      "size": 15633,
-      "sha256": "fd384296e80279df09fabfedd57c047644a288bd2e3535a444589569520cbc65",
-      "change": "added"
-    },
-    {
-      "path": "assets/images/achievements/seeall.png",
-      "size": 10651,
-      "sha256": "d305868cdd48dac1d0c4c13090233f4ab4878a8817d66694d7e96a9742c0ad7f",
-      "change": "added"
-    },
-    {
-      "path": "assets/images/achievements/subminthirty.png",
-      "size": 11657,
-      "sha256": "e3f5eb0f468156ac7b3d68db4d844d46e3fa66713c877dda5dc8a370e03d94de",
-      "change": "added"
-    },
-    {
-      "path": "assets/sounds/shop/games/minesweeper/militusweeper.ogg",
-      "size": 515039,
-      "sha256": "ef0c74179710e1584971551a0004737c404c889a70ad83b4b683d115cabedaf6",
-      "change": "added"
-    },
-    {
-      "path": "assets/sounds/shop/games/pong/mothnola-pong.ogg",
-      "size": 458097,
-      "sha256": "df56377d5d9bd93ad862c575d25b643a4691c5d32725ee3135fd5e352729c0ec",
-      "change": "added"
-    },
-    {
       "path": "Average OC Mod.exe",
-      "size": 43171328,
-      "sha256": "9a0b4218916e2fd06bd71cfece2886f446073300dc1de80833ab4373a937553c",
+      "size": 43174912,
+      "sha256": "11bde8b6c20fe43fe294fd350c0612c2fc6ef2fe40bea5a473cd8f8ee9b75c81",
       "change": "changed"
     }
   ],
