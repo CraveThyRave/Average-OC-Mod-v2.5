@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tiles.png">
+<SubTexture name="tiles shroom0000" x="377" y="0" width="380" height="331" frameX="-30" frameY="-4" frameWidth="413" frameHeight="336" />
+<SubTexture name="tiles shroom0001" x="0" y="0" width="377" height="336" frameX="-33" frameY="0" frameWidth="413" frameHeight="336" />
+<SubTexture name="tiles cacti0000" x="757" y="273" width="406" height="232" frameX="-57" frameY="-40" frameWidth="545" frameHeight="336" />
+<SubTexture name="tiles cacti0001" x="0" y="611" width="403" height="228" frameX="-59" frameY="-41" frameWidth="545" frameHeight="336" />
+<SubTexture name="tiles snowman0000" x="757" y="0" width="545" height="273" frameX="0" frameY="-3" frameWidth="545" frameHeight="336" />
+<SubTexture name="tiles snowman0001" x="0" y="336" width="541" height="275" frameX="-3" frameY="-3" frameWidth="545" frameHeight="336" />
+</TextureAtlas>

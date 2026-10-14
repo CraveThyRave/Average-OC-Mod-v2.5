@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="little millt.png">
+<SubTexture name="little millt idle0000" x="363" y="0" width="353" height="277" frameX="-6" frameY="-2" frameWidth="365" frameHeight="279" />
+<SubTexture name="little millt idle0001" x="0" y="0" width="363" height="279" frameX="-1" frameY="0" frameWidth="365" frameHeight="279" />
+<SubTexture name="little millt walk0000" x="0" y="279" width="353" height="277" frameX="-6" frameY="-2" frameWidth="365" frameHeight="279" />
+<SubTexture name="little millt walk0001" x="353" y="279" width="353" height="277" frameX="-6" frameY="-2" frameWidth="365" frameHeight="279" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="icons.png">
+<SubTexture name="icons moth0000" x="1417" y="0" width="585" height="591" frameX="-157" frameY="-11" frameWidth="742" frameHeight="607" />
+<SubTexture name="icons moth0001" x="0" y="604" width="572" height="596" frameX="-162" frameY="-11" frameWidth="742" frameHeight="607" />
+<SubTexture name="icons nola0000" x="697" y="0" width="563" height="602" frameX="-139" frameY="0" frameWidth="742" frameHeight="607" />
+<SubTexture name="icons nola0001" x="0" y="0" width="558" height="604" frameX="-142" frameY="-3" frameWidth="742" frameHeight="607" />
+</TextureAtlas>
