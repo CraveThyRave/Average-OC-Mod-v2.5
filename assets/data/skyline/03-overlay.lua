@@ -2,9 +2,13 @@ local creditsShown = false
 local creditsHidden = false
 local logoShown = false
 local logoHidden = false
+local cooldownSave = 'songCreditPopups'
+local cooldownSeconds = 3 * 60 * 60
 function onCreate()
 
+  initSaveData(cooldownSave, 'psychenginemods')
   makeLuaSprite('credits', 'Freeplay-Chrs/nola/credits', -630, 50);
+	setProperty('credits.visible', false)
 	scaleObject('credits', 0.65, 0.65);
 	setObjectCamera('credits', 'other')
 	addLuaSprite('credits', false);
@@ -23,7 +27,14 @@ function onStepHit()
 
     if curStep >= 1462 and not creditsShown then
       creditsShown = true
-      doTweenX('credits', 'credits', 0, 0.5, 'Quadout')
+      local now = os.time()
+      local previous = tonumber(getDataFromSave(cooldownSave, 'skyline'))
+      if curStep < 1500 and (not previous or now - previous >= cooldownSeconds) then
+        setProperty('credits.visible', true)
+        doTweenX('credits', 'credits', 0, 0.5, 'Quadout')
+        setDataFromSave(cooldownSave, 'skyline', now)
+        flushSaveData(cooldownSave)
+      end
     end
 
     if curStep >= 1500 and not creditsHidden then
