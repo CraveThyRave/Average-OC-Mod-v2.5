@@ -79,13 +79,10 @@ void main()
 
     vec2 uv = (fragCoord - 0.5 * iResolution.xy) / iResolution.y;
 
-    // camera position
     vec3 ro = vec3(camX, camY, camZ);
 
-    // perspective ray
     vec3 rd = normalize(vec3(uv, -zoom));
 
-    // full 360 rotations
     mat3 rot =
         rotateX(rotX) *
         rotateY(rotY) *
@@ -93,14 +90,12 @@ void main()
 
     rd *= rot;
 
-    // avoid divide by zero
     if(abs(rd.z) < 0.0001)
     {
         gl_FragColor = vec4(0.0);
         return;
     }
 
-    // plane hit
     float t = -ro.z / rd.z;
 
     vec3 p = ro + rd * t;

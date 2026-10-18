@@ -1,16 +1,16 @@
  #pragma header
-            
+
 uniform float strength;
 uniform float pixelsBetweenEachLine;
 uniform float smoothVar;
 
-float m(float a, float b) //was having an issue with mod so i did this to try and fix it
+float m(float a, float b)
 {
 	return a - (b * floor(a/b));
 }
 
 void main()
-{	
+{
 	vec2 iResolution = vec2(1280.0,720.0);
 	vec2 uv = openfl_TextureCoordv.xy;
 	vec2 fragCoordShit = iResolution*uv;
@@ -31,6 +31,6 @@ void main()
 	{
 		scanline = vec4(0.0,0.0,0.0,1.0);
 	}
-	
+
 	gl_FragColor = mix(col, scanline, strength);
 }

@@ -1,5 +1,5 @@
 #pragma header
-		
+
 uniform float strength;
 uniform float intensity;
 
@@ -15,9 +15,6 @@ void main()
 		return;
 	}
 
-	//https://en.wikipedia.org/wiki/Sobel_operator
-	//adsjklalskdfjhaslkdfhaslkdfhj
-
 	vec4 topLeft = flixel_texture2D(bitmap, vec2(uv.x-resFactor.x, uv.y-resFactor.y));
 	vec4 topMiddle = flixel_texture2D(bitmap, vec2(uv.x, uv.y-resFactor.y));
 	vec4 topRight = flixel_texture2D(bitmap, vec2(uv.x+resFactor.x, uv.y-resFactor.y));
@@ -32,6 +29,6 @@ void main()
 	vec4 Gx = (topLeft) + (2.0*midLeft) + (bottomLeft) - (topRight) - (2.0*midRight) - (bottomRight);
 	vec4 Gy = (topLeft) + (2.0*topMiddle) + (topRight) - (bottomLeft) - (2.0*bottomMiddle) - (bottomRight);
 	vec4 G = sqrt((Gx*Gx) + (Gy*Gy));
-	
+
 	gl_FragColor = mix(col, G, strength);
 }

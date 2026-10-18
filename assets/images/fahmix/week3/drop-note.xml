@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="drop-note.png">
+<SubTexture name="green0000" x="137" y="0" width="134" height="188" frameX="-39" frameY="-11" frameWidth="221" frameHeight="213" />
+<SubTexture name="green0001" x="0" y="0" width="137" height="192" frameX="-40" frameY="-13" frameWidth="221" frameHeight="213" />
+<SubTexture name="blue0000" x="137" y="0" width="134" height="188" frameX="-39" frameY="-11" frameWidth="221" frameHeight="213" />
+<SubTexture name="blue0001" x="0" y="0" width="137" height="192" frameX="-40" frameY="-13" frameWidth="221" frameHeight="213" />
+<SubTexture name="purple0000" x="137" y="0" width="134" height="188" frameX="-39" frameY="-11" frameWidth="221" frameHeight="213" />
+<SubTexture name="purple0001" x="0" y="0" width="137" height="192" frameX="-40" frameY="-13" frameWidth="221" frameHeight="213" />
+<SubTexture name="red'0000" x="137" y="0" width="134" height="188" frameX="-39" frameY="-11" frameWidth="221" frameHeight="213" />
+<SubTexture name="red'0001" x="0" y="0" width="137" height="192" frameX="-40" frameY="-13" frameWidth="221" frameHeight="213" />
+</TextureAtlas>

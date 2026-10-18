@@ -142,14 +142,14 @@ function onCreate()
 
 
 
-	makeAnimatedLuaSprite('moon', 'fahmix/week 3/moon', 430, 280)
+	makeAnimatedLuaSprite('moon', 'fahmix/week3/moon', 430, 280)
 	addAnimationByPrefix('moon', 'idle', 'idle', 6, true)
 	addLuaSprite('moon', false)
 	scaleObject('moon', 1, 1);
 
 
 
-	makeAnimatedLuaSprite('lines', 'fahmix/week 3/lines', -95, -453)
+	makeAnimatedLuaSprite('lines', 'fahmix/week3/lines', -95, -453)
 	addAnimationByPrefix('lines', 'idle', 'idle', 6, true)
 	addLuaSprite('lines', false)
 	scaleObject('lines', 1, 1);
@@ -158,7 +158,7 @@ function onCreate()
 
 	for _, color in ipairs({'green', 'cyan', 'purple', 'red', 'yellow'}) do
 		local tag = 'buildings-' .. color
-		makeAnimatedLuaSprite(tag, 'fahmix/week 3/buildings/' .. tag, 460, 240)
+		makeAnimatedLuaSprite(tag, 'fahmix/week3/buildings/' .. tag, 460, 240)
 		addAnimationByPrefix(tag, 'idle', 'idle', 4, true)
 		addLuaSprite(tag, false)
 		scaleObject(tag, 1.5, 1.5)
@@ -168,14 +168,14 @@ function onCreate()
 	setProperty('buildings-green.visible', true)
 
 
-	makeAnimatedLuaSprite('poles', 'fahmix/week 3/poles', 460, 198)
+	makeAnimatedLuaSprite('poles', 'fahmix/week3/poles', 460, 198)
 	addAnimationByPrefix('poles', 'idle', 'idle', 6, true)
 	addLuaSprite('poles', false)
 	scaleObject('poles', 1, 1);
 
 
 
-	makeAnimatedLuaSprite('train', 'fahmix/week 3/train', -3000, 260)
+	makeAnimatedLuaSprite('train', 'fahmix/week3/train', -3000, 260)
 	addAnimationByPrefix('train', 'idle', 'train idle', 6, true)
 	addLuaSprite('train', false)
 	scaleObject('train', 1, 1);
@@ -186,20 +186,20 @@ function onCreate()
 
 
 
-	makeAnimatedLuaSprite('front poles', 'fahmix/week 3/front poles', 460, 198)
+	makeAnimatedLuaSprite('front poles', 'fahmix/week3/front poles', 460, 198)
 	addAnimationByPrefix('front poles', 'idle', 'idle', 6, true)
 	addLuaSprite('front poles', false)
 	scaleObject('front poles', 1, 1);
 
 
-	makeAnimatedLuaSprite('floor', 'fahmix/week 3/floor', 460, 200)
+	makeAnimatedLuaSprite('floor', 'fahmix/week3/floor', 460, 200)
 	addAnimationByPrefix('floor', 'idle', 'idle', 6, true)
 	addLuaSprite('floor', false)
 	scaleObject('floor', 1, 1);
 
 	for index = 1, 4 do
 		local tag = 'newgroundsWalker' .. index
-		makeAnimatedLuaSprite(tag, 'fahmix/week 3/newgrounds-walkers', -600, 0)
+		makeAnimatedLuaSprite(tag, 'fahmix/week3/newgrounds-walkers', -600, 0)
 		for _, name in ipairs(walkerNames) do
 			addAnimationByPrefix(tag, name, 'newgrounds-walkers ' .. name, 6, true)
 		end

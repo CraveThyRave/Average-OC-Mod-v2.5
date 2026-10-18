@@ -12,7 +12,6 @@ uniform vec3 iResolution;
 uniform float Xdirection;
 uniform float Ydirection;
 
-// Rotation matrix around the X axis.
 mat3 rotateX(float theta) {
     float c = cos(theta);
     float s = sin(theta);
@@ -23,7 +22,6 @@ mat3 rotateX(float theta) {
     );
 }
 
-// Rotation matrix around the Y axis.
 mat3 rotateY(float theta) {
     float c = cos(theta);
     float s = sin(theta);
@@ -34,7 +32,6 @@ mat3 rotateY(float theta) {
     );
 }
 
-// Rotation matrix around the Z axis.
 mat3 rotateZ(float theta) {
     float c = cos(theta);
     float s = sin(theta);
@@ -51,7 +48,7 @@ mat2 Rot(float a) {
 }
 
 float sdBox(vec3 p, vec3 s) {
-    //p = p * rotateX(rotation.x) * rotateY(rotation.y) * rotateZ(rotation.z);
+
     p = abs(p)-s;
     return length(max(p, 0.))+min(max(p.x, max(p.y, p.z)), 0.);
 }
@@ -60,35 +57,34 @@ float plane(vec3 p, vec3 offset) {
     return d;
 }
 
-
 float GetDist(vec3 p) {
     float d = plane(p, vec3(0.0,0.0,0.0));
-        
+
     return d;
 }
 
 float RayMarch(vec3 ro, vec3 rd) {
     float dO=0.;
-        
+
     for(int i=0; i<MAX_STEPS; i++) {
         vec3 p = ro + rd*dO;
         float dS = GetDist(p);
         dO += dS;
         if(dO>MAX_DIST || abs(dS)<SURF_DIST) break;
     }
-        
+
     return dO;
 }
 
 vec3 GetNormal(vec3 p) {
     float d = GetDist(p);
     vec2 e = vec2(.001, 0.0);
-        
+
     vec3 n = d - vec3(
         GetDist(p-e.xyy),
         GetDist(p-e.yxy),
         GetDist(p-e.yyx));
-        
+
     return normalize(n);
 }
 
@@ -112,8 +108,7 @@ vec2 repeat(vec2 uv)
     return vec2(mod(uv.x, 1.0), mod(uv.y, 1.0));
 }
 
-
-void main() //this shader is pain
+void main()
 {
     vec2 center = vec2(0.5, 0.5);
     vec2 uv = openfl_TextureCoordv.xy - center;
@@ -124,20 +119,17 @@ void main() //this shader is pain
 
     ro = ro * rotateX(rotation.x) * rotateY(rotation.y) * rotateZ(rotation.z);
 
-    //ro.yz *= Rot(ShaderPointShit.y); //rotation shit
-    //ro.xz *= Rot(ShaderPointShit.x);
-        
     vec3 rd = GetRayDir(uv, ro, vec3(0.0,0.,0.0), 1.0);
     vec4 col = vec4(0.0);
-    
+
     float d = RayMarch(ro, rd);
 
     if(d<MAX_DIST) {
         vec3 p = ro + rd * d;
         uv = vec2(p.x,p.y) * 0.5;
-        uv += center; //move coords from top left to center
-        col = flixel_texture2D(bitmap, repeat(uv)); //shadertoy to haxe bullshit i barely understand
-    }        
+        uv += center;
+        col = flixel_texture2D(bitmap, repeat(uv));
+    }
     gl_FragColor = col;
 
 }

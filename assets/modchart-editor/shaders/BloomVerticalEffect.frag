@@ -8,7 +8,6 @@ void main()
 	vec2 uv = openfl_TextureCoordv;
 	vec2 iResolution = vec2(1280.0, 720.0);
 	vec2 res = 1.0 / iResolution;
-	//vec4 color = ;
 
 	if (effect <= 0.0)
 	{

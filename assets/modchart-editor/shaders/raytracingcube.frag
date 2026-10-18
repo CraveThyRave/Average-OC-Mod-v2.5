@@ -1,4 +1,4 @@
-// Automatically converted with https://github.com/TheLeerName/ShadertoyToFlixel
+
 
 #pragma header
 
@@ -28,13 +28,13 @@ vec3 planeColor(vec3 V,vec3 N,vec3 lightVec,vec2 uv){
     float brightness = 100.*dot(N,lightVec)/(lightDist * lightDist * lightDist);
     vec3 reflected = reflect(V,N);
     float threshold = 1./lightDist/lightDist;
-    //float shine = smoothstep(1.- 1.5*threshold,1.- 0.2*threshold,dot(reflected,lightVec/lightDist));
+
     float shine = 100.*pow(max(0.,dot(reflected,lightVec/lightDist)),50.)/lightDist/lightDist;
     return (brightness+shine)*texture(iChannel0, 0.5*uv+0.5).xyz;
 }
 
 vec4 boxColor(vec3 viewingNormal, vec3 lightPos, vec3 boxPos, vec3 planeX,vec3 planeY, vec3 planeZ){
-    
+
     for (int i = 0; i < 2; ++i){
         vec3 planePos = boxPos + planeZ;
         float t = planeIntersection(planeZ,viewingNormal,planePos);
@@ -78,13 +78,12 @@ vec4 boxColor(vec3 viewingNormal, vec3 lightPos, vec3 boxPos, vec3 planeX,vec3 p
     }
     return vec4(0);
 }
-    
+
 void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {
     vec2 uv = fragCoord.xy/iResolution.x;
     float aspect = iResolution.x/iResolution.y;
-    
-    //Based on uv
+
     vec3 viewingNormal = normalize( vec3( uv-vec2(0.5,0.5/aspect),1));
     vec3 lightPos = vec3(-1,-1,2);
     vec3 boxPos = vec3(0,-1,15);

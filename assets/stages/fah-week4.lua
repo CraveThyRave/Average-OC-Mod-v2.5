@@ -5,12 +5,10 @@ local camTime = 0
 local swaySpeed = 2
 local swayDistance = 40
 
-
 local dadBaseX = 0
 local bfBaseX = 0
 local rayBaseX = 1200
 local peeBaseX = 1500
-
 
 local minions = {}
 local MINION_COUNT = 6
@@ -34,7 +32,6 @@ local deadHalves = {}
 local deadHalfPool = {}
 local nextDeadHalf = 1
 
-
 local frontHighMoving = false
 local backHighMoving = false
 
@@ -48,35 +45,27 @@ local function chanceForElapsed(chanceAt60Fps, elapsed)
 	return 1 - math.pow(1 - chanceAt60Fps, math.max(0, elapsed) * 60)
 end
 
-
-local startDeadWalk = false 
+local startDeadWalk = false
 
 function awardHenchmenAchievementTick()
 	if recordedHenchmenPass then return end
 	recordedHenchmenPass = true
-	 
-	 
-	 
+
 	local savedPasses = tonumber(getDataFromSave(
 		henchmenDieSave, 'completedPasses', 0)) or 0
 	local livePasses = tonumber(getPropertyFromClass(
 		'ClientPrefs', 'henchmenMassacreCount')) or 0
 	local count = math.min(henchmenPassesRequired,
 		math.max(savedPasses, livePasses) + 1)
-	 
-	 
+
 	setPropertyFromClass('ClientPrefs', 'henchmenMassacreCount', count)
-	 
-	 
+
 	setDataFromSave(henchmenDieSave, 'completedPasses', count)
 	flushSaveData(henchmenDieSave)
-	 
+
 	recordHenchmenMassacre(count)
 end
 
- 
- 
- 
 function recordHenchmenWipe()
 	if recordedHenchmenPass then return end
 	local deadCount = 0
@@ -88,7 +77,6 @@ function recordHenchmenWipe()
 	awardHenchmenAchievementTick()
 end
 
-
 function onCreate()
 	startDeadWalk = string.lower(songName or '') == 'mama'
 	initSaveData(henchmenDieSave, 'psychenginemods')
@@ -98,29 +86,21 @@ function onCreate()
 	addLuaSprite('paper', false)
 	scaleObject('paper', 1, 1);
 
-
-
 	makeAnimatedLuaSprite('lines', 'fahmix/week4/lines', 200, -120)
 	addAnimationByPrefix('lines', 'idle', 'idle', 6, true)
 	addLuaSprite('lines', false)
 	scaleObject('lines', 1, 1);
-
-
 
 	makeAnimatedLuaSprite('sun', 'fahmix/week4/sun', 1100, 300)
 	addAnimationByPrefix('sun', 'idle', 'idle', 6, true)
 	addLuaSprite('sun', false)
 	scaleObject('sun', 1, 1);
 
-
 	makeAnimatedLuaSprite('b-lamp-high', 'fahmix/week4/back-lamp-high', -300, 200)
 	addAnimationByPrefix('b-lamp-high', 'idle', 'idle', 6, true)
 	addLuaSprite('b-lamp-high', false)
 	scaleObject('b-lamp-high', 1, 1.3);
 	setProperty('b-lamp-high.alpha', 0)
-
-
-
 
 	makeAnimatedLuaSprite('b-lamp-low', 'fahmix/week4/back-lamp-low', backLowStartX, 730)
 	addAnimationByPrefix('b-lamp-low', 'idle', 'idle', 6, true)
@@ -133,13 +113,10 @@ function onCreate()
 	addLuaSprite('backcar', false)
 	scaleObject('backcar', 1.1, 1.1);
 
-
 	makeAnimatedLuaSprite('frontcar', 'fahmix/week4/frontcar', 600, 1000)
 	addAnimationByPrefix('frontcar', 'idle', 'idle', 6, true)
 	addLuaSprite('frontcar', false)
 	scaleObject('frontcar', 1.1, 1.1);
-
-
 
 	makeAnimatedLuaSprite('ray', 'Freeplay-Chrs/fah/ray', 800, 300)
 	addAnimationByPrefix('ray', 'idle', 'ray idle', 6, true)
@@ -151,8 +128,6 @@ function onCreate()
 	addLuaSprite('pee', false)
 	scaleObject('pee', 1.1, 1.1);
 
-
-
 	makeAnimatedLuaSprite('f-lamp-high', 'fahmix/week4/front-lamp-high', -450, 200)
 	addAnimationByPrefix('f-lamp-high', 'idle', 'idle', 6, true)
 	addLuaSprite('f-lamp-high', true)
@@ -163,7 +138,6 @@ function onCreate()
 	for i = 1, MINION_COUNT do
 	    local tag = 'minion' .. i
 
-			 
 			local startY = startDeadWalk and 835 or 650
 
 			makeAnimatedLuaSprite(tag, 'fahmix/week4/minion', minionLeft + spacing * (i - 1), startY)
@@ -196,8 +170,6 @@ function onCreate()
 	    }
 	end
 
-	-- The lamp can cut several minions only a few frames apart. Pre-create the
-	-- six possible halves so collision frames only reactivate existing objects.
 	for i = 1, MINION_COUNT do
 		local halfTag = 'deadHalf' .. i
 		makeLuaSprite(halfTag, 'fahmix/week4/miniopndeadtophalf', -2000, -2000)
@@ -217,7 +189,6 @@ function onCreate()
 
 end
 
-
 function onCreatePost()
     setProperty('isCameraOnForcedPos', true)
     setProperty('camFollow.x', lockX)
@@ -230,30 +201,22 @@ function onCreatePost()
     rayBaseX = getProperty('ray.x')
     peeBaseX = getProperty('pee.x')
 
-
 		local sunOrder = getObjectOrder('sun')
 
-		
 		setObjectOrder('sun', sunOrder)
 
-		
 		setObjectOrder('b-lamp-high', sunOrder + 1)
 
-		
 		setObjectOrder('b-lamp-low', sunOrder + 2)
 
-		
 		for i = 1, MINION_COUNT do
 		    setObjectOrder('minion'..i, sunOrder + 2 + i)
 		end
 
-		
 		setObjectOrder('backcar', sunOrder + MINION_COUNT + 3)
 
-		
 		setObjectOrder('frontcar', getObjectOrder('backcar') + 2)
 
-		
 		local charOrder = math.max(
 		    getObjectOrder('dadGroup'),
 		    getObjectOrder('boyfriendGroup')
@@ -285,11 +248,8 @@ local function idleOverlapTooLarge(index)
     return false
 end
 
-
 function onUpdate(elapsed)
 
-
-		
 		if not getPropertyFromClass('MirrorMode', 'active') and not frontHighMoving and math.random() < chanceForElapsed(frontHighChance, elapsed) then
 		    frontHighMoving = true
 		    setProperty('f-lamp-high.x', -450)
@@ -302,7 +262,6 @@ function onUpdate(elapsed)
 		    setProperty('b-lamp-high.alpha', 1)
 		end
 
-		
 		if frontHighMoving then
 		    local x = getProperty('f-lamp-high.x') + frontHighSpeed * elapsed
 
@@ -315,7 +274,6 @@ function onUpdate(elapsed)
 		    setProperty('f-lamp-high.x', x)
 		end
 
-		
 		if backHighMoving then
 		    local x = getProperty('b-lamp-high.x') + backHighSpeed * elapsed
 
@@ -337,7 +295,7 @@ function onUpdate(elapsed)
 		    x = x + lampSpeed * elapsed
 
 		    if x >= lampEndX then
-		         
+
 		        awardHenchmenAchievementTick()
 		        x = backLowStartX
 		        lampMoving = false
@@ -348,11 +306,9 @@ function onUpdate(elapsed)
 		    setProperty('b-lamp-low.x', x)
 		end
 
-    
     setProperty('camFollow.x', lockX + offset)
     setProperty('camFollow.y', lockY)
 
-    
     setProperty('backcar.x', 600 - offset * 0.4)
     setProperty('frontcar.x', 600 + offset * 0.8)
 
@@ -360,10 +316,6 @@ function onUpdate(elapsed)
     setProperty('boyfriend.x', bfBaseX + offset * 0.8)
     setProperty('ray.x', rayBaseX + offset * 0.8)
     setProperty('pee.x', peeBaseX + offset * 0.8)
-
-    
-    
-    
 
     for i = 1,#minions do
         local m = minions[i]
@@ -432,7 +384,6 @@ function onUpdate(elapsed)
 
 				        objectPlayAnimation(m.tag, 'dead-walk', true)
 
-
 								local half = deadHalfPool[nextDeadHalf]
 								nextDeadHalf = nextDeadHalf % MINION_COUNT + 1
 								local halfTag = half.tag
@@ -450,13 +401,12 @@ function onUpdate(elapsed)
 								setProperty(halfTag .. '.angle', 0)
 								setProperty(halfTag .. '.visible', true)
 
-								
 								setObjectOrder(halfTag, getObjectOrder('backcar') + 1)
 
 								deadHalves[#deadHalves + 1] = half
 
 								minionsCutThisPass = minionsCutThisPass + 1
-								
+
 								if minionsCutThisPass >= MINION_COUNT then recordHenchmenWipe() end
 				    end
 				end
@@ -464,10 +414,6 @@ function onUpdate(elapsed)
 				setProperty(m.tag..'.x', m.baseX + m.walkOffset - offset * 0.4)
         setProperty(m.tag..'.y', m.baseY)
     end
-
-    
-    
-    
 
     for i = #deadHalves, 1, -1 do
         local h = deadHalves[i]
@@ -491,7 +437,6 @@ function onUpdate(elapsed)
         end
     end
 end
-
 
 function onStepHit()
     local currentSong = string.lower(songName or '')

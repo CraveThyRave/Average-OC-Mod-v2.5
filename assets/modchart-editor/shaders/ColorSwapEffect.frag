@@ -28,11 +28,10 @@ void main()
 
 	vec4 swagColor = vec4(rgb2hsv(vec3(color[0], color[1], color[2])), color[3]);
 
-	// [0] is the hue???
 	swagColor[0] = swagColor[0] + hue;
 	swagColor[1] = swagColor[1] + sat;
 	swagColor[2] = swagColor[2] * (1.0 + brt);
-	
+
 	if(swagColor[1] < 0.0)
 	{
 		swagColor[1] = 0.0;
@@ -44,21 +43,6 @@ void main()
 
 	color = vec4(hsv2rgb(vec3(swagColor[0], swagColor[1], swagColor[2])), swagColor[3]);
 
-
 	gl_FragColor = color;
 
-	/* 
-	if (color.a > 0.5)
-		gl_FragColor = color;
-	else
-	{
-		float a = flixel_texture2D(bitmap, vec2(openfl_TextureCoordv + offset, openfl_TextureCoordv.y)).a +
-					flixel_texture2D(bitmap, vec2(openfl_TextureCoordv, openfl_TextureCoordv.y - offset)).a +
-					flixel_texture2D(bitmap, vec2(openfl_TextureCoordv - offset, openfl_TextureCoordv.y)).a +
-					flixel_texture2D(bitmap, vec2(openfl_TextureCoordv, openfl_TextureCoordv.y + offset)).a;
-		if (color.a < 1.0 && a > 0.0)
-			gl_FragColor = vec4(0.0, 0.0, 0.0, 0.8);
-		else
-			gl_FragColor = color;
-	} */
 }

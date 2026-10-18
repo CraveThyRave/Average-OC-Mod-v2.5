@@ -1,6 +1,5 @@
 #pragma header
 
-
 #define PI 3.14159265359
 
 attribute float alpha;
@@ -28,10 +27,7 @@ attribute float vertexID;
 
 #pragma modifierUniforms
 
-
-
-//https://github.com/dmnsgn/glsl-rotate/blob/main/rotation-3d.glsl
-mat4 rotation3d(vec3 axis, float angle) 
+mat4 rotation3d(vec3 axis, float angle)
 {
 	axis = normalize(axis);
 	float s = sin(angle);
@@ -52,7 +48,7 @@ void main(void)
 	float x = 0.0;
 	float y = 0.0;
 	float z = 0.0;
-	float a = 1.0; //this is alpha but i cant call it alpha
+	float a = 1.0;
 	float angleX = 0.0;
 	float angleY = 0.0;
 	float angleZ = 0.0;
@@ -65,21 +61,17 @@ void main(void)
 
 	float rad = PI / 180.0;
 
-	y -= curPos * 0.45 * scrollSpeed; //undo regular speed
+	y -= curPos * 0.45 * scrollSpeed;
 
 	#pragma modifierFunctions
 
-	if (incomingAngleX == 0.0 && incomingAngleZ == 0.0) //incomingAngleY should do nothing if 0?
+	if (incomingAngleX == 0.0 && incomingAngleZ == 0.0)
 	{
-		y += curPos * 0.45 * scrollSpeed; //readd to apply curPos changes
+		y += curPos * 0.45 * scrollSpeed;
 	}
 	else
 	{
 
-		//if (curPos < 0.0)
-			//incomingAngleX += 180.0; //make it match for both scrolls
-
-		
 		float radius = curPos * 0.45 * scrollSpeed;
 
 		vec4 p = vec4(0.0, radius, 0.0, 1.0);
@@ -89,7 +81,6 @@ void main(void)
 		y += p.y;
 		z += p.z;
 	}
-	
 
     openfl_Alphav = openfl_Alpha;
 	openfl_TextureCoordv = openfl_TextureCoord;
@@ -102,13 +93,11 @@ void main(void)
 
 	vec4 pos = openfl_Position;
 
-	//scaling and rotation for regular notes
 	if (!isSustainNote)
 	{
 		pos.x -= screenX;
 		pos.y -= screenY;
 
-		//rotate and scale
 		vec4 p = vec4(pos.x * scaleX, pos.y * scaleY, 0.0, 1.0);
 
 		p = rotation3d(vec3(1.0, 0.0, 0.0), angleX * rad) * rotation3d(vec3(0.0, 1.0, 0.0), angleY * rad) * rotation3d(vec3(0.0, 0.0, 1.0), angleZ * rad) * p;
@@ -120,16 +109,14 @@ void main(void)
 		pos.x += screenX;
 		pos.y += screenY;
 	}
-	else //scaling and rotation for sustains 
+	else
 	{
-		
+
 		pos.x -= screenX;
 		pos.y -= screenY;
 
-		//rotate and scale
 		vec4 p = vec4(pos.x * scaleX, pos.y, 0.0, 1.0);
 
-		//only do y so the sustains dont break? might change this later
 		p = rotation3d(vec3(0.0, 1.0, 0.0), angleY * rad) * p;
 
 		pos.x = p.x;
@@ -140,15 +127,14 @@ void main(void)
 		pos.y += screenY;
 	}
 
-	
  	pos.x += x;
-	if (downscroll) //flip for downscroll
+	if (downscroll)
 		pos.y += y;
 	else
 		pos.y -= y;
 
 	pos = openfl_Matrix * pos;
-	pos.z = (z * 0.001 * 1.5); //need to apply z after so it looks right
+	pos.z = (z * 0.001 * 1.5);
 	gl_Position = perspectiveMatrix * viewMatrix * pos;
 }
 

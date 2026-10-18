@@ -8,7 +8,7 @@ local ending = false
 function onCreate()
     enabled = not getPropertyFromClass('MirrorMode', 'active')
     if not enabled then return end
-    makeLuaSprite('logo', 'fahmix/week 3/philly-nice-logo', 320, -590)
+    makeLuaSprite('logo', 'fahmix/week3/philly-nice-logo', 320, -590)
     scaleObject('logo', 0.4, 0.4)
     setObjectCamera('logo', 'other')
     addLuaSprite('logo', false)

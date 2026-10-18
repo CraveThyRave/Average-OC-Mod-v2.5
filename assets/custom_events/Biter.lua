@@ -98,9 +98,6 @@ local function chooseAvailablePlacement(width, height)
         if overlap <= MAX_OVERLAP_RATIO then return fromRight, y end
     end
 
-    -- A finite screen can be geometrically saturated. Returning the least
-    -- overlapping sampled position keeps spawning uncapped while honoring the
-    -- 10% target whenever any sampled valid position exists.
     return bestSide, bestY
 end
 
@@ -186,7 +183,6 @@ end
 function onEvent(name, value1, value2)
     if name ~= EVENT_NAME then return end
 
-    -- The event is intentionally parameterless; both chart value fields are ignored.
     spawnBiter()
 end
 
@@ -195,8 +191,7 @@ function onTimerCompleted(tag)
     if index ~= nil then
         local biter = biters[index]
         if biter ~= nil and biter.active then
-            -- The sprite is already at the edge after its 0.1s entrance; now
-            -- release the authored first-frame hold and play the bite.
+
             playAnim(biter.tag, 'bite', true)
             runTimer(timerTag('BiteDone', index), biter.biteDuration)
         end

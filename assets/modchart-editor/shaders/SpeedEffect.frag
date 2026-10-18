@@ -36,34 +36,29 @@ float cutoff = 0.2;
 
 void main()
 {
-	
-	
+
 	vec2 uv = openfl_TextureCoordv.xy;
 	vec4 Color = flixel_texture2D(bitmap, uv);
-	
+
 	vec2 centeredUV = uv-0.5;
-	
+
 	float dist = length(centeredUV);
-	
+
 	vec2 dir = normalize(centeredUV) * (size + noise(vec3(iTime)));
-	
+
 	float amount = noise(vec3(dir, iTime*speed)) * noise(vec3(dir, iTime*speed*1.2));
-	
+
 	amount *= smoothstep(cutoff, 0.7, dist);
-	
+
 	if (amount > 0.2)
 		amount *= 3.0;
 	else
 		amount = 0.0;
-		
+
 	if (noise(vec3(dir, iTime)) > effect)
 		amount = 0.0;
-	
+
 	Color.rgb += amount;
-	
-	
-	//Color.rgb += dist;
-	
 
 	gl_FragColor = Color;
 }

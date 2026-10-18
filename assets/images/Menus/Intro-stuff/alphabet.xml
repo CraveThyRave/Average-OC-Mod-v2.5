@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TextureAtlas imagePath="alphabet.png">
-  <!--Two supplied frames, held twice each to retain the original Alphabet animation timing.-->
+
   <SubTexture name="# normal instance 10000" x="2" y="2" width="39" height="45" />
   <SubTexture name="# normal instance 10001" x="2" y="2" width="39" height="45" />
   <SubTexture name="# normal instance 10002" x="43" y="2" width="39" height="45" />

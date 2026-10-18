@@ -1,25 +1,20 @@
 #pragma header
-		
+
 uniform float iTime;
 uniform float waveStrength;
 uniform float smokeStrength;
 
-
-//https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83
-//	Classic Perlin 3D Noise 
-//	by Stefan Gustavson
-//
 vec4 permute(vec4 x){return mod(((x*34.0)+1.0)*x, 289.0);}
 vec4 taylorInvSqrt(vec4 r){return 1.79284291400159 - 0.85373472095314 * r;}
 vec3 fade(vec3 t) {return t*t*t*(t*(t*6.0-15.0)+10.0);}
 
 float cnoise(vec3 P){
-	vec3 Pi0 = floor(P); // Integer part for indexing
-	vec3 Pi1 = Pi0 + vec3(1.0); // Integer part + 1
+	vec3 Pi0 = floor(P);
+	vec3 Pi1 = Pi0 + vec3(1.0);
 	Pi0 = mod(Pi0, 289.0);
 	Pi1 = mod(Pi1, 289.0);
-	vec3 Pf0 = fract(P); // Fractional part for interpolation
-	vec3 Pf1 = Pf0 - vec3(1.0); // Fractional part - 1.0
+	vec3 Pf0 = fract(P);
+	vec3 Pf1 = Pf0 - vec3(1.0);
 	vec4 ix = vec4(Pi0.x, Pi1.x, Pi0.x, Pi1.x);
 	vec4 iy = vec4(Pi0.yy, Pi1.yy);
 	vec4 iz0 = Pi0.zzzz;
@@ -77,7 +72,7 @@ float cnoise(vec3 P){
 	vec3 fade_xyz = fade(Pf0);
 	vec4 n_z = mix(vec4(n000, n100, n010, n110), vec4(n001, n101, n011, n111), fade_xyz.z);
 	vec2 n_yz = mix(n_z.xy, n_z.zw, fade_xyz.y);
-	float n_xyz = mix(n_yz.x, n_yz.y, fade_xyz.x); 
+	float n_xyz = mix(n_yz.x, n_yz.y, fade_xyz.x);
 	return 2.2 * n_xyz;
 }
 
@@ -99,17 +94,17 @@ float getSmoke(vec2 uv)
 
 	return smoke*smokeStrength;
 }
-	
+
 void main()
-{	
-	
+{
+
 	vec2 uv = openfl_TextureCoordv.xy + vec2(sin(cnoise(vec3(0.0,openfl_TextureCoordv.y*2.5,iTime))), 0.0)*waveStrength;
 	vec2 smokeUV = uv;
 	float smokeFactor = getSmoke(uv);
 	if (smokeFactor < 0.0)
 		smokeFactor = 0.0;
-	
+
 	vec3 finalCol = flixel_texture2D( bitmap, uv ).rgb + smokeFactor;
-	
+
 	gl_FragColor = vec4(finalCol.r, finalCol.g, finalCol.b, flixel_texture2D( bitmap, uv ).a);
 }
