@@ -1,5 +1,5 @@
 {
-  "version": "2.5.26",
+  "version": "2.5.27",
   "files": [
     {
       "path": ".gitattributes",
@@ -1358,9 +1358,9 @@
     },
     {
       "path": "assets/data/skyline/03-overlay.lua",
-      "size": 1242,
-      "sha256": "3c92f626c0ebd571db81caf8c47699d9af9f860effe5e60beda2b96aa4548322",
-      "textSha256": "33240f116cd7bbbb65c5da6a2a73637a056748a6efb332c01dbb318df9a3525a"
+      "size": 1739,
+      "sha256": "7ae7153490a22cdc1e0719832f8df37424ebde5f1d8d9e55299cd8da8aa78263",
+      "textSha256": "518ac39061b5667fca9369737cc29bae41743a0c36f455cf24573bfd70912b15"
     },
     {
       "path": "assets/data/skyline/background-layer-fade.lua",
@@ -10845,9 +10845,9 @@
     },
     {
       "path": "assets/scripts/song-credits.lua",
-      "size": 14888,
-      "sha256": "ec756eb194e3af8e3ecac6cb579b099cb11b94232cf5b50eb5c16fe2b059f92e",
-      "textSha256": "ec756eb194e3af8e3ecac6cb579b099cb11b94232cf5b50eb5c16fe2b059f92e"
+      "size": 15406,
+      "sha256": "e83fda3f1b3d3ca3f44e78259c49f3063be620943b909198d5627d1278c4bfdf",
+      "textSha256": "e83fda3f1b3d3ca3f44e78259c49f3063be620943b909198d5627d1278c4bfdf"
     },
     {
       "path": "assets/shaders/aom-barber-pole.frag",
