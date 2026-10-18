@@ -1,5 +1,5 @@
 {
-  "version": "2.5.27",
+  "version": "2.5.28",
   "files": [
     {
       "path": ".gitattributes",
@@ -14207,12 +14207,6 @@
       "path": "plugins/visualization/libvisual_plugin.dll",
       "size": 44563,
       "sha256": "b77eaaa617daf5308eda9288cc857ec543b64210a96928e15298a5d67dd74a4c"
-    },
-    {
-      "path": "SOURCE.txt",
-      "size": 595,
-      "sha256": "44164e1f1b20563a054a17c74441f19a1dbee4de556cdbc8f38c6ccf0a492e21",
-      "textSha256": "44164e1f1b20563a054a17c74441f19a1dbee4de556cdbc8f38c6ccf0a492e21"
     }
   ],
   "delete": []
