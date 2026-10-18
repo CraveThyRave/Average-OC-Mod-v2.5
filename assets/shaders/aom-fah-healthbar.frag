@@ -35,17 +35,10 @@ void main()
     float playerSide = fill <= 0.0001 ? 0.0 : (fill >= 0.9999 ? 1.0 : step(cut, xAcross));
     vec3 barColor = mix(u_dadColor, u_bfColor, playerSide);
 
-    // The replacement atlas contains its own animated paper folds. Sample the
-    // un-tinted bitmap so character colour transforms cannot flatten or skew
-    // that shading, then apply it only to the standard Fah fill. Week 6 keeps
-    // its separate clean Senpai/Roses artwork.
     float textureLuma = dot(rawSource.rgb, vec3(0.299, 0.587, 0.114));
     barColor *= mix(1.0, clamp(textureLuma, 0.55, 1.0),
         clamp(u_textureShading, 0.0, 1.0));
 
-    // Spookeez keeps the visually upper stripe of the opponent portion white.
-    // Account for the sprite's vertical flip so "top" remains screen-relative
-    // in both scroll directions.
     float visibleMiddleY = (u_visibleTop + u_visibleBottom) * 0.5;
     float textureTop = 1.0 - step(visibleMiddleY, uv.y);
     float visualTop = mix(textureTop, 1.0 - textureTop, u_flipY);
@@ -58,8 +51,6 @@ void main()
         * (1.0 - smoothstep(0.13, 0.16, diagonal));
     barColor *= mix(1.0, 0.68, band);
 
-    // The white boundary is part of the bar shader, so the source fill's alpha
-    // clips it to visible pixels and the animated outline remains above it.
     if (fill > 0.0001 && fill < 0.9999)
     {
         float whiteEdge = (1.0 - smoothstep(0.0035, 0.007, xAcross - cut))
@@ -67,9 +58,5 @@ void main()
         barColor = mix(barColor, vec3(1.0), whiteEdge);
     }
 
-    // flixel_texture2D includes the sprite and camera fade in source.a and the
-    // renderer expects premultiplied output. Keep the generated colours and
-    // barber-pole bands on that same fade instead of returning full-strength
-    // RGB with only a reduced alpha.
     gl_FragColor = vec4(barColor * source.a, source.a);
 }

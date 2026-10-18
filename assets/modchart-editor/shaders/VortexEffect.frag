@@ -1,7 +1,5 @@
 #pragma header
 
-//forked from https://www.shadertoy.com/view/Md3SWH
-
 uniform float iTime;
 uniform vec3 spiralColor;
 
@@ -30,7 +28,6 @@ vec3 hsv2rgb(vec3 c)
 	return c.z * mix(K.xxx, clamp(p - K.xxx, 0.0, 1.0), c.y);
 }
 
-//noise funcs: https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83
 float mod289(float x){return x - floor(x * (1.0 / 289.0)) * 289.0;}
 vec4 mod289(vec4 x){return x - floor(x * (1.0 / 289.0)) * 289.0;}
 vec4 perm(vec4 x){return mod289(((x * 34.0) + 1.0) * x);}
@@ -69,15 +66,15 @@ float fbm(vec3 pos)
 
 float galaxyNoise(vec2 uv, float angle, float speed)
 {
-	float dist = length(uv);    
+	float dist = length(uv);
 	float percent = max(0.0, (radius - dist) * radiusInv);
 	float theta = iTime * speed + percent * percent * angle;
 	vec2 cs = vec2(cos(theta), sin(theta));
 	uv *= mat2(cs.x, -cs.y, cs.y, cs.x);
-	
+
 	float n = abs(fbm(vec3(uv, iTime) * 0.2) - 0.5) * 2.5;
 	float nSmall = smoothstep(0.2, 0.0, n);
-	
+
 	float result = 0.0;
 	result += nSmall * 0.6;
 	result += n;
@@ -93,10 +90,10 @@ vec3 galaxy(vec2 uv)
 	f += galaxyNoise(uv * 1.3, 11.0, -0.1) * 0.6;
 	f += galaxyNoise(uv * 1.6, 8.0, 0.1) * 0.7;
 	f = max(0.0, f);
-	
-	vec3 color = mix(spiralColor, vec3(0.0, 0.0, 0.0), length(uv) * radiusInv); 
+
+	vec3 color = mix(spiralColor, vec3(0.0, 0.0, 0.0), length(uv) * radiusInv);
 	color *= f;
-	
+
 	return color;
 }
 
@@ -104,7 +101,6 @@ void main()
 {
 	vec2 uv = openfl_TextureCoordv.xy-0.5;
 
-	//vec2 uv = (fragCoord.xy / iResolution.xy - vec2(0.5)) * vec2(iResolution.x / iResolution.y, 1.);
 	uv *= 5.0 + 0.0 * cos(iTime * 0.3);
 	vec4 color = vec4(galaxy(uv * 3.0),1.0);
 

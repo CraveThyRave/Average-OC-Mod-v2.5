@@ -62,16 +62,15 @@ local function resumeVideoFrame(tag)
 end
 
 function onCreate()
-	
+
 	makeLuaSprite('bg', 'dawhite', -680, 0)
-	
+
 	addLuaSprite('bg', false)
 	initLuaShader('void')
 	setSpriteShader('bg', 'void')
 	setShaderFloat('bg', 'u_mix', 0.03)
 	setShaderFloatArray('bg', 'u_scale', {1, 1})
 	setShaderFloatArray('bg', 'u_offset', {0, 0})
-
 
 	makeLuaSprite('black1', 'Freeplay-Chrs/raven/black', -500, 0);
 	scaleObject('black1' ,1.5,1.5)
@@ -83,13 +82,11 @@ function onCreate()
 	setObjectCamera('megalo', 'camgame')
 	scaleObject('megalo', 5.35, 5.35);
 
-
 	makeHodgepodgeVideoSprite('ddlc', 'ddlc', -180, 340)
 	addLuaSprite('ddlc', false)
 	setProperty('ddlc.alpha', 0)
 	setObjectCamera('ddlc', 'camgame')
 	scaleObject('ddlc', 5.35, 5.35);
-
 
 	makeHodgepodgeVideoSprite('greenhill', 'greenhill', -250, 340)
 	addLuaSprite('greenhill', false)
@@ -115,13 +112,11 @@ function onCreate()
 	setObjectCamera('fnaf', 'camgame')
 	scaleObject('fnaf', 5.35, 5.35);
 
-
 	makeHodgepodgeVideoSprite('gourmet', 'gourmet', -180, 340)
 	addLuaSprite('gourmet', false)
 	setProperty('gourmet.alpha', 0)
 	setObjectCamera('gourmet', 'camgame')
 	scaleObject('gourmet', 5.35, 5.35);
-
 
 	makeHodgepodgeVideoSprite('crashBack', 'scratch', -180, 340)
 	addLuaSprite('crashBack', false)
@@ -220,7 +215,6 @@ function onCreate()
 	setProperty('spamton.scale.x', 0)
 	setProperty('spamton.scale.y', 0)
 
-
 	makeLuaSprite('freddy', 'Freeplay-Chrs/raven/icons/freddy', 880, 620);
 	scaleObject('freddy', 0.8, 0.8)
 	addLuaSprite('freddy', true);
@@ -309,7 +303,7 @@ function onCreate()
 	end
 
 	makeLuaSprite('floor', 'Freeplay-Chrs/raven/floor2', -680, 1200)
-	
+
 	addLuaSprite('floor', false)
 	setProperty('floor.alpha', 0.8)
 	scaleObject('floor', 6.35, 0.7);
@@ -388,7 +382,6 @@ function onStepHit()
 		doTweenX('spamtonScaleX', 'spamton.scale', 0, 0.5, 'backOut')
 		doTweenY('spamtonScaleY', 'spamton.scale', 0, 0.5, 'backOut')
 	end
-
 
 	if curStep == 417 then
 		doTweenAlpha('fnaf', 'fnaf', 0.5, 0.4, 'linear')
@@ -573,7 +566,6 @@ function onStepHit()
 		doTweenAlpha('bendyalpha', 'bendy', 1, 0.01, 'linear')
 	end
 
-
 	if curStep == 1267 then
 		doTweenAlpha('batim', 'batim', 0.5, 0.2, 'linear')
 		resumeVideoFrame('batim')
@@ -594,7 +586,6 @@ function onStepHit()
 		doTweenAlpha('bendyalpha', 'bendy', 1, 0.01, 'linear')
 	end
 
-
 	if curStep == 1279 then
 		doTweenAlpha('batim', 'batim', 0.5, 0.2, 'linear')
 		resumeVideoFrame('batim')
@@ -614,7 +605,6 @@ function onStepHit()
 		doTweenY('bendyup', 'bendy', 620, 0.01, 'quadOut')
 		doTweenAlpha('bendyalpha', 'bendy', 1, 0.01, 'linear')
 	end
-
 
 	if curStep == 1296 then
 		doTweenAlpha('batim', 'batim', 0.5, 0.2, 'linear')
@@ -667,10 +657,7 @@ function onStepHit()
 
 end
 
-
-
-
-function colorFromString(color) 
+function colorFromString(color)
     val = 0xFFFFFFFF
     if color:lower() == 'white' then val = 0xFFFFFF end
     if color:lower() == 'gray' then val = 0x808080 end
@@ -691,55 +678,32 @@ function colorFromString(color)
     return val
 end
 
+particlePath = "Freeplay-Chrs/raven/particle"
+defParticleScaleX = 1
+defParticleScaleY = 1
+defParticleOpacity = 1
 
+defParticleAngle = 0
+waitingTicks = 5
+randomScale = false
 
-
-
-
-        
-particlePath = "Freeplay-Chrs/raven/particle" 
-defParticleScaleX = 1 
-defParticleScaleY = 1 
-defParticleOpacity = 1  
-
-defParticleAngle = 0 
-waitingTicks = 5 
-randomScale = false 
-
-
-scaleDependantAlpha = false 
-maxParticles = 25 
-colorParticle = false 
+scaleDependantAlpha = false
+maxParticles = 25
+colorParticle = false
 defParticleColor = colorFromString('white')
 
+enabled = true
+modeName = 'Embers'
 
+BetaPathing = false
+VelocityXMod = 0
+VelocityYMod = 0
 
-enabled = true 
-modeName = 'Embers' 
-
-
-
-
-
-
-        
-           
-
-           
-BetaPathing = false 
-VelocityXMod = 0 
-VelocityYMod = 0 
-
-           
-camera = 'camGame' 
-particleWidth = 3500 
-particleHeight = 350 
-particleX = -1200 
-particleY = 500 
-
-
-
-
+camera = 'camGame'
+particleWidth = 3500
+particleHeight = 350
+particleX = -1200
+particleY = 500
 
 local mode = 1
 local particleSlotsCreated = 0
@@ -751,8 +715,6 @@ local modes = {'Blizzard', 'Fireflies', 'Embers', 'Snow', 'Wind Left', 'Wind Rig
 local activeParticles = {}
 local freeParticles = {}
 local particleFadeOwners = {}
-
-
 
 local particlePoolSize = 25
 
@@ -808,9 +770,7 @@ end
 function onCreatePost()
     resolveParticleMode()
     if not lowQuality then
-		 
-		 
-		 
+
 		prepareLuaVideoSprite('megalo', 'raven/megalo')
 		runTimer('ravenParticlePrewarm', 0.15, 8)
     end
@@ -939,8 +899,7 @@ end
 function onTweenCompleted(tweenTag)
     local videoTag = videoTweenOwners[tweenTag]
     if videoTag ~= nil and getProperty(videoTag .. '.alpha') <= 0.001 then
-		-- Do not retain every finished native decoder and its final frame for the
-		-- rest of this long montage. Batim alone is reused before its final exit.
+
 		if videoTag ~= 'batim' or curStep >= 1299 then
 			releaseLuaVideoSprite(videoTag)
 		else
@@ -969,8 +928,7 @@ end
 function onResume()
 	if lowQuality then return end
 	for tag in pairs(videoPausedByGame) do
-		
-		
+
 		resumeLuaVideoSprite(tag)
 	end
 	videoPausedByGame = {}

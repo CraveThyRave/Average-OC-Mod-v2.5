@@ -10,17 +10,12 @@ uniform float iTime;
 
 void mainImage()
 {
-    // Normalized pixel coordinates (from 0 to 1)
+
     vec2 uv = fragCoord/iResolution.xy;
 
-    // Time varying pixel color
     vec4 camera = texture(iChannel0,uv);
     vec3 col = 1.0 - camera.xyz;
 
-    // Output to screen
-    // Flixel uses premultiplied alpha. Multiplying the inverted RGB by alpha
-    // prevents transparent atlas pixels from contributing white color.
     fragColor = vec4(col * camera.a, camera.a);
 }
 
-// https://www.shadertoy.com/view/dssXRl

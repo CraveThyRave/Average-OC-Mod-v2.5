@@ -4,7 +4,6 @@
 #define iChannel0 bitmap
 #define texture flixel_texture2D
 
-// Important float
 uniform float iTime;
 uniform float center1X;
 uniform float center1Y;
@@ -14,17 +13,15 @@ uniform float zoom1;
 uniform float zoom2;
 uniform float strength;
 
-// Bonus float
 uniform float invert1;
 uniform float invert2;
 uniform float directsplit;
 uniform float bordersize;
 uniform float animation;
 
-// manual control
-uniform float move; // is control a same time the split1 and split2
+uniform float move;
 uniform float split1;
-uniform float split2;   
+uniform float split2;
 
 vec2 returnUV(vec2 uv, vec2 center, float zoom, float invert) {
     vec2 result = (uv - center) / zoom + center;

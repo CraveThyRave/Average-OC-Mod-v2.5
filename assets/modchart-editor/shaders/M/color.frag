@@ -6,7 +6,7 @@ uniform float contrast;
 
 vec3 adjustTemperature(vec3 color, float temp)
 {
-    // Multiplicadores tipo RGB
+
     float rMul = 1.0 + (temp * 0.1);
     float bMul = 1.0 - (temp * 0.1);
 
