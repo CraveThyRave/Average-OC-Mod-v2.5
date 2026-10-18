@@ -6,7 +6,7 @@ local centerY = 0
 local lastSide = -1
 
 function onCreate()
-    makeAnimatedLuaSprite('phillyMorticco', 'fahmix/week 3/morticco', 0, screenHeight + 20)
+    makeAnimatedLuaSprite('phillyMorticco', 'fahmix/week3/morticco', 0, screenHeight + 20)
     addAnimationByPrefix('phillyMorticco', 'idle', 'morticco idle', 3, true)
     playAnim('phillyMorticco', 'idle', true)
     normalScale = screenHeight * 0.8 / getProperty('phillyMorticco.height')

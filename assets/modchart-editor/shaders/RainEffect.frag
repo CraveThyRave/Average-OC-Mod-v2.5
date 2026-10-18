@@ -1,5 +1,5 @@
 #pragma header
-	
+
 uniform float iTime;
 
 vec2 rand(vec2 c){
@@ -25,41 +25,31 @@ vec2 round(vec2 num)
 	return num;
 }
 
-
-
-
 void main()
-{	
+{
 	vec2 iResolution = vec2(1280.0,720.0);
 	vec2 c = openfl_TextureCoordv.xy;
 
 	vec2 u = c,
 			v = (c*0.1),
-			n = noise(v*200.0); // Displacement
-	
+			n = noise(v*200.0);
+
 	vec4 f = flixel_texture2D(bitmap, openfl_TextureCoordv.xy);
-	
-	// Loop through the different inverse sizes of drops
+
 	for (float r = 4.0 ; r > 0.0 ; r--) {
-		vec2 x = iResolution.xy * r * 0.015,  // Number of potential drops (in a grid)
+		vec2 x = iResolution.xy * r * 0.015,
 				p = 6.28 * u * x + (n - 0.5) * 2.0,
 				s = sin(p);
-		
-		// Current drop properties. Coordinates are rounded to ensure a
-		// consistent value among the fragment of a given drop.
+
 		vec2 v = round(u * x - 0.25) / x;
 		vec4 d = vec4(noise(v*200.0), noise(v));
-		
-		// Drop shape and fading
+
 		float t = (s.x+s.y) * max(0.0, 1.0 - fract(iTime * (d.b + 0.1) + d.g) * 2.0);
-		
-		// d.r -> only x% of drops are kept on, with x depending on the size of drops
+
 		if (d.r < (5.0-r)*0.08 && t > 0.5) {
-			// Drop normal
+
 			vec3 v = normalize(-vec3(cos(p), mix(0.2, 2.0, t-0.5)));
-			// fragColor = vec4(v * 0.5 + 0.5, 1.0);  // show normals
-			
-			// Poor mans refraction (no visual need to do more)
+
 			f = flixel_texture2D(bitmap, u - v.xy * 0.3);
 		}
 	}

@@ -15,18 +15,15 @@ vec2 spiral(vec2 uv)
 
     float t = iTime * speed;
 
-    // cantidad de espirales
     for (int i = 0; i < 5; i++)
     {
         float fi = float(i);
 
-        // posiciones pseudoaleatorias
         vec2 center = vec2(
             random(fi * 12.34),
             random(fi * 56.78)
         );
 
-        // mover con el tiempo para que cambien
         center += vec2(
             sin(t * 0.3 + fi) * 0.1,
             cos(t * 0.2 + fi) * 0.1
@@ -37,10 +34,8 @@ vec2 spiral(vec2 uv)
         float dist = length(p);
         float angle = atan(p.y, p.x);
 
-        // fuerza dependiendo de cercania
         float influence = exp(-dist * 8.0);
 
-        // espiral
         float spiralWave =
             sin((dist * 40.0) - (angle * 5.0) + t);
 

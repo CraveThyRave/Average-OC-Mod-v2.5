@@ -1,14 +1,1412 @@
 {
   "format": 2,
-  "version": "2.5.25",
-  "baseVersion": "2.5.24",
+  "version": "2.5.26",
+  "baseVersion": "2.5.25",
   "files": [
     {
-      "path": "Average OC Mod.exe",
-      "size": 43191296,
-      "sha256": "9e833f245fb147e6c4696629501c298a87c2b242e003ed379357b7018b7e5d2e",
+      "path": "assets/custom_events/Biter.lua",
+      "size": 7075,
+      "sha256": "83519bbeaec3ccd8c039151e4239cf4b6a36c5ad152b22064501d5685d41fcd1",
+      "textSha256": "83519bbeaec3ccd8c039151e4239cf4b6a36c5ad152b22064501d5685d41fcd1",
       "change": "changed"
+    },
+    {
+      "path": "assets/custom_notetypes/dropNote.lua",
+      "size": 750,
+      "sha256": "0c59fc241c108c3200fd25a979ca50c1b1ee2fb456037e1be78850a8bb89f30d",
+      "textSha256": "0c59fc241c108c3200fd25a979ca50c1b1ee2fb456037e1be78850a8bb89f30d",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/blammed/01-hud.lua",
+      "size": 4644,
+      "sha256": "a113b05a88a6e195e4e1d3a6e374666476f978b44fdb1c9612865c82fba2565d",
+      "textSha256": "a113b05a88a6e195e4e1d3a6e374666476f978b44fdb1c9612865c82fba2565d",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/bleh/00-shared.lua",
+      "size": 211,
+      "sha256": "eeb5c9d2c2ff917addbdc0f928f68c7a7beca6345c97d466971cd80a43e6124f",
+      "textSha256": "eeb5c9d2c2ff917addbdc0f928f68c7a7beca6345c97d466971cd80a43e6124f",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/bleh/01-receptors.lua",
+      "size": 5448,
+      "sha256": "cbcefb12b6b25eca6e6113277fa5e4b1d9b3dc0a42cfc7d61390cb0d7cb4b3ee",
+      "textSha256": "cbcefb12b6b25eca6e6113277fa5e4b1d9b3dc0a42cfc7d61390cb0d7cb4b3ee",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/bleh/02-intro.lua",
+      "size": 3896,
+      "sha256": "292b9d2854202babbda788f608d030b7e069097e21c2484c574798e8a95eb354",
+      "textSha256": "292b9d2854202babbda788f608d030b7e069097e21c2484c574798e8a95eb354",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/bopeebo/01-hud.lua",
+      "size": 4632,
+      "sha256": "74da5577b1b44dc182eea20a9d4722f77cff58f72f4d1544090464b5c53714d5",
+      "textSha256": "74da5577b1b44dc182eea20a9d4722f77cff58f72f4d1544090464b5c53714d5",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/dadbattle/01-zoom.lua",
+      "size": 426,
+      "sha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02",
+      "textSha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/dadbattle/03-hud.lua",
+      "size": 4693,
+      "sha256": "92d2c87aaf51b85f124e5dc7e8d2c96f23a5bf25262a255ec9754cd54a5f327c",
+      "textSha256": "92d2c87aaf51b85f124e5dc7e8d2c96f23a5bf25262a255ec9754cd54a5f327c",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/darnell/01-hud.lua",
+      "size": 7994,
+      "sha256": "a2a46f448362441d109466c6d9a416c19cc68daf483aae3c6a348f3794d5b8fe",
+      "textSha256": "a2a46f448362441d109466c6d9a416c19cc68daf483aae3c6a348f3794d5b8fe",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/darnell/02-bear.lua",
+      "size": 6875,
+      "sha256": "e89247a7ed3db141605ee27251dc3d654825808e84856ea35f342b45f88de1ea",
+      "textSha256": "e89247a7ed3db141605ee27251dc3d654825808e84856ea35f342b45f88de1ea",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/eggnog/01-camera.lua",
+      "size": 308,
+      "sha256": "86d0ff8244dd83039aad4e3445c5ba67e4493542dc14ce0e5d316fa0861a5afe",
+      "textSha256": "d9eed1793daa9cb540646102b781715135ef313359311291aec85112311855c6",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/eggnog/02-gameover.lua",
+      "size": 1929,
+      "sha256": "856fb87c6178314f66bbe6a34929a761f99362993fe60c2146f3ac4f593b0677",
+      "textSha256": "65494cb63d4d60099d90f61c38928bb723a7cc684207b4df3e70524d9c8b12f8",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/eggnog/03-lights.lua",
+      "size": 3007,
+      "sha256": "ee99cefa0deabe95a3fe887b5f9018340572dc819d60a3c922fdf47cc6fdf582",
+      "textSha256": "ee99cefa0deabe95a3fe887b5f9018340572dc819d60a3c922fdf47cc6fdf582",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/eggnog/04-biter.lua",
+      "size": 9426,
+      "sha256": "930d68e9b4944828c8bf8abd923cc1cb863c136f6b9b5fade18a8a54476ba980",
+      "textSha256": "930d68e9b4944828c8bf8abd923cc1cb863c136f6b9b5fade18a8a54476ba980",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/eggnog/05-receptors.lua",
+      "size": 2623,
+      "sha256": "57d9debfad3af162c9154224e78f86e4ca3d7ad6806cd2b693af2579a8788c96",
+      "textSha256": "57d9debfad3af162c9154224e78f86e4ca3d7ad6806cd2b693af2579a8788c96",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/eggnog/06-hud.lua",
+      "size": 4420,
+      "sha256": "d7e2af0f5f807dab340bcb3e26b11f8e76da578326dd5540b5f67cdfba68148f",
+      "textSha256": "d7e2af0f5f807dab340bcb3e26b11f8e76da578326dd5540b5f67cdfba68148f",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/fresh/01-zoom.lua",
+      "size": 426,
+      "sha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02",
+      "textSha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/fresh/03-hud.lua",
+      "size": 4686,
+      "sha256": "1b691665744408d7355826d4a8b5749bdd41e059bb8945ebaa235ea50de58978",
+      "textSha256": "1b691665744408d7355826d4a8b5749bdd41e059bb8945ebaa235ea50de58978",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/fresh/04-receptors.lua",
+      "size": 3229,
+      "sha256": "51c104512c3023a792b30ca7ff238a6aa87a8a32560d2f3f561890d1d41f471a",
+      "textSha256": "51c104512c3023a792b30ca7ff238a6aa87a8a32560d2f3f561890d1d41f471a",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/high/01-zoom.lua",
+      "size": 41,
+      "sha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a",
+      "textSha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/high/03-hud.lua",
+      "size": 4556,
+      "sha256": "d967b75d804258520fc5d80890c6bd01f49c3e23d2e151e430669a1ad88cb961",
+      "textSha256": "d967b75d804258520fc5d80890c6bd01f49c3e23d2e151e430669a1ad88cb961",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/high/04-sway.lua",
+      "size": 305,
+      "sha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679",
+      "textSha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/hodgepodge/01-icons.lua",
+      "size": 3308,
+      "sha256": "b824b99e94d00b0411868e50281022b47775aacaaa7c566393f2c64a4b00411a",
+      "textSha256": "fa70c727c158125c413de2504b8ecc9569f68221833a6743aee029660ceee4b3",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/hodgepodge/02-paws.lua",
+      "size": 4061,
+      "sha256": "28a45ce6f1d425fc5dd72b6d6271fdcadccb5dceadf4164d90c02ef3fa21aa58",
+      "textSha256": "28a45ce6f1d425fc5dd72b6d6271fdcadccb5dceadf4164d90c02ef3fa21aa58",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/hodgepodge/03-overlay.lua",
+      "size": 1553,
+      "sha256": "0305a3c4c85872238896c14cd9985df01e45a6d9f7eb7e8db3e5dfc67adb9ae7",
+      "textSha256": "0305a3c4c85872238896c14cd9985df01e45a6d9f7eb7e8db3e5dfc67adb9ae7",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/hodgepodge/04-camera.lua",
+      "size": 5184,
+      "sha256": "787769e20e110246d8e012b557da29dbcae1b0579b8dda324c5ad3094610f19d",
+      "textSha256": "c7bfe5d58f7417ae7618aebe85e7db2167aa74519801b02d09588c8b46367f3c",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/lit-up/04-actors.lua",
+      "size": 12324,
+      "sha256": "c28ebd424d19cbb296ab946bccb678412d3e6412ee8324d08f2025bbd499ac14",
+      "textSha256": "e68cded3573df6038a1f23d274e2830fdde7bcb2813fbdf522496c478aa4e775",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/mama/01-zoom.lua",
+      "size": 41,
+      "sha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a",
+      "textSha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/mama/03-hud.lua",
+      "size": 4591,
+      "sha256": "1abb2d9363aac2dde08406293c9a9104cea2c0fe5af30d098b68a3dcdba33f40",
+      "textSha256": "1abb2d9363aac2dde08406293c9a9104cea2c0fe5af30d098b68a3dcdba33f40",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/mama/04-sway.lua",
+      "size": 305,
+      "sha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679",
+      "textSha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/mama/05-bounce.lua",
+      "size": 1557,
+      "sha256": "f72d97984654b67432404a21aa724c463503668d65074ac5e66dd1adfd7bed27",
+      "textSha256": "f72d97984654b67432404a21aa724c463503668d65074ac5e66dd1adfd7bed27",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/pews/04-gameover.lua",
+      "size": 703,
+      "sha256": "a7155c59808e1722bc3f5ba5ec087c095f0c1bf4dc8be48b546eb8cb510b68c8",
+      "textSha256": "a7155c59808e1722bc3f5ba5ec087c095f0c1bf4dc8be48b546eb8cb510b68c8",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/pews/05-hud.lua",
+      "size": 7642,
+      "sha256": "a58ec3bdd69833b68dc352746f3e768773ce0d9bcd08a1cfd917cfbca09b559c",
+      "textSha256": "a58ec3bdd69833b68dc352746f3e768773ce0d9bcd08a1cfd917cfbca09b559c",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/philly-nice/01-presentation.lua",
+      "size": 2769,
+      "sha256": "be27f9d83aaefff0c4ead8222d117fbee688c5e84e1a6f5cf9bed49200c71cfa",
+      "textSha256": "be27f9d83aaefff0c4ead8222d117fbee688c5e84e1a6f5cf9bed49200c71cfa",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/philly-nice/02-parvin.lua",
+      "size": 2473,
+      "sha256": "51f19bddbed0e744f45099d81d99d1570b9ea0dc4f983546870c5044337ba5f5",
+      "textSha256": "51f19bddbed0e744f45099d81d99d1570b9ea0dc4f983546870c5044337ba5f5",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/philly-nice/03-foo.lua",
+      "size": 2176,
+      "sha256": "23ab2a0b991b29e8efff11c2bbf4e29e1a08164b3b7b5167c1cb407acd90b827",
+      "textSha256": "23ab2a0b991b29e8efff11c2bbf4e29e1a08164b3b7b5167c1cb407acd90b827",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/philly-nice/04-fahreddy.lua",
+      "size": 2238,
+      "sha256": "0c31b4fd55c16a4c85ae27752aeced9f874380e81642f3c71cbe0abb30c3f75d",
+      "textSha256": "0c31b4fd55c16a4c85ae27752aeced9f874380e81642f3c71cbe0abb30c3f75d",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/philly-nice/05-mad.lua",
+      "size": 1684,
+      "sha256": "248bc3cf968434e2d0e65517f7860fc65cb483ed426b663fa278fafd26788c6f",
+      "textSha256": "248bc3cf968434e2d0e65517f7860fc65cb483ed426b663fa278fafd26788c6f",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/philly-nice/06-morticco.lua",
+      "size": 3084,
+      "sha256": "4069a19d3694cd9db821351d95c4114f931a54813bc62194b179a4a017eeb3b9",
+      "textSha256": "4069a19d3694cd9db821351d95c4114f931a54813bc62194b179a4a017eeb3b9",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/roses/02-dialogue.lua",
+      "size": 359,
+      "sha256": "acc8233a7fc4926dbcf3e3a9de04482a3d186488e8a8e6d0c488577147b7664e",
+      "textSha256": "0675ee8c4ad8968cb4968d220e75a458c078f64af7167113abcd98e101fd06f9",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/roses/05-receptors.lua",
+      "size": 2445,
+      "sha256": "f7a60c01a405b0ce13c1908e34d2a1998fe26b2b3cff8eed32cfdc97971bca9a",
+      "textSha256": "f2e3afbe525275f43653f86b2261c6d177c53959c8a8fa159f13ea22f0eb014f",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/roses/06-hud.lua",
+      "size": 5829,
+      "sha256": "de6ddcd93d66cb2dbd11aeed1613ae92d4e4b38c7d051a3146319933c05bca5f",
+      "textSha256": "de6ddcd93d66cb2dbd11aeed1613ae92d4e4b38c7d051a3146319933c05bca5f",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/senpai/00-shared.lua",
+      "size": 166,
+      "sha256": "ea7c1bd613dc35ddad4068afe31469b741105830857c5e965d21fa1c3f073429",
+      "textSha256": "ea7c1bd613dc35ddad4068afe31469b741105830857c5e965d21fa1c3f073429",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/senpai/01-beats.lua",
+      "size": 6392,
+      "sha256": "e5c32ced6308c18f66c231186c921075de6becaedcfeb53b92c3a09d6ed233a2",
+      "textSha256": "e5c32ced6308c18f66c231186c921075de6becaedcfeb53b92c3a09d6ed233a2",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/shiftr/01-checkerboard.lua",
+      "size": 1967,
+      "sha256": "c992223e522d7bff6cca239ed58fb47ecc68296c5745dcce908581854cce7171",
+      "textSha256": "c992223e522d7bff6cca239ed58fb47ecc68296c5745dcce908581854cce7171",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/shiftr/02-guitars.lua",
+      "size": 3370,
+      "sha256": "638566530b153afa5db32e2bfb6f46579987a733852c650997479d779a9c93f0",
+      "textSha256": "109ba8468d51ca130b267e25176f53081eacd5b57ea12915e2f560f4410bae23",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/shiftr/03-overlay.lua",
+      "size": 722,
+      "sha256": "b0c4cbcf3114b6f04e3e37b7dce271c0d71e20ff1eb32a3fec193273360d9357",
+      "textSha256": "b0c4cbcf3114b6f04e3e37b7dce271c0d71e20ff1eb32a3fec193273360d9357",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/skyline/03-overlay.lua",
+      "size": 1242,
+      "sha256": "3c92f626c0ebd571db81caf8c47699d9af9f860effe5e60beda2b96aa4548322",
+      "textSha256": "33240f116cd7bbbb65c5da6a2a73637a056748a6efb332c01dbb318df9a3525a",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/spookeez/02-lightning.lua",
+      "size": 7043,
+      "sha256": "699a4cb00155d36cc77752aa4de061844daffb9d70d802afa050cafb1fd51a6c",
+      "textSha256": "7af57272590acf1b9ca5ec52b42b7b32d0010faf71750c953a8944c9c598996b",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/spookeez/04-bounce.lua",
+      "size": 2211,
+      "sha256": "d1f8f0b8ccc6f9fa9ba5b9dd26bfc751eb6dbbd5ec14dc0ca45bd9569fffd4f5",
+      "textSha256": "1acda7f68625100019c917ce17024b9fccae61f01a01623cc10224569b89abde",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/spookeez/05-hud.lua",
+      "size": 10655,
+      "sha256": "ba5144a37fab71f94c8609e01d721c7181eb2a3b2dd0dd151b0e845721c65d82",
+      "textSha256": "ba5144a37fab71f94c8609e01d721c7181eb2a3b2dd0dd151b0e845721c65d82",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/stress/02-intro.lua",
+      "size": 18962,
+      "sha256": "90fa661e2c29289d637a1c64c3e8cd2a8b7acb8edccc20278d2877844e060dc4",
+      "textSha256": "90fa661e2c29289d637a1c64c3e8cd2a8b7acb8edccc20278d2877844e060dc4",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/sunburnt/01-checkerboard.lua",
+      "size": 3821,
+      "sha256": "09cd05cce43d0d53ecd96e77d61bbcd92f01d956fc7e36422335d5e4daad851e",
+      "textSha256": "67f34a32b39780979ab9a66009a4c7b4950fb9da15c498c9b7e414f7eb89d237",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/sunburnt/02-gameover.lua",
+      "size": 3293,
+      "sha256": "0b04f11bfd0fd23fad77a0c46cd0ca7ae1b2a726e6be13b2887848f378ecc248",
+      "textSha256": "0b04f11bfd0fd23fad77a0c46cd0ca7ae1b2a726e6be13b2887848f378ecc248",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/sunburnt/03-overlay.lua",
+      "size": 1160,
+      "sha256": "fe85cbcaa2f44afa26afba715bac194b002d3d88fcf206e08baeba203af9a01e",
+      "textSha256": "fe85cbcaa2f44afa26afba715bac194b002d3d88fcf206e08baeba203af9a01e",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/tutorial/01-visibility.lua",
+      "size": 819,
+      "sha256": "5ebeb9b2ee7dc7c5f00eab395dbf875aab5222ff041ae8d05aeb4f6b0c1376c5",
+      "textSha256": "243b1c35ea9e0a15dbe2e8253e114fd28184debf1a4dea0c2392c27ace490c81",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/tutorial/02-hud.lua",
+      "size": 4342,
+      "sha256": "74bddfa90f26e461a77401f42066338c9731801e08f163530c426a1d896274ca",
+      "textSha256": "74bddfa90f26e461a77401f42066338c9731801e08f163530c426a1d896274ca",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/tutorial/03-prompts.lua",
+      "size": 4197,
+      "sha256": "c5ec4a57d11bbf65bbb630898ed28e46d4fe00b9fce4fb39b593a3d7d122a4d2",
+      "textSha256": "c5ec4a57d11bbf65bbb630898ed28e46d4fe00b9fce4fb39b593a3d7d122a4d2",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/undies/01-zoom.lua",
+      "size": 40,
+      "sha256": "aa542a79a62fc3b752f3135240d8f164991210a5962e0bf8b3e4c7e97600e040",
+      "textSha256": "aa542a79a62fc3b752f3135240d8f164991210a5962e0bf8b3e4c7e97600e040",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/undies/03-hud.lua",
+      "size": 3295,
+      "sha256": "60b494373037b04ab5a12a679f0cfb921a39f0873abb4bffe02214356b0eff59",
+      "textSha256": "60b494373037b04ab5a12a679f0cfb921a39f0873abb4bffe02214356b0eff59",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/undies/04-sway.lua",
+      "size": 303,
+      "sha256": "02e1add7cd399bdfecc14efd014b3f25e14ab1a4d2aa2f0fee3838d5b61fb650",
+      "textSha256": "02e1add7cd399bdfecc14efd014b3f25e14ab1a4d2aa2f0fee3838d5b61fb650",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/undies/05-runner.lua",
+      "size": 5201,
+      "sha256": "cfed9bb8c64ee57fe399733be439d2fe392b6dc7679c0b5b70a7b0ce9f3978b8",
+      "textSha256": "cfed9bb8c64ee57fe399733be439d2fe392b6dc7679c0b5b70a7b0ce9f3978b8",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/what-the-fah/02-ending.lua",
+      "size": 457,
+      "sha256": "32f8810b3f03b436de55e2aad5c0226eef606b52d0a0916d8ee21f9e9bd5691a",
+      "textSha256": "32f8810b3f03b436de55e2aad5c0226eef606b52d0a0916d8ee21f9e9bd5691a",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/what-the-fah/03-botplay.lua",
+      "size": 245,
+      "sha256": "ec485ec6d19ea9692fc6da12e839bd053d2b8f6971a6a374f88da989d1b57d34",
+      "textSha256": "0860c8618c012d7c2e5b2abd293736c6590d23f3786884d979aa478b25b74f72",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/what-the-fah/04-hud.lua",
+      "size": 14781,
+      "sha256": "5541afb4b7b27d3d73cd33a6c1b3be99829184119a6faf9c85c1f622978f9232",
+      "textSha256": "5541afb4b7b27d3d73cd33a6c1b3be99829184119a6faf9c85c1f622978f9232",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/what-the-fah/05-props.lua",
+      "size": 5359,
+      "sha256": "5703bd9cf1b107dd5bccac501fd1104b100863c3e9d3b711694ebe48f23a7eb9",
+      "textSha256": "4603b7309afdf42c3420a1eafcd28a8f76927b9ffcca3a9de5f5304256ae24b5",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/what-the-fah/06-popups.lua",
+      "size": 9148,
+      "sha256": "a5498559dc5e82befa40728eb0e33ec7de861c0cf4680e935760004087e1fc6a",
+      "textSha256": "e3c5cd7e3770cd1b533d166b5ca5ce2bef1240311b905f51d7b3ecd1089f1e34",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/what-the-fah/07-distractions.lua",
+      "size": 12599,
+      "sha256": "d594e55fa883887a3ae5a23adaf38d88db30e6c5a9c49f040738de8162852d5c",
+      "textSha256": "50b3b2b1f54fa82d7ddfa7a6ebfe48ca1c0bc51ed506290f40d7189bcba1c63f",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/characters/legacy-shiftr/bf.xml",
+      "size": 51949,
+      "sha256": "6a2c4c7974bb2957c89444de3af99707209baad213b97eb10b85412ea388b669",
+      "textSha256": "6a2c4c7974bb2957c89444de3af99707209baad213b97eb10b85412ea388b669",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/chart_quant.xml",
+      "size": 915,
+      "sha256": "f9f44ff625f845ab32857cc4b9dccb21ecb35c9788a01efc41e355a18745c430",
+      "textSha256": "f9f44ff625f845ab32857cc4b9dccb21ecb35c9788a01efc41e355a18745c430",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/checkboxanim.xml",
+      "size": 1863,
+      "sha256": "56da8b2c1b567a83ee02532f37588b6f76847836ddf8ecbf6bc42777eb5287ec",
+      "textSha256": "56da8b2c1b567a83ee02532f37588b6f76847836ddf8ecbf6bc42777eb5287ec",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/fahmix/week3/blammed-credits.png",
+      "size": 157049,
+      "sha256": "56216dbcfd58f3e03b6bb19a51ec000dd6be961635411a38274d4d23bd2661e1",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/blammed-logo.png",
+      "size": 478731,
+      "sha256": "c0fee69e80223eceaaf93a494c96f564bb2196130a271815792de1079f05d946",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-cyan.png",
+      "size": 1748805,
+      "sha256": "35da29b9e0d7849a1f0a9296b9f75535b9d98617e7ad44b0dbc9042b06c72523",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-cyan.xml",
+      "size": 506,
+      "sha256": "5b44b01c9aef24bb709728f0154117f7067a8234540637fb49717150de8de3c7",
+      "textSha256": "d449f803af5f2cf2ad1033bcc19f8fe3320d64978150c08f4a4bb279d93eb5a7",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-green.png",
+      "size": 1735074,
+      "sha256": "d6a76105a5f6dee637f4d4460bcd82878569783adb3834dff9a9a8f6caf6982e",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-green.xml",
+      "size": 507,
+      "sha256": "0d36d1d1e3488479533cbc9a0a574a971fdfb68335d3bdc00bfa51f2f4c6c9c1",
+      "textSha256": "27477e21e27fc83d4655b660e22dd586583d70232acfeb88a7e3c132a110ed7d",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-purple.png",
+      "size": 1817812,
+      "sha256": "d528f35740896f926e04c8111e2efe78c3374866714c01617615ee8c1cc81c88",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-purple.xml",
+      "size": 508,
+      "sha256": "f151af405aadfb02a1d3f8817b67dee8a5e594212df1078e1c6d275d22bc2daf",
+      "textSha256": "03680f8d9789446568148a650d5f13ab50e5de74dff8a5b6657811969408b677",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-red.png",
+      "size": 1815280,
+      "sha256": "a6cdb5a82287a6e525621be89ff50b56c3fe1dd3243654a0f4e3abd6d2d0ce16",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-red.xml",
+      "size": 505,
+      "sha256": "2607df3ed18b33e27f48fdb76caa060e75e88f99f0a6c4f5ecc1494e0e27d8cb",
+      "textSha256": "5c6181c9e2dd5d3f883088afbffe8f9508f27aca7f59859b4c0638f66dd70b2f",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-yellow.png",
+      "size": 1792325,
+      "sha256": "c75d218326b345c6e69e046e65e6a587fe63915c49d8305b4f13f608aaff7040",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-yellow.xml",
+      "size": 508,
+      "sha256": "2bf41e87c603ed323e0579ce10d989765616c75104425c60879fbe77034d9518",
+      "textSha256": "0421ebb2bf614bd6b2329cbbe8ed04a5f1b775d7347740029001335adb0aea6e",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/drop-note.png",
+      "size": 43134,
+      "sha256": "8efc3c0e44cc16feea3f1fa77c46ebb25912c2f3bffa14d8116667837e5d8cef",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/drop-note.xml",
+      "size": 1151,
+      "sha256": "2760d9cc1c75d3974fa49c3d54f20f2b77dcc1d01d65be2da975021623b804af",
+      "textSha256": "ee6c9dc827d274456ed89f6c046baf88b580e4d93d873dfbb1db74012dfab1c5",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/fahreddy.png",
+      "size": 1201170,
+      "sha256": "b985e5d962bfbb3fa7a6135590407b1e0986090ce330ea875a84fd48f3d220d9",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/fahreddy.xml",
+      "size": 387,
+      "sha256": "8f8a3e57ab8f16db13957b81c316393483515348af7d41c4048a83aa72371b82",
+      "textSha256": "6ed07339177c58c3f82cc486904c0831ea6889a47871c38842bcd017368c9b7b",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/floor.png",
+      "size": 2140163,
+      "sha256": "1b14cb53a2fd3cbaa2c74756d7ded5083bbd04d1b9efa718414777a916cd88ee",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/floor.xml",
+      "size": 506,
+      "sha256": "5f227f76a4ef771f8ff7163b798d056794c45949b4f018c5d8c3c84be9f4f641",
+      "textSha256": "059c4a2f89d0d695fc06073e69edd81388628908f170d654b78fbe67f05514be",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/foo.png",
+      "size": 479710,
+      "sha256": "fa6d29f53c6e8475a996fae6bcad2fabd99446ea29914f7c0545bca19075c7ea",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/foo.xml",
+      "size": 360,
+      "sha256": "d05c92d0591c06d6d354ff75f83db51deb6359fc854703a410efd2ed5fad398f",
+      "textSha256": "e2733dc3ab61c45daeb8d0313865ae12112df0c857f275f789be7bfefcf9bc2b",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/front poles.png",
+      "size": 2911543,
+      "sha256": "aef239c54f6dd6de9d16edc3da8c1896b3a9bb4e5ccf5d3088f59889ba37ab6a",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/front poles.xml",
+      "size": 506,
+      "sha256": "68c1643bde9ef048660f5015d919d448299fa245e55d79f58bceafbf2e600f2c",
+      "textSha256": "1b1a8c810a71e9aeed1822f8d745d5d94556e6869b98df36a323db610d0a6c22",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/lines.png",
+      "size": 761425,
+      "sha256": "c423a82a9974a6097b588c15a3864afe1547caeb7ba62d4adbcb1b979cb5e9e6",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/lines.xml",
+      "size": 503,
+      "sha256": "d83960d6831c98f9ccc2748874e19cd6b2cf67d3dbb89a756f470900045111ae",
+      "textSha256": "18741c6b528c461a46caab7bcedc4e72b7446dc8dc4d38163530641078d468a4",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/mad.png",
+      "size": 403873,
+      "sha256": "3692209166ab1edabe7c7a56941ee9229eae57de112628c8e377606d6f1a2815",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/mad.xml",
+      "size": 361,
+      "sha256": "ecb624a57a46144723b812032c5710e2e8bf8e0b2f8482f80d75bdee4b802504",
+      "textSha256": "951efa428582be227c961d0d218d655adcc137cd9b7ac4f36e564fcb9e58ae82",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/moon.png",
+      "size": 168322,
+      "sha256": "0374e9927e120e38f8921cd25e488a1db83ea97a58010e0dd43c96fcdb5c1063",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/moon.xml",
+      "size": 497,
+      "sha256": "256a87400f50b7506272180edda74246f92db244afe3e5d0d52a37aa491cdfe8",
+      "textSha256": "7f502fde2a20cb03bda97607197cf78a28cf9b104035ec78cc63f8e9fda22063",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/morticco.png",
+      "size": 796243,
+      "sha256": "5726aa8bddb5cc6550e6c3fb2b287d27388489bafe76735168fbe1a35472ab9d",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/morticco.xml",
+      "size": 377,
+      "sha256": "333aed25aae851a080833e17998478684c2d02088276577a545cb8c71229d501",
+      "textSha256": "78f7b55ff15e2dc591d2bb2b2e9ae890f287abaeb855730e6cee460012c43746",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/newgrounds-walkers.png",
+      "size": 20478320,
+      "sha256": "378c58e1d4a0f65785b84d1d0d3bdb0e9205576ca6ecb427a4017371892d1e79",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/newgrounds-walkers.xml",
+      "size": 3923,
+      "sha256": "90a4447f6b055290bf8e315933d842d6db13c01a855779d4b3a766acbfd56eb8",
+      "textSha256": "8dad75810c01cd9ff079017b0071142cbb8d8ae4079545b20106536a39bdb7ea",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/parvin.png",
+      "size": 1092135,
+      "sha256": "730f6acff06cdca9de7a4fa7d461714060aedf6fb7cc2576394cb38a3e10d78a",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/parvin.xml",
+      "size": 376,
+      "sha256": "ff5b8e48478a2bbb7128cef19f2ebfa35b5d0a245fe861451430d209fe0dbaf2",
+      "textSha256": "29a3411cc5e3adb7bbc8df6202fa4fc7700d8718d12538deb3bf19e2ed233f65",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/philly-nice-logo.png",
+      "size": 455112,
+      "sha256": "fe103b378c4d6e15b18307469a50f971dc4594130a132885accddc7d731af7e2",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/poles.png",
+      "size": 785508,
+      "sha256": "d472f3cfc6356a273ba2ff7a31c236e70ebd1d2dce3adf19f74230884666223d",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/poles.xml",
+      "size": 503,
+      "sha256": "09458fd479fb24f8f707dbff0a7dcc1d40d44f9479368206b3ed46a07ce044f5",
+      "textSha256": "7b07556608b3c2ebd11987cfe9f15b88dc8b7ecfad2b1ba8cef2b68935d367d8",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/splat.png",
+      "size": 15868,
+      "sha256": "4a3e678f7a0971bea7ace34efb124ebb1f084ed7758a7ac469ccaa609ea24e11",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/splat.xml",
+      "size": 490,
+      "sha256": "7ac6453d6d92f367523dd8c0bb5ab1732919207b645b1538d1506e189212196d",
+      "textSha256": "92682284300d0fe794f3877385ff234ef87b9c88ae6bab683585b59161f44555",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/train.png",
+      "size": 6589903,
+      "sha256": "560dd444215512522a9c3d09e5aaa707a2a02ca5476bf315339dcb229279485f",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/train.xml",
+      "size": 513,
+      "sha256": "196f836cd1745abffb8379d3a3482015812136be3d31cdee84e558939e2744f8",
+      "textSha256": "6c2f262695abc2e25627ed622ffffbf00fb4c98f67206ad9f2bc03ea7d51680b",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week3/waterbullet.png",
+      "size": 7630,
+      "sha256": "e023698df4d5cc9ee75267be7d581744f4248d8de128498491ca9884723b4eb3",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Hud/Gabriella-Legacy/NOTE_assets.xml",
+      "size": 8062,
+      "sha256": "ba671b06cf46a96675c2a54b683a419183b9109bef9d7240c5dee0a17731bd89",
+      "textSha256": "ba671b06cf46a96675c2a54b683a419183b9109bef9d7240c5dee0a17731bd89",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/Hud/Gabriella-Legacy/noteSplashes.xml",
+      "size": 4560,
+      "sha256": "9d197c403b963bf6e5ea88693d8c64fcec0b30778e1656342faa19b780bc1138",
+      "textSha256": "9d197c403b963bf6e5ea88693d8c64fcec0b30778e1656342faa19b780bc1138",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/alphabet.xml",
+      "size": 56887,
+      "sha256": "5da32ce741d28ea4a7498cb4611397f95b3f9ecb8cbc5fd8687eb09e8c9c6cf2",
+      "textSha256": "5da32ce741d28ea4a7498cb4611397f95b3f9ecb8cbc5fd8687eb09e8c9c6cf2",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/gfDanceTitle.xml",
+      "size": 4146,
+      "sha256": "3fa572b73e645b0d70ef02fd9384e8cbd60a8b7de937ef33ed30fb2cb4b67992",
+      "textSha256": "3fa572b73e645b0d70ef02fd9384e8cbd60a8b7de937ef33ed30fb2cb4b67992",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/Menus/options/alphabet-bold.xml",
+      "size": 39471,
+      "sha256": "2ae1464b7c4f5716f5f9b6a6fc289d04d59c56adb7abbb520a209c0afcab1718",
+      "textSha256": "2ae1464b7c4f5716f5f9b6a6fc289d04d59c56adb7abbb520a209c0afcab1718",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/gpu/notePerspective.vert",
+      "size": 3033,
+      "sha256": "4cf4bdd8be3a52bde53544d9b7e2af321cadd90e5ef4475fb51b87f6f6f0e633",
+      "textSha256": "4cf4bdd8be3a52bde53544d9b7e2af321cadd90e5ef4475fb51b87f6f6f0e633",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/modifiers/boost.vert",
+      "size": 434,
+      "sha256": "4c707a23b651e1372a3fb86280d9ea3805831c16d707245d08eee6055cebaad5",
+      "textSha256": "4c707a23b651e1372a3fb86280d9ea3805831c16d707245d08eee6055cebaad5",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/modifiers/brake.vert",
+      "size": 390,
+      "sha256": "5fb24eded32b9d08f96b5ba393328174feca5b23efebdf544ebff99153dc454f",
+      "textSha256": "5fb24eded32b9d08f96b5ba393328174feca5b23efebdf544ebff99153dc454f",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/BarrelBlurEffect.frag",
+      "size": 2721,
+      "sha256": "197a9bd93fbf8d7d91d8a1afa167b74ae4fc43bb924c96f5277f592af2abda39",
+      "textSha256": "197a9bd93fbf8d7d91d8a1afa167b74ae4fc43bb924c96f5277f592af2abda39",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/BarsEffect.frag",
+      "size": 242,
+      "sha256": "0aececc362d5e23438befe19dfc0aed6380485f89347f1a45bbe04339f00c797",
+      "textSha256": "0aececc362d5e23438befe19dfc0aed6380485f89347f1a45bbe04339f00c797",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/BloomEffect.frag",
+      "size": 919,
+      "sha256": "f0fde0ba55f4389dd4ac59eb78d594c2af5a85b2b563bc4067ab56a2df5f1ae9",
+      "textSha256": "f0fde0ba55f4389dd4ac59eb78d594c2af5a85b2b563bc4067ab56a2df5f1ae9",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/BloomVerticalEffect.frag",
+      "size": 894,
+      "sha256": "ee47e21bf75250134b181f62f78f964580809ba106de68566cfc9d8c0ca85ea5",
+      "textSha256": "ee47e21bf75250134b181f62f78f964580809ba106de68566cfc9d8c0ca85ea5",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/blur.frag",
+      "size": 865,
+      "sha256": "c11bcb1915809c39ece01339ef2719ba54a5bdb42868659fcba1225f2083f1b1",
+      "textSha256": "c11bcb1915809c39ece01339ef2719ba54a5bdb42868659fcba1225f2083f1b1",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/BlurEffect.frag",
+      "size": 562,
+      "sha256": "7e0855c63ac4ad9dd1e957a7da61112c3fd4089f5ed801cbc8c185db70b4ce5a",
+      "textSha256": "7e0855c63ac4ad9dd1e957a7da61112c3fd4089f5ed801cbc8c185db70b4ce5a",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/colorswap.frag",
+      "size": 1091,
+      "sha256": "23e134f8317a2488a614b01101965eed43d7a81cfe4db15cbe197023558666e7",
+      "textSha256": "23e134f8317a2488a614b01101965eed43d7a81cfe4db15cbe197023558666e7",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/ColorSwapEffect.frag",
+      "size": 1091,
+      "sha256": "23e134f8317a2488a614b01101965eed43d7a81cfe4db15cbe197023558666e7",
+      "textSha256": "23e134f8317a2488a614b01101965eed43d7a81cfe4db15cbe197023558666e7",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/GlitchEffect.frag",
+      "size": 1968,
+      "sha256": "c11c7de60522af09affda0d5dad0be54cb159a415dada37512cb51838df0423f",
+      "textSha256": "c11c7de60522af09affda0d5dad0be54cb159a415dada37512cb51838df0423f",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/GreyscaleEffect.frag",
+      "size": 251,
+      "sha256": "dd8d1f569e204cd97bfa74642ffeec9fc2cd0626633d386d8e25be518fea4e7a",
+      "textSha256": "dd8d1f569e204cd97bfa74642ffeec9fc2cd0626633d386d8e25be518fea4e7a",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/HeatShader.frag",
+      "size": 657,
+      "sha256": "9ed4ac254c551cdd3f840f6ec5ad908eab83849a0474e806eb934147c719280e",
+      "textSha256": "9ed4ac254c551cdd3f840f6ec5ad908eab83849a0474e806eb934147c719280e",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/M/3DMIrror.frag",
+      "size": 1857,
+      "sha256": "e85eb7961e1047e73aa2f80f4a3a09b3a986534043a2064a5ed32179a1de6bec",
+      "textSha256": "e85eb7961e1047e73aa2f80f4a3a09b3a986534043a2064a5ed32179a1de6bec",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/M/color.frag",
+      "size": 824,
+      "sha256": "f9c477e9150bc94b2e77152b92b753061f409b60f1c0cc50ed4981f731014b9c",
+      "textSha256": "f9c477e9150bc94b2e77152b92b753061f409b60f1c0cc50ed4981f731014b9c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/M/spiral.frag",
+      "size": 1134,
+      "sha256": "08b81568f06f6c72ab736a52852508c8292357c41a07c498a116b01e9a24123f",
+      "textSha256": "08b81568f06f6c72ab736a52852508c8292357c41a07c498a116b01e9a24123f",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/M/WaterEffect.frag",
+      "size": 453,
+      "sha256": "f16eea68772ed71c0349521f256512e386e5fc7e3e2e25056830e76f6f1680f8",
+      "textSha256": "f16eea68772ed71c0349521f256512e386e5fc7e3e2e25056830e76f6f1680f8",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/MirrorRepeatEffect.frag",
+      "size": 1020,
+      "sha256": "beca9cc350db5d96d0260f4860e61acf2bc0405a4699ed0ab704f93d8ed3f947",
+      "textSha256": "beca9cc350db5d96d0260f4860e61acf2bc0405a4699ed0ab704f93d8ed3f947",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/MirrorRepeatEffectN.frag",
+      "size": 1020,
+      "sha256": "beca9cc350db5d96d0260f4860e61acf2bc0405a4699ed0ab704f93d8ed3f947",
+      "textSha256": "beca9cc350db5d96d0260f4860e61acf2bc0405a4699ed0ab704f93d8ed3f947",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/MirrorRepeatWarpBackBlendEffect.frag",
+      "size": 1288,
+      "sha256": "e161a06d3d3ded5709bd3fd5a71c12dbeda85afb7fb3cf42102b8f4131f4da03",
+      "textSha256": "e161a06d3d3ded5709bd3fd5a71c12dbeda85afb7fb3cf42102b8f4131f4da03",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/MirrorRepeatWarpEffect.frag",
+      "size": 1104,
+      "sha256": "1bc1be5109a097aaa240f3f23915e3e46e1665dd774548562bfbbb632220117c",
+      "textSha256": "1bc1be5109a097aaa240f3f23915e3e46e1665dd774548562bfbbb632220117c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/negative.frag",
+      "size": 243,
+      "sha256": "21fc98804eb053de438c5a7ec4380708684fcc0e83924a4ab63d68f6f8c81dcb",
+      "textSha256": "21fc98804eb053de438c5a7ec4380708684fcc0e83924a4ab63d68f6f8c81dcb",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/notePerspective.vert",
+      "size": 3035,
+      "sha256": "2f37e9378f47914aca5d072ce59e416fb1357ece2cd84d9de64c844b69183769",
+      "textSha256": "2f37e9378f47914aca5d072ce59e416fb1357ece2cd84d9de64c844b69183769",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/PerlinMirrorRepeatEffect.frag",
+      "size": 1187,
+      "sha256": "d471e180af785dd314f1812f15c19639d681d08ccb5e9a232a1379f4a7f6beeb",
+      "textSha256": "d471e180af785dd314f1812f15c19639d681d08ccb5e9a232a1379f4a7f6beeb",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/PerlinMirrorRepeatEffect.vert",
+      "size": 2649,
+      "sha256": "eb245c200a9e1451450acb35f65bda29b7f47c121524873883c47041ed29031f",
+      "textSha256": "eb245c200a9e1451450acb35f65bda29b7f47c121524873883c47041ed29031f",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/PerlinSmokeEffect.frag",
+      "size": 3436,
+      "sha256": "0ccfe904ae64eced37f1b7dee29d9ed347d93c61dbd5d4bb34379e1a9290fc43",
+      "textSha256": "0ccfe904ae64eced37f1b7dee29d9ed347d93c61dbd5d4bb34379e1a9290fc43",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/PopoEffect.frag",
+      "size": 1560,
+      "sha256": "80f67d094d9f1dd54841ae649aa92e24cc0fa0717c464d3a98d58805362e9cdc",
+      "textSha256": "80f67d094d9f1dd54841ae649aa92e24cc0fa0717c464d3a98d58805362e9cdc",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/RainEffect.frag",
+      "size": 1230,
+      "sha256": "b7db244d02b4fc1d6723dda5666406892e520ca1ad460c085a4fe1d2e4895fca",
+      "textSha256": "b7db244d02b4fc1d6723dda5666406892e520ca1ad460c085a4fe1d2e4895fca",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/RaymarchDepthEffect.frag",
+      "size": 3754,
+      "sha256": "9756ea7296e9b6b2f0330c07d2cbd95370592ae25f00c1d3b0dbab2b9e97a981",
+      "textSha256": "9756ea7296e9b6b2f0330c07d2cbd95370592ae25f00c1d3b0dbab2b9e97a981",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/RayMarchEffect.frag",
+      "size": 2643,
+      "sha256": "94a0d0929a712eb7592aa4dc900bf211192e603b847330efeb65eed2c9e882c4",
+      "textSha256": "94a0d0929a712eb7592aa4dc900bf211192e603b847330efeb65eed2c9e882c4",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/raytracingcube.frag",
+      "size": 3314,
+      "sha256": "1b3cc0a4914dc83a6072764018fbeff2b431cd21b31373f0af2e05e7902b245c",
+      "textSha256": "1b3cc0a4914dc83a6072764018fbeff2b431cd21b31373f0af2e05e7902b245c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/ScanlineEffect.frag",
+      "size": 819,
+      "sha256": "f046e9f76da4517eb47b82beb340fdbe2cca261ec645d1e25aab65d3e6a2fcf7",
+      "textSha256": "f046e9f76da4517eb47b82beb340fdbe2cca261ec645d1e25aab65d3e6a2fcf7",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/SobelEffect.frag",
+      "size": 1197,
+      "sha256": "a13326ff8e8434112b27d77d658cbdbb44d50f6491f3295a46d2239e51d35824",
+      "textSha256": "a13326ff8e8434112b27d77d658cbdbb44d50f6491f3295a46d2239e51d35824",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/SparkEffect.frag",
+      "size": 4606,
+      "sha256": "5f16eea62399b3948b7f9fe83c20abecfddf40e68edaac6eaf2d1e20d8bac1f2",
+      "textSha256": "5f16eea62399b3948b7f9fe83c20abecfddf40e68edaac6eaf2d1e20d8bac1f2",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/SpeedEffect.frag",
+      "size": 1322,
+      "sha256": "548bc711fd7acbd3f49f23a8f34a53b6ef17b0625d411f774372661e827b823a",
+      "textSha256": "548bc711fd7acbd3f49f23a8f34a53b6ef17b0625d411f774372661e827b823a",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/SpiralTunnelEffect.frag",
+      "size": 1098,
+      "sha256": "afac5c3af6cbd52f5b28c3693881f2dc58ee546ab5f45ce08bf0302ae711d36d",
+      "textSha256": "afac5c3af6cbd52f5b28c3693881f2dc58ee546ab5f45ce08bf0302ae711d36d",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/SplitCamMania.frag",
+      "size": 2331,
+      "sha256": "d5a34457ca02e4668174ab66ef1c22eaaa1dc31a1a0bb7baeacb371f1b0b3b8e",
+      "textSha256": "d5a34457ca02e4668174ab66ef1c22eaaa1dc31a1a0bb7baeacb371f1b0b3b8e",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/VHSEffect.frag",
+      "size": 1765,
+      "sha256": "224b6af98fd571c1000fa4c20972aefbe377635980af14b3fd84dd950d7ede36",
+      "textSha256": "224b6af98fd571c1000fa4c20972aefbe377635980af14b3fd84dd950d7ede36",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/VignetteEffect.frag",
+      "size": 455,
+      "sha256": "26a2c4088539e6d5e2ba11d55e24bc564d842db07b602638660719f9a14d2e17",
+      "textSha256": "26a2c4088539e6d5e2ba11d55e24bc564d842db07b602638660719f9a14d2e17",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/VortexEffect.frag",
+      "size": 2940,
+      "sha256": "45933408bb86d65b6d7f36ab4e619fe3d5ad978daef68768c3169746eeb876b4",
+      "textSha256": "45933408bb86d65b6d7f36ab4e619fe3d5ad978daef68768c3169746eeb876b4",
+      "change": "changed"
+    },
+    {
+      "path": "assets/modchart-editor/shaders/WiggleEffect.frag",
+      "size": 1582,
+      "sha256": "80f38813d89b1677cc5df66de59ffcd770681dd011652c35d071d1c16f067ca2",
+      "textSha256": "80f38813d89b1677cc5df66de59ffcd770681dd011652c35d071d1c16f067ca2",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shaders/aom-barber-pole.frag",
+      "size": 2363,
+      "sha256": "09e341523018ecdfd031c4207e3c113c83f9cd60eb3228c5608cf89ba303e72b",
+      "textSha256": "09e341523018ecdfd031c4207e3c113c83f9cd60eb3228c5608cf89ba303e72b",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shaders/aom-fah-healthbar.frag",
+      "size": 2219,
+      "sha256": "7258e589f3844667a93da881b74b2e113bac2791e9153e883bf1e4cb6284dbef",
+      "textSha256": "7258e589f3844667a93da881b74b2e113bac2791e9153e883bf1e4cb6284dbef",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shaders/aom-paper-overlay.frag",
+      "size": 758,
+      "sha256": "f25710aaf3b40ffbc58a4c435da1bde2c1bdd9b2f56f229d7518f33ad31b66a2",
+      "textSha256": "f25710aaf3b40ffbc58a4c435da1bde2c1bdd9b2f56f229d7518f33ad31b66a2",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shaders/checkerboard-legacy.frag",
+      "size": 867,
+      "sha256": "456fba1abb335dac9dc29b3b6dd8cf3671e4f1830f8dad63b0c19d305794c4e0",
+      "textSha256": "456fba1abb335dac9dc29b3b6dd8cf3671e4f1830f8dad63b0c19d305794c4e0",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shaders/checkerboard.frag",
+      "size": 525,
+      "sha256": "9353ac6f01c3e23529762c199b2dab31849db627bb9e1ea0ba3c1ba50902271c",
+      "textSha256": "9353ac6f01c3e23529762c199b2dab31849db627bb9e1ea0ba3c1ba50902271c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shaders/invert.frag",
+      "size": 468,
+      "sha256": "b3865c20f6650cdbac504d7bb9fe22a5827a339cfde14a3c68a380a731064ce9",
+      "textSha256": "b3865c20f6650cdbac504d7bb9fe22a5827a339cfde14a3c68a380a731064ce9",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shared/images/characters/BOYFRIEND.xml",
+      "size": 51956,
+      "sha256": "20a5164d8b0a40965a804c5f39c31f855e25798a65b8b473df497108db1940ad",
+      "textSha256": "20a5164d8b0a40965a804c5f39c31f855e25798a65b8b473df497108db1940ad",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shared/images/characters/BOYFRIEND_DEAD.xml",
+      "size": 15325,
+      "sha256": "f2c0bc97fe1d71664c876dd3f2eadefb1e8abcff1104bb433c92ef1b67f73fa4",
+      "textSha256": "f2c0bc97fe1d71664c876dd3f2eadefb1e8abcff1104bb433c92ef1b67f73fa4",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shared/images/characters/DADDY_DEAREST.xml",
+      "size": 16856,
+      "sha256": "61086d1e5f70af0f88d8f7acf9e4458dc4db54ab0f6b5e03cc8a635f3dc1cd77",
+      "textSha256": "61086d1e5f70af0f88d8f7acf9e4458dc4db54ab0f6b5e03cc8a635f3dc1cd77",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shared/images/characters/GF_assets.xml",
+      "size": 30837,
+      "sha256": "3810efe3148f516d52c7c315389c85444961fbb43f3f831d30d199842776688a",
+      "textSha256": "3810efe3148f516d52c7c315389c85444961fbb43f3f831d30d199842776688a",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shared/images/HURTnoteSplashes.xml",
+      "size": 4744,
+      "sha256": "3d7806746d0907b88cc9090edb1ba72f193e0c9f846a91cf5b93f86f825d08c1",
+      "textSha256": "3d7806746d0907b88cc9090edb1ba72f193e0c9f846a91cf5b93f86f825d08c1",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shared/images/NOTE_assets.xml",
+      "size": 8062,
+      "sha256": "ba671b06cf46a96675c2a54b683a419183b9109bef9d7240c5dee0a17731bd89",
+      "textSha256": "ba671b06cf46a96675c2a54b683a419183b9109bef9d7240c5dee0a17731bd89",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shared/images/noteSplashes.xml",
+      "size": 4560,
+      "sha256": "9d197c403b963bf6e5ea88693d8c64fcec0b30778e1656342faa19b780bc1138",
+      "textSha256": "9d197c403b963bf6e5ea88693d8c64fcec0b30778e1656342faa19b780bc1138",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shared/images/pauseAlt/bfLol.xml",
+      "size": 2993,
+      "sha256": "540d538c0db1b3f564845cd9560a72ec91e2a278ef37872537b4081bc3bd04b1",
+      "textSha256": "540d538c0db1b3f564845cd9560a72ec91e2a278ef37872537b4081bc3bd04b1",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shared/images/pauseAlt/pauseUI.xml",
+      "size": 447,
+      "sha256": "8aa86e35b80e64953d131fa6261d388bd2924844884d9335c5260e846d1f93ec",
+      "textSha256": "8aa86e35b80e64953d131fa6261d388bd2924844884d9335c5260e846d1f93ec",
+      "change": "changed"
+    },
+    {
+      "path": "assets/shared/images/speech_bubble.xml",
+      "size": 9573,
+      "sha256": "27b112e69bdfee08df2babc085e5b44254bd4c4d7283aa5c4c66fbeecb749f89",
+      "textSha256": "27b112e69bdfee08df2babc085e5b44254bd4c4d7283aa5c4c66fbeecb749f89",
+      "change": "changed"
+    },
+    {
+      "path": "assets/stages/fah-week3.lua",
+      "size": 10684,
+      "sha256": "0e52a66b2122e56ada71abfdbd5709dfc020a13e20d60848aaf5afcfe766f80a",
+      "textSha256": "0e52a66b2122e56ada71abfdbd5709dfc020a13e20d60848aaf5afcfe766f80a",
+      "change": "changed"
+    },
+    {
+      "path": "assets/stages/fah-week4.lua",
+      "size": 13013,
+      "sha256": "fe10c7894914bdb03da2402343d0a88b36c97eb6d244d6f6f4fc3c15fb305952",
+      "textSha256": "fe10c7894914bdb03da2402343d0a88b36c97eb6d244d6f6f4fc3c15fb305952",
+      "change": "changed"
+    },
+    {
+      "path": "assets/stages/raven.lua",
+      "size": 32642,
+      "sha256": "9d6e0b7a86570b06701e0b65e00045e2fe1998c06ed7b54f526ed20f7123a9dd",
+      "textSha256": "9d6e0b7a86570b06701e0b65e00045e2fe1998c06ed7b54f526ed20f7123a9dd",
+      "change": "changed"
+    },
+    {
+      "path": "Average OC Mod.exe",
+      "size": 43223040,
+      "sha256": "644df7b58373be67909e7164e68dd653bade4f7334552ada570c21719b388d90",
+      "change": "changed"
+    },
+    {
+      "path": "manifest/default.json",
+      "size": 203235,
+      "sha256": "3d4882322341620e758f23e007aec9da6092d8caf6f3d14487e19964a75fd5e4",
+      "textSha256": "3d4882322341620e758f23e007aec9da6092d8caf6f3d14487e19964a75fd5e4",
+      "change": "changed"
+    },
+    {
+      "path": "manifest/shared.json",
+      "size": 4791,
+      "sha256": "544c10c536b010b93331d71bb5a8ce270747028d1c15058530ced2d57eb82ba4",
+      "textSha256": "544c10c536b010b93331d71bb5a8ce270747028d1c15058530ced2d57eb82ba4",
+      "change": "changed"
+    },
+    {
+      "path": "manifest/songs.json",
+      "size": 4637,
+      "sha256": "04093cc1b4bfa6d89d2bb50a5a8884f91b392009600ebcad18ce4f2cc86a4090",
+      "textSha256": "04093cc1b4bfa6d89d2bb50a5a8884f91b392009600ebcad18ce4f2cc86a4090",
+      "change": "changed"
+    },
+    {
+      "path": "manifest/videos.json",
+      "size": 2172,
+      "sha256": "2ad2bd23214cc4c825e85ffe5bb35df3a83912050060ae69c7bd3032775c0744",
+      "textSha256": "2ad2bd23214cc4c825e85ffe5bb35df3a83912050060ae69c7bd3032775c0744",
+      "change": "changed"
+    },
+    {
+      "path": "plugins/plugins.dat",
+      "size": 256718,
+      "sha256": "df2df09005740a533ce4f7eb4d3d70abe3c7e54465781691bdd6bd5bbf8ba6a3",
+      "change": "changed"
+    },
+    {
+      "path": "SOURCE.txt",
+      "size": 595,
+      "sha256": "44164e1f1b20563a054a17c74441f19a1dbee4de556cdbc8f38c6ccf0a492e21",
+      "textSha256": "44164e1f1b20563a054a17c74441f19a1dbee4de556cdbc8f38c6ccf0a492e21",
+      "change": "added"
     }
   ],
-  "delete": []
+  "delete": [
+    "assets/data/blammed/01-hud-overlay-and-transitions.lua",
+    "assets/data/bleh/00-load-guns-shared.lua",
+    "assets/data/bleh/01-strum-sway-and-blackout.lua",
+    "assets/data/bleh/02-intro-cutscene.lua",
+    "assets/data/bopeebo/01-hud-overlay-and-transitions.lua",
+    "assets/data/dadbattle/01-hud-zoom-bump.lua",
+    "assets/data/dadbattle/03-hud-overlay-and-transitions.lua",
+    "assets/data/darnell/01-week1-hud-overlay.lua",
+    "assets/data/darnell/02-fahmmy-bear.lua",
+    "assets/data/eggnog/01-camera-follow-lock.lua",
+    "assets/data/eggnog/02-game-over-camera.lua",
+    "assets/data/eggnog/03-lights-chain-bounce.lua",
+    "assets/data/eggnog/04-biter-popouts.lua",
+    "assets/data/eggnog/05-receptor-angle-pulse.lua",
+    "assets/data/eggnog/06-hud-overlay-and-transitions.lua",
+    "assets/data/fresh/01-hud-zoom-bump.lua",
+    "assets/data/fresh/03-hud-overlay-and-transitions.lua",
+    "assets/data/fresh/04-player-receptor-beat-pulses.lua",
+    "assets/data/high/01-hud-zoom-bump.lua",
+    "assets/data/high/03-hud-overlay-and-transitions.lua",
+    "assets/data/high/04-dad-note-sway.lua",
+    "assets/data/hodgepodge/01-character-icon-follow.lua",
+    "assets/data/hodgepodge/02-kitty-paw-bursts.lua",
+    "assets/data/hodgepodge/03-screen-overlay-transitions.lua",
+    "assets/data/hodgepodge/04-phoenix-camera-bopper.lua",
+    "assets/data/lit-up/04-nene.lua",
+    "assets/data/lit-up/05-giggle.lua",
+    "assets/data/lit-up/06-spring.lua",
+    "assets/data/lit-up/07-burger.lua",
+    "assets/data/lit-up/08-far.lua",
+    "assets/data/mama/01-hud-zoom-bump.lua",
+    "assets/data/mama/03-hud-overlay-and-transitions.lua",
+    "assets/data/mama/04-dad-note-sway.lua",
+    "assets/data/mama/05-bf-note-beat-sway.lua",
+    "assets/data/pews/04-game-over-voice-lines.lua",
+    "assets/data/pews/05-flyers-hud-overlay-and-transitions.lua",
+    "assets/data/roses/02-dialogue-receptor-reset.lua",
+    "assets/data/roses/05-receptor-sway-and-bounce.lua",
+    "assets/data/roses/06-hud-overlay-and-transitions.lua",
+    "assets/data/senpai/00-load-roses-hud.lua",
+    "assets/data/senpai/01-beat-pulses-and-ending-fade.lua",
+    "assets/data/shiftr/01-checkerboard-hud-motion.lua",
+    "assets/data/shiftr/02-guitar-orbit.lua",
+    "assets/data/shiftr/03-screen-overlay-transitions.lua",
+    "assets/data/skyline/03-screen-overlay-transitions.lua",
+    "assets/data/spookeez/02-lightning-character-clones.lua",
+    "assets/data/spookeez/04-receptor-beat-bounce.lua",
+    "assets/data/spookeez/05-hud-overlay-scares-and-transitions.lua",
+    "assets/data/stress/02-intro-cutscene.lua",
+    "assets/data/sunburnt/01-checkerboard-hud-motion.lua",
+    "assets/data/sunburnt/02-game-over-camera-and-voice-lines.lua",
+    "assets/data/sunburnt/03-screen-overlay-transitions.lua",
+    "assets/data/tutorial/01-minimal-hud-visibility.lua",
+    "assets/data/tutorial/02-hud-overlay-and-transitions.lua",
+    "assets/data/tutorial/03-direction-word-prompts.lua",
+    "assets/data/undies/01-hud-zoom-bump.lua",
+    "assets/data/undies/03-hud-overlay-and-transitions.lua",
+    "assets/data/undies/04-dad-note-sway.lua",
+    "assets/data/undies/05-fah-runner.lua",
+    "assets/data/what-the-fah/02-post-song-video-cutscene.lua",
+    "assets/data/what-the-fah/03-botplay-text-style.lua",
+    "assets/data/what-the-fah/04-hud-overlay-and-transitions.lua",
+    "assets/data/what-the-fah/05-throwable-arc-props.lua",
+    "assets/data/what-the-fah/06-truckers-hi-popups-and-people-chain.lua",
+    "assets/data/what-the-fah/07-random-distraction-images.lua",
+    "assets/images/fahmix/week 3/blammed-credits.png",
+    "assets/images/fahmix/week 3/blammed-logo.png",
+    "assets/images/fahmix/week 3/buildings.png",
+    "assets/images/fahmix/week 3/buildings.xml",
+    "assets/images/fahmix/week 3/buildings/buildings-cyan.png",
+    "assets/images/fahmix/week 3/buildings/buildings-cyan.xml",
+    "assets/images/fahmix/week 3/buildings/buildings-green.png",
+    "assets/images/fahmix/week 3/buildings/buildings-green.xml",
+    "assets/images/fahmix/week 3/buildings/buildings-purple.png",
+    "assets/images/fahmix/week 3/buildings/buildings-purple.xml",
+    "assets/images/fahmix/week 3/buildings/buildings-red.png",
+    "assets/images/fahmix/week 3/buildings/buildings-red.xml",
+    "assets/images/fahmix/week 3/buildings/buildings-yellow.png",
+    "assets/images/fahmix/week 3/buildings/buildings-yellow.xml",
+    "assets/images/fahmix/week 3/drop-note.png",
+    "assets/images/fahmix/week 3/drop-note.xml",
+    "assets/images/fahmix/week 3/fahreddy.png",
+    "assets/images/fahmix/week 3/fahreddy.xml",
+    "assets/images/fahmix/week 3/floor.png",
+    "assets/images/fahmix/week 3/floor.xml",
+    "assets/images/fahmix/week 3/foo.png",
+    "assets/images/fahmix/week 3/foo.xml",
+    "assets/images/fahmix/week 3/front poles.png",
+    "assets/images/fahmix/week 3/front poles.xml",
+    "assets/images/fahmix/week 3/lines.png",
+    "assets/images/fahmix/week 3/lines.xml",
+    "assets/images/fahmix/week 3/mad.png",
+    "assets/images/fahmix/week 3/mad.xml",
+    "assets/images/fahmix/week 3/moon.png",
+    "assets/images/fahmix/week 3/moon.xml",
+    "assets/images/fahmix/week 3/morticco.png",
+    "assets/images/fahmix/week 3/morticco.xml",
+    "assets/images/fahmix/week 3/newgrounds-walkers.png",
+    "assets/images/fahmix/week 3/newgrounds-walkers.xml",
+    "assets/images/fahmix/week 3/paper/paper-cyan.png",
+    "assets/images/fahmix/week 3/paper/paper-cyan.xml",
+    "assets/images/fahmix/week 3/paper/paper-green.png",
+    "assets/images/fahmix/week 3/paper/paper-green.xml",
+    "assets/images/fahmix/week 3/paper/paper-purple.png",
+    "assets/images/fahmix/week 3/paper/paper-purple.xml",
+    "assets/images/fahmix/week 3/paper/paper-red.png",
+    "assets/images/fahmix/week 3/paper/paper-red.xml",
+    "assets/images/fahmix/week 3/paper/paper-yellow.png",
+    "assets/images/fahmix/week 3/paper/paper-yellow.xml",
+    "assets/images/fahmix/week 3/parvin.png",
+    "assets/images/fahmix/week 3/parvin.xml",
+    "assets/images/fahmix/week 3/philly-nice-logo.png",
+    "assets/images/fahmix/week 3/poles.png",
+    "assets/images/fahmix/week 3/poles.xml",
+    "assets/images/fahmix/week 3/splat.png",
+    "assets/images/fahmix/week 3/splat.xml",
+    "assets/images/fahmix/week 3/train.png",
+    "assets/images/fahmix/week 3/train.xml",
+    "assets/images/fahmix/week 3/waterbullet.png"
+  ]
 }

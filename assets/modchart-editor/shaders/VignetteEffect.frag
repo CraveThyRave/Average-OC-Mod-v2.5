@@ -1,5 +1,5 @@
 #pragma header
-		
+
 uniform float strength;
 uniform float size;
 
@@ -11,9 +11,6 @@ void main()
 {
 	vec2 uv = openfl_TextureCoordv;
 	vec4 col = flixel_texture2D(bitmap, uv);
-
-	//modified from this
-	//https://www.shadertoy.com/view/lsKSWR
 
 	uv = uv * (1.0 - uv.yx);
 	float vig = uv.x * uv.y * strength;

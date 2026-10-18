@@ -5,7 +5,7 @@ local exitX = 0
 local shiftedStep = 0
 
 function onCreate()
-    makeAnimatedLuaSprite('phillyParvin', 'fahmix/week 3/parvin', 0, 0)
+    makeAnimatedLuaSprite('phillyParvin', 'fahmix/week3/parvin', 0, 0)
     addAnimationByPrefix('phillyParvin', 'idle', 'parvin idle', 3, true)
     playAnim('phillyParvin', 'idle', true)
     local scale = screenHeight * 0.8 / getProperty('phillyParvin.height')

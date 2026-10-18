@@ -3,7 +3,7 @@ local finished = false
 local normalScale = 1
 
 function onCreate()
-    makeAnimatedLuaSprite('phillyFoo', 'fahmix/week 3/foo', 0, 0)
+    makeAnimatedLuaSprite('phillyFoo', 'fahmix/week3/foo', 0, 0)
     addAnimationByPrefix('phillyFoo', 'idle', 'foo idle', 3, true)
     playAnim('phillyFoo', 'idle', true)
     normalScale = screenHeight * 0.8 / getProperty('phillyFoo.height')

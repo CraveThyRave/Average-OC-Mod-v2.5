@@ -1,5 +1,5 @@
 {
-  "version": "2.5.25",
+  "version": "2.5.26",
   "files": [
     {
       "path": ".gitattributes",
@@ -320,9 +320,9 @@
     },
     {
       "path": "assets/custom_events/Biter.lua",
-      "size": 7526,
-      "sha256": "c339b3ac61ec4f9dc0bbfffac43fab8938a969c82ace4aea485158ff8dc904c8",
-      "textSha256": "c339b3ac61ec4f9dc0bbfffac43fab8938a969c82ace4aea485158ff8dc904c8"
+      "size": 7075,
+      "sha256": "83519bbeaec3ccd8c039151e4239cf4b6a36c5ad152b22064501d5685d41fcd1",
+      "textSha256": "83519bbeaec3ccd8c039151e4239cf4b6a36c5ad152b22064501d5685d41fcd1"
     },
     {
       "path": "assets/custom_events/Biter.txt",
@@ -566,9 +566,9 @@
     },
     {
       "path": "assets/custom_notetypes/dropNote.lua",
-      "size": 751,
-      "sha256": "be9a928c65b92de1e9ad3fb6419ece26afcc835868ad9831f896fc1d03db282f",
-      "textSha256": "be9a928c65b92de1e9ad3fb6419ece26afcc835868ad9831f896fc1d03db282f"
+      "size": 750,
+      "sha256": "0c59fc241c108c3200fd25a979ca50c1b1ee2fb456037e1be78850a8bb89f30d",
+      "textSha256": "0c59fc241c108c3200fd25a979ca50c1b1ee2fb456037e1be78850a8bb89f30d"
     },
     {
       "path": "assets/custom_notetypes/MicNote.lua",
@@ -583,10 +583,10 @@
       "textSha256": "f93a2c2ef5cb40cdd6fcc7999ae0653542a1f9796914ad0486e8b01f79c2c046"
     },
     {
-      "path": "assets/data/blammed/01-hud-overlay-and-transitions.lua",
-      "size": 4645,
-      "sha256": "7f90aa38817b35e01cbefb1ade81b5049b7d7a3bdbac1e6a212165f72f148513",
-      "textSha256": "7f90aa38817b35e01cbefb1ade81b5049b7d7a3bdbac1e6a212165f72f148513"
+      "path": "assets/data/blammed/01-hud.lua",
+      "size": 4644,
+      "sha256": "a113b05a88a6e195e4e1d3a6e374666476f978b44fdb1c9612865c82fba2565d",
+      "textSha256": "a113b05a88a6e195e4e1d3a6e374666476f978b44fdb1c9612865c82fba2565d"
     },
     {
       "path": "assets/data/blammed/blammed-hard.json",
@@ -613,19 +613,19 @@
       "textSha256": "48f3debb837f355e048c22e91177ffb6154049e39f7b9dfa861a2856c2ff0574"
     },
     {
-      "path": "assets/data/bleh/00-load-guns-shared.lua",
-      "size": 255,
-      "sha256": "c991a65b306627950fdcb411e114194870a78992ddddf494df1974c4d1630c4e",
-      "textSha256": "c991a65b306627950fdcb411e114194870a78992ddddf494df1974c4d1630c4e"
+      "path": "assets/data/bleh/00-shared.lua",
+      "size": 211,
+      "sha256": "eeb5c9d2c2ff917addbdc0f928f68c7a7beca6345c97d466971cd80a43e6124f",
+      "textSha256": "eeb5c9d2c2ff917addbdc0f928f68c7a7beca6345c97d466971cd80a43e6124f"
     },
     {
-      "path": "assets/data/bleh/01-strum-sway-and-blackout.lua",
-      "size": 5758,
-      "sha256": "bded858d58b29d183ee4af08f5df1a205721b1d8f90311c7a138cc0c984ae8a3",
-      "textSha256": "bded858d58b29d183ee4af08f5df1a205721b1d8f90311c7a138cc0c984ae8a3"
+      "path": "assets/data/bleh/01-receptors.lua",
+      "size": 5448,
+      "sha256": "cbcefb12b6b25eca6e6113277fa5e4b1d9b3dc0a42cfc7d61390cb0d7cb4b3ee",
+      "textSha256": "cbcefb12b6b25eca6e6113277fa5e4b1d9b3dc0a42cfc7d61390cb0d7cb4b3ee"
     },
     {
-      "path": "assets/data/bleh/02-intro-cutscene.lua",
+      "path": "assets/data/bleh/02-intro.lua",
       "size": 3896,
       "sha256": "292b9d2854202babbda788f608d030b7e069097e21c2484c574798e8a95eb354",
       "textSha256": "292b9d2854202babbda788f608d030b7e069097e21c2484c574798e8a95eb354"
@@ -655,7 +655,7 @@
       "textSha256": "dc6bf1155532853786c56f98394192095a0e40522a9fd732c9bff10178728529"
     },
     {
-      "path": "assets/data/bopeebo/01-hud-overlay-and-transitions.lua",
+      "path": "assets/data/bopeebo/01-hud.lua",
       "size": 4632,
       "sha256": "74da5577b1b44dc182eea20a9d4722f77cff58f72f4d1544090464b5c53714d5",
       "textSha256": "74da5577b1b44dc182eea20a9d4722f77cff58f72f4d1544090464b5c53714d5"
@@ -685,13 +685,13 @@
       "textSha256": "264bf1dc25371fed326f397599e816c756b14a398bc86369e1586415b89c1134"
     },
     {
-      "path": "assets/data/dadbattle/01-hud-zoom-bump.lua",
+      "path": "assets/data/dadbattle/01-zoom.lua",
       "size": 426,
       "sha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02",
       "textSha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02"
     },
     {
-      "path": "assets/data/dadbattle/03-hud-overlay-and-transitions.lua",
+      "path": "assets/data/dadbattle/03-hud.lua",
       "size": 4693,
       "sha256": "92d2c87aaf51b85f124e5dc7e8d2c96f23a5bf25262a255ec9754cd54a5f327c",
       "textSha256": "92d2c87aaf51b85f124e5dc7e8d2c96f23a5bf25262a255ec9754cd54a5f327c"
@@ -727,13 +727,13 @@
       "textSha256": "bfe28e1e7eee59c08c2011d2d57bdb10d6772eb2ba4f70f957237846b8e7a741"
     },
     {
-      "path": "assets/data/darnell/01-week1-hud-overlay.lua",
+      "path": "assets/data/darnell/01-hud.lua",
       "size": 7994,
       "sha256": "a2a46f448362441d109466c6d9a416c19cc68daf483aae3c6a348f3794d5b8fe",
       "textSha256": "a2a46f448362441d109466c6d9a416c19cc68daf483aae3c6a348f3794d5b8fe"
     },
     {
-      "path": "assets/data/darnell/02-fahmmy-bear.lua",
+      "path": "assets/data/darnell/02-bear.lua",
       "size": 6875,
       "sha256": "e89247a7ed3db141605ee27251dc3d654825808e84856ea35f342b45f88de1ea",
       "textSha256": "e89247a7ed3db141605ee27251dc3d654825808e84856ea35f342b45f88de1ea"
@@ -769,37 +769,37 @@
       "textSha256": "8aae689abb4c4cec9b018fe406d7b0513fd59f5a3c89a458eaf1cdac8e2c8262"
     },
     {
-      "path": "assets/data/eggnog/01-camera-follow-lock.lua",
-      "size": 297,
-      "sha256": "d9eed1793daa9cb540646102b781715135ef313359311291aec85112311855c6",
+      "path": "assets/data/eggnog/01-camera.lua",
+      "size": 308,
+      "sha256": "86d0ff8244dd83039aad4e3445c5ba67e4493542dc14ce0e5d316fa0861a5afe",
       "textSha256": "d9eed1793daa9cb540646102b781715135ef313359311291aec85112311855c6"
     },
     {
-      "path": "assets/data/eggnog/02-game-over-camera.lua",
-      "size": 1874,
-      "sha256": "65494cb63d4d60099d90f61c38928bb723a7cc684207b4df3e70524d9c8b12f8",
+      "path": "assets/data/eggnog/02-gameover.lua",
+      "size": 1929,
+      "sha256": "856fb87c6178314f66bbe6a34929a761f99362993fe60c2146f3ac4f593b0677",
       "textSha256": "65494cb63d4d60099d90f61c38928bb723a7cc684207b4df3e70524d9c8b12f8"
     },
     {
-      "path": "assets/data/eggnog/03-lights-chain-bounce.lua",
+      "path": "assets/data/eggnog/03-lights.lua",
       "size": 3007,
       "sha256": "ee99cefa0deabe95a3fe887b5f9018340572dc819d60a3c922fdf47cc6fdf582",
       "textSha256": "ee99cefa0deabe95a3fe887b5f9018340572dc819d60a3c922fdf47cc6fdf582"
     },
     {
-      "path": "assets/data/eggnog/04-biter-popouts.lua",
-      "size": 10574,
-      "sha256": "7f3d09ed3d11a82a8b531be853c154a39f9dcd22f4cb2a0e6cdf7ee6f7843efa",
-      "textSha256": "7f3d09ed3d11a82a8b531be853c154a39f9dcd22f4cb2a0e6cdf7ee6f7843efa"
+      "path": "assets/data/eggnog/04-biter.lua",
+      "size": 9426,
+      "sha256": "930d68e9b4944828c8bf8abd923cc1cb863c136f6b9b5fade18a8a54476ba980",
+      "textSha256": "930d68e9b4944828c8bf8abd923cc1cb863c136f6b9b5fade18a8a54476ba980"
     },
     {
-      "path": "assets/data/eggnog/05-receptor-angle-pulse.lua",
+      "path": "assets/data/eggnog/05-receptors.lua",
       "size": 2623,
       "sha256": "57d9debfad3af162c9154224e78f86e4ca3d7ad6806cd2b693af2579a8788c96",
       "textSha256": "57d9debfad3af162c9154224e78f86e4ca3d7ad6806cd2b693af2579a8788c96"
     },
     {
-      "path": "assets/data/eggnog/06-hud-overlay-and-transitions.lua",
+      "path": "assets/data/eggnog/06-hud.lua",
       "size": 4420,
       "sha256": "d7e2af0f5f807dab340bcb3e26b11f8e76da578326dd5540b5f67cdfba68148f",
       "textSha256": "d7e2af0f5f807dab340bcb3e26b11f8e76da578326dd5540b5f67cdfba68148f"
@@ -841,19 +841,19 @@
       "textSha256": "fbab97d5ba37866b3a40389be05a002ba44bae48bc356ec1c1f992c2b5940d77"
     },
     {
-      "path": "assets/data/fresh/01-hud-zoom-bump.lua",
+      "path": "assets/data/fresh/01-zoom.lua",
       "size": 426,
       "sha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02",
       "textSha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02"
     },
     {
-      "path": "assets/data/fresh/03-hud-overlay-and-transitions.lua",
+      "path": "assets/data/fresh/03-hud.lua",
       "size": 4686,
       "sha256": "1b691665744408d7355826d4a8b5749bdd41e059bb8945ebaa235ea50de58978",
       "textSha256": "1b691665744408d7355826d4a8b5749bdd41e059bb8945ebaa235ea50de58978"
     },
     {
-      "path": "assets/data/fresh/04-player-receptor-beat-pulses.lua",
+      "path": "assets/data/fresh/04-receptors.lua",
       "size": 3229,
       "sha256": "51c104512c3023a792b30ca7ff238a6aa87a8a32560d2f3f561890d1d41f471a",
       "textSha256": "51c104512c3023a792b30ca7ff238a6aa87a8a32560d2f3f561890d1d41f471a"
@@ -883,19 +883,19 @@
       "textSha256": "d704c58e9a2c75e714ab3a2df1a90ae447ca6870e7b6ca550e0168a263f34893"
     },
     {
-      "path": "assets/data/high/01-hud-zoom-bump.lua",
+      "path": "assets/data/high/01-zoom.lua",
       "size": 41,
       "sha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a",
       "textSha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a"
     },
     {
-      "path": "assets/data/high/03-hud-overlay-and-transitions.lua",
+      "path": "assets/data/high/03-hud.lua",
       "size": 4556,
       "sha256": "d967b75d804258520fc5d80890c6bd01f49c3e23d2e151e430669a1ad88cb961",
       "textSha256": "d967b75d804258520fc5d80890c6bd01f49c3e23d2e151e430669a1ad88cb961"
     },
     {
-      "path": "assets/data/high/04-dad-note-sway.lua",
+      "path": "assets/data/high/04-sway.lua",
       "size": 305,
       "sha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679",
       "textSha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679"
@@ -931,27 +931,27 @@
       "textSha256": "36950eaef03dd2f69247191853535218032ce197ea9ab1cd4c3d12c80800a354"
     },
     {
-      "path": "assets/data/hodgepodge/01-character-icon-follow.lua",
-      "size": 3166,
-      "sha256": "fa70c727c158125c413de2504b8ecc9569f68221833a6743aee029660ceee4b3",
+      "path": "assets/data/hodgepodge/01-icons.lua",
+      "size": 3308,
+      "sha256": "b824b99e94d00b0411868e50281022b47775aacaaa7c566393f2c64a4b00411a",
       "textSha256": "fa70c727c158125c413de2504b8ecc9569f68221833a6743aee029660ceee4b3"
     },
     {
-      "path": "assets/data/hodgepodge/02-kitty-paw-bursts.lua",
+      "path": "assets/data/hodgepodge/02-paws.lua",
       "size": 4061,
       "sha256": "28a45ce6f1d425fc5dd72b6d6271fdcadccb5dceadf4164d90c02ef3fa21aa58",
       "textSha256": "28a45ce6f1d425fc5dd72b6d6271fdcadccb5dceadf4164d90c02ef3fa21aa58"
     },
     {
-      "path": "assets/data/hodgepodge/03-screen-overlay-transitions.lua",
+      "path": "assets/data/hodgepodge/03-overlay.lua",
       "size": 1553,
       "sha256": "0305a3c4c85872238896c14cd9985df01e45a6d9f7eb7e8db3e5dfc67adb9ae7",
       "textSha256": "0305a3c4c85872238896c14cd9985df01e45a6d9f7eb7e8db3e5dfc67adb9ae7"
     },
     {
-      "path": "assets/data/hodgepodge/04-phoenix-camera-bopper.lua",
-      "size": 4885,
-      "sha256": "c7bfe5d58f7417ae7618aebe85e7db2167aa74519801b02d09588c8b46367f3c",
+      "path": "assets/data/hodgepodge/04-camera.lua",
+      "size": 5184,
+      "sha256": "787769e20e110246d8e012b557da29dbcae1b0579b8dda324c5ad3094610f19d",
       "textSha256": "c7bfe5d58f7417ae7618aebe85e7db2167aa74519801b02d09588c8b46367f3c"
     },
     {
@@ -997,34 +997,10 @@
       "textSha256": "6dcfffe5ac51972892eefb784de1fea08d78940783118d3efe500aa57d2ea0c5"
     },
     {
-      "path": "assets/data/lit-up/04-nene.lua",
-      "size": 2959,
-      "sha256": "4b52e80ca9b0c151f3fd0f275afc4dbbace3271b946ec07b0c72239963f062a9",
-      "textSha256": "4b52e80ca9b0c151f3fd0f275afc4dbbace3271b946ec07b0c72239963f062a9"
-    },
-    {
-      "path": "assets/data/lit-up/05-giggle.lua",
-      "size": 2758,
-      "sha256": "52a7e0680ae5ec171cb2087c8c6d45c15aa94b7f2853e711167918a948231f10",
-      "textSha256": "52a7e0680ae5ec171cb2087c8c6d45c15aa94b7f2853e711167918a948231f10"
-    },
-    {
-      "path": "assets/data/lit-up/06-spring.lua",
-      "size": 1691,
-      "sha256": "d9f90d20071922d117785d4f4190917d2b2adc098343dbc2997969b0717c0a09",
-      "textSha256": "d9f90d20071922d117785d4f4190917d2b2adc098343dbc2997969b0717c0a09"
-    },
-    {
-      "path": "assets/data/lit-up/07-burger.lua",
-      "size": 1426,
-      "sha256": "37e989ade31744d0496c347d727915b81712e0a695489f00b2cca1423c6984db",
-      "textSha256": "37e989ade31744d0496c347d727915b81712e0a695489f00b2cca1423c6984db"
-    },
-    {
-      "path": "assets/data/lit-up/08-far.lua",
-      "size": 2098,
-      "sha256": "607ff372ff6a67cb8d8d7868a3dfba1facba9cf76a6772dbe044b6f732f35968",
-      "textSha256": "607ff372ff6a67cb8d8d7868a3dfba1facba9cf76a6772dbe044b6f732f35968"
+      "path": "assets/data/lit-up/04-actors.lua",
+      "size": 12324,
+      "sha256": "c28ebd424d19cbb296ab946bccb678412d3e6412ee8324d08f2025bbd499ac14",
+      "textSha256": "e68cded3573df6038a1f23d274e2830fdde7bcb2813fbdf522496c478aa4e775"
     },
     {
       "path": "assets/data/lit-up/credits.txt",
@@ -1051,25 +1027,25 @@
       "textSha256": "cf980f6a1e0a68c044185d18f5a48708599c56c18c923b1b3cd415195952346b"
     },
     {
-      "path": "assets/data/mama/01-hud-zoom-bump.lua",
+      "path": "assets/data/mama/01-zoom.lua",
       "size": 41,
       "sha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a",
       "textSha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a"
     },
     {
-      "path": "assets/data/mama/03-hud-overlay-and-transitions.lua",
+      "path": "assets/data/mama/03-hud.lua",
       "size": 4591,
       "sha256": "1abb2d9363aac2dde08406293c9a9104cea2c0fe5af30d098b68a3dcdba33f40",
       "textSha256": "1abb2d9363aac2dde08406293c9a9104cea2c0fe5af30d098b68a3dcdba33f40"
     },
     {
-      "path": "assets/data/mama/04-dad-note-sway.lua",
+      "path": "assets/data/mama/04-sway.lua",
       "size": 305,
       "sha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679",
       "textSha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679"
     },
     {
-      "path": "assets/data/mama/05-bf-note-beat-sway.lua",
+      "path": "assets/data/mama/05-bounce.lua",
       "size": 1557,
       "sha256": "f72d97984654b67432404a21aa724c463503668d65074ac5e66dd1adfd7bed27",
       "textSha256": "f72d97984654b67432404a21aa724c463503668d65074ac5e66dd1adfd7bed27"
@@ -1105,16 +1081,16 @@
       "textSha256": "befa2a69cc6db242a36ea320ab4d6d7f21321885da078cd5945ec85e9c323e1f"
     },
     {
-      "path": "assets/data/pews/04-game-over-voice-lines.lua",
+      "path": "assets/data/pews/04-gameover.lua",
       "size": 703,
       "sha256": "a7155c59808e1722bc3f5ba5ec087c095f0c1bf4dc8be48b546eb8cb510b68c8",
       "textSha256": "a7155c59808e1722bc3f5ba5ec087c095f0c1bf4dc8be48b546eb8cb510b68c8"
     },
     {
-      "path": "assets/data/pews/05-flyers-hud-overlay-and-transitions.lua",
-      "size": 7916,
-      "sha256": "6b85f030feda659dc7089b1776fd9773a4693053db82ec85b6d3c6cf3425cf38",
-      "textSha256": "6b85f030feda659dc7089b1776fd9773a4693053db82ec85b6d3c6cf3425cf38"
+      "path": "assets/data/pews/05-hud.lua",
+      "size": 7642,
+      "sha256": "a58ec3bdd69833b68dc352746f3e768773ce0d9bcd08a1cfd917cfbca09b559c",
+      "textSha256": "a58ec3bdd69833b68dc352746f3e768773ce0d9bcd08a1cfd917cfbca09b559c"
     },
     {
       "path": "assets/data/pews/credits.txt",
@@ -1154,39 +1130,39 @@
     },
     {
       "path": "assets/data/philly-nice/01-presentation.lua",
-      "size": 2770,
-      "sha256": "dfa938929c8b043d8445429e1d66e9277b4650219bc1429643a7e64febdd99cb",
-      "textSha256": "dfa938929c8b043d8445429e1d66e9277b4650219bc1429643a7e64febdd99cb"
+      "size": 2769,
+      "sha256": "be27f9d83aaefff0c4ead8222d117fbee688c5e84e1a6f5cf9bed49200c71cfa",
+      "textSha256": "be27f9d83aaefff0c4ead8222d117fbee688c5e84e1a6f5cf9bed49200c71cfa"
     },
     {
       "path": "assets/data/philly-nice/02-parvin.lua",
-      "size": 2474,
-      "sha256": "0a7d84226e45d2aa617d366fc086bf1ca7a926e0f49fb83a8ec67c09384b05bc",
-      "textSha256": "0a7d84226e45d2aa617d366fc086bf1ca7a926e0f49fb83a8ec67c09384b05bc"
+      "size": 2473,
+      "sha256": "51f19bddbed0e744f45099d81d99d1570b9ea0dc4f983546870c5044337ba5f5",
+      "textSha256": "51f19bddbed0e744f45099d81d99d1570b9ea0dc4f983546870c5044337ba5f5"
     },
     {
       "path": "assets/data/philly-nice/03-foo.lua",
-      "size": 2177,
-      "sha256": "aa78b2f8bb9d21d3c475644d0b2a1d541d626175286c7b77732bbc54fc2caa8d",
-      "textSha256": "aa78b2f8bb9d21d3c475644d0b2a1d541d626175286c7b77732bbc54fc2caa8d"
+      "size": 2176,
+      "sha256": "23ab2a0b991b29e8efff11c2bbf4e29e1a08164b3b7b5167c1cb407acd90b827",
+      "textSha256": "23ab2a0b991b29e8efff11c2bbf4e29e1a08164b3b7b5167c1cb407acd90b827"
     },
     {
       "path": "assets/data/philly-nice/04-fahreddy.lua",
-      "size": 2239,
-      "sha256": "07e306cecb09b6844375ef0dd3be5002f960d16ddeabbb39ef7700342d9031ee",
-      "textSha256": "07e306cecb09b6844375ef0dd3be5002f960d16ddeabbb39ef7700342d9031ee"
+      "size": 2238,
+      "sha256": "0c31b4fd55c16a4c85ae27752aeced9f874380e81642f3c71cbe0abb30c3f75d",
+      "textSha256": "0c31b4fd55c16a4c85ae27752aeced9f874380e81642f3c71cbe0abb30c3f75d"
     },
     {
       "path": "assets/data/philly-nice/05-mad.lua",
-      "size": 1685,
-      "sha256": "24780ac3b3d339c131543751362fbe7b253cb1d1922a7b5ddabb797a1ff6a329",
-      "textSha256": "24780ac3b3d339c131543751362fbe7b253cb1d1922a7b5ddabb797a1ff6a329"
+      "size": 1684,
+      "sha256": "248bc3cf968434e2d0e65517f7860fc65cb483ed426b663fa278fafd26788c6f",
+      "textSha256": "248bc3cf968434e2d0e65517f7860fc65cb483ed426b663fa278fafd26788c6f"
     },
     {
       "path": "assets/data/philly-nice/06-morticco.lua",
-      "size": 3085,
-      "sha256": "4ab01209e8392b24f4ce62e28fd51e6e962b043fa3ff73581ab62cfc3d66b407",
-      "textSha256": "4ab01209e8392b24f4ce62e28fd51e6e962b043fa3ff73581ab62cfc3d66b407"
+      "size": 3084,
+      "sha256": "4069a19d3694cd9db821351d95c4114f931a54813bc62194b179a4a017eeb3b9",
+      "textSha256": "4069a19d3694cd9db821351d95c4114f931a54813bc62194b179a4a017eeb3b9"
     },
     {
       "path": "assets/data/philly-nice/credits.txt",
@@ -1207,19 +1183,19 @@
       "textSha256": "2f8659ef357303c68798da28e546a09a869dea92cbbb440dbdd8c2503a309a15"
     },
     {
-      "path": "assets/data/roses/02-dialogue-receptor-reset.lua",
-      "size": 345,
-      "sha256": "0675ee8c4ad8968cb4968d220e75a458c078f64af7167113abcd98e101fd06f9",
+      "path": "assets/data/roses/02-dialogue.lua",
+      "size": 359,
+      "sha256": "acc8233a7fc4926dbcf3e3a9de04482a3d186488e8a8e6d0c488577147b7664e",
       "textSha256": "0675ee8c4ad8968cb4968d220e75a458c078f64af7167113abcd98e101fd06f9"
     },
     {
-      "path": "assets/data/roses/05-receptor-sway-and-bounce.lua",
-      "size": 2352,
-      "sha256": "f2e3afbe525275f43653f86b2261c6d177c53959c8a8fa159f13ea22f0eb014f",
+      "path": "assets/data/roses/05-receptors.lua",
+      "size": 2445,
+      "sha256": "f7a60c01a405b0ce13c1908e34d2a1998fe26b2b3cff8eed32cfdc97971bca9a",
       "textSha256": "f2e3afbe525275f43653f86b2261c6d177c53959c8a8fa159f13ea22f0eb014f"
     },
     {
-      "path": "assets/data/roses/06-hud-overlay-and-transitions.lua",
+      "path": "assets/data/roses/06-hud.lua",
       "size": 5829,
       "sha256": "de6ddcd93d66cb2dbd11aeed1613ae92d4e4b38c7d051a3146319933c05bca5f",
       "textSha256": "de6ddcd93d66cb2dbd11aeed1613ae92d4e4b38c7d051a3146319933c05bca5f"
@@ -1267,13 +1243,13 @@
       "textSha256": "17f7f516240958f236adbf0062a34443b1ccc70689534cb3a4ef4bd2ce264a3a"
     },
     {
-      "path": "assets/data/senpai/00-load-roses-hud.lua",
-      "size": 190,
-      "sha256": "418781d55b6408ca3786d56d1c3e89e6bed206b3659cff514c7b638c2e1ceaa0",
-      "textSha256": "418781d55b6408ca3786d56d1c3e89e6bed206b3659cff514c7b638c2e1ceaa0"
+      "path": "assets/data/senpai/00-shared.lua",
+      "size": 166,
+      "sha256": "ea7c1bd613dc35ddad4068afe31469b741105830857c5e965d21fa1c3f073429",
+      "textSha256": "ea7c1bd613dc35ddad4068afe31469b741105830857c5e965d21fa1c3f073429"
     },
     {
-      "path": "assets/data/senpai/01-beat-pulses-and-ending-fade.lua",
+      "path": "assets/data/senpai/01-beats.lua",
       "size": 6392,
       "sha256": "e5c32ced6308c18f66c231186c921075de6becaedcfeb53b92c3a09d6ed233a2",
       "textSha256": "e5c32ced6308c18f66c231186c921075de6becaedcfeb53b92c3a09d6ed233a2"
@@ -1339,19 +1315,19 @@
       "textSha256": "073e676727bbbe1a1795805fa9c742c036151f0e65afb8f949cab2e51ad4f707"
     },
     {
-      "path": "assets/data/shiftr/01-checkerboard-hud-motion.lua",
+      "path": "assets/data/shiftr/01-checkerboard.lua",
       "size": 1967,
       "sha256": "c992223e522d7bff6cca239ed58fb47ecc68296c5745dcce908581854cce7171",
       "textSha256": "c992223e522d7bff6cca239ed58fb47ecc68296c5745dcce908581854cce7171"
     },
     {
-      "path": "assets/data/shiftr/02-guitar-orbit.lua",
+      "path": "assets/data/shiftr/02-guitars.lua",
       "size": 3370,
       "sha256": "638566530b153afa5db32e2bfb6f46579987a733852c650997479d779a9c93f0",
       "textSha256": "109ba8468d51ca130b267e25176f53081eacd5b57ea12915e2f560f4410bae23"
     },
     {
-      "path": "assets/data/shiftr/03-screen-overlay-transitions.lua",
+      "path": "assets/data/shiftr/03-overlay.lua",
       "size": 722,
       "sha256": "b0c4cbcf3114b6f04e3e37b7dce271c0d71e20ff1eb32a3fec193273360d9357",
       "textSha256": "b0c4cbcf3114b6f04e3e37b7dce271c0d71e20ff1eb32a3fec193273360d9357"
@@ -1381,9 +1357,9 @@
       "textSha256": "1e9a5dabd93bb072bbc1d638f4e47f492a5186701e57bf375c9a07cb844aa534"
     },
     {
-      "path": "assets/data/skyline/03-screen-overlay-transitions.lua",
-      "size": 1221,
-      "sha256": "33240f116cd7bbbb65c5da6a2a73637a056748a6efb332c01dbb318df9a3525a",
+      "path": "assets/data/skyline/03-overlay.lua",
+      "size": 1242,
+      "sha256": "3c92f626c0ebd571db81caf8c47699d9af9f860effe5e60beda2b96aa4548322",
       "textSha256": "33240f116cd7bbbb65c5da6a2a73637a056748a6efb332c01dbb318df9a3525a"
     },
     {
@@ -1435,19 +1411,19 @@
       "textSha256": "913e49b6c97afe7877cd65564fa8ff2847f10bfb915a8e8f2933f32cbfc214a8"
     },
     {
-      "path": "assets/data/spookeez/02-lightning-character-clones.lua",
-      "size": 6907,
-      "sha256": "7af57272590acf1b9ca5ec52b42b7b32d0010faf71750c953a8944c9c598996b",
+      "path": "assets/data/spookeez/02-lightning.lua",
+      "size": 7043,
+      "sha256": "699a4cb00155d36cc77752aa4de061844daffb9d70d802afa050cafb1fd51a6c",
       "textSha256": "7af57272590acf1b9ca5ec52b42b7b32d0010faf71750c953a8944c9c598996b"
     },
     {
-      "path": "assets/data/spookeez/04-receptor-beat-bounce.lua",
-      "size": 2103,
-      "sha256": "1acda7f68625100019c917ce17024b9fccae61f01a01623cc10224569b89abde",
+      "path": "assets/data/spookeez/04-bounce.lua",
+      "size": 2211,
+      "sha256": "d1f8f0b8ccc6f9fa9ba5b9dd26bfc751eb6dbbd5ec14dc0ca45bd9569fffd4f5",
       "textSha256": "1acda7f68625100019c917ce17024b9fccae61f01a01623cc10224569b89abde"
     },
     {
-      "path": "assets/data/spookeez/05-hud-overlay-scares-and-transitions.lua",
+      "path": "assets/data/spookeez/05-hud.lua",
       "size": 10655,
       "sha256": "ba5144a37fab71f94c8609e01d721c7181eb2a3b2dd0dd151b0e845721c65d82",
       "textSha256": "ba5144a37fab71f94c8609e01d721c7181eb2a3b2dd0dd151b0e845721c65d82"
@@ -1477,7 +1453,7 @@
       "textSha256": "7f8403da0bf8fbf652dcab02337ed462e046a92df7551e534efbb8a8a7775fa6"
     },
     {
-      "path": "assets/data/stress/02-intro-cutscene.lua",
+      "path": "assets/data/stress/02-intro.lua",
       "size": 18962,
       "sha256": "90fa661e2c29289d637a1c64c3e8cd2a8b7acb8edccc20278d2877844e060dc4",
       "textSha256": "90fa661e2c29289d637a1c64c3e8cd2a8b7acb8edccc20278d2877844e060dc4"
@@ -1513,19 +1489,19 @@
       "textSha256": "265b423b7c130f31afde37b4143fb79a3bf63acedd942d1ed8eed0c3922f466b"
     },
     {
-      "path": "assets/data/sunburnt/01-checkerboard-hud-motion.lua",
-      "size": 3742,
-      "sha256": "67f34a32b39780979ab9a66009a4c7b4950fb9da15c498c9b7e414f7eb89d237",
+      "path": "assets/data/sunburnt/01-checkerboard.lua",
+      "size": 3821,
+      "sha256": "09cd05cce43d0d53ecd96e77d61bbcd92f01d956fc7e36422335d5e4daad851e",
       "textSha256": "67f34a32b39780979ab9a66009a4c7b4950fb9da15c498c9b7e414f7eb89d237"
     },
     {
-      "path": "assets/data/sunburnt/02-game-over-camera-and-voice-lines.lua",
+      "path": "assets/data/sunburnt/02-gameover.lua",
       "size": 3293,
       "sha256": "0b04f11bfd0fd23fad77a0c46cd0ca7ae1b2a726e6be13b2887848f378ecc248",
       "textSha256": "0b04f11bfd0fd23fad77a0c46cd0ca7ae1b2a726e6be13b2887848f378ecc248"
     },
     {
-      "path": "assets/data/sunburnt/03-screen-overlay-transitions.lua",
+      "path": "assets/data/sunburnt/03-overlay.lua",
       "size": 1160,
       "sha256": "fe85cbcaa2f44afa26afba715bac194b002d3d88fcf206e08baeba203af9a01e",
       "textSha256": "fe85cbcaa2f44afa26afba715bac194b002d3d88fcf206e08baeba203af9a01e"
@@ -1555,22 +1531,22 @@
       "textSha256": "a39566ac696509967ad7c8d131056b68dad9f3b64269e11d56fb1371ab43476b"
     },
     {
-      "path": "assets/data/tutorial/01-minimal-hud-visibility.lua",
-      "size": 813,
-      "sha256": "243b1c35ea9e0a15dbe2e8253e114fd28184debf1a4dea0c2392c27ace490c81",
+      "path": "assets/data/tutorial/01-visibility.lua",
+      "size": 819,
+      "sha256": "5ebeb9b2ee7dc7c5f00eab395dbf875aab5222ff041ae8d05aeb4f6b0c1376c5",
       "textSha256": "243b1c35ea9e0a15dbe2e8253e114fd28184debf1a4dea0c2392c27ace490c81"
     },
     {
-      "path": "assets/data/tutorial/02-hud-overlay-and-transitions.lua",
-      "size": 4527,
-      "sha256": "becf28b07a2d10edf70851872de1132575c4b1bef36f3a6f57b3685ff6592997",
-      "textSha256": "becf28b07a2d10edf70851872de1132575c4b1bef36f3a6f57b3685ff6592997"
+      "path": "assets/data/tutorial/02-hud.lua",
+      "size": 4342,
+      "sha256": "74bddfa90f26e461a77401f42066338c9731801e08f163530c426a1d896274ca",
+      "textSha256": "74bddfa90f26e461a77401f42066338c9731801e08f163530c426a1d896274ca"
     },
     {
-      "path": "assets/data/tutorial/03-direction-word-prompts.lua",
-      "size": 4421,
-      "sha256": "73f95679ec1c3d672f149d23d86d90d0196b60c3f1c5c28cea89ad740093dbbb",
-      "textSha256": "73f95679ec1c3d672f149d23d86d90d0196b60c3f1c5c28cea89ad740093dbbb"
+      "path": "assets/data/tutorial/03-prompts.lua",
+      "size": 4197,
+      "sha256": "c5ec4a57d11bbf65bbb630898ed28e46d4fe00b9fce4fb39b593a3d7d122a4d2",
+      "textSha256": "c5ec4a57d11bbf65bbb630898ed28e46d4fe00b9fce4fb39b593a3d7d122a4d2"
     },
     {
       "path": "assets/data/tutorial/credits.txt",
@@ -1603,25 +1579,25 @@
       "textSha256": "5584f59e40c446e096df7f59f4b0a5343bab55355db5763143d72a3968658c44"
     },
     {
-      "path": "assets/data/undies/01-hud-zoom-bump.lua",
+      "path": "assets/data/undies/01-zoom.lua",
       "size": 40,
       "sha256": "aa542a79a62fc3b752f3135240d8f164991210a5962e0bf8b3e4c7e97600e040",
       "textSha256": "aa542a79a62fc3b752f3135240d8f164991210a5962e0bf8b3e4c7e97600e040"
     },
     {
-      "path": "assets/data/undies/03-hud-overlay-and-transitions.lua",
+      "path": "assets/data/undies/03-hud.lua",
       "size": 3295,
       "sha256": "60b494373037b04ab5a12a679f0cfb921a39f0873abb4bffe02214356b0eff59",
       "textSha256": "60b494373037b04ab5a12a679f0cfb921a39f0873abb4bffe02214356b0eff59"
     },
     {
-      "path": "assets/data/undies/04-dad-note-sway.lua",
+      "path": "assets/data/undies/04-sway.lua",
       "size": 303,
       "sha256": "02e1add7cd399bdfecc14efd014b3f25e14ab1a4d2aa2f0fee3838d5b61fb650",
       "textSha256": "02e1add7cd399bdfecc14efd014b3f25e14ab1a4d2aa2f0fee3838d5b61fb650"
     },
     {
-      "path": "assets/data/undies/05-fah-runner.lua",
+      "path": "assets/data/undies/05-runner.lua",
       "size": 5201,
       "sha256": "cfed9bb8c64ee57fe399733be439d2fe392b6dc7679c0b5b70a7b0ce9f3978b8",
       "textSha256": "cfed9bb8c64ee57fe399733be439d2fe392b6dc7679c0b5b70a7b0ce9f3978b8"
@@ -1651,37 +1627,37 @@
       "textSha256": "73e77232ce4a1ed0ce86be02cc3b24482ec6a3a9300a2d1a986a962c3476d58b"
     },
     {
-      "path": "assets/data/what-the-fah/02-post-song-video-cutscene.lua",
+      "path": "assets/data/what-the-fah/02-ending.lua",
       "size": 457,
       "sha256": "32f8810b3f03b436de55e2aad5c0226eef606b52d0a0916d8ee21f9e9bd5691a",
       "textSha256": "32f8810b3f03b436de55e2aad5c0226eef606b52d0a0916d8ee21f9e9bd5691a"
     },
     {
-      "path": "assets/data/what-the-fah/03-botplay-text-style.lua",
-      "size": 236,
-      "sha256": "0860c8618c012d7c2e5b2abd293736c6590d23f3786884d979aa478b25b74f72",
+      "path": "assets/data/what-the-fah/03-botplay.lua",
+      "size": 245,
+      "sha256": "ec485ec6d19ea9692fc6da12e839bd053d2b8f6971a6a374f88da989d1b57d34",
       "textSha256": "0860c8618c012d7c2e5b2abd293736c6590d23f3786884d979aa478b25b74f72"
     },
     {
-      "path": "assets/data/what-the-fah/04-hud-overlay-and-transitions.lua",
+      "path": "assets/data/what-the-fah/04-hud.lua",
       "size": 14781,
       "sha256": "5541afb4b7b27d3d73cd33a6c1b3be99829184119a6faf9c85c1f622978f9232",
       "textSha256": "5541afb4b7b27d3d73cd33a6c1b3be99829184119a6faf9c85c1f622978f9232"
     },
     {
-      "path": "assets/data/what-the-fah/05-throwable-arc-props.lua",
-      "size": 5206,
-      "sha256": "4603b7309afdf42c3420a1eafcd28a8f76927b9ffcca3a9de5f5304256ae24b5",
+      "path": "assets/data/what-the-fah/05-props.lua",
+      "size": 5359,
+      "sha256": "5703bd9cf1b107dd5bccac501fd1104b100863c3e9d3b711694ebe48f23a7eb9",
       "textSha256": "4603b7309afdf42c3420a1eafcd28a8f76927b9ffcca3a9de5f5304256ae24b5"
     },
     {
-      "path": "assets/data/what-the-fah/06-truckers-hi-popups-and-people-chain.lua",
-      "size": 8957,
-      "sha256": "e3c5cd7e3770cd1b533d166b5ca5ce2bef1240311b905f51d7b3ecd1089f1e34",
+      "path": "assets/data/what-the-fah/06-popups.lua",
+      "size": 9148,
+      "sha256": "a5498559dc5e82befa40728eb0e33ec7de861c0cf4680e935760004087e1fc6a",
       "textSha256": "e3c5cd7e3770cd1b533d166b5ca5ce2bef1240311b905f51d7b3ecd1089f1e34"
     },
     {
-      "path": "assets/data/what-the-fah/07-random-distraction-images.lua",
+      "path": "assets/data/what-the-fah/07-distractions.lua",
       "size": 12599,
       "sha256": "d594e55fa883887a3ae5a23adaf38d88db30e6c5a9c49f040738de8162852d5c",
       "textSha256": "50b3b2b1f54fa82d7ddfa7a6ebfe48ca1c0bc51ed506290f40d7189bcba1c63f"
@@ -2756,9 +2732,9 @@
     },
     {
       "path": "assets/images/characters/legacy-shiftr/bf.xml",
-      "size": 52062,
-      "sha256": "050d15671d14d3b9e58a3774e750a18c035e3e5c4d222bfd5b7494343baa5fd8",
-      "textSha256": "050d15671d14d3b9e58a3774e750a18c035e3e5c4d222bfd5b7494343baa5fd8"
+      "size": 51949,
+      "sha256": "6a2c4c7974bb2957c89444de3af99707209baad213b97eb10b85412ea388b669",
+      "textSha256": "6a2c4c7974bb2957c89444de3af99707209baad213b97eb10b85412ea388b669"
     },
     {
       "path": "assets/images/characters/legacy-shiftr/gabby.png",
@@ -2899,9 +2875,9 @@
     },
     {
       "path": "assets/images/chart_quant.xml",
-      "size": 1028,
-      "sha256": "8e8dbec84e652e7a2a44281c3f3f0caa80d4a8d814a12c51547cf8be14d9bd33",
-      "textSha256": "8e8dbec84e652e7a2a44281c3f3f0caa80d4a8d814a12c51547cf8be14d9bd33"
+      "size": 915,
+      "sha256": "f9f44ff625f845ab32857cc4b9dccb21ecb35c9788a01efc41e355a18745c430",
+      "textSha256": "f9f44ff625f845ab32857cc4b9dccb21ecb35c9788a01efc41e355a18745c430"
     },
     {
       "path": "assets/images/checkboxanim.png",
@@ -2910,9 +2886,9 @@
     },
     {
       "path": "assets/images/checkboxanim.xml",
-      "size": 1976,
-      "sha256": "e1f2210531ac6e327fc10b6267d679b8d0b8afd98a57513de137d9f4d60092c9",
-      "textSha256": "e1f2210531ac6e327fc10b6267d679b8d0b8afd98a57513de137d9f4d60092c9"
+      "size": 1863,
+      "sha256": "56da8b2c1b567a83ee02532f37588b6f76847836ddf8ecbf6bc42777eb5287ec",
+      "textSha256": "56da8b2c1b567a83ee02532f37588b6f76847836ddf8ecbf6bc42777eb5287ec"
     },
     {
       "path": "assets/images/countdown/fah.png",
@@ -3037,301 +3013,6 @@
       "path": "assets/images/fahmix/Fah.png",
       "size": 35903,
       "sha256": "3e6befdaa79b0098844f63b465515fbeacacb717667d51088c75329591f7f05d"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/blammed-credits.png",
-      "size": 157049,
-      "sha256": "56216dbcfd58f3e03b6bb19a51ec000dd6be961635411a38274d4d23bd2661e1"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/blammed-logo.png",
-      "size": 478731,
-      "sha256": "c0fee69e80223eceaaf93a494c96f564bb2196130a271815792de1079f05d946"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/buildings.png",
-      "size": 7593932,
-      "sha256": "f49e4c79b92473f3eb6b20216a0e7d5c0825590c27b364bba79aae9c18a8f872"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/buildings.xml",
-      "size": 756,
-      "sha256": "75a7a489d85147bd98b5506186c7f2082e78e85c1fa731228c7f0a6f3005cc0a",
-      "textSha256": "75a7a489d85147bd98b5506186c7f2082e78e85c1fa731228c7f0a6f3005cc0a"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/buildings/buildings-cyan.png",
-      "size": 1748805,
-      "sha256": "35da29b9e0d7849a1f0a9296b9f75535b9d98617e7ad44b0dbc9042b06c72523"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/buildings/buildings-cyan.xml",
-      "size": 502,
-      "sha256": "d449f803af5f2cf2ad1033bcc19f8fe3320d64978150c08f4a4bb279d93eb5a7",
-      "textSha256": "d449f803af5f2cf2ad1033bcc19f8fe3320d64978150c08f4a4bb279d93eb5a7"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/buildings/buildings-green.png",
-      "size": 1735074,
-      "sha256": "d6a76105a5f6dee637f4d4460bcd82878569783adb3834dff9a9a8f6caf6982e"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/buildings/buildings-green.xml",
-      "size": 503,
-      "sha256": "27477e21e27fc83d4655b660e22dd586583d70232acfeb88a7e3c132a110ed7d",
-      "textSha256": "27477e21e27fc83d4655b660e22dd586583d70232acfeb88a7e3c132a110ed7d"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/buildings/buildings-purple.png",
-      "size": 1817812,
-      "sha256": "d528f35740896f926e04c8111e2efe78c3374866714c01617615ee8c1cc81c88"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/buildings/buildings-purple.xml",
-      "size": 504,
-      "sha256": "03680f8d9789446568148a650d5f13ab50e5de74dff8a5b6657811969408b677",
-      "textSha256": "03680f8d9789446568148a650d5f13ab50e5de74dff8a5b6657811969408b677"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/buildings/buildings-red.png",
-      "size": 1815280,
-      "sha256": "a6cdb5a82287a6e525621be89ff50b56c3fe1dd3243654a0f4e3abd6d2d0ce16"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/buildings/buildings-red.xml",
-      "size": 501,
-      "sha256": "5c6181c9e2dd5d3f883088afbffe8f9508f27aca7f59859b4c0638f66dd70b2f",
-      "textSha256": "5c6181c9e2dd5d3f883088afbffe8f9508f27aca7f59859b4c0638f66dd70b2f"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/buildings/buildings-yellow.png",
-      "size": 1792325,
-      "sha256": "c75d218326b345c6e69e046e65e6a587fe63915c49d8305b4f13f608aaff7040"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/buildings/buildings-yellow.xml",
-      "size": 504,
-      "sha256": "0421ebb2bf614bd6b2329cbbe8ed04a5f1b775d7347740029001335adb0aea6e",
-      "textSha256": "0421ebb2bf614bd6b2329cbbe8ed04a5f1b775d7347740029001335adb0aea6e"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/drop-note.png",
-      "size": 43134,
-      "sha256": "8efc3c0e44cc16feea3f1fa77c46ebb25912c2f3bffa14d8116667837e5d8cef"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/drop-note.xml",
-      "size": 1142,
-      "sha256": "ee6c9dc827d274456ed89f6c046baf88b580e4d93d873dfbb1db74012dfab1c5",
-      "textSha256": "ee6c9dc827d274456ed89f6c046baf88b580e4d93d873dfbb1db74012dfab1c5"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/fahreddy.png",
-      "size": 1201170,
-      "sha256": "b985e5d962bfbb3fa7a6135590407b1e0986090ce330ea875a84fd48f3d220d9"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/fahreddy.xml",
-      "size": 384,
-      "sha256": "6ed07339177c58c3f82cc486904c0831ea6889a47871c38842bcd017368c9b7b",
-      "textSha256": "6ed07339177c58c3f82cc486904c0831ea6889a47871c38842bcd017368c9b7b"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/floor.png",
-      "size": 2140163,
-      "sha256": "1b14cb53a2fd3cbaa2c74756d7ded5083bbd04d1b9efa718414777a916cd88ee"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/floor.xml",
-      "size": 502,
-      "sha256": "059c4a2f89d0d695fc06073e69edd81388628908f170d654b78fbe67f05514be",
-      "textSha256": "059c4a2f89d0d695fc06073e69edd81388628908f170d654b78fbe67f05514be"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/foo.png",
-      "size": 479710,
-      "sha256": "fa6d29f53c6e8475a996fae6bcad2fabd99446ea29914f7c0545bca19075c7ea"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/foo.xml",
-      "size": 357,
-      "sha256": "e2733dc3ab61c45daeb8d0313865ae12112df0c857f275f789be7bfefcf9bc2b",
-      "textSha256": "e2733dc3ab61c45daeb8d0313865ae12112df0c857f275f789be7bfefcf9bc2b"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/front poles.png",
-      "size": 2911543,
-      "sha256": "aef239c54f6dd6de9d16edc3da8c1896b3a9bb4e5ccf5d3088f59889ba37ab6a"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/front poles.xml",
-      "size": 502,
-      "sha256": "1b1a8c810a71e9aeed1822f8d745d5d94556e6869b98df36a323db610d0a6c22",
-      "textSha256": "1b1a8c810a71e9aeed1822f8d745d5d94556e6869b98df36a323db610d0a6c22"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/lines.png",
-      "size": 761425,
-      "sha256": "c423a82a9974a6097b588c15a3864afe1547caeb7ba62d4adbcb1b979cb5e9e6"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/lines.xml",
-      "size": 499,
-      "sha256": "18741c6b528c461a46caab7bcedc4e72b7446dc8dc4d38163530641078d468a4",
-      "textSha256": "18741c6b528c461a46caab7bcedc4e72b7446dc8dc4d38163530641078d468a4"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/mad.png",
-      "size": 403873,
-      "sha256": "3692209166ab1edabe7c7a56941ee9229eae57de112628c8e377606d6f1a2815"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/mad.xml",
-      "size": 358,
-      "sha256": "951efa428582be227c961d0d218d655adcc137cd9b7ac4f36e564fcb9e58ae82",
-      "textSha256": "951efa428582be227c961d0d218d655adcc137cd9b7ac4f36e564fcb9e58ae82"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/moon.png",
-      "size": 168322,
-      "sha256": "0374e9927e120e38f8921cd25e488a1db83ea97a58010e0dd43c96fcdb5c1063"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/moon.xml",
-      "size": 493,
-      "sha256": "7f502fde2a20cb03bda97607197cf78a28cf9b104035ec78cc63f8e9fda22063",
-      "textSha256": "7f502fde2a20cb03bda97607197cf78a28cf9b104035ec78cc63f8e9fda22063"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/morticco.png",
-      "size": 796243,
-      "sha256": "5726aa8bddb5cc6550e6c3fb2b287d27388489bafe76735168fbe1a35472ab9d"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/morticco.xml",
-      "size": 374,
-      "sha256": "78f7b55ff15e2dc591d2bb2b2e9ae890f287abaeb855730e6cee460012c43746",
-      "textSha256": "78f7b55ff15e2dc591d2bb2b2e9ae890f287abaeb855730e6cee460012c43746"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/newgrounds-walkers.png",
-      "size": 20478320,
-      "sha256": "378c58e1d4a0f65785b84d1d0d3bdb0e9205576ca6ecb427a4017371892d1e79"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/newgrounds-walkers.xml",
-      "size": 3898,
-      "sha256": "8dad75810c01cd9ff079017b0071142cbb8d8ae4079545b20106536a39bdb7ea",
-      "textSha256": "8dad75810c01cd9ff079017b0071142cbb8d8ae4079545b20106536a39bdb7ea"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/paper/paper-cyan.png",
-      "size": 7238301,
-      "sha256": "be665a0ce04d626ead9844da8afd6764b8db2a15c80274001d0d3bc84fce6da0"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/paper/paper-cyan.xml",
-      "size": 910,
-      "sha256": "a769c04811e9eef91880aa857e97323d31e33c3312d1a01d1c649ac212f40dd9",
-      "textSha256": "a769c04811e9eef91880aa857e97323d31e33c3312d1a01d1c649ac212f40dd9"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/paper/paper-green.png",
-      "size": 6928032,
-      "sha256": "207d4fff0d3e5b2cb7f7dc4579330e16f672deb1c9d9b1c74c3ee90fbb6b28d4"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/paper/paper-green.xml",
-      "size": 911,
-      "sha256": "65e12e2ed38d21c40fb1c85f6626fce2c01ba441137744fa3bb384dfb0d287a0",
-      "textSha256": "65e12e2ed38d21c40fb1c85f6626fce2c01ba441137744fa3bb384dfb0d287a0"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/paper/paper-purple.png",
-      "size": 7467799,
-      "sha256": "26b82d239ce3212e465633704a5ea2c88c15a4b8f103030b34abcf4b303b80b0"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/paper/paper-purple.xml",
-      "size": 912,
-      "sha256": "b07106dada1e4372791e6431a8c8b2b3e4f27f17879a36d3a83e9f3fbdf97463",
-      "textSha256": "b07106dada1e4372791e6431a8c8b2b3e4f27f17879a36d3a83e9f3fbdf97463"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/paper/paper-red.png",
-      "size": 7340446,
-      "sha256": "4d9389259880b30cd8b082cd6fc8e1117a104ed165d06effab6e2aa40aa18edc"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/paper/paper-red.xml",
-      "size": 909,
-      "sha256": "513878bf5ae5e6e316a421f33042a9b8d31e6b9cb4d06220b777b3201ea01f9b",
-      "textSha256": "513878bf5ae5e6e316a421f33042a9b8d31e6b9cb4d06220b777b3201ea01f9b"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/paper/paper-yellow.png",
-      "size": 7452566,
-      "sha256": "6a38467194e1d629383c8e7fd2751f0f5ac071aecfdc55f11a7d99fb2a11b1fd"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/paper/paper-yellow.xml",
-      "size": 912,
-      "sha256": "ed58ce8ce8b23083d341b6b957f59a90a125080d4cd0144a150170671a89492a",
-      "textSha256": "ed58ce8ce8b23083d341b6b957f59a90a125080d4cd0144a150170671a89492a"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/parvin.png",
-      "size": 1092135,
-      "sha256": "730f6acff06cdca9de7a4fa7d461714060aedf6fb7cc2576394cb38a3e10d78a"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/parvin.xml",
-      "size": 373,
-      "sha256": "29a3411cc5e3adb7bbc8df6202fa4fc7700d8718d12538deb3bf19e2ed233f65",
-      "textSha256": "29a3411cc5e3adb7bbc8df6202fa4fc7700d8718d12538deb3bf19e2ed233f65"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/philly-nice-logo.png",
-      "size": 455112,
-      "sha256": "fe103b378c4d6e15b18307469a50f971dc4594130a132885accddc7d731af7e2"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/poles.png",
-      "size": 785508,
-      "sha256": "d472f3cfc6356a273ba2ff7a31c236e70ebd1d2dce3adf19f74230884666223d"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/poles.xml",
-      "size": 499,
-      "sha256": "7b07556608b3c2ebd11987cfe9f15b88dc8b7ecfad2b1ba8cef2b68935d367d8",
-      "textSha256": "7b07556608b3c2ebd11987cfe9f15b88dc8b7ecfad2b1ba8cef2b68935d367d8"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/splat.png",
-      "size": 15868,
-      "sha256": "4a3e678f7a0971bea7ace34efb124ebb1f084ed7758a7ac469ccaa609ea24e11"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/splat.xml",
-      "size": 486,
-      "sha256": "92682284300d0fe794f3877385ff234ef87b9c88ae6bab683585b59161f44555",
-      "textSha256": "92682284300d0fe794f3877385ff234ef87b9c88ae6bab683585b59161f44555"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/train.png",
-      "size": 6589903,
-      "sha256": "560dd444215512522a9c3d09e5aaa707a2a02ca5476bf315339dcb229279485f"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/train.xml",
-      "size": 509,
-      "sha256": "6c2f262695abc2e25627ed622ffffbf00fb4c98f67206ad9f2bc03ea7d51680b",
-      "textSha256": "6c2f262695abc2e25627ed622ffffbf00fb4c98f67206ad9f2bc03ea7d51680b"
-    },
-    {
-      "path": "assets/images/fahmix/week 3/waterbullet.png",
-      "size": 7630,
-      "sha256": "e023698df4d5cc9ee75267be7d581744f4248d8de128498491ca9884723b4eb3"
     },
     {
       "path": "assets/images/fahmix/week0/credits.png",
@@ -3705,6 +3386,235 @@
       "path": "assets/images/fahmix/week3.png",
       "size": 31850,
       "sha256": "3a919f53db6a8099b0af3ed07bd207a39cdb0b754de778937d0077b371abe40c"
+    },
+    {
+      "path": "assets/images/fahmix/week3/blammed-credits.png",
+      "size": 157049,
+      "sha256": "56216dbcfd58f3e03b6bb19a51ec000dd6be961635411a38274d4d23bd2661e1"
+    },
+    {
+      "path": "assets/images/fahmix/week3/blammed-logo.png",
+      "size": 478731,
+      "sha256": "c0fee69e80223eceaaf93a494c96f564bb2196130a271815792de1079f05d946"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-cyan.png",
+      "size": 1748805,
+      "sha256": "35da29b9e0d7849a1f0a9296b9f75535b9d98617e7ad44b0dbc9042b06c72523"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-cyan.xml",
+      "size": 506,
+      "sha256": "5b44b01c9aef24bb709728f0154117f7067a8234540637fb49717150de8de3c7",
+      "textSha256": "d449f803af5f2cf2ad1033bcc19f8fe3320d64978150c08f4a4bb279d93eb5a7"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-green.png",
+      "size": 1735074,
+      "sha256": "d6a76105a5f6dee637f4d4460bcd82878569783adb3834dff9a9a8f6caf6982e"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-green.xml",
+      "size": 507,
+      "sha256": "0d36d1d1e3488479533cbc9a0a574a971fdfb68335d3bdc00bfa51f2f4c6c9c1",
+      "textSha256": "27477e21e27fc83d4655b660e22dd586583d70232acfeb88a7e3c132a110ed7d"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-purple.png",
+      "size": 1817812,
+      "sha256": "d528f35740896f926e04c8111e2efe78c3374866714c01617615ee8c1cc81c88"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-purple.xml",
+      "size": 508,
+      "sha256": "f151af405aadfb02a1d3f8817b67dee8a5e594212df1078e1c6d275d22bc2daf",
+      "textSha256": "03680f8d9789446568148a650d5f13ab50e5de74dff8a5b6657811969408b677"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-red.png",
+      "size": 1815280,
+      "sha256": "a6cdb5a82287a6e525621be89ff50b56c3fe1dd3243654a0f4e3abd6d2d0ce16"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-red.xml",
+      "size": 505,
+      "sha256": "2607df3ed18b33e27f48fdb76caa060e75e88f99f0a6c4f5ecc1494e0e27d8cb",
+      "textSha256": "5c6181c9e2dd5d3f883088afbffe8f9508f27aca7f59859b4c0638f66dd70b2f"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-yellow.png",
+      "size": 1792325,
+      "sha256": "c75d218326b345c6e69e046e65e6a587fe63915c49d8305b4f13f608aaff7040"
+    },
+    {
+      "path": "assets/images/fahmix/week3/buildings/buildings-yellow.xml",
+      "size": 508,
+      "sha256": "2bf41e87c603ed323e0579ce10d989765616c75104425c60879fbe77034d9518",
+      "textSha256": "0421ebb2bf614bd6b2329cbbe8ed04a5f1b775d7347740029001335adb0aea6e"
+    },
+    {
+      "path": "assets/images/fahmix/week3/drop-note.png",
+      "size": 43134,
+      "sha256": "8efc3c0e44cc16feea3f1fa77c46ebb25912c2f3bffa14d8116667837e5d8cef"
+    },
+    {
+      "path": "assets/images/fahmix/week3/drop-note.xml",
+      "size": 1151,
+      "sha256": "2760d9cc1c75d3974fa49c3d54f20f2b77dcc1d01d65be2da975021623b804af",
+      "textSha256": "ee6c9dc827d274456ed89f6c046baf88b580e4d93d873dfbb1db74012dfab1c5"
+    },
+    {
+      "path": "assets/images/fahmix/week3/fahreddy.png",
+      "size": 1201170,
+      "sha256": "b985e5d962bfbb3fa7a6135590407b1e0986090ce330ea875a84fd48f3d220d9"
+    },
+    {
+      "path": "assets/images/fahmix/week3/fahreddy.xml",
+      "size": 387,
+      "sha256": "8f8a3e57ab8f16db13957b81c316393483515348af7d41c4048a83aa72371b82",
+      "textSha256": "6ed07339177c58c3f82cc486904c0831ea6889a47871c38842bcd017368c9b7b"
+    },
+    {
+      "path": "assets/images/fahmix/week3/floor.png",
+      "size": 2140163,
+      "sha256": "1b14cb53a2fd3cbaa2c74756d7ded5083bbd04d1b9efa718414777a916cd88ee"
+    },
+    {
+      "path": "assets/images/fahmix/week3/floor.xml",
+      "size": 506,
+      "sha256": "5f227f76a4ef771f8ff7163b798d056794c45949b4f018c5d8c3c84be9f4f641",
+      "textSha256": "059c4a2f89d0d695fc06073e69edd81388628908f170d654b78fbe67f05514be"
+    },
+    {
+      "path": "assets/images/fahmix/week3/foo.png",
+      "size": 479710,
+      "sha256": "fa6d29f53c6e8475a996fae6bcad2fabd99446ea29914f7c0545bca19075c7ea"
+    },
+    {
+      "path": "assets/images/fahmix/week3/foo.xml",
+      "size": 360,
+      "sha256": "d05c92d0591c06d6d354ff75f83db51deb6359fc854703a410efd2ed5fad398f",
+      "textSha256": "e2733dc3ab61c45daeb8d0313865ae12112df0c857f275f789be7bfefcf9bc2b"
+    },
+    {
+      "path": "assets/images/fahmix/week3/front poles.png",
+      "size": 2911543,
+      "sha256": "aef239c54f6dd6de9d16edc3da8c1896b3a9bb4e5ccf5d3088f59889ba37ab6a"
+    },
+    {
+      "path": "assets/images/fahmix/week3/front poles.xml",
+      "size": 506,
+      "sha256": "68c1643bde9ef048660f5015d919d448299fa245e55d79f58bceafbf2e600f2c",
+      "textSha256": "1b1a8c810a71e9aeed1822f8d745d5d94556e6869b98df36a323db610d0a6c22"
+    },
+    {
+      "path": "assets/images/fahmix/week3/lines.png",
+      "size": 761425,
+      "sha256": "c423a82a9974a6097b588c15a3864afe1547caeb7ba62d4adbcb1b979cb5e9e6"
+    },
+    {
+      "path": "assets/images/fahmix/week3/lines.xml",
+      "size": 503,
+      "sha256": "d83960d6831c98f9ccc2748874e19cd6b2cf67d3dbb89a756f470900045111ae",
+      "textSha256": "18741c6b528c461a46caab7bcedc4e72b7446dc8dc4d38163530641078d468a4"
+    },
+    {
+      "path": "assets/images/fahmix/week3/mad.png",
+      "size": 403873,
+      "sha256": "3692209166ab1edabe7c7a56941ee9229eae57de112628c8e377606d6f1a2815"
+    },
+    {
+      "path": "assets/images/fahmix/week3/mad.xml",
+      "size": 361,
+      "sha256": "ecb624a57a46144723b812032c5710e2e8bf8e0b2f8482f80d75bdee4b802504",
+      "textSha256": "951efa428582be227c961d0d218d655adcc137cd9b7ac4f36e564fcb9e58ae82"
+    },
+    {
+      "path": "assets/images/fahmix/week3/moon.png",
+      "size": 168322,
+      "sha256": "0374e9927e120e38f8921cd25e488a1db83ea97a58010e0dd43c96fcdb5c1063"
+    },
+    {
+      "path": "assets/images/fahmix/week3/moon.xml",
+      "size": 497,
+      "sha256": "256a87400f50b7506272180edda74246f92db244afe3e5d0d52a37aa491cdfe8",
+      "textSha256": "7f502fde2a20cb03bda97607197cf78a28cf9b104035ec78cc63f8e9fda22063"
+    },
+    {
+      "path": "assets/images/fahmix/week3/morticco.png",
+      "size": 796243,
+      "sha256": "5726aa8bddb5cc6550e6c3fb2b287d27388489bafe76735168fbe1a35472ab9d"
+    },
+    {
+      "path": "assets/images/fahmix/week3/morticco.xml",
+      "size": 377,
+      "sha256": "333aed25aae851a080833e17998478684c2d02088276577a545cb8c71229d501",
+      "textSha256": "78f7b55ff15e2dc591d2bb2b2e9ae890f287abaeb855730e6cee460012c43746"
+    },
+    {
+      "path": "assets/images/fahmix/week3/newgrounds-walkers.png",
+      "size": 20478320,
+      "sha256": "378c58e1d4a0f65785b84d1d0d3bdb0e9205576ca6ecb427a4017371892d1e79"
+    },
+    {
+      "path": "assets/images/fahmix/week3/newgrounds-walkers.xml",
+      "size": 3923,
+      "sha256": "90a4447f6b055290bf8e315933d842d6db13c01a855779d4b3a766acbfd56eb8",
+      "textSha256": "8dad75810c01cd9ff079017b0071142cbb8d8ae4079545b20106536a39bdb7ea"
+    },
+    {
+      "path": "assets/images/fahmix/week3/parvin.png",
+      "size": 1092135,
+      "sha256": "730f6acff06cdca9de7a4fa7d461714060aedf6fb7cc2576394cb38a3e10d78a"
+    },
+    {
+      "path": "assets/images/fahmix/week3/parvin.xml",
+      "size": 376,
+      "sha256": "ff5b8e48478a2bbb7128cef19f2ebfa35b5d0a245fe861451430d209fe0dbaf2",
+      "textSha256": "29a3411cc5e3adb7bbc8df6202fa4fc7700d8718d12538deb3bf19e2ed233f65"
+    },
+    {
+      "path": "assets/images/fahmix/week3/philly-nice-logo.png",
+      "size": 455112,
+      "sha256": "fe103b378c4d6e15b18307469a50f971dc4594130a132885accddc7d731af7e2"
+    },
+    {
+      "path": "assets/images/fahmix/week3/poles.png",
+      "size": 785508,
+      "sha256": "d472f3cfc6356a273ba2ff7a31c236e70ebd1d2dce3adf19f74230884666223d"
+    },
+    {
+      "path": "assets/images/fahmix/week3/poles.xml",
+      "size": 503,
+      "sha256": "09458fd479fb24f8f707dbff0a7dcc1d40d44f9479368206b3ed46a07ce044f5",
+      "textSha256": "7b07556608b3c2ebd11987cfe9f15b88dc8b7ecfad2b1ba8cef2b68935d367d8"
+    },
+    {
+      "path": "assets/images/fahmix/week3/splat.png",
+      "size": 15868,
+      "sha256": "4a3e678f7a0971bea7ace34efb124ebb1f084ed7758a7ac469ccaa609ea24e11"
+    },
+    {
+      "path": "assets/images/fahmix/week3/splat.xml",
+      "size": 490,
+      "sha256": "7ac6453d6d92f367523dd8c0bb5ab1732919207b645b1538d1506e189212196d",
+      "textSha256": "92682284300d0fe794f3877385ff234ef87b9c88ae6bab683585b59161f44555"
+    },
+    {
+      "path": "assets/images/fahmix/week3/train.png",
+      "size": 6589903,
+      "sha256": "560dd444215512522a9c3d09e5aaa707a2a02ca5476bf315339dcb229279485f"
+    },
+    {
+      "path": "assets/images/fahmix/week3/train.xml",
+      "size": 513,
+      "sha256": "196f836cd1745abffb8379d3a3482015812136be3d31cdee84e558939e2744f8",
+      "textSha256": "6c2f262695abc2e25627ed622ffffbf00fb4c98f67206ad9f2bc03ea7d51680b"
+    },
+    {
+      "path": "assets/images/fahmix/week3/waterbullet.png",
+      "size": 7630,
+      "sha256": "e023698df4d5cc9ee75267be7d581744f4248d8de128498491ca9884723b4eb3"
     },
     {
       "path": "assets/images/fahmix/week4.png",
@@ -6627,9 +6537,9 @@
     },
     {
       "path": "assets/images/Hud/Gabriella-Legacy/NOTE_assets.xml",
-      "size": 8175,
-      "sha256": "c298d8fc7239cd57b85adc29e6b5bc2e4b3590af6b9da4f0e50fd599ea670e64",
-      "textSha256": "c298d8fc7239cd57b85adc29e6b5bc2e4b3590af6b9da4f0e50fd599ea670e64"
+      "size": 8062,
+      "sha256": "ba671b06cf46a96675c2a54b683a419183b9109bef9d7240c5dee0a17731bd89",
+      "textSha256": "ba671b06cf46a96675c2a54b683a419183b9109bef9d7240c5dee0a17731bd89"
     },
     {
       "path": "assets/images/Hud/Gabriella-Legacy/noteSplashes.png",
@@ -6638,9 +6548,9 @@
     },
     {
       "path": "assets/images/Hud/Gabriella-Legacy/noteSplashes.xml",
-      "size": 4673,
-      "sha256": "0e69ed6bbe175876e23c7b5bf2229a3fae82da9fa15f44c9fa2d48358d806ce6",
-      "textSha256": "0e69ed6bbe175876e23c7b5bf2229a3fae82da9fa15f44c9fa2d48358d806ce6"
+      "size": 4560,
+      "sha256": "9d197c403b963bf6e5ea88693d8c64fcec0b30778e1656342faa19b780bc1138",
+      "textSha256": "9d197c403b963bf6e5ea88693d8c64fcec0b30778e1656342faa19b780bc1138"
     },
     {
       "path": "assets/images/Hud/Gabriella-Legacy/numbers/num0.png",
@@ -7216,9 +7126,9 @@
     },
     {
       "path": "assets/images/Menus/Intro-stuff/alphabet.xml",
-      "size": 56982,
-      "sha256": "f0204f3093422bdd20a34da3400c09a8a9510a46dc49c23725515b1b3ae1791f",
-      "textSha256": "f0204f3093422bdd20a34da3400c09a8a9510a46dc49c23725515b1b3ae1791f"
+      "size": 56887,
+      "sha256": "5da32ce741d28ea4a7498cb4611397f95b3f9ecb8cbc5fd8687eb09e8c9c6cf2",
+      "textSha256": "5da32ce741d28ea4a7498cb4611397f95b3f9ecb8cbc5fd8687eb09e8c9c6cf2"
     },
     {
       "path": "assets/images/Menus/Intro-stuff/Chibis/Fah.png",
@@ -7525,9 +7435,9 @@
     },
     {
       "path": "assets/images/Menus/Intro-stuff/gfDanceTitle.xml",
-      "size": 4259,
-      "sha256": "7196c18e7e719b61bca6c650a5049123f950e8b4a1ccec5cc0f084ab3defcecf",
-      "textSha256": "7196c18e7e719b61bca6c650a5049123f950e8b4a1ccec5cc0f084ab3defcecf"
+      "size": 4146,
+      "sha256": "3fa572b73e645b0d70ef02fd9384e8cbd60a8b7de937ef33ed30fb2cb4b67992",
+      "textSha256": "3fa572b73e645b0d70ef02fd9384e8cbd60a8b7de937ef33ed30fb2cb4b67992"
     },
     {
       "path": "assets/images/Menus/Intro-stuff/logo.png",
@@ -8340,9 +8250,9 @@
     },
     {
       "path": "assets/images/Menus/options/alphabet-bold.xml",
-      "size": 39553,
-      "sha256": "d143f4e604c4c14228c4debac146202af346ab4da47856a7c1fdfe1f98555004",
-      "textSha256": "d143f4e604c4c14228c4debac146202af346ab4da47856a7c1fdfe1f98555004"
+      "size": 39471,
+      "sha256": "2ae1464b7c4f5716f5f9b6a6fc289d04d59c56adb7abbb520a209c0afcab1718",
+      "textSha256": "2ae1464b7c4f5716f5f9b6a6fc289d04d59c56adb7abbb520a209c0afcab1718"
     },
     {
       "path": "assets/images/Menus/options/alphabet-font.xml",
@@ -9747,9 +9657,9 @@
     },
     {
       "path": "assets/modchart-editor/gpu/notePerspective.vert",
-      "size": 3585,
-      "sha256": "c5c2dfba27982c20aed77f5fe40cc6596bd44714c126d9482fe033c9d3780d7b",
-      "textSha256": "c5c2dfba27982c20aed77f5fe40cc6596bd44714c126d9482fe033c9d3780d7b"
+      "size": 3033,
+      "sha256": "4cf4bdd8be3a52bde53544d9b7e2af321cadd90e5ef4475fb51b87f6f6f0e633",
+      "textSha256": "4cf4bdd8be3a52bde53544d9b7e2af321cadd90e5ef4475fb51b87f6f6f0e633"
     },
     {
       "path": "assets/modchart-editor/GUIDE.txt",
@@ -9831,15 +9741,15 @@
     },
     {
       "path": "assets/modchart-editor/modifiers/boost.vert",
-      "size": 455,
-      "sha256": "d02e8a2e4f6434255ba93f6091f8f2ab57ed87cbac85e4ee9a5f0c7c19b06fff",
-      "textSha256": "d02e8a2e4f6434255ba93f6091f8f2ab57ed87cbac85e4ee9a5f0c7c19b06fff"
+      "size": 434,
+      "sha256": "4c707a23b651e1372a3fb86280d9ea3805831c16d707245d08eee6055cebaad5",
+      "textSha256": "4c707a23b651e1372a3fb86280d9ea3805831c16d707245d08eee6055cebaad5"
     },
     {
       "path": "assets/modchart-editor/modifiers/brake.vert",
-      "size": 411,
-      "sha256": "5b73b8fbd8d34fbf64ba3da467842eb4bdb453c0e448887e958dffe23d815a75",
-      "textSha256": "5b73b8fbd8d34fbf64ba3da467842eb4bdb453c0e448887e958dffe23d815a75"
+      "size": 390,
+      "sha256": "5fb24eded32b9d08f96b5ba393328174feca5b23efebdf544ebff99153dc454f",
+      "textSha256": "5fb24eded32b9d08f96b5ba393328174feca5b23efebdf544ebff99153dc454f"
     },
     {
       "path": "assets/modchart-editor/modifiers/drunk.ini",
@@ -10071,9 +9981,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/BarrelBlurEffect.frag",
-      "size": 3079,
-      "sha256": "a8ba6378c9276f91bd5c20052bac20fcf0c0d33ecdb10f3bca71611407888982",
-      "textSha256": "a8ba6378c9276f91bd5c20052bac20fcf0c0d33ecdb10f3bca71611407888982"
+      "size": 2721,
+      "sha256": "197a9bd93fbf8d7d91d8a1afa167b74ae4fc43bb924c96f5277f592af2abda39",
+      "textSha256": "197a9bd93fbf8d7d91d8a1afa167b74ae4fc43bb924c96f5277f592af2abda39"
     },
     {
       "path": "assets/modchart-editor/shaders/BarrelBlurEffect.ini",
@@ -10101,9 +10011,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/BarsEffect.frag",
-      "size": 304,
-      "sha256": "9badb17aa7bbdb1ce6167613080670046f81606119b2d5b58696ee908a9b25d1",
-      "textSha256": "9badb17aa7bbdb1ce6167613080670046f81606119b2d5b58696ee908a9b25d1"
+      "size": 242,
+      "sha256": "0aececc362d5e23438befe19dfc0aed6380485f89347f1a45bbe04339f00c797",
+      "textSha256": "0aececc362d5e23438befe19dfc0aed6380485f89347f1a45bbe04339f00c797"
     },
     {
       "path": "assets/modchart-editor/shaders/BarsEffect.ini",
@@ -10125,9 +10035,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/BloomEffect.frag",
-      "size": 1249,
-      "sha256": "721ca5b50477e9d0a3a29b4d30226c604c8d9f70988370db73a58d5887f70d6c",
-      "textSha256": "721ca5b50477e9d0a3a29b4d30226c604c8d9f70988370db73a58d5887f70d6c"
+      "size": 919,
+      "sha256": "f0fde0ba55f4389dd4ac59eb78d594c2af5a85b2b563bc4067ab56a2df5f1ae9",
+      "textSha256": "f0fde0ba55f4389dd4ac59eb78d594c2af5a85b2b563bc4067ab56a2df5f1ae9"
     },
     {
       "path": "assets/modchart-editor/shaders/BloomEffect.ini",
@@ -10143,9 +10053,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/BloomVerticalEffect.frag",
-      "size": 912,
-      "sha256": "6761a366dd6b29adc690abf1f49bee6e1242261c6e4c0605a5d9b805e98b672c",
-      "textSha256": "6761a366dd6b29adc690abf1f49bee6e1242261c6e4c0605a5d9b805e98b672c"
+      "size": 894,
+      "sha256": "ee47e21bf75250134b181f62f78f964580809ba106de68566cfc9d8c0ca85ea5",
+      "textSha256": "ee47e21bf75250134b181f62f78f964580809ba106de68566cfc9d8c0ca85ea5"
     },
     {
       "path": "assets/modchart-editor/shaders/BloomVerticalEffect.ini",
@@ -10161,9 +10071,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/blur.frag",
-      "size": 1310,
-      "sha256": "a9481e965a74e6c12cba9cff14bd671245a10697b9dda06dccac224dab634b1a",
-      "textSha256": "a9481e965a74e6c12cba9cff14bd671245a10697b9dda06dccac224dab634b1a"
+      "size": 865,
+      "sha256": "c11bcb1915809c39ece01339ef2719ba54a5bdb42868659fcba1225f2083f1b1",
+      "textSha256": "c11bcb1915809c39ece01339ef2719ba54a5bdb42868659fcba1225f2083f1b1"
     },
     {
       "path": "assets/modchart-editor/shaders/blur.ini",
@@ -10173,9 +10083,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/BlurEffect.frag",
-      "size": 721,
-      "sha256": "36e11538a0a2a9c3d5b21bcbca44d32c278259855e7838252b20ed7286595b83",
-      "textSha256": "36e11538a0a2a9c3d5b21bcbca44d32c278259855e7838252b20ed7286595b83"
+      "size": 562,
+      "sha256": "7e0855c63ac4ad9dd1e957a7da61112c3fd4089f5ed801cbc8c185db70b4ce5a",
+      "textSha256": "7e0855c63ac4ad9dd1e957a7da61112c3fd4089f5ed801cbc8c185db70b4ce5a"
     },
     {
       "path": "assets/modchart-editor/shaders/BlurEffect.ini",
@@ -10275,9 +10185,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/colorswap.frag",
-      "size": 1673,
-      "sha256": "747d5b4b862cbd91e1dae026033edd7853eb7c9c94d2b1ab459f9760a716cc32",
-      "textSha256": "747d5b4b862cbd91e1dae026033edd7853eb7c9c94d2b1ab459f9760a716cc32"
+      "size": 1091,
+      "sha256": "23e134f8317a2488a614b01101965eed43d7a81cfe4db15cbe197023558666e7",
+      "textSha256": "23e134f8317a2488a614b01101965eed43d7a81cfe4db15cbe197023558666e7"
     },
     {
       "path": "assets/modchart-editor/shaders/colorswap.ini",
@@ -10287,9 +10197,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/ColorSwapEffect.frag",
-      "size": 1673,
-      "sha256": "747d5b4b862cbd91e1dae026033edd7853eb7c9c94d2b1ab459f9760a716cc32",
-      "textSha256": "747d5b4b862cbd91e1dae026033edd7853eb7c9c94d2b1ab459f9760a716cc32"
+      "size": 1091,
+      "sha256": "23e134f8317a2488a614b01101965eed43d7a81cfe4db15cbe197023558666e7",
+      "textSha256": "23e134f8317a2488a614b01101965eed43d7a81cfe4db15cbe197023558666e7"
     },
     {
       "path": "assets/modchart-editor/shaders/ColorSwapEffect.ini",
@@ -10299,9 +10209,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/GlitchEffect.frag",
-      "size": 2414,
-      "sha256": "892e004519d40b8a733772cdeeb8fdec590387aefbe67289dcfd4a9d132dfd90",
-      "textSha256": "892e004519d40b8a733772cdeeb8fdec590387aefbe67289dcfd4a9d132dfd90"
+      "size": 1968,
+      "sha256": "c11c7de60522af09affda0d5dad0be54cb159a415dada37512cb51838df0423f",
+      "textSha256": "c11c7de60522af09affda0d5dad0be54cb159a415dada37512cb51838df0423f"
     },
     {
       "path": "assets/modchart-editor/shaders/GlitchEffect.ini",
@@ -10329,9 +10239,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/GreyscaleEffect.frag",
-      "size": 295,
-      "sha256": "321d4db7b9e4a50dbb82c59829826ebe173c8bcc4189637626594c230b4ab947",
-      "textSha256": "321d4db7b9e4a50dbb82c59829826ebe173c8bcc4189637626594c230b4ab947"
+      "size": 251,
+      "sha256": "dd8d1f569e204cd97bfa74642ffeec9fc2cd0626633d386d8e25be518fea4e7a",
+      "textSha256": "dd8d1f569e204cd97bfa74642ffeec9fc2cd0626633d386d8e25be518fea4e7a"
     },
     {
       "path": "assets/modchart-editor/shaders/GreyscaleEffect.ini",
@@ -10341,9 +10251,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/HeatShader.frag",
-      "size": 822,
-      "sha256": "fcc436ac5ca0311e07d27819fb5822a6d858ef08d9ec68f4733bfa48a5a2cf77",
-      "textSha256": "fcc436ac5ca0311e07d27819fb5822a6d858ef08d9ec68f4733bfa48a5a2cf77"
+      "size": 657,
+      "sha256": "9ed4ac254c551cdd3f840f6ec5ad908eab83849a0474e806eb934147c719280e",
+      "textSha256": "9ed4ac254c551cdd3f840f6ec5ad908eab83849a0474e806eb934147c719280e"
     },
     {
       "path": "assets/modchart-editor/shaders/HeatShader.ini",
@@ -10353,9 +10263,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/M/3DMIrror.frag",
-      "size": 1974,
-      "sha256": "fb8e4822c9eac30a24795dc277b6b6c8c3eb66d404d4c17470cb5d1018e11347",
-      "textSha256": "fb8e4822c9eac30a24795dc277b6b6c8c3eb66d404d4c17470cb5d1018e11347"
+      "size": 1857,
+      "sha256": "e85eb7961e1047e73aa2f80f4a3a09b3a986534043a2064a5ed32179a1de6bec",
+      "textSha256": "e85eb7961e1047e73aa2f80f4a3a09b3a986534043a2064a5ed32179a1de6bec"
     },
     {
       "path": "assets/modchart-editor/shaders/M/3DMirror.ini",
@@ -10365,9 +10275,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/M/color.frag",
-      "size": 855,
-      "sha256": "ee1dbd7bc4b7f5457ca7d944c7f46603ce929373f535fa42d8b5b6e1e04e81e7",
-      "textSha256": "ee1dbd7bc4b7f5457ca7d944c7f46603ce929373f535fa42d8b5b6e1e04e81e7"
+      "size": 824,
+      "sha256": "f9c477e9150bc94b2e77152b92b753061f409b60f1c0cc50ed4981f731014b9c",
+      "textSha256": "f9c477e9150bc94b2e77152b92b753061f409b60f1c0cc50ed4981f731014b9c"
     },
     {
       "path": "assets/modchart-editor/shaders/M/color.ini",
@@ -10377,9 +10287,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/M/spiral.frag",
-      "size": 1311,
-      "sha256": "32b50590a428230017b85fa025d66899fdb4c63de7332608f42cc08979916150",
-      "textSha256": "32b50590a428230017b85fa025d66899fdb4c63de7332608f42cc08979916150"
+      "size": 1134,
+      "sha256": "08b81568f06f6c72ab736a52852508c8292357c41a07c498a116b01e9a24123f",
+      "textSha256": "08b81568f06f6c72ab736a52852508c8292357c41a07c498a116b01e9a24123f"
     },
     {
       "path": "assets/modchart-editor/shaders/M/spiral.ini",
@@ -10401,9 +10311,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/M/WaterEffect.frag",
-      "size": 483,
-      "sha256": "7e47d35a400f832f3084878d63af8036cbda412c87ff19f148366a0a82b9fc95",
-      "textSha256": "7e47d35a400f832f3084878d63af8036cbda412c87ff19f148366a0a82b9fc95"
+      "size": 453,
+      "sha256": "f16eea68772ed71c0349521f256512e386e5fc7e3e2e25056830e76f6f1680f8",
+      "textSha256": "f16eea68772ed71c0349521f256512e386e5fc7e3e2e25056830e76f6f1680f8"
     },
     {
       "path": "assets/modchart-editor/shaders/M/WaterEffect.ini",
@@ -10413,9 +10323,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/MirrorRepeatEffect.frag",
-      "size": 1299,
-      "sha256": "85d10c78baa38fbeff96caee87e65e11cf00f0b4c073c27c86601052b7ff2274",
-      "textSha256": "85d10c78baa38fbeff96caee87e65e11cf00f0b4c073c27c86601052b7ff2274"
+      "size": 1020,
+      "sha256": "beca9cc350db5d96d0260f4860e61acf2bc0405a4699ed0ab704f93d8ed3f947",
+      "textSha256": "beca9cc350db5d96d0260f4860e61acf2bc0405a4699ed0ab704f93d8ed3f947"
     },
     {
       "path": "assets/modchart-editor/shaders/MirrorRepeatEffect.ini",
@@ -10425,9 +10335,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/MirrorRepeatEffectN.frag",
-      "size": 1299,
-      "sha256": "85d10c78baa38fbeff96caee87e65e11cf00f0b4c073c27c86601052b7ff2274",
-      "textSha256": "85d10c78baa38fbeff96caee87e65e11cf00f0b4c073c27c86601052b7ff2274"
+      "size": 1020,
+      "sha256": "beca9cc350db5d96d0260f4860e61acf2bc0405a4699ed0ab704f93d8ed3f947",
+      "textSha256": "beca9cc350db5d96d0260f4860e61acf2bc0405a4699ed0ab704f93d8ed3f947"
     },
     {
       "path": "assets/modchart-editor/shaders/MirrorRepeatEffectN.ini",
@@ -10437,9 +10347,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/MirrorRepeatWarpBackBlendEffect.frag",
-      "size": 1585,
-      "sha256": "e26b2593f5c70bbc3d45c2a57013faa3c191dc4d78a2816795194c5136f7b4cf",
-      "textSha256": "e26b2593f5c70bbc3d45c2a57013faa3c191dc4d78a2816795194c5136f7b4cf"
+      "size": 1288,
+      "sha256": "e161a06d3d3ded5709bd3fd5a71c12dbeda85afb7fb3cf42102b8f4131f4da03",
+      "textSha256": "e161a06d3d3ded5709bd3fd5a71c12dbeda85afb7fb3cf42102b8f4131f4da03"
     },
     {
       "path": "assets/modchart-editor/shaders/MirrorRepeatWarpBackBlendEffect.ini",
@@ -10449,9 +10359,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/MirrorRepeatWarpEffect.frag",
-      "size": 1403,
-      "sha256": "a43760e65757f05310a5ecc22fe4270222a8aaf01ce25088f8cabdce52d67d5e",
-      "textSha256": "a43760e65757f05310a5ecc22fe4270222a8aaf01ce25088f8cabdce52d67d5e"
+      "size": 1104,
+      "sha256": "1bc1be5109a097aaa240f3f23915e3e46e1665dd774548562bfbbb632220117c",
+      "textSha256": "1bc1be5109a097aaa240f3f23915e3e46e1665dd774548562bfbbb632220117c"
     },
     {
       "path": "assets/modchart-editor/shaders/MirrorRepeatWarpEffect.ini",
@@ -10485,9 +10395,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/negative.frag",
-      "size": 317,
-      "sha256": "8cd55c462b6ddf961a48597ceadc849a44524ce554cd20110a82ce3bfaadfed0",
-      "textSha256": "8cd55c462b6ddf961a48597ceadc849a44524ce554cd20110a82ce3bfaadfed0"
+      "size": 243,
+      "sha256": "21fc98804eb053de438c5a7ec4380708684fcc0e83924a4ab63d68f6f8c81dcb",
+      "textSha256": "21fc98804eb053de438c5a7ec4380708684fcc0e83924a4ab63d68f6f8c81dcb"
     },
     {
       "path": "assets/modchart-editor/shaders/notePerspective.frag",
@@ -10497,9 +10407,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/notePerspective.vert",
-      "size": 3587,
-      "sha256": "beb849a0f608ad21510752aec22b200b6a8fba78bd0b368e2a7f64c6ce197619",
-      "textSha256": "beb849a0f608ad21510752aec22b200b6a8fba78bd0b368e2a7f64c6ce197619"
+      "size": 3035,
+      "sha256": "2f37e9378f47914aca5d072ce59e416fb1357ece2cd84d9de64c844b69183769",
+      "textSha256": "2f37e9378f47914aca5d072ce59e416fb1357ece2cd84d9de64c844b69183769"
     },
     {
       "path": "assets/modchart-editor/shaders/PaletteEffect.frag",
@@ -10515,9 +10425,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/PerlinMirrorRepeatEffect.frag",
-      "size": 1486,
-      "sha256": "073400d27dbfcfa7426d82037225b2dab39321005ff60b125cdee28ef814d96c",
-      "textSha256": "073400d27dbfcfa7426d82037225b2dab39321005ff60b125cdee28ef814d96c"
+      "size": 1187,
+      "sha256": "d471e180af785dd314f1812f15c19639d681d08ccb5e9a232a1379f4a7f6beeb",
+      "textSha256": "d471e180af785dd314f1812f15c19639d681d08ccb5e9a232a1379f4a7f6beeb"
     },
     {
       "path": "assets/modchart-editor/shaders/PerlinMirrorRepeatEffect.ini",
@@ -10533,15 +10443,15 @@
     },
     {
       "path": "assets/modchart-editor/shaders/PerlinMirrorRepeatEffect.vert",
-      "size": 2884,
-      "sha256": "8090f5ded476aefe14e85a406c3179e02d2b7d452876c1d2ebd8d18aa5bbdc67",
-      "textSha256": "8090f5ded476aefe14e85a406c3179e02d2b7d452876c1d2ebd8d18aa5bbdc67"
+      "size": 2649,
+      "sha256": "eb245c200a9e1451450acb35f65bda29b7f47c121524873883c47041ed29031f",
+      "textSha256": "eb245c200a9e1451450acb35f65bda29b7f47c121524873883c47041ed29031f"
     },
     {
       "path": "assets/modchart-editor/shaders/PerlinSmokeEffect.frag",
-      "size": 3678,
-      "sha256": "47f0c596722c250c045204b08e562dfc312ee70844247e8e8f266fcd0a189d62",
-      "textSha256": "47f0c596722c250c045204b08e562dfc312ee70844247e8e8f266fcd0a189d62"
+      "size": 3436,
+      "sha256": "0ccfe904ae64eced37f1b7dee29d9ed347d93c61dbd5d4bb34379e1a9290fc43",
+      "textSha256": "0ccfe904ae64eced37f1b7dee29d9ed347d93c61dbd5d4bb34379e1a9290fc43"
     },
     {
       "path": "assets/modchart-editor/shaders/PerlinSmokeEffect.ini",
@@ -10557,9 +10467,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/PopoEffect.frag",
-      "size": 1718,
-      "sha256": "09776fd84491f8c08f8fe58b91488be3ab358fc5f968ae0f770520eb8adff01c",
-      "textSha256": "09776fd84491f8c08f8fe58b91488be3ab358fc5f968ae0f770520eb8adff01c"
+      "size": 1560,
+      "sha256": "80f67d094d9f1dd54841ae649aa92e24cc0fa0717c464d3a98d58805362e9cdc",
+      "textSha256": "80f67d094d9f1dd54841ae649aa92e24cc0fa0717c464d3a98d58805362e9cdc"
     },
     {
       "path": "assets/modchart-editor/shaders/PopoEffect.ini",
@@ -10569,9 +10479,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/RainEffect.frag",
-      "size": 1722,
-      "sha256": "255285623c4cf0d00a9581d2608259f0a8af3837874483b5c5c93e400bc250ba",
-      "textSha256": "255285623c4cf0d00a9581d2608259f0a8af3837874483b5c5c93e400bc250ba"
+      "size": 1230,
+      "sha256": "b7db244d02b4fc1d6723dda5666406892e520ca1ad460c085a4fe1d2e4895fca",
+      "textSha256": "b7db244d02b4fc1d6723dda5666406892e520ca1ad460c085a4fe1d2e4895fca"
     },
     {
       "path": "assets/modchart-editor/shaders/RainEffect.ini",
@@ -10599,9 +10509,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/RaymarchDepthEffect.frag",
-      "size": 5786,
-      "sha256": "37ab54f85a30baf0c4249afbda4147467371379a09921f480873e19fc575a631",
-      "textSha256": "37ab54f85a30baf0c4249afbda4147467371379a09921f480873e19fc575a631"
+      "size": 3754,
+      "sha256": "9756ea7296e9b6b2f0330c07d2cbd95370592ae25f00c1d3b0dbab2b9e97a981",
+      "textSha256": "9756ea7296e9b6b2f0330c07d2cbd95370592ae25f00c1d3b0dbab2b9e97a981"
     },
     {
       "path": "assets/modchart-editor/shaders/RaymarchDepthEffect.ini",
@@ -10611,15 +10521,15 @@
     },
     {
       "path": "assets/modchart-editor/shaders/RayMarchEffect.frag",
-      "size": 3101,
-      "sha256": "c15a57c2298a4b09f0559d1d6fb6a8257c0392e7bcd4518e0526a400f84a1341",
-      "textSha256": "c15a57c2298a4b09f0559d1d6fb6a8257c0392e7bcd4518e0526a400f84a1341"
+      "size": 2643,
+      "sha256": "94a0d0929a712eb7592aa4dc900bf211192e603b847330efeb65eed2c9e882c4",
+      "textSha256": "94a0d0929a712eb7592aa4dc900bf211192e603b847330efeb65eed2c9e882c4"
     },
     {
       "path": "assets/modchart-editor/shaders/raytracingcube.frag",
-      "size": 3526,
-      "sha256": "d9c6a3f44c8b16e95b031f010d64c2ea6d7e726798f173251f6e66be5eddc899",
-      "textSha256": "d9c6a3f44c8b16e95b031f010d64c2ea6d7e726798f173251f6e66be5eddc899"
+      "size": 3314,
+      "sha256": "1b3cc0a4914dc83a6072764018fbeff2b431cd21b31373f0af2e05e7902b245c",
+      "textSha256": "1b3cc0a4914dc83a6072764018fbeff2b431cd21b31373f0af2e05e7902b245c"
     },
     {
       "path": "assets/modchart-editor/shaders/raytracingcube.ini",
@@ -10629,9 +10539,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/ScanlineEffect.frag",
-      "size": 896,
-      "sha256": "1af9027416e51217c305b688975efb16db5fdd845425453ac7de83de472f51a4",
-      "textSha256": "1af9027416e51217c305b688975efb16db5fdd845425453ac7de83de472f51a4"
+      "size": 819,
+      "sha256": "f046e9f76da4517eb47b82beb340fdbe2cca261ec645d1e25aab65d3e6a2fcf7",
+      "textSha256": "f046e9f76da4517eb47b82beb340fdbe2cca261ec645d1e25aab65d3e6a2fcf7"
     },
     {
       "path": "assets/modchart-editor/shaders/ScanlineEffect.ini",
@@ -10641,9 +10551,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/SobelEffect.frag",
-      "size": 1282,
-      "sha256": "071b5e5da8e7cdd6c7239d2a60539b08a075d3c7a88f9ab7d000decb9d7a47fd",
-      "textSha256": "071b5e5da8e7cdd6c7239d2a60539b08a075d3c7a88f9ab7d000decb9d7a47fd"
+      "size": 1197,
+      "sha256": "a13326ff8e8434112b27d77d658cbdbb44d50f6491f3295a46d2239e51d35824",
+      "textSha256": "a13326ff8e8434112b27d77d658cbdbb44d50f6491f3295a46d2239e51d35824"
     },
     {
       "path": "assets/modchart-editor/shaders/SobelEffect.ini",
@@ -10659,9 +10569,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/SparkEffect.frag",
-      "size": 5953,
-      "sha256": "e200193bfef7c8a40df4972eda3745133a0bc5510aff7333d3c8087c8c8ac59b",
-      "textSha256": "e200193bfef7c8a40df4972eda3745133a0bc5510aff7333d3c8087c8c8ac59b"
+      "size": 4606,
+      "sha256": "5f16eea62399b3948b7f9fe83c20abecfddf40e68edaac6eaf2d1e20d8bac1f2",
+      "textSha256": "5f16eea62399b3948b7f9fe83c20abecfddf40e68edaac6eaf2d1e20d8bac1f2"
     },
     {
       "path": "assets/modchart-editor/shaders/SparkEffect.ini",
@@ -10677,9 +10587,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/SpeedEffect.frag",
-      "size": 1362,
-      "sha256": "6d4e9652f4b9b55c45c5a62be2ab7ba31d33fe7b916c106eb81f3aa96f0e5c67",
-      "textSha256": "6d4e9652f4b9b55c45c5a62be2ab7ba31d33fe7b916c106eb81f3aa96f0e5c67"
+      "size": 1322,
+      "sha256": "548bc711fd7acbd3f49f23a8f34a53b6ef17b0625d411f774372661e827b823a",
+      "textSha256": "548bc711fd7acbd3f49f23a8f34a53b6ef17b0625d411f774372661e827b823a"
     },
     {
       "path": "assets/modchart-editor/shaders/SpeedEffect.ini",
@@ -10695,9 +10605,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/SpiralTunnelEffect.frag",
-      "size": 1198,
-      "sha256": "96a2fb735fec77ac86c046a31f11b24f28aada92c34de19055e488fa62d0e4e9",
-      "textSha256": "96a2fb735fec77ac86c046a31f11b24f28aada92c34de19055e488fa62d0e4e9"
+      "size": 1098,
+      "sha256": "afac5c3af6cbd52f5b28c3693881f2dc58ee546ab5f45ce08bf0302ae711d36d",
+      "textSha256": "afac5c3af6cbd52f5b28c3693881f2dc58ee546ab5f45ce08bf0302ae711d36d"
     },
     {
       "path": "assets/modchart-editor/shaders/SpiralTunnelEffect.ini",
@@ -10713,9 +10623,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/SplitCamMania.frag",
-      "size": 2434,
-      "sha256": "143e4cc50c9f30c639b47f07e598e6295b3db96b5fc4a6379abd1933d76712be",
-      "textSha256": "143e4cc50c9f30c639b47f07e598e6295b3db96b5fc4a6379abd1933d76712be"
+      "size": 2331,
+      "sha256": "d5a34457ca02e4668174ab66ef1c22eaaa1dc31a1a0bb7baeacb371f1b0b3b8e",
+      "textSha256": "d5a34457ca02e4668174ab66ef1c22eaaa1dc31a1a0bb7baeacb371f1b0b3b8e"
     },
     {
       "path": "assets/modchart-editor/shaders/SplitCamMania.ini",
@@ -10725,9 +10635,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/VHSEffect.frag",
-      "size": 2065,
-      "sha256": "636614f730a409ccaefd15637be1f0b4188cd7a42a9d501f85e0ecf1d0f71c58",
-      "textSha256": "636614f730a409ccaefd15637be1f0b4188cd7a42a9d501f85e0ecf1d0f71c58"
+      "size": 1765,
+      "sha256": "224b6af98fd571c1000fa4c20972aefbe377635980af14b3fd84dd950d7ede36",
+      "textSha256": "224b6af98fd571c1000fa4c20972aefbe377635980af14b3fd84dd950d7ede36"
     },
     {
       "path": "assets/modchart-editor/shaders/VHSEffect.ini",
@@ -10743,9 +10653,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/VignetteEffect.frag",
-      "size": 521,
-      "sha256": "59899e714c511fe61442ca0fe101859d7326be003cd0a89200489d490a76baba",
-      "textSha256": "59899e714c511fe61442ca0fe101859d7326be003cd0a89200489d490a76baba"
+      "size": 455,
+      "sha256": "26a2c4088539e6d5e2ba11d55e24bc564d842db07b602638660719f9a14d2e17",
+      "textSha256": "26a2c4088539e6d5e2ba11d55e24bc564d842db07b602638660719f9a14d2e17"
     },
     {
       "path": "assets/modchart-editor/shaders/VignetteEffect.ini",
@@ -10755,9 +10665,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/VortexEffect.frag",
-      "size": 3183,
-      "sha256": "abe6f859d54d1a0329248ac5924254de8c4190139668c558b73a1ac72a9376ac",
-      "textSha256": "abe6f859d54d1a0329248ac5924254de8c4190139668c558b73a1ac72a9376ac"
+      "size": 2940,
+      "sha256": "45933408bb86d65b6d7f36ab4e619fe3d5ad978daef68768c3169746eeb876b4",
+      "textSha256": "45933408bb86d65b6d7f36ab4e619fe3d5ad978daef68768c3169746eeb876b4"
     },
     {
       "path": "assets/modchart-editor/shaders/WaterEffect.frag",
@@ -10785,9 +10695,9 @@
     },
     {
       "path": "assets/modchart-editor/shaders/WiggleEffect.frag",
-      "size": 1974,
-      "sha256": "e4b446884be38f89f78b0712e5eea445ed966721a4ef979016481b8d350eb5f8",
-      "textSha256": "e4b446884be38f89f78b0712e5eea445ed966721a4ef979016481b8d350eb5f8"
+      "size": 1582,
+      "sha256": "80f38813d89b1677cc5df66de59ffcd770681dd011652c35d071d1c16f067ca2",
+      "textSha256": "80f38813d89b1677cc5df66de59ffcd770681dd011652c35d071d1c16f067ca2"
     },
     {
       "path": "assets/modchart-editor/shaders/WiggleEffect.ini",
@@ -10941,21 +10851,21 @@
     },
     {
       "path": "assets/shaders/aom-barber-pole.frag",
-      "size": 3673,
-      "sha256": "65fa0ccd2868c7ab6e732b7dcd8f5f8d6bf74083e709ec37332914edd2a56258",
-      "textSha256": "65fa0ccd2868c7ab6e732b7dcd8f5f8d6bf74083e709ec37332914edd2a56258"
+      "size": 2363,
+      "sha256": "09e341523018ecdfd031c4207e3c113c83f9cd60eb3228c5608cf89ba303e72b",
+      "textSha256": "09e341523018ecdfd031c4207e3c113c83f9cd60eb3228c5608cf89ba303e72b"
     },
     {
       "path": "assets/shaders/aom-fah-healthbar.frag",
-      "size": 3125,
-      "sha256": "6c37be4d76d84091466e9405957a8cfaa96fb68a6ae78ae7421b8700313403aa",
-      "textSha256": "6c37be4d76d84091466e9405957a8cfaa96fb68a6ae78ae7421b8700313403aa"
+      "size": 2219,
+      "sha256": "7258e589f3844667a93da881b74b2e113bac2791e9153e883bf1e4cb6284dbef",
+      "textSha256": "7258e589f3844667a93da881b74b2e113bac2791e9153e883bf1e4cb6284dbef"
     },
     {
       "path": "assets/shaders/aom-paper-overlay.frag",
-      "size": 952,
-      "sha256": "6ce395d763b5cc92a7bdbcf180eb362e74cc13db94a5299bddf4cb0ac25d7427",
-      "textSha256": "6ce395d763b5cc92a7bdbcf180eb362e74cc13db94a5299bddf4cb0ac25d7427"
+      "size": 758,
+      "sha256": "f25710aaf3b40ffbc58a4c435da1bde2c1bdd9b2f56f229d7518f33ad31b66a2",
+      "textSha256": "f25710aaf3b40ffbc58a4c435da1bde2c1bdd9b2f56f229d7518f33ad31b66a2"
     },
     {
       "path": "assets/shaders/bloom.frag",
@@ -10965,15 +10875,15 @@
     },
     {
       "path": "assets/shaders/checkerboard-legacy.frag",
-      "size": 1195,
-      "sha256": "b5e7ec990d53e525152e7a7a108f6afcec5aaf9dbe21c77a8cbb80011bc0e0c3",
-      "textSha256": "b5e7ec990d53e525152e7a7a108f6afcec5aaf9dbe21c77a8cbb80011bc0e0c3"
+      "size": 867,
+      "sha256": "456fba1abb335dac9dc29b3b6dd8cf3671e4f1830f8dad63b0c19d305794c4e0",
+      "textSha256": "456fba1abb335dac9dc29b3b6dd8cf3671e4f1830f8dad63b0c19d305794c4e0"
     },
     {
       "path": "assets/shaders/checkerboard.frag",
-      "size": 744,
-      "sha256": "613c93adbf7764ea770c9777ca234dd0e792c54f77b9dc7b236b0d05e0b4c5b5",
-      "textSha256": "613c93adbf7764ea770c9777ca234dd0e792c54f77b9dc7b236b0d05e0b4c5b5"
+      "size": 525,
+      "sha256": "9353ac6f01c3e23529762c199b2dab31849db627bb9e1ea0ba3c1ba50902271c",
+      "textSha256": "9353ac6f01c3e23529762c199b2dab31849db627bb9e1ea0ba3c1ba50902271c"
     },
     {
       "path": "assets/shaders/darnell-paint-reveal.frag",
@@ -10989,9 +10899,9 @@
     },
     {
       "path": "assets/shaders/invert.frag",
-      "size": 764,
-      "sha256": "ea12b598be62fd0102b3f1376b21b6cb5f3c5221e4355d3b2e8529caa27a622a",
-      "textSha256": "ea12b598be62fd0102b3f1376b21b6cb5f3c5221e4355d3b2e8529caa27a622a"
+      "size": 468,
+      "sha256": "b3865c20f6650cdbac504d7bb9fe22a5827a339cfde14a3c68a380a731064ce9",
+      "textSha256": "b3865c20f6650cdbac504d7bb9fe22a5827a339cfde14a3c68a380a731064ce9"
     },
     {
       "path": "assets/shaders/ntsc.frag",
@@ -11035,9 +10945,9 @@
     },
     {
       "path": "assets/shared/images/characters/BOYFRIEND.xml",
-      "size": 52069,
-      "sha256": "618241f0dfdace25ca7fbcbf650e07869c18ae1caec862968fafec52797e1ca6",
-      "textSha256": "618241f0dfdace25ca7fbcbf650e07869c18ae1caec862968fafec52797e1ca6"
+      "size": 51956,
+      "sha256": "20a5164d8b0a40965a804c5f39c31f855e25798a65b8b473df497108db1940ad",
+      "textSha256": "20a5164d8b0a40965a804c5f39c31f855e25798a65b8b473df497108db1940ad"
     },
     {
       "path": "assets/shared/images/characters/BOYFRIEND_DEAD.png",
@@ -11046,9 +10956,9 @@
     },
     {
       "path": "assets/shared/images/characters/BOYFRIEND_DEAD.xml",
-      "size": 15438,
-      "sha256": "fbff1cab01f0b3f3dca6d625b0b0293e7c2d89f1befbc6756324fb0ca743cd1d",
-      "textSha256": "fbff1cab01f0b3f3dca6d625b0b0293e7c2d89f1befbc6756324fb0ca743cd1d"
+      "size": 15325,
+      "sha256": "f2c0bc97fe1d71664c876dd3f2eadefb1e8abcff1104bb433c92ef1b67f73fa4",
+      "textSha256": "f2c0bc97fe1d71664c876dd3f2eadefb1e8abcff1104bb433c92ef1b67f73fa4"
     },
     {
       "path": "assets/shared/images/characters/DADDY_DEAREST.png",
@@ -11057,9 +10967,9 @@
     },
     {
       "path": "assets/shared/images/characters/DADDY_DEAREST.xml",
-      "size": 16969,
-      "sha256": "dc928a13f46c5a90e15eb31ad373df34069de9d3423d6c0405c54a6dc94c1cac",
-      "textSha256": "dc928a13f46c5a90e15eb31ad373df34069de9d3423d6c0405c54a6dc94c1cac"
+      "size": 16856,
+      "sha256": "61086d1e5f70af0f88d8f7acf9e4458dc4db54ab0f6b5e03cc8a635f3dc1cd77",
+      "textSha256": "61086d1e5f70af0f88d8f7acf9e4458dc4db54ab0f6b5e03cc8a635f3dc1cd77"
     },
     {
       "path": "assets/shared/images/characters/GF_assets.png",
@@ -11068,9 +10978,9 @@
     },
     {
       "path": "assets/shared/images/characters/GF_assets.xml",
-      "size": 30950,
-      "sha256": "a37d81afe850f249d9006cbca96dc3fc52b9612325217114e598fc2aff80c67b",
-      "textSha256": "a37d81afe850f249d9006cbca96dc3fc52b9612325217114e598fc2aff80c67b"
+      "size": 30837,
+      "sha256": "3810efe3148f516d52c7c315389c85444961fbb43f3f831d30d199842776688a",
+      "textSha256": "3810efe3148f516d52c7c315389c85444961fbb43f3f831d30d199842776688a"
     },
     {
       "path": "assets/shared/images/combo.png",
@@ -11099,9 +11009,9 @@
     },
     {
       "path": "assets/shared/images/HURTnoteSplashes.xml",
-      "size": 4857,
-      "sha256": "ee131fccaf35fda3f02e5bdea9d931fad763fc2e129909d694a8ac97a6912ba2",
-      "textSha256": "ee131fccaf35fda3f02e5bdea9d931fad763fc2e129909d694a8ac97a6912ba2"
+      "size": 4744,
+      "sha256": "3d7806746d0907b88cc9090edb1ba72f193e0c9f846a91cf5b93f86f825d08c1",
+      "textSha256": "3d7806746d0907b88cc9090edb1ba72f193e0c9f846a91cf5b93f86f825d08c1"
     },
     {
       "path": "assets/shared/images/NOTE_assets.png",
@@ -11110,9 +11020,9 @@
     },
     {
       "path": "assets/shared/images/NOTE_assets.xml",
-      "size": 8175,
-      "sha256": "c298d8fc7239cd57b85adc29e6b5bc2e4b3590af6b9da4f0e50fd599ea670e64",
-      "textSha256": "c298d8fc7239cd57b85adc29e6b5bc2e4b3590af6b9da4f0e50fd599ea670e64"
+      "size": 8062,
+      "sha256": "ba671b06cf46a96675c2a54b683a419183b9109bef9d7240c5dee0a17731bd89",
+      "textSha256": "ba671b06cf46a96675c2a54b683a419183b9109bef9d7240c5dee0a17731bd89"
     },
     {
       "path": "assets/shared/images/noteSplashes.png",
@@ -11121,9 +11031,9 @@
     },
     {
       "path": "assets/shared/images/noteSplashes.xml",
-      "size": 4673,
-      "sha256": "0e69ed6bbe175876e23c7b5bf2229a3fae82da9fa15f44c9fa2d48358d806ce6",
-      "textSha256": "0e69ed6bbe175876e23c7b5bf2229a3fae82da9fa15f44c9fa2d48358d806ce6"
+      "size": 4560,
+      "sha256": "9d197c403b963bf6e5ea88693d8c64fcec0b30778e1656342faa19b780bc1138",
+      "textSha256": "9d197c403b963bf6e5ea88693d8c64fcec0b30778e1656342faa19b780bc1138"
     },
     {
       "path": "assets/shared/images/pauseAlt/bfLol.png",
@@ -11132,9 +11042,9 @@
     },
     {
       "path": "assets/shared/images/pauseAlt/bfLol.xml",
-      "size": 3106,
-      "sha256": "cf22502ae3a133c9757555bc90e87250c3e935372e2e434cd2c9c059bd4fb619",
-      "textSha256": "cf22502ae3a133c9757555bc90e87250c3e935372e2e434cd2c9c059bd4fb619"
+      "size": 2993,
+      "sha256": "540d538c0db1b3f564845cd9560a72ec91e2a278ef37872537b4081bc3bd04b1",
+      "textSha256": "540d538c0db1b3f564845cd9560a72ec91e2a278ef37872537b4081bc3bd04b1"
     },
     {
       "path": "assets/shared/images/pauseAlt/pauseBG.png",
@@ -11148,9 +11058,9 @@
     },
     {
       "path": "assets/shared/images/pauseAlt/pauseUI.xml",
-      "size": 560,
-      "sha256": "75633f25ad6fe42fa81609412fd473a7b185b163329d45ba81b9612fed4d2ac8",
-      "textSha256": "75633f25ad6fe42fa81609412fd473a7b185b163329d45ba81b9612fed4d2ac8"
+      "size": 447,
+      "sha256": "8aa86e35b80e64953d131fa6261d388bd2924844884d9335c5260e846d1f93ec",
+      "textSha256": "8aa86e35b80e64953d131fa6261d388bd2924844884d9335c5260e846d1f93ec"
     },
     {
       "path": "assets/shared/images/pixelUI/date-pixel.png",
@@ -11204,9 +11114,9 @@
     },
     {
       "path": "assets/shared/images/speech_bubble.xml",
-      "size": 9686,
-      "sha256": "81c249916126a2688800aaf6fb64bfcf88ffaf05202bf7fe7b34136f883f007d",
-      "textSha256": "81c249916126a2688800aaf6fb64bfcf88ffaf05202bf7fe7b34136f883f007d"
+      "size": 9573,
+      "sha256": "27b112e69bdfee08df2babc085e5b44254bd4c4d7283aa5c4c66fbeecb749f89",
+      "textSha256": "27b112e69bdfee08df2babc085e5b44254bd4c4d7283aa5c4c66fbeecb749f89"
     },
     {
       "path": "assets/shared/images/spotlight.png",
@@ -12401,9 +12311,9 @@
     },
     {
       "path": "assets/stages/fah-week3.lua",
-      "size": 10692,
-      "sha256": "cfceebd7601d2ea70759641e8ab0390889d6ef567857b75001d75c5ebc953c77",
-      "textSha256": "cfceebd7601d2ea70759641e8ab0390889d6ef567857b75001d75c5ebc953c77"
+      "size": 10684,
+      "sha256": "0e52a66b2122e56ada71abfdbd5709dfc020a13e20d60848aaf5afcfe766f80a",
+      "textSha256": "0e52a66b2122e56ada71abfdbd5709dfc020a13e20d60848aaf5afcfe766f80a"
     },
     {
       "path": "assets/stages/fah-week4.json",
@@ -12413,9 +12323,9 @@
     },
     {
       "path": "assets/stages/fah-week4.lua",
-      "size": 13324,
-      "sha256": "3fb74ba3b59168d9e8ba5ebf200597aaff73454a95a5eb31fab0e86bfa05c506",
-      "textSha256": "3fb74ba3b59168d9e8ba5ebf200597aaff73454a95a5eb31fab0e86bfa05c506"
+      "size": 13013,
+      "sha256": "fe10c7894914bdb03da2402343d0a88b36c97eb6d244d6f6f4fc3c15fb305952",
+      "textSha256": "fe10c7894914bdb03da2402343d0a88b36c97eb6d244d6f6f4fc3c15fb305952"
     },
     {
       "path": "assets/stages/fah-week5.json",
@@ -12545,9 +12455,9 @@
     },
     {
       "path": "assets/stages/raven.lua",
-      "size": 32923,
-      "sha256": "0e86c247448c6df69c1246e468ae9e7465c6e364251ce0d7d7d5d699f3872c04",
-      "textSha256": "0e86c247448c6df69c1246e468ae9e7465c6e364251ce0d7d7d5d699f3872c04"
+      "size": 32642,
+      "sha256": "9d6e0b7a86570b06701e0b65e00045e2fe1998c06ed7b54f526ed20f7123a9dd",
+      "textSha256": "9d6e0b7a86570b06701e0b65e00045e2fe1998c06ed7b54f526ed20f7123a9dd"
     },
     {
       "path": "assets/stages/stage.json",
@@ -12766,8 +12676,8 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 43191296,
-      "sha256": "9e833f245fb147e6c4696629501c298a87c2b242e003ed379357b7018b7e5d2e"
+      "size": 43223040,
+      "sha256": "644df7b58373be67909e7164e68dd653bade4f7334552ada570c21719b388d90"
     },
     {
       "path": "icon.ico",
@@ -12791,27 +12701,27 @@
     },
     {
       "path": "manifest/default.json",
-      "size": 166525,
-      "sha256": "913d42871edff1ebb4c4bf69ca2e63ad040f6cb37607a6f5cae2d1b148ff4b5c",
-      "textSha256": "913d42871edff1ebb4c4bf69ca2e63ad040f6cb37607a6f5cae2d1b148ff4b5c"
+      "size": 203235,
+      "sha256": "3d4882322341620e758f23e007aec9da6092d8caf6f3d14487e19964a75fd5e4",
+      "textSha256": "3d4882322341620e758f23e007aec9da6092d8caf6f3d14487e19964a75fd5e4"
     },
     {
       "path": "manifest/shared.json",
       "size": 4791,
-      "sha256": "6d7f202202cc50c54714d624a42a26de0e77a38c994ee52ec42b8274b513bfe0",
-      "textSha256": "6d7f202202cc50c54714d624a42a26de0e77a38c994ee52ec42b8274b513bfe0"
+      "sha256": "544c10c536b010b93331d71bb5a8ce270747028d1c15058530ced2d57eb82ba4",
+      "textSha256": "544c10c536b010b93331d71bb5a8ce270747028d1c15058530ced2d57eb82ba4"
     },
     {
       "path": "manifest/songs.json",
-      "size": 4262,
-      "sha256": "42bf25a254866221ebe86c694e93f1ac3fdd934578acf43d25e05fb6ba72ce2c",
-      "textSha256": "42bf25a254866221ebe86c694e93f1ac3fdd934578acf43d25e05fb6ba72ce2c"
+      "size": 4637,
+      "sha256": "04093cc1b4bfa6d89d2bb50a5a8884f91b392009600ebcad18ce4f2cc86a4090",
+      "textSha256": "04093cc1b4bfa6d89d2bb50a5a8884f91b392009600ebcad18ce4f2cc86a4090"
     },
     {
       "path": "manifest/videos.json",
-      "size": 1576,
-      "sha256": "1365466a94fdb0242b7806bc385d328f86c7d5ea4191ed7927b2d4f3ded905da",
-      "textSha256": "1365466a94fdb0242b7806bc385d328f86c7d5ea4191ed7927b2d4f3ded905da"
+      "size": 2172,
+      "sha256": "2ad2bd23214cc4c825e85ffe5bb35df3a83912050060ae69c7bd3032775c0744",
+      "textSha256": "2ad2bd23214cc4c825e85ffe5bb35df3a83912050060ae69c7bd3032775c0744"
     },
     {
       "path": "plugins/access/libaccess_attachment_plugin.dll",
@@ -13776,7 +13686,7 @@
     {
       "path": "plugins/plugins.dat",
       "size": 256718,
-      "sha256": "20f8e13a4638bf45b764d2f0f2bf1df1e604aa3804394b40d2bd75d3ab1180ac"
+      "sha256": "df2df09005740a533ce4f7eb4d3d70abe3c7e54465781691bdd6bd5bbf8ba6a3"
     },
     {
       "path": "plugins/services_discovery/libmediadirs_plugin.dll",
@@ -14297,6 +14207,12 @@
       "path": "plugins/visualization/libvisual_plugin.dll",
       "size": 44563,
       "sha256": "b77eaaa617daf5308eda9288cc857ec543b64210a96928e15298a5d67dd74a4c"
+    },
+    {
+      "path": "SOURCE.txt",
+      "size": 595,
+      "sha256": "44164e1f1b20563a054a17c74441f19a1dbee4de556cdbc8f38c6ccf0a492e21",
+      "textSha256": "44164e1f1b20563a054a17c74441f19a1dbee4de556cdbc8f38c6ccf0a492e21"
     }
   ],
   "delete": []

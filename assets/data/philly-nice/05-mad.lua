@@ -2,7 +2,7 @@ local shown = false
 local finished = false
 
 function onCreate()
-    makeAnimatedLuaSprite('phillyMad', 'fahmix/week 3/mad', 0, 0)
+    makeAnimatedLuaSprite('phillyMad', 'fahmix/week3/mad', 0, 0)
     addAnimationByPrefix('phillyMad', 'idle', 'mad idle', 3, true)
     playAnim('phillyMad', 'idle', true)
     local scale = screenHeight * 0.8 / getProperty('phillyMad.height')

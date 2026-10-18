@@ -2,7 +2,7 @@
 
 
 local NOTE_TYPE = 'dropNote'
-local NOTE_TEXTURE = 'fahmix/week 3/drop-note'
+local NOTE_TEXTURE = 'fahmix/week3/drop-note'
 local NOTE_FRAME_RATE = 4
 
 local function configureDropNotes()
