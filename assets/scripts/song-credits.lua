@@ -20,6 +20,9 @@ local iconFrames = nil
 local iconName = ''
 local iconColor = ''
 local paletteKey = ''
+local cooldownSave = 'songCreditPopups'
+local cooldownSeconds = 3 * 60 * 60
+local cooldownKey = ''
 
 local reserved = {
     introstep = true, outrostep = true, chibi = true, composer = true,
@@ -247,6 +250,12 @@ end
 
 local function showCard()
     if entered or finished or not built then return end
+    local now = os.time()
+    local previous = tonumber(getDataFromSave(cooldownSave, cooldownKey))
+    if previous and now - previous < cooldownSeconds then
+        stopCard()
+        return
+    end
     entered = true
     updateIcon()
     updateColors()
@@ -255,6 +264,8 @@ local function showCard()
     visibility(true)
     setVar('songCreditVisible', true)
     doTweenX('songCreditSlide', rootTag, homeX, math.max(0.01, tonumber(settings.introduration) or 0.5), 'quadOut')
+    setDataFromSave(cooldownSave, cooldownKey, now)
+    flushSaveData(cooldownSave)
 end
 
 local function processStep(step)
@@ -275,6 +286,8 @@ end
 function onCreate()
     enabled = readSettings()
     if not enabled then close(true) return end
+    initSaveData(cooldownSave, 'psychenginemods')
+    cooldownKey = runHaxeCode('return Paths.formatToSongPath(PlayState.SONG.song);')
     addHaxeLibrary('HealthIcon')
     addHaxeLibrary('SpriteFrameBounds')
     addHaxeLibrary('Type')
