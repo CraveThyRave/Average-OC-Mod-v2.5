@@ -197,7 +197,7 @@ function onStepHit()
         doTweenY('timeDown', 'timeTxt', baseTimeTxtY, 0.3, 'quadIn')
     end
 
-    if curStep == 1284 and not getPropertyFromClass('MirrorMode', 'active') and not getPropertyFromClass('ClientPrefs', 'downScroll') then
+    if curStep == 1284 and not getPropertyFromClass('ClientPrefs', 'middleScroll') and not getPropertyFromClass('MirrorMode', 'active') and not getPropertyFromClass('ClientPrefs', 'downScroll') then
         baseTimeBarX = getProperty('fahclock.x')
         fakeMiddleScroll = true
         lastMiddleScroll = true
@@ -205,7 +205,7 @@ function onStepHit()
         doTweenX('clockMove', 'fahclock', baseTimeBarX - FAKE_MIDDLE_OFFSET_X, 0.4, 'quadOut')
     end
 
-    if curStep == 1408 and not getPropertyFromClass('MirrorMode', 'active') and not getPropertyFromClass('ClientPrefs', 'downScroll') then
+    if curStep == 1408 and not getPropertyFromClass('ClientPrefs', 'middleScroll') and not getPropertyFromClass('MirrorMode', 'active') and not getPropertyFromClass('ClientPrefs', 'downScroll') then
         fakeMiddleScroll = false
         local middleScroll = getPropertyFromClass('ClientPrefs', 'middleScroll')
         lastMiddleScroll = middleScroll
@@ -400,7 +400,7 @@ function onUpdatePost(elapsed)
     hudPollElapsed = hudPollElapsed + elapsed
     if hudPollElapsed < 0.1 then return end
     hudPollElapsed = 0
-    fakeMiddleScroll = not getPropertyFromClass('MirrorMode', 'active') and curStep >= 1284 and curStep < 1408
+    fakeMiddleScroll = not getPropertyFromClass('ClientPrefs', 'middleScroll') and not getPropertyFromClass('MirrorMode', 'active') and curStep >= 1284 and curStep < 1408
     if inGameOver then
         return
     end

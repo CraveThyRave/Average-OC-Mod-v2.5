@@ -117,17 +117,17 @@ function onCreate()
     scaleObject('phoenix-head', 0.7, 0.7)
 
 
-    makeAnimatedLuaSprite('fireintro', 'Freeplay-Chrs/phoenix/fire1', -135, -89)
+    makeAnimatedLuaSprite('fireintro', 'Freeplay-Chrs/phoenix/fire1', -146.07349, -127.20085)
     addAnimationByPrefix('fireintro', 'idle', 'fire1 idle', 8, true)
     addLuaSprite('fireintro', false)
-    scaleObject('fireintro', 0.69, 0.69)
+    scaleObject('fireintro', 0.702729, 0.701315)
 
 
 
-    makeAnimatedLuaSprite('fireoutro', 'Freeplay-Chrs/phoenix/fire2', -115, -60)
+    makeAnimatedLuaSprite('fireoutro', 'Freeplay-Chrs/phoenix/fire2', -128.50526, -99.14826)
     addAnimationByPrefix('fireoutro', 'idle', 'fire2 idle', 8, false)
     addLuaSprite('fireoutro', true)
-    scaleObject('fireoutro', 0.69, 0.69)
+    scaleObject('fireoutro', 0.702729, 0.701315)
     objectPlayAnimation('fireoutro', 'idle', false)
     setProperty('fireoutro.animation.curAnim.paused', true)
     setProperty('fireoutro.animation.curAnim.curFrame', 0)
@@ -219,12 +219,23 @@ function onTimerCompleted(tag)
 
 end
 
+function onUpdatePost(elapsed)
+    if not fireIntroFinished then
+        setProperty('dad.visible', getProperty('fireintro.animation.curAnim.curFrame') >= 6)
+    elseif outroHidden then
+        setProperty('dad.visible', false)
+    end
+end
+
 function onUpdate(elapsed)
 
 
     if not fireIntroFinished and luaSpriteExists('fireintro') then
 
         local curFrame = getProperty('fireintro.animation.curAnim.curFrame')
+        setProperty('dad.visible', curFrame >= 6)
+        setProperty('phoenix-body.animation.curAnim.curFrame', 0)
+        setProperty('phoenix-body.animation.curAnim.paused', true)
 
 
         if curFrame >= 6 and not bodyShown then
@@ -246,6 +257,7 @@ function onUpdate(elapsed)
         if curFrame >= 9 then
             setProperty('fireintro.alpha', 0)
             fireIntroFinished = true
+            setProperty('phoenix-body.animation.curAnim.paused', false)
         end
 
     end
@@ -315,6 +327,8 @@ function onUpdate(elapsed)
     if outroStarted then
 
         local curFrame = getProperty('fireoutro.animation.curAnim.curFrame')
+        setProperty('phoenix-body.animation.curAnim.curFrame', 0)
+        setProperty('phoenix-body.animation.curAnim.paused', true)
 
         if curFrame == 4 and not outroHidden then
 

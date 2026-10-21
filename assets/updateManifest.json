@@ -1,16 +1,160 @@
 {
   "format": 2,
-  "version": "2.5.31",
-  "baseVersion": "2.5.30",
+  "version": "2.5.32",
+  "baseVersion": "2.5.31",
   "files": [
     {
+      "path": "assets/data/shiftr/02-guitars.lua",
+      "size": 3491,
+      "sha256": "ff85125242f8a394ea56b6dff0942e50164fb7c2773de7288c4218873e61acb8",
+      "textSha256": "ff85125242f8a394ea56b6dff0942e50164fb7c2773de7288c4218873e61acb8",
+      "change": "changed"
+    },
+    {
+      "path": "assets/data/what-the-fah/04-hud.lua",
+      "size": 14961,
+      "sha256": "29cd613f8bb98c24e70326bc4938f398cb8632ab6da6ec5d117e5adaae05c949",
+      "textSha256": "29cd613f8bb98c24e70326bc4938f398cb8632ab6da6ec5d117e5adaae05c949",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/dad-fah.xml",
+      "size": 1274,
+      "sha256": "df73625f5ebbf506f5779e6eb266fd46d08994591950a401da67e28e6d2dcb1b",
+      "textSha256": "df73625f5ebbf506f5779e6eb266fd46d08994591950a401da67e28e6d2dcb1b",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/darnell-fah.xml",
+      "size": 1278,
+      "sha256": "6a24cb37da38e1e440e0a718f75cfc47981e44beb520110fdf141ca12463ab01",
+      "textSha256": "6a24cb37da38e1e440e0a718f75cfc47981e44beb520110fdf141ca12463ab01",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/fah-bf.xml",
+      "size": 1266,
+      "sha256": "3bd079054ef87223ce34c6b967317a4bce89c145cb43f9d5fdb886b00911514b",
+      "textSha256": "3bd079054ef87223ce34c6b967317a4bce89c145cb43f9d5fdb886b00911514b",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/fah-tiger.xml",
+      "size": 1266,
+      "sha256": "e68cca0ed2a40344fb595c86e3ee82271023bf8277d7469f522ecea681ebefea",
+      "textSha256": "e68cca0ed2a40344fb595c86e3ee82271023bf8277d7469f522ecea681ebefea",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/fah.xml",
+      "size": 1256,
+      "sha256": "d5ad9ecfee200d41c71f68d899c484dc0eb7563d763aadb0c312b8d020a704ab",
+      "textSha256": "d5ad9ecfee200d41c71f68d899c484dc0eb7563d763aadb0c312b8d020a704ab",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/fahger-playable.xml",
+      "size": 1272,
+      "sha256": "f370435f214ffb7b2477f0e1d54bfaff3cda0506c66cc7a128c313b624125916",
+      "textSha256": "f370435f214ffb7b2477f0e1d54bfaff3cda0506c66cc7a128c313b624125916",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/fahmas-playable.xml",
+      "size": 1283,
+      "sha256": "e59dd480957b0d4b51a104c248aa52b12db3934ae4b60b4b12aea164ecdfd91c",
+      "textSha256": "e59dd480957b0d4b51a104c248aa52b12db3934ae4b60b4b12aea164ecdfd91c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/fahtank-playable.xml",
+      "size": 1269,
+      "sha256": "82bb0d4d08e9e8ef24a2340aec3bb53254871a7a6b8fda66e20e81b11eba7dde",
+      "textSha256": "82bb0d4d08e9e8ef24a2340aec3bb53254871a7a6b8fda66e20e81b11eba7dde",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/merrydad-fah-nopop.xml",
+      "size": 1285,
+      "sha256": "9a5838f2854437e9290b1a2331c9ac2b9b9ddd1a62b235cb907bf12d0f41bb3a",
+      "textSha256": "9a5838f2854437e9290b1a2331c9ac2b9b9ddd1a62b235cb907bf12d0f41bb3a",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/merrydad-fah.xml",
+      "size": 1279,
+      "sha256": "4df80cc985a62a1b074f826488fa92c78f0e5d053c8d48e707a806c6fbd4d3dd",
+      "textSha256": "4df80cc985a62a1b074f826488fa92c78f0e5d053c8d48e707a806c6fbd4d3dd",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/mom-fah.xml",
+      "size": 1274,
+      "sha256": "72d75ab8d1337b3d9afe8b11b223e640b224e76564f5fe8cdd3e108d8fcc4db7",
+      "textSha256": "72d75ab8d1337b3d9afe8b11b223e640b224e76564f5fe8cdd3e108d8fcc4db7",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/msfah-playable.xml",
+      "size": 1281,
+      "sha256": "44ce93b59913e50133cdee0182647697d7f6cfc37d0340a57cb68f71145205cd",
+      "textSha256": "44ce93b59913e50133cdee0182647697d7f6cfc37d0340a57cb68f71145205cd",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/pico-fah.xml",
+      "size": 1273,
+      "sha256": "b5f754bb33341a30a98c2878adfe574dfac2aca448104dd23b6a573dd041b98c",
+      "textSha256": "b5f754bb33341a30a98c2878adfe574dfac2aca448104dd23b6a573dd041b98c",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/pisspai-fah.xml",
+      "size": 1278,
+      "sha256": "1dfae676ea55de66c62f58afa69d9d64d054efd00a47e33f39ca06f44450c6b5",
+      "textSha256": "1dfae676ea55de66c62f58afa69d9d64d054efd00a47e33f39ca06f44450c6b5",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/senpai-fah.xml",
+      "size": 1279,
+      "sha256": "c8e493a355293bdc32a9e3097bd9381486582dd397c18bf4deffed4d53e1eef6",
+      "textSha256": "c8e493a355293bdc32a9e3097bd9381486582dd397c18bf4deffed4d53e1eef6",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/spookykids-fah.xml",
+      "size": 1283,
+      "sha256": "2c56b3752290563b46a45cb77089be492f94a6500d46fc7f8b7909219bba3f93",
+      "textSha256": "2c56b3752290563b46a45cb77089be492f94a6500d46fc7f8b7909219bba3f93",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/icons/tankman-fah.xml",
+      "size": 1280,
+      "sha256": "7da59d263411fe9bdf1b9babfe2cea0013d95e5ce03f5652b4ed364f24c811d8",
+      "textSha256": "7da59d263411fe9bdf1b9babfe2cea0013d95e5ce03f5652b4ed364f24c811d8",
+      "change": "changed"
+    },
+    {
+      "path": "assets/images/Menus/Intro-stuff/credits/portrait-ravenm.png",
+      "size": 50816,
+      "sha256": "02cdb7edb833ff312229362e7c5cee7a0aa1ddc4e663d6d2dc6dd4e7c66ab13b",
+      "change": "changed"
+    },
+    {
+      "path": "assets/stages/phoenix.lua",
+      "size": 13241,
+      "sha256": "88ec8c32dad05f2fa7a3de52780332b5242b974cbfaeb3b5d269652f0f4727c5",
+      "textSha256": "88ec8c32dad05f2fa7a3de52780332b5242b974cbfaeb3b5d269652f0f4727c5",
+      "change": "changed"
+    },
+    {
       "path": "Average OC Mod.exe",
-      "size": 43325952,
-      "sha256": "3b9668703bf937633461e19136930e84e0f9836e8a18ab8588455f07ea20ca3a",
+      "size": 43497472,
+      "sha256": "44a4cdf67013e634742d8f34519f598be571edfaeade773817a688e52b27241a",
       "change": "changed"
     }
   ],
-  "delete": [
-    "FahRetryTrophyAudit.exe"
-  ]
+  "delete": []
 }
