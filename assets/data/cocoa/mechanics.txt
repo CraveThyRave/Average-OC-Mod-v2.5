@@ -1,0 +1,2 @@
+[Week5A]
+triggerSteps=268,565,1023,1092
