@@ -11,6 +11,8 @@ local finished = false
 local songStarted = false
 local introStep = 0
 local outroStep = 48
+local displayDuration = nil
+local hideAt = nil
 local cardScale = 0.65
 local homeX = 0
 local homeY = 50
@@ -27,7 +29,7 @@ local cooldownKey = ''
 local reserved = {
     introstep = true, outrostep = true, chibi = true, composer = true,
     composerlabel = true, composerx = true, composerwidth = true, color = true, scale = true, x = true, y = true,
-    introduration = true, outroduration = true, titlefont = true, bodyfont = true
+    introduration = true, outroduration = true, displayduration = true, titlefont = true, bodyfont = true
 }
 
 local function trim(value)
@@ -58,6 +60,7 @@ local function readSettings()
             end
         end
     end
+    displayDuration = tonumber(settings.displayduration)
     introStep = math.floor(tonumber(settings.introstep) or 0)
     outroStep = math.floor(tonumber(settings.outrostep) or 48)
     if outroStep <= introStep then outroStep = introStep + 48 end
@@ -257,6 +260,9 @@ local function showCard()
         return
     end
     entered = true
+    if displayDuration then
+        hideAt = getSongPosition() + (math.max(0.01, tonumber(settings.introduration) or 0.5) + math.max(0, displayDuration)) * 1000
+    end
     updateIcon()
     updateColors()
     setProperty(rootTag .. '.x', hiddenX)
@@ -270,7 +276,7 @@ end
 
 local function processStep(step)
     if not enabled or not built or finished then return end
-    if step >= outroStep then
+    if (displayDuration and hideAt and getSongPosition() >= hideAt) or (not displayDuration and step >= outroStep) then
         if not entered then
             stopCard()
         elseif not leaving then

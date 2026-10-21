@@ -3,7 +3,7 @@ local lockX = 1700
 local lockY = 1000
 
 
-local cocoaThrowStep = 115 
+local cocoaThrowStep = 816 
 
 local throwLollyDelay = 0.1   
 local throwEndDelay = 0.3     
@@ -89,6 +89,7 @@ function onCreate()
 
 	local currentSong = string.lower(songName or '')
 	cocoaSong = currentSong == 'cocoa'
+    if cocoaSong then precacheSound('cartoon_bite_sound_effect') end
 	eggnogSong = currentSong == 'eggnog'
 
 
@@ -262,6 +263,7 @@ function onTweenCompleted(tag)
 
 		   if cocoaSong then
 		       objectPlayAnimation('santa', 'eaten', true)
+               playSound('cartoon_bite_sound_effect', 1)
 	    end
 	end
 end
