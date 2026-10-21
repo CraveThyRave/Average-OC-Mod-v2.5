@@ -4,6 +4,8 @@ local speed = 1.6
 local spinSpeed = 400
 local guitarScale = 0.4
 local guitarAngle = 0
+local arcHeight = 150
+local lastSegment = -1
 
 local introDone = false
 local exiting = false
@@ -116,7 +118,14 @@ function onUpdate(elapsed)
 
     t = t + elapsed * speed
 
-    local seg = math.floor(t) % 4
+    local segment = math.floor(t)
+    if segment ~= lastSegment then
+        lastSegment = segment
+        speed = getRandomFloat(1.48, 1.72)
+        arcHeight = getRandomFloat(135, 170)
+        spinSpeed = getRandomFloat(370, 430)
+    end
+    local seg = segment % 4
     local progress = t - math.floor(t)
 
     local startIndex = cycle[seg * 2 + 1]
@@ -135,7 +144,6 @@ function onUpdate(elapsed)
 
     local x = startPos.x + (endPos.x - startPos.x) * progress
 
-    local arcHeight = 150
     local y = startPos.y - math.sin(progress * math.pi) * arcHeight
 
     
