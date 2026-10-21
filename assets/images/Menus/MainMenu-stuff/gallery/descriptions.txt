@@ -7,5 +7,7 @@ Main Menu Concept = An old sketch of the Main Menu
 2.5 (Side A) Legacy Thumbnail = The legacy version 2.5 Side A Thumbnail.
 2.5 (Side A) Thumbnail = The modern version 2.5 Side A Thumbnail.
 2.5 (Side B) Thumbnail = The V2.5 Side B Thumbnail.
+2.5 (Side C) Thumbnail = The V2.5 Side C Thumbnail.
+
 
 
