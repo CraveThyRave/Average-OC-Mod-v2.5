@@ -1,5 +1,5 @@
 {
-  "version": "2.5.29",
+  "version": "2.5.30",
   "files": [
     {
       "path": ".gitattributes",
@@ -13093,8 +13093,13 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 43290624,
-      "sha256": "9b3fbebce5b5fc37cfab2d13a2e01be8544e8c64c99c5f9801bd4d56ff6cf9cf"
+      "size": 43292672,
+      "sha256": "0853575de792b8160ecbee9dc7ae3a0599975ebfaa8dce12c7249606548b3a2e"
+    },
+    {
+      "path": "FahRetryTrophyAudit.exe",
+      "size": 42515968,
+      "sha256": "b0c7a2d945f415664dd34093f66ef9b0779c659a325e6b67bcb7f198c9471b32"
     },
     {
       "path": "icon.ico",
