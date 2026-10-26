@@ -29,7 +29,8 @@ local cooldownKey = ''
 local reserved = {
     introstep = true, outrostep = true, chibi = true, composer = true,
     composerlabel = true, composerx = true, composerwidth = true, color = true, scale = true, x = true, y = true,
-    introduration = true, outroduration = true, displayduration = true, titlefont = true, bodyfont = true
+    introduration = true, outroduration = true, displayduration = true, titlefont = true, bodyfont = true,
+    chibix = true, chibiy = true, chibiscale = true, detailcolor = true, antialiasing = true
 }
 
 local function trim(value)
@@ -84,7 +85,7 @@ end
 local function sprite(tag, asset, x, y, scaleX, scaleY)
     makeLuaSprite(tag, asset, 0, 0)
     scaleObject(tag, cardScale * (scaleX or 1), cardScale * (scaleY or 1))
-    setProperty(tag .. '.antialiasing', true)
+    setProperty(tag .. '.antialiasing', settings.antialiasing ~= 'false')
     register(tag, x, y, false)
 end
 
@@ -100,7 +101,7 @@ local function text(tag, value, x, y, width, size, font, alignment, outlined)
     setTextAlignment(tag, alignment)
     setProperty(tag .. '.bold', true)
     setProperty(tag .. '.wordWrap', false)
-    setProperty(tag .. '.antialiasing', true)
+    setProperty(tag .. '.antialiasing', settings.antialiasing ~= 'false')
     scaleObject(tag, cardScale / density, cardScale / density, false)
     setProperty(tag .. '.origin.x', 0)
     setProperty(tag .. '.origin.y', 0)
@@ -170,7 +171,7 @@ local function updateColors()
 	iconColor = getCreditIconColor()
 	local primaryColor = settings.color or iconColor
 	local song = songName:lower()
-	local detailColor = iconColor
+	local detailColor = settings.detailcolor or iconColor
 	if song == 'stress' or song == 'pews' or song == 'bleh' then
 		primaryColor = 'E5D13C'
 		detailColor = primaryColor
@@ -254,7 +255,8 @@ end
 local function showCard()
     if entered or finished or not built then return end
     local now = os.time()
-    local previous = tonumber(getDataFromSave(cooldownSave, cooldownKey))
+    local previous = getDataFromSave(cooldownSave, cooldownKey)
+    previous = tonumber(previous)
     if previous and now - previous < cooldownSeconds then
         stopCard()
         return
@@ -323,7 +325,9 @@ function onCreatePost()
         if not chibi:find('/', 1, true) then chibi = 'UI/credits/chibis/' .. chibi end
         setVar('songCreditChibiAsset', chibi)
         if runHaxeCode("return Paths.fileExists('images/' + getVar('songCreditChibiAsset') + '.png', 'IMAGE');") then
-            sprite('songCreditChibi', chibi, 0, 0)
+            local chibiScale = tonumber(settings.chibiscale) or 1
+            sprite('songCreditChibi', chibi, tonumber(settings.chibix) or 0, tonumber(settings.chibiy) or 0,
+                chibiScale, chibiScale)
         else
             debugPrint('Song credits: missing chibi ' .. chibi)
         end

@@ -4,13 +4,13 @@ function onCountdownStarted()
         for (note in game.playerStrums.members)
         {
             if (note != null)
-                note.antialiasing = true;
+                note.antialiasing = false;
         }
 
         for (note in game.opponentStrums.members)
         {
             if (note != null)
-                note.antialiasing = true;
+                note.antialiasing = false;
         }
     ]])
 end

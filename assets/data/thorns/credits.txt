@@ -1,0 +1,16 @@
+IntroStep = 1888
+OutroStep = 1912
+IntroDuration = 0.5
+OutroDuration = 0.3
+Chibi = spirit
+ChibiScale = 0.4
+ChibiX = 0
+ChibiY = 99.415384615
+Color = 9E4338
+DetailColor = 9E4338
+Antialiasing = false
+Composer = Tabby Kat
+Visuals = Brytato
+Charted = Tabby Kat
+Chromatic = StuffyAnt
+Coded = CraveThyRave

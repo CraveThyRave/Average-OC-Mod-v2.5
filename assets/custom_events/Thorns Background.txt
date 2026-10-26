@@ -1,0 +1,32 @@
+Select a Thorns background using a true/false toggle.
+
+Value 1: normal, gb, lordx, roses, senpai, burning-eye, or flowerman.
+Value 2: true enables that background; false disables it.
+
+Enabling another background automatically replaces the previous one.
+Disabling the selected background returns to normal. Disabling an inactive background does nothing.
+An interrupted transition keeps its current static opacity and switches to the latest requested background.
+Each transition lasts 1.8 seconds: 0.8 seconds in, 0.2 seconds fully opaque, then 0.8 seconds out.
+Static overlays on foreground scenery follow their alpha silhouettes, below the MS Paint toolbar. Spirit and Fah remain uncovered.
+
+Lua usage in a stage or song script:
+
+function onStepHit()
+    if curStep == 10 then
+        setThornsBackground('gb', true)
+    elseif curStep == 64 then
+        setThornsBackground('roses', true)
+    elseif curStep == 128 then
+        setThornsBackground('senpai', true)
+    elseif curStep == 192 then
+        setThornsBackground('senpai', false)
+    end
+end
+
+Use isThornsBackgroundEnabled('roses') to query the selected target.
+Use these calls from onCreatePost or later, after the stage is initialized.
+No demo step switches are enabled automatically.
+Roses petals are pooled, with occasional foreground passes.
+Senpai allows two passes per girl type in the entire song, including after switching away and back.
+Roses, Senpai and Flowerman platforms move together with Fah.
+Thorns scene colors do not change with themes.

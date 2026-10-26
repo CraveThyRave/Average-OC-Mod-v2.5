@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dialogue-thorns.png">
+<SubTexture name="box idle0000" x="0" y="0" width="2130" height="590" frameX="-4" frameY="0" frameWidth="2136" frameHeight="590" />
+<SubTexture name="box idle0001" x="2130" y="0" width="2136" height="582" frameX="0" frameY="-8" frameWidth="2136" frameHeight="590" />
+</TextureAtlas>

@@ -1,88 +1,111 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				163,
 				107
 			],
-			"loop": false,
-			"fps": 18,
 			"anim": "singDOWN",
+			"fps": 18,
+			"name": "down",
 			"indices": [
 				1,
 				2,
 				0
-			],
-			"name": "down"
+			]
 		},
 		{
-			"loop": false,
 			"offsets": [
 				173,
 				123
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 18,
-			"name": "right",
+			"anim": "singLEFT",
 			"indices": [
 				1,
 				2,
 				0
-			]
+			],
+			"name": "right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				178,
 				124
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 18,
-			"name": "left",
+			"anim": "singRIGHT",
 			"indices": [
 				1,
 				2,
 				0
-			]
+			],
+			"name": "left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				154,
 				113
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 18,
-			"name": "up",
+			"anim": "singUP",
 			"indices": [
 				1,
 				2,
 				0
-			]
+			],
+			"name": "up"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				170,
 				112
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 8,
-			"name": "pisspai",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "pisspai"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				171,
 				117
 			],
-			"anim": "blush",
+			"loop": false,
 			"fps": 10,
-			"name": "swat",
-			"indices": []
+			"anim": "blush",
+			"indices": [],
+			"name": "swat"
+		},
+		{
+			"offsets": [
+				45,
+				20
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "barf",
+			"loop": false,
+			"name": "barf in"
+		},
+		{
+			"offsets": [
+				45,
+				20
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "barf-loop",
+			"loop": true,
+			"name": "barf loop"
 		}
 	],
+	"extra_images": [],
 	"no_antialiasing": true,
 	"image": "characters/fah/fahmix/week6/pisspai-fah",
 	"position": [
