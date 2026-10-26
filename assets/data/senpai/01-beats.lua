@@ -83,7 +83,7 @@ function onCountdownStarted()
         setObjectCamera(tag, 'hud')
         setProperty(tag .. '.scrollFactor.x', 0)
         setProperty(tag .. '.scrollFactor.y', 0)
-        setProperty(tag .. '.antialiasing', true)
+        setProperty(tag .. '.antialiasing', false)
         setProperty(tag .. '.visible', false)
         addLuaSprite(tag, true)
     end

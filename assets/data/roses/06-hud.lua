@@ -61,7 +61,7 @@ function onCreatePost()
         if (game != null && game.timeTxt != null)
         {
             game.timeTxt.color = 0xFF000000;
-            game.timeTxt.antialiasing = true;
+            game.timeTxt.antialiasing = false;
         }
     ]])
 
@@ -89,7 +89,7 @@ function onCreate()
   scaleObject('logo', 0.6, 0.6);
   setObjectCamera('logo', 'other')
   addLuaSprite('logo', false);
-  setProperty('fahclock.antialiasing', true)
+  setProperty('fahclock.antialiasing', false)
 
 
 

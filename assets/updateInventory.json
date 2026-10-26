@@ -1,5 +1,5 @@
 {
-  "version": "2.5.34",
+  "version": "2.5.35",
   "files": [
     {
       "path": ".gitattributes",
@@ -199,6 +199,12 @@
       "textSha256": "9b84d49e873223e5c60a3af7a5eeaeb8e710164a0b63236f70bad4bcee36c7b7"
     },
     {
+      "path": "assets/characters/msfah-playable-dark.json",
+      "size": 2411,
+      "sha256": "be33bbdfe4bb471171bed04158428aa02b65ca8680df4766a7bfdb7c3ca4c5a9",
+      "textSha256": "be33bbdfe4bb471171bed04158428aa02b65ca8680df4766a7bfdb7c3ca4c5a9"
+    },
+    {
       "path": "assets/characters/msfah-playable.json",
       "size": 2405,
       "sha256": "be660f767cc3ad9e33c5900e350e5826267b157e5f34e930c7aea6c789767f45",
@@ -236,9 +242,9 @@
     },
     {
       "path": "assets/characters/pisspai-fah.json",
-      "size": 1225,
-      "sha256": "66558c006667796a9ca1987afb752472e5eb4aba7bfcd4d5033c1f661da423c1",
-      "textSha256": "66558c006667796a9ca1987afb752472e5eb4aba7bfcd4d5033c1f661da423c1"
+      "size": 1523,
+      "sha256": "6d71b050af130b01929778b728d58dfc9771133d2fe1295d8d827fd6210ac411",
+      "textSha256": "6d71b050af130b01929778b728d58dfc9771133d2fe1295d8d827fd6210ac411"
     },
     {
       "path": "assets/characters/raven-active-annoyed.json",
@@ -287,6 +293,18 @@
       "size": 1901,
       "sha256": "2d2a484544df550d183f38d9411174d7898882f0a343f2b8e3d223e0f4b3d830",
       "textSha256": "2d2a484544df550d183f38d9411174d7898882f0a343f2b8e3d223e0f4b3d830"
+    },
+    {
+      "path": "assets/characters/spirit-fah.json",
+      "size": 2972,
+      "sha256": "33d0f347002e0f233dc8f892cef5ea74f8b73c27f5abf2493c5229a21bd9780b",
+      "textSha256": "8b1ba383fcc25ed2ce1be01951ac96135fdefaff6c59a085a847eceb41f23999"
+    },
+    {
+      "path": "assets/characters/spirit.json",
+      "size": 979,
+      "sha256": "4b1c3f44573a8db0e96441e7f6631bd938bf1b982c9c32ce330abe50f87a63dd",
+      "textSha256": "4b1c3f44573a8db0e96441e7f6631bd938bf1b982c9c32ce330abe50f87a63dd"
     },
     {
       "path": "assets/characters/spookykids-fah.json",
@@ -398,9 +416,9 @@
     },
     {
       "path": "assets/custom_events/Cinematics (Still Strum).lua",
-      "size": 4841,
-      "sha256": "497e56fe433701ff6b8c8c7ea217c3f41a3afe4596f5151857e26de836597570",
-      "textSha256": "497e56fe433701ff6b8c8c7ea217c3f41a3afe4596f5151857e26de836597570"
+      "size": 4947,
+      "sha256": "101562b0127daf622edc2176ceab10c7ebd680639a40deda7ad0e252dc986e43",
+      "textSha256": "a612210260644c7083d5af0cebfb4d46c9c8933931d3aca20975031eaf488c95"
     },
     {
       "path": "assets/custom_events/Cinematics (Still Strum).txt",
@@ -539,6 +557,18 @@
       "size": 46,
       "sha256": "63a6e86dd408c09a7301a760dc08335cec8326c1f56e0dcfae470acd090e8925",
       "textSha256": "63a6e86dd408c09a7301a760dc08335cec8326c1f56e0dcfae470acd090e8925"
+    },
+    {
+      "path": "assets/custom_events/Thorns Background.lua",
+      "size": 190,
+      "sha256": "bd147257540b76f03f8a4309b59d2a98f7506d628628f756a06c38646dd4e30d",
+      "textSha256": "bd147257540b76f03f8a4309b59d2a98f7506d628628f756a06c38646dd4e30d"
+    },
+    {
+      "path": "assets/custom_events/Thorns Background.txt",
+      "size": 1516,
+      "sha256": "521429164fc10457724cc50cf982ab8442e0869f0b80390971409af98b08021d",
+      "textSha256": "521429164fc10457724cc50cf982ab8442e0869f0b80390971409af98b08021d"
     },
     {
       "path": "assets/custom_events/Toggle Trail.lua",
@@ -1226,9 +1256,9 @@
     },
     {
       "path": "assets/data/roses/02-dialogue.lua",
-      "size": 359,
-      "sha256": "acc8233a7fc4926dbcf3e3a9de04482a3d186488e8a8e6d0c488577147b7664e",
-      "textSha256": "0675ee8c4ad8968cb4968d220e75a458c078f64af7167113abcd98e101fd06f9"
+      "size": 361,
+      "sha256": "b03d677ad501f84604dc8fb77fe943280d17ec5f7a7cd11861c6cf3ad85e7cc9",
+      "textSha256": "638d2c0c91c8e754d091e72394f1aac58637833ddb2b9f36a20bf2b7170ba9a5"
     },
     {
       "path": "assets/data/roses/05-receptors.lua",
@@ -1238,9 +1268,9 @@
     },
     {
       "path": "assets/data/roses/06-hud.lua",
-      "size": 5829,
-      "sha256": "de6ddcd93d66cb2dbd11aeed1613ae92d4e4b38c7d051a3146319933c05bca5f",
-      "textSha256": "de6ddcd93d66cb2dbd11aeed1613ae92d4e4b38c7d051a3146319933c05bca5f"
+      "size": 5831,
+      "sha256": "4408642543bb7d59e6a3968c094c91948faebb93d00d065a862d475674df3096",
+      "textSha256": "4408642543bb7d59e6a3968c094c91948faebb93d00d065a862d475674df3096"
     },
     {
       "path": "assets/data/roses/credits.txt",
@@ -1292,9 +1322,9 @@
     },
     {
       "path": "assets/data/senpai/01-beats.lua",
-      "size": 6392,
-      "sha256": "e5c32ced6308c18f66c231186c921075de6becaedcfeb53b92c3a09d6ed233a2",
-      "textSha256": "e5c32ced6308c18f66c231186c921075de6becaedcfeb53b92c3a09d6ed233a2"
+      "size": 6393,
+      "sha256": "27c5ad4b80dd91b6b22c2c7d9586a95256340c88a4acaa0e0d3bf0cf0f27016e",
+      "textSha256": "27c5ad4b80dd91b6b22c2c7d9586a95256340c88a4acaa0e0d3bf0cf0f27016e"
     },
     {
       "path": "assets/data/senpai/credits.txt",
@@ -1571,6 +1601,54 @@
       "size": 109246,
       "sha256": "a39566ac696509967ad7c8d131056b68dad9f3b64269e11d56fb1371ab43476b",
       "textSha256": "a39566ac696509967ad7c8d131056b68dad9f3b64269e11d56fb1371ab43476b"
+    },
+    {
+      "path": "assets/data/thorns/01-logo.lua",
+      "size": 1392,
+      "sha256": "07755d49b00775bb5e0a02a724fb9386a1e4aa8551a5744b8d5165c75ae2934d",
+      "textSha256": "07755d49b00775bb5e0a02a724fb9386a1e4aa8551a5744b8d5165c75ae2934d"
+    },
+    {
+      "path": "assets/data/thorns/credits.txt",
+      "size": 298,
+      "sha256": "26fbda693435b6bf2e0cff0997f2e7af01700782f7b8d89119b99e141a73a6c2",
+      "textSha256": "26fbda693435b6bf2e0cff0997f2e7af01700782f7b8d89119b99e141a73a6c2"
+    },
+    {
+      "path": "assets/data/thorns/mechanics.txt",
+      "size": 361,
+      "sha256": "cdb944c3f5449a918cebd693254b0ab52c0fd3c351fcf70975bfcbda19e38306",
+      "textSha256": "297e089096cbaa3ae13780d18fdeb3430e4dc4233b0d65092181f45946f62d1b"
+    },
+    {
+      "path": "assets/data/thorns/modchart-hard.xml",
+      "size": 12695,
+      "sha256": "a016134ed691ad353d25bbc6db814237fbc59e5011f32db5c08ccca0ee7334a0",
+      "textSha256": "a016134ed691ad353d25bbc6db814237fbc59e5011f32db5c08ccca0ee7334a0"
+    },
+    {
+      "path": "assets/data/thorns/pause.txt",
+      "size": 566,
+      "sha256": "07f6f6c7d5281a8a5316b7a09a1824e84d97a76656f9354969748741697cc8e2",
+      "textSha256": "143601e8aefd79fe64dd60897eec1cc6ab4269b2dae116dad274624a0ce46eed"
+    },
+    {
+      "path": "assets/data/thorns/thorns-hard.json",
+      "size": 191091,
+      "sha256": "62e4c90a8b8644074c463d05e57b20a08afa854d69370f437eccadb3c719cc52",
+      "textSha256": "62e4c90a8b8644074c463d05e57b20a08afa854d69370f437eccadb3c719cc52"
+    },
+    {
+      "path": "assets/data/thorns/thorns.json",
+      "size": 205379,
+      "sha256": "5d30a8fb66410e39e689a7e945bcdde126563b4bcb325e9e3fe136a2b103bc8a",
+      "textSha256": "17fa2224d0339c5adedc87362e99c73ff449b9fd02976f41917c1f0cba9ceb2a"
+    },
+    {
+      "path": "assets/data/thorns/thornsDialogue.txt",
+      "size": 386,
+      "sha256": "78701f310a590c33e6b48cc314db0187a11750a85223165f7d3637335d7ace2a",
+      "textSha256": "4f1350a695ad0e98bb7e313db1551dd78d0aef5667367cb5e62dc773e3e7db89"
     },
     {
       "path": "assets/data/tutorial/01-visibility.lua",
@@ -2287,6 +2365,11 @@
       "sha256": "149d08247f489903b64e85cb455aa0f6cb69ad1c71383e6e9b00cb91c190a308"
     },
     {
+      "path": "assets/images/achievements/ThornsNoFahClick.png",
+      "size": 17881,
+      "sha256": "b0d4c5af9d87aeed27867120da9349ed657d74eb26ed063a2a2d6411fbb8b965"
+    },
+    {
       "path": "assets/images/achievements/two of them.png",
       "size": 17400,
       "sha256": "a9616057481a33dbfac9e0f62b7189c43462f2b9bf3aa32617140500e36de64d"
@@ -2482,6 +2565,17 @@
       "textSha256": "fde55ef347d9fa92e07777f759e49703d94b215543ac5274b702f5c7140e74c0"
     },
     {
+      "path": "assets/images/characters/fah/fahmix/fah/ms-fah-playable-dark.png",
+      "size": 258336,
+      "sha256": "c3a7f7ba3dd19f5d9d725e7077658df80e8ae63fce9ff731d929c7126955d56d"
+    },
+    {
+      "path": "assets/images/characters/fah/fahmix/fah/ms-fah-playable-dark.xml",
+      "size": 4964,
+      "sha256": "f592542ec7315ce9f5670236c0e3c2018ca3c32302002cde344c058468e6e7c0",
+      "textSha256": "338aaad0610c321979d165c98cefe813bc767fc84c494c9fbdd200a2d3cf345b"
+    },
+    {
       "path": "assets/images/characters/fah/fahmix/fah/msfah-death.png",
       "size": 138611,
       "sha256": "996be505097a1e8dd51891a0e9567ce2d483c62d88fbbdbf9515fe0a710649d7"
@@ -2670,14 +2764,14 @@
     },
     {
       "path": "assets/images/characters/fah/fahmix/week6/pisspai-fah.png",
-      "size": 682603,
-      "sha256": "1d7baa05929de96b68361ff47dd36a49e6fac7ff96d0febde5a3ce042a2b0dca"
+      "size": 572827,
+      "sha256": "accf0f0274b7258897817a25184d2299cc17b314bdc7058b59727f08350bd8f8"
     },
     {
       "path": "assets/images/characters/fah/fahmix/week6/pisspai-fah.xml",
-      "size": 2794,
-      "sha256": "6ab06fd223ea83b0276fec7dbe189325dec25a5f4296c72147f9b65723e7815e",
-      "textSha256": "6ab06fd223ea83b0276fec7dbe189325dec25a5f4296c72147f9b65723e7815e"
+      "size": 4329,
+      "sha256": "0cb943e08143df4c344588bf6c635b151fbde9a130268e304c511423ccc65547",
+      "textSha256": "f7e14c900ee757286f861bef218d9bcf0112971b7c885a88906366ffabb7a63f"
     },
     {
       "path": "assets/images/characters/fah/fahmix/week6/senpai-fah.png",
@@ -2689,6 +2783,28 @@
       "size": 4528,
       "sha256": "50fc38302b48eaaad6e66ad31ae87a5388b1c07df09c973694385718c51a1986",
       "textSha256": "50fc38302b48eaaad6e66ad31ae87a5388b1c07df09c973694385718c51a1986"
+    },
+    {
+      "path": "assets/images/characters/fah/fahmix/week6/spirit-fah.png",
+      "size": 1263278,
+      "sha256": "cf35efc3078cad46777a28aedd273ee05512cb911f60c922e18c650391dc38d5"
+    },
+    {
+      "path": "assets/images/characters/fah/fahmix/week6/spirit-fah.xml",
+      "size": 6378,
+      "sha256": "09e3017659eee5ffaab20657ebc0fe3a2b0218f2ea5f9e15ec1ad3cda02b5ede",
+      "textSha256": "91aff8303fad88c094d7cf65ec868d261740bbb11d8c8fbfa586cedbb288b5ef"
+    },
+    {
+      "path": "assets/images/characters/fah/fahmix/week6/spirit.png",
+      "size": 1263278,
+      "sha256": "cf35efc3078cad46777a28aedd273ee05512cb911f60c922e18c650391dc38d5"
+    },
+    {
+      "path": "assets/images/characters/fah/fahmix/week6/spirit.xml",
+      "size": 6378,
+      "sha256": "09e3017659eee5ffaab20657ebc0fe3a2b0218f2ea5f9e15ec1ad3cda02b5ede",
+      "textSha256": "91aff8303fad88c094d7cf65ec868d261740bbb11d8c8fbfa586cedbb288b5ef"
     },
     {
       "path": "assets/images/characters/fah/fahmix/week7/intros/bleh-intro.png",
@@ -2998,6 +3114,17 @@
       "textSha256": "4f7e4acc723f32a1c1fcb87b162b55b5a20ec26a4ab6f2212585e84d296d6b6d"
     },
     {
+      "path": "assets/images/dialogue-stuff/dialogue-thorns.png",
+      "size": 51093,
+      "sha256": "6f3e79eb8677bbd0118a0da091033e9ed1bebc2efe6f87145e2afb341e64e31b"
+    },
+    {
+      "path": "assets/images/dialogue-stuff/dialogue-thorns.xml",
+      "size": 374,
+      "sha256": "f021c6be72c70867a7bc5ec212aeaed373adb0635ada9d99e69f5b26af8b9780",
+      "textSha256": "85d50a58eeb43456a203757647a765dbaac2598a1d5f16b02485fcc8e85ee0f4"
+    },
+    {
       "path": "assets/images/dialogue-stuff/fah-dialogue.png",
       "size": 60940,
       "sha256": "a3c66eca28859d7c54679b66bbac47e511f0802ed8f2717844b37b3b262aa9e1"
@@ -3040,6 +3167,17 @@
       "size": 631,
       "sha256": "6ccde47641ad241deee00463c3fc37498501ecda7f3eb6bf8fda343d585ad62b",
       "textSha256": "6ccde47641ad241deee00463c3fc37498501ecda7f3eb6bf8fda343d585ad62b"
+    },
+    {
+      "path": "assets/images/dialogue-stuff/spirit-dialogue.png",
+      "size": 95234,
+      "sha256": "a48ac255a2b596667c3b2731a415aa5c29e720eb2a964730f8117d99962d3e94"
+    },
+    {
+      "path": "assets/images/dialogue-stuff/spirit-dialogue.xml",
+      "size": 668,
+      "sha256": "424fbf0550f3e3c09d7de9b091d6e7c124b289e00615d6b8d9d25f669d82c6f0",
+      "textSha256": "d5a04ab18c35f0b937d513e8c461a98450694f79f378daef85be98c12ea1316b"
     },
     {
       "path": "assets/images/editors/silhouetteBF.png",
@@ -4113,6 +4251,17 @@
       "textSha256": "211fb50cc8ee3cfb716e9d0aa64a1e3e8fe2aebfefccd854acdc882299ff6b70"
     },
     {
+      "path": "assets/images/fahmix/week6/MSPaint-spirit.png",
+      "size": 51050,
+      "sha256": "24854cbbc239f3f44fa5ac771f5722845b32591445ba594d647130de66251012"
+    },
+    {
+      "path": "assets/images/fahmix/week6/MSPaint-spirit.xml",
+      "size": 368,
+      "sha256": "8eb09bef9fc37a1d4c21b56bd7151df14a9b84f8cfd01201ab3e6918d14edb90",
+      "textSha256": "f189cb2a771a805edfaead351ece947bf3073fe1b54311e436e5c4d629b757bf"
+    },
+    {
       "path": "assets/images/fahmix/week6/MSpaint.png",
       "size": 49312,
       "sha256": "f11b29fcfe880afd8f94032cf0f54a7cd8357a993671dfc6bf113736a790f7a4"
@@ -4232,6 +4381,105 @@
       "textSha256": "e6608ffe48be23b1d13ab062ea97b326ed2f649f877d57a54f146433dd50368f"
     },
     {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/burning-eye.png",
+      "size": 143096,
+      "sha256": "bca50a15415925d3e522d0a3bd18b77c5a57b312552511fc241e7158407368e9"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/burning-eye.xml",
+      "size": 679,
+      "sha256": "fb37f6d9de1e3bcb51f30c847e88de900ad109e4c49ba1e2d6e7a0b283bc390d",
+      "textSha256": "d8c7d560a55840dbe09fa3af112400c38ddc0c9109480be58fb163bec15b31ee"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/flowerman.png",
+      "size": 133604,
+      "sha256": "7f420595265f4c868d8c4cd45ecefddcc0109d075b2af7078414993a53f5abe8"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/flowerman.xml",
+      "size": 959,
+      "sha256": "ab7acd98d6de9d99d4b80d0f0663eb527b18c8b62e222dfe72750038988459bb",
+      "textSha256": "aef52e4f8546b55cfc47e557d6efa535d610916bfee54ce05fda67ef727d5bf5"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/gb.png",
+      "size": 505062,
+      "sha256": "95e129680847906905ffedb1e5dd7566bd3611768e818973fb234f6c57a24082"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/gb.xml",
+      "size": 495,
+      "sha256": "1d4f0731ca556b7ab5d99885cd6e14a371917c652d829977a474c11802e188c3",
+      "textSha256": "6d868f7894796c89b93f406d898cc604872256a8d79d54692fc300d53711f2c0"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/lordx.png",
+      "size": 189985,
+      "sha256": "dd0f9c41e8c6dc9b805c631d568292f8095a9cb50e0d95b19eca58745cc207fe"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/lordx.xml",
+      "size": 514,
+      "sha256": "bf1ce49c751859f83efc9890ac94802df2c3019884626412a28aefbbe7e5945d",
+      "textSha256": "79ed927b299d21e88f5f553c584dcf711e8604a93896a02376a22771407a37b1"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/roses.png",
+      "size": 327410,
+      "sha256": "4237cd8ac523fa74c10d8bd8692757ee1366b5a627852b5c52629d8ae360a162"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/roses.xml",
+      "size": 2969,
+      "sha256": "39411a482c1e7e2c52a150f2e88373ad79c878f6acf42369f36abb45186b915c",
+      "textSha256": "b11d51f47f064cde0391acea9ef3a666386a241abda71fe20a72af0d553b6582"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/senpai.png",
+      "size": 456993,
+      "sha256": "fe174ceb7259d817dbb4de5bacfd369f23c97ee09e0aa766991e77beb3b06154"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/senpai.xml",
+      "size": 3534,
+      "sha256": "bc3ff55a51d178cba47596d3c7e22709b9fef4a4c95e7d30eee8219b412ee772",
+      "textSha256": "154625bcd23ec47eb1bf240d148c72fae34af009fceafc9848a1ef86e96638d5"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/STATIC.png",
+      "size": 1264173,
+      "sha256": "145274d201f6f4138dcdb89610cf017d17da9178ec297ccaa69f292744d5b896"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-backgrounds/STATIC.xml",
+      "size": 1077,
+      "sha256": "7b1e7160482e3a1fb78c53e28e174329496c561c08eb62acb2d3b5d5b48c3fe5",
+      "textSha256": "8a650640f5bca317a61d3cab26f95f52ded84d5eaaa62c97b34b9a9fdafdac09"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-school.png",
+      "size": 136891,
+      "sha256": "1d03336b31ce4b33d15d48e5382fec97a71617e136d3d9281383c2c2e59b8082"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-school.xml",
+      "size": 515,
+      "sha256": "003acbd7228bf8f3d6db5ec64e729e0c87cdf44c8351e378a08af5d629454651",
+      "textSha256": "b7f4064f4aa956891fab37b4e737633aebb3a86ede485b6d6c77b42f4282806b"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-trees.png",
+      "size": 453896,
+      "sha256": "69b8e9bd2e90ab7f9caf12d43062440daad38d11a36a067bf99e38aa35ee8004"
+    },
+    {
+      "path": "assets/images/fahmix/week6/spirit-trees.xml",
+      "size": 510,
+      "sha256": "baa979ebce381472be044ca57a10ea543f7cb021bbc8885cb2d1f8c83e041b7b",
+      "textSha256": "01082a6be40ae118c6792b90f856406644fe9bec94d34a928829977006c33c32"
+    },
+    {
       "path": "assets/images/fahmix/week6/tallie-sad.png",
       "size": 160955,
       "sha256": "ae0c3577f14770c67b2e7d36a366286230dabc5594fc7d43258df2bcc4868297"
@@ -4252,6 +4500,11 @@
       "size": 1949,
       "sha256": "f057f0dc39f3c9a91dda292bef2dd94c366b38c26789ac4e4b3b488bc8140214",
       "textSha256": "f057f0dc39f3c9a91dda292bef2dd94c366b38c26789ac4e4b3b488bc8140214"
+    },
+    {
+      "path": "assets/images/fahmix/week6/thorns-logo.png",
+      "size": 51331,
+      "sha256": "4c892c3472742a1d352235eac58488cb4fccd6de410e52691dd60c19579d115b"
     },
     {
       "path": "assets/images/fahmix/week6/trees.png",
@@ -6999,6 +7252,17 @@
       "textSha256": "c8e493a355293bdc32a9e3097bd9381486582dd397c18bf4deffed4d53e1eef6"
     },
     {
+      "path": "assets/images/icons/spirit-fah.png",
+      "size": 42657,
+      "sha256": "1c550cbb5e63fa6d40680e53ba479788c60abc33eec6441cc4086d3646e1a995"
+    },
+    {
+      "path": "assets/images/icons/spirit-fah.xml",
+      "size": 1290,
+      "sha256": "64e217893b568612cbe1f2e30d574630771fcc38eb513ebaf9758e0b080e2f67",
+      "textSha256": "b88704ecef26603c626f40c366b15ba7a1eeaa5b86ca8fe31efb86002282ccb7"
+    },
+    {
       "path": "assets/images/icons/spookykids-fah.png",
       "size": 275009,
       "sha256": "01da9af52b1617bff48df7df15052ac71faa022d5407b3054b3f34bd54e07875"
@@ -7116,6 +7380,11 @@
       "sha256": "d2c41cebca249e5e566957cfbf108ffd69196b486f7a72a9158a3a1911aa624b"
     },
     {
+      "path": "assets/images/loading/bg27.png",
+      "size": 267364,
+      "sha256": "f861e3c45a58310fbb6292474330afae7a010419afe16a74e8ea986bd8500261"
+    },
+    {
       "path": "assets/images/loading/bg3.png",
       "size": 296800,
       "sha256": "d784107c594234c52bdcce559c5f608a11f6b35faf64d90b29e573c59f21b469"
@@ -7152,9 +7421,9 @@
     },
     {
       "path": "assets/images/loading/fahmix.txt",
-      "size": 411,
-      "sha256": "4c0886722b7215dfa4340291e08485e52d3f623c2ebc5e21c3ababe5dbc5dcff",
-      "textSha256": "419ab01503f2a105fc4d992e0659765c4bb24c3ca9558b0e95f7f940dc25b19f"
+      "size": 421,
+      "sha256": "c7451f4975bcd9fe461831a3c7d00dbbf62a1b7b8fa446f022066ab873911c12",
+      "textSha256": "c7451f4975bcd9fe461831a3c7d00dbbf62a1b7b8fa446f022066ab873911c12"
     },
     {
       "path": "assets/images/loading/LoadingTip.png",
@@ -8405,9 +8674,9 @@
     },
     {
       "path": "assets/images/Menus/MainMenu-stuff/menuicons/new-song.txt",
-      "size": 6,
-      "sha256": "2a1b2aef0e1b4fc8a44f90df5790a7f1cdbf790471aeafa5142f38dd61d62b14",
-      "textSha256": "2a1b2aef0e1b4fc8a44f90df5790a7f1cdbf790471aeafa5142f38dd61d62b14"
+      "size": 7,
+      "sha256": "54156e1cfe72284a7e5d8a2281be7a2e937a7f547e9a4a45e90f0a170e94e0c8",
+      "textSha256": "54156e1cfe72284a7e5d8a2281be7a2e937a7f547e9a4a45e90f0a170e94e0c8"
     },
     {
       "path": "assets/images/Menus/MainMenu-stuff/menuicons/nola.png",
@@ -9994,6 +10263,11 @@
       "sha256": "fbd54aa8694d0be493c8b29957f890ae6ca928043f99c674f73273c1f27b5657"
     },
     {
+      "path": "assets/images/UI/credits/chibis/spirit.png",
+      "size": 48259,
+      "sha256": "a785270d25bb703bef46e6f8be31f63d6eb49cd8ae5f3038df0a4cb5d11dd824"
+    },
+    {
       "path": "assets/images/UI/credits/chibis/spooky.png",
       "size": 69074,
       "sha256": "e54fcd801e015767cd9fbb194205e9e47e6d8735f42e6b4f4e9519ea024d61c0"
@@ -11237,9 +11511,9 @@
     },
     {
       "path": "assets/scripts/song-credits.lua",
-      "size": 15793,
-      "sha256": "59167a6c444ef9de03e4b33e5f667d4563530a614d9fc72c836ad0b594c60d8c",
-      "textSha256": "59167a6c444ef9de03e4b33e5f667d4563530a614d9fc72c836ad0b594c60d8c"
+      "size": 16155,
+      "sha256": "81b56e58d7733f7a2884939815c6a4fc2f717ad4bb20fd0b3590cf054089eb36",
+      "textSha256": "81b56e58d7733f7a2884939815c6a4fc2f717ad4bb20fd0b3590cf054089eb36"
     },
     {
       "path": "assets/shaders/aom-barber-pole.frag",
@@ -12027,6 +12301,21 @@
       "sha256": "0c2386faefde4deb11303d61728205623311e888bd3d67fc8cf4860f8f37dde2"
     },
     {
+      "path": "assets/songs/thorns/bf.ogg",
+      "size": 8059363,
+      "sha256": "1ec77c1ade13686f6358e393efe1a38a69a4172ca32e6178acd5617949185a1a"
+    },
+    {
+      "path": "assets/songs/thorns/dad.ogg",
+      "size": 9194640,
+      "sha256": "0007eedf1189e75ee686c2e8c8cc09784d0d67a436c1b3cc0e9cd551efce190d"
+    },
+    {
+      "path": "assets/songs/thorns/inst.ogg",
+      "size": 9284413,
+      "sha256": "d7e152c59f6bec8251cc1851050ae5996e36a70349a56137ef82248490c89951"
+    },
+    {
       "path": "assets/songs/tutorial/Inst.ogg",
       "size": 1381115,
       "sha256": "4ea0442bff22c12211db190d48a367228a4f2a68a81e9c6ef8f142d60945bdfa"
@@ -12517,6 +12806,11 @@
       "sha256": "e197a5ac819acc3aecf832b90f7c67f697ad097f629cfb7f65d747cfae480cb9"
     },
     {
+      "path": "assets/sounds/senpai_dies.ogg",
+      "size": 100256,
+      "sha256": "049d6474b618f42820acd8bd706dcb73a0a6b8d8a1a27636de6733f80cb18cad"
+    },
+    {
       "path": "assets/sounds/shop/blips/default.ogg",
       "size": 7422,
       "sha256": "d2db104be4d805a1c3e2314d4e7f2ef2d7c98f0ca232849106c44998e04c2438"
@@ -12630,6 +12924,16 @@
       "path": "assets/sounds/snap.ogg",
       "size": 5910,
       "sha256": "be72b884219209f456ca9987be10376b6a1acbaa31430414827a5ce6cf67e2a8"
+    },
+    {
+      "path": "assets/sounds/spirit talk.ogg",
+      "size": 7705,
+      "sha256": "0102609ec2ead111573fe5070a4cdd032f6cf2b3a0454f5871e11e28590591a5"
+    },
+    {
+      "path": "assets/sounds/spirit-uh-oh.ogg",
+      "size": 212302,
+      "sha256": "f5489b17fba198738ff74df6b0071ef0c1c4078722b2d0e3d6c55be956b3eae5"
     },
     {
       "path": "assets/sounds/squeak.ogg",
@@ -12764,9 +13068,21 @@
     },
     {
       "path": "assets/stages/fah-week6-b.lua",
-      "size": 5928,
-      "sha256": "20609d2827c50fb26f865d6566e8a56049d01a316f26f0b764bd41e32d1a8db8",
-      "textSha256": "20609d2827c50fb26f865d6566e8a56049d01a316f26f0b764bd41e32d1a8db8"
+      "size": 6040,
+      "sha256": "0625bb447e28209a84694be19823ac826ee3d017357d1aae88a9199b5d9ecb00",
+      "textSha256": "deff87fabb5e2f9432d5f7f5492380dba8fd9cbb94175b6319173ba8f22e1a45"
+    },
+    {
+      "path": "assets/stages/fah-week6-c.json",
+      "size": 181,
+      "sha256": "37d4ad24832f8e44cfe99bd4b871f5f4d867bd8b7fd3b8139fb94e8d4eeecee0",
+      "textSha256": "58d66bdf37c3fccaa732f08b77bc58c1ec05aaab5bbf2e7a1d363e0b8b5a2709"
+    },
+    {
+      "path": "assets/stages/fah-week6-c.lua",
+      "size": 1847,
+      "sha256": "1e2921d279b9b81c9e24a4104d828e21e836506c854aad55b2d8dbaa1e7ed7b7",
+      "textSha256": "1e2921d279b9b81c9e24a4104d828e21e836506c854aad55b2d8dbaa1e7ed7b7"
     },
     {
       "path": "assets/stages/fah-week7-b.json",
@@ -13093,8 +13409,8 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 43502592,
-      "sha256": "94109eb5d2c10dbf08cd127acdd45ea0a413a1426981db51f8cbca6e9bc2fc5c"
+      "size": 44254720,
+      "sha256": "7444c2af87a139f5a367d9e46d8d2fe325c197b85b7041809fdac32702d3691b"
     },
     {
       "path": "icon.ico",

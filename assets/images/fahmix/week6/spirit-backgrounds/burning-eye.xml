@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="burning-eye.png">
+<SubTexture name="burning-eye repeating-eye0000" x="2700" y="904" width="268" height="202" frameX="0" frameY="0" frameWidth="268" frameHeight="202" />
+<SubTexture name="burning-eye stage0000" x="0" y="0" width="2700" height="904" frameX="0" frameY="0" frameWidth="2700" frameHeight="904" />
+<SubTexture name="burning-eye stage0001" x="0" y="904" width="2700" height="904" frameX="0" frameY="0" frameWidth="2700" frameHeight="904" />
+<SubTexture name="burning-eye stage0002" x="2700" y="0" width="2700" height="904" frameX="0" frameY="0" frameWidth="2700" frameHeight="904" />
+</TextureAtlas>

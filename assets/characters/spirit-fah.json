@@ -1,0 +1,188 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        -1,
+        0
+      ],
+      "indices": [],
+      "fps": 7,
+      "anim": "idle",
+      "loop": true,
+      "name": "spirit idle"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -51,
+        -70
+      ],
+      "anim": "singDOWN",
+      "fps": 8,
+      "name": "spirit down",
+      "indices": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        250,
+        0
+      ],
+      "anim": "singLEFT",
+      "fps": 8,
+      "name": "spirit left",
+      "indices": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -220,
+        0
+      ],
+      "anim": "singRIGHT",
+      "fps": 8,
+      "name": "spirit right",
+      "indices": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -10,
+        110
+      ],
+      "anim": "singUP",
+      "fps": 8,
+      "name": "spirit up",
+      "indices": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        120
+      ],
+      "anim": "singUP-alt",
+      "fps": 8,
+      "name": "spirit u-alt",
+      "indices": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        -40
+      ],
+      "anim": "singDOWN-alt",
+      "fps": 8,
+      "name": "spirit d-alt",
+      "indices": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -180,
+        40
+      ],
+      "anim": "singRIGHT-alt",
+      "fps": 8,
+      "name": "spirit r-alt",
+      "indices": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        210,
+        0
+      ],
+      "anim": "singLEFT-alt",
+      "fps": 8,
+      "name": "spirit l-alt",
+      "indices": [
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "glitch",
+      "fps": 12,
+      "name": "spirit glitch",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -30,
+        10
+      ],
+      "anim": "scream",
+      "fps": 8,
+      "name": "spirit scream",
+      "indices": []
+    },
+    {
+      "offsets": [
+        -30,
+        10
+      ],
+      "indices": [],
+      "fps": 8,
+      "anim": "scream loop",
+      "loop": true,
+      "name": "spirit sc-loop"
+    }
+  ],
+  "extra_images": [],
+  "no_antialiasing": false,
+  "image": "characters/fah/fahmix/week6/spirit",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "spirit-fah",
+  "flip_x": false,
+  "healthbar_colors": [
+    232,
+    66,
+    45
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "sing_duration": 4,
+  "scale": 1
+}

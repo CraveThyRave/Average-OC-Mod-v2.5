@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lordx.png">
+<SubTexture name="lordx idle0000" x="0" y="1193" width="2595" height="1188" frameX="-16" frameY="-16" frameWidth="2611" frameHeight="1204" />
+<SubTexture name="lordx idle0001" x="0" y="0" width="2599" height="1193" frameX="0" frameY="0" frameWidth="2611" frameHeight="1204" />
+<SubTexture name="lordx idle0002" x="2599" y="0" width="2570" height="1153" frameX="-8" frameY="-17" frameWidth="2611" frameHeight="1204" />
+</TextureAtlas>

@@ -1,0 +1,16 @@
+[Week6]
+BarName=THORNS
+BarColor=E8422D
+BarNameColor=E8422D
+minimumDrain=0.01674
+maximumDrain=0.04743
+randomTriggerChancePerFrame=0.007
+increaseDuration=6.4
+restartCooldown=4
+clicksToEmpty=18
+punishClicksBeforeMechanic=true
+punishEarlyClick=true
+earlyClickThreshold=0.25
+earlyClickUnlockThreshold=0.75
+normalClickUnlockThreshold=0.25
+difficultyMultiplier=1.15
