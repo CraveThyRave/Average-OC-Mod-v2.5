@@ -1,0 +1,253 @@
+<Modchart>
+	
+	
+	<Init>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Wiggle" mod="wiggle" color="#A17B48" name="Wiggle"/>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Vibrate" mod="vibrate" color="#A17B48" name="Vibrate"/>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Invert" mod="invert" color="#A17B48" name="Invert"/>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Skew" mod="skewX" color="#A17B48" name="Skew"/>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Beat" mod="beat" color="#A17B48" name="Beat"/>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="SchmovinDrunk" mod="schmovinDrunk" color="#A17B48" name="SchmovinDrunk"/>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="SchmovinTipsy" mod="schmovinTipsy" color="#A17B48" name="SchmovinTipsy"/>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="SchmovinArrowShape" mod="schmovinArrowShape" color="#A17B48" name="SchmovinArrowShape"/>
+		
+	
+	</Init>
+	
+	
+	<Events>
+		
+		
+		<Event value="2" DI_startValue="false" type="tweenModPercent" name="Wiggle" step="0" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="4" DI_startValue="false" type="tweenModPercent" name="Wiggle" step="16" time="8" ease="cubeInOut" startValue="2" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Wiggle" step="32" time="2" ease="cubeInOut" startValue="4" DI_value="false"/>
+		
+		
+		<Event value="1" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="16" time="8" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="32" time="2" ease="cubeInOut" startValue="1" DI_value="false"/>
+		
+		
+		<Event value="1" DI_startValue="false" type="tweenModPercent" name="Invert" step="48" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Invert" step="56" time="4" ease="cubeInOut" startValue="1" DI_value="false"/>
+		
+		
+		<Event DI_startValue="false" value="1" type="tweenModPercent" name="Invert" step="80" time="4" ease="cubeInOut" DI_value="false" startValue="0"/>
+		
+		
+		<Event DI_startValue="false" value="0" type="tweenModPercent" name="Invert" step="88" time="4" ease="cubeInOut" DI_value="false" startValue="1"/>
+		
+		
+		<Event value="0.2" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="96" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="128" time="8" ease="cubeInOut" startValue="0.2" DI_value="false"/>
+		
+		
+		<Event value="10" DI_startValue="false" type="tweenModPercent" name="Skew" step="268" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Skew" step="280" time="4" ease="cubeInOut" startValue="10" DI_value="false"/>
+		
+		
+		<Event value="2" DI_startValue="false" type="tweenModPercent" name="Beat" step="288" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="1" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="388" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="416" time="4" ease="cubeInOut" startValue="1" DI_value="false"/>
+		
+		
+		<Event value="1" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="536" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0.1" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="548" time="5" ease="cubeInOut" startValue="1" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Beat" step="548" time="4" ease="cubeInOut" startValue="2" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="800" time="4" ease="cubeInOut" startValue="0.1" DI_value="false"/>
+		
+		
+		<Event value="2" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="800" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0.2" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="848" time="16" ease="cubeInOut" startValue="2" DI_value="false"/>
+		
+		
+		<Event value="0.4" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="928" time="4" ease="cubeInOut" startValue="0.2" DI_value="false"/>
+		
+		
+		<Event value="00" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="1056" time="4" ease="cubeInOut" startValue="0.4" DI_value="false"/>
+		
+		
+		<Event value="0.1" DI_startValue="false" type="tweenModPercent" name="SchmovinTipsy" step="1184" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0.2" DI_startValue="false" type="tweenModPercent" name="SchmovinTipsy" step="1216" time="4" ease="cubeInOut" startValue="0.1" DI_value="false"/>
+		
+		
+		<Event value="0.2" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="1312" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="SchmovinTipsy" step="1440" time="8" ease="cubeInOut" startValue="0.2" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="1440" time="8" ease="cubeInOut" startValue="0.2" DI_value="false"/>
+		
+		
+		<Event value="0.1" DI_startValue="false" type="tweenModPercent" name="SchmovinArrowShape" step="2208" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0.2" DI_startValue="false" type="tweenModPercent" name="SchmovinArrowShape" step="2224" time="4" ease="cubeInOut" startValue="0.1" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="SchmovinArrowShape" step="2240" time="8" ease="cubeInOut" startValue="0.2" DI_value="false"/>
+		
+		
+		<Event value="0.2" DI_startValue="false" type="tweenModPercent" name="SchmovinArrowShape" step="2288" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="-0.1" DI_startValue="false" type="tweenModPercent" name="SchmovinArrowShape" step="2304" time="4" ease="cubeInOut" startValue="0.2" DI_value="false"/>
+		
+		
+		<Event value="0.1" DI_startValue="false" type="tweenModPercent" name="SchmovinArrowShape" step="2320" time="4" ease="cubeInOut" startValue="-0.1" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="SchmovinArrowShape" step="2336" time="4" ease="cubeInOut" startValue="0.1" DI_value="false"/>
+		
+		
+		<Event value="2" DI_startValue="false" type="tweenModPercent" name="Beat" step="2400" time="8" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="3" DI_startValue="false" type="tweenModPercent" name="Beat" step="2432" time="4" ease="cubeInOut" startValue="2" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Beat" step="2464" time="16" ease="cubeInOut" startValue="3" DI_value="false"/>
+		
+		
+		<Event value="0.5" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="2528" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="00" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="2660" time="10" ease="cubeInOut" startValue="0.5" DI_value="false"/>
+		
+		
+		<Event value="0.4" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="2720" time="10" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0.6" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="2560" time="4" ease="cubeInOut" startValue="0.5" DI_value="false"/>
+		
+		
+		<Event value="0.15" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="2592" time="4" ease="cubeInOut" startValue="0.6" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="2944" time="26" ease="cubeInOut" startValue="0.4" DI_value="false"/>
+		
+		
+		<Event value="0.3" DI_startValue="false" type="tweenModPercent" name="SchmovinTipsy" step="2976" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0.4" DI_startValue="false" type="tweenModPercent" name="SchmovinTipsy" step="3008" time="4" ease="cubeInOut" startValue="0.3" DI_value="false"/>
+		
+		
+		<Event value="0.2" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="3040" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0.6" DI_startValue="false" type="tweenModPercent" name="SchmovinTipsy" step="3072" time="4" ease="cubeInOut" startValue="0.4" DI_value="false"/>
+		
+		
+		<Event value="0.1" DI_startValue="false" type="tweenModPercent" name="SchmovinArrowShape" step="3104" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0.15" DI_startValue="false" type="tweenModPercent" name="SchmovinArrowShape" step="3120" time="4" ease="cubeInOut" startValue="0.1" DI_value="false"/>
+		
+		
+		<Event value="0.05" DI_startValue="false" type="tweenModPercent" name="SchmovinArrowShape" step="3136" time="4" ease="cubeInOut" startValue="0.15" DI_value="false"/>
+		
+		
+		<Event value="0.09" DI_startValue="false" type="tweenModPercent" name="SchmovinArrowShape" step="3150" time="4" ease="cubeInOut" startValue="0.05" DI_value="false"/>
+		
+		
+		<Event value="0.12" DI_startValue="false" type="tweenModPercent" name="SchmovinArrowShape" step="3168" time="4" ease="cubeInOut" startValue="0.09" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="SchmovinArrowShape" step="3196" time="4" ease="cubeInOut" startValue="0.12" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="3200" time="16" ease="cubeInOut" startValue="0.2" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="SchmovinTipsy" step="3200" time="16" ease="cubeInOut" startValue="0.6" DI_value="false"/>
+		
+		
+		<Event value="0.1" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="3216" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0.5" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="3224" time="4" ease="cubeInOut" startValue="0.1" DI_value="false"/>
+		
+		
+		<Event value="0.1" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="3296" time="4" ease="cubeInOut" startValue="0.5" DI_value="false"/>
+		
+		
+		<Event value="0.3" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="3328" time="4" ease="cubeInOut" startValue="0.1" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="3360" time="4" ease="cubeInOut" startValue="0.3" DI_value="false"/>
+		
+		
+		<Event value="20" DI_startValue="false" type="tweenModPercent" name="Skew" step="3360" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="-20" DI_startValue="false" type="tweenModPercent" name="Skew" step="3376" time="4" ease="cubeInOut" startValue="20" DI_value="false"/>
+		
+		
+		<Event value="20" DI_startValue="false" type="tweenModPercent" name="Skew" step="3393" time="4" ease="cubeInOut" startValue="-20" DI_value="false"/>
+		
+		
+		<Event value="-20" DI_startValue="false" type="tweenModPercent" name="Skew" step="3408" time="4" ease="cubeInOut" startValue="20" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Skew" step="3424" time="4" ease="cubeInOut" startValue="-20" DI_value="false"/>
+		
+		
+		<Event value="0.7" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="3424" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="SchmovinDrunk" step="3440" time="30" ease="cubeInOut" startValue="0.7" DI_value="false"/>
+		
+		
+		<Event value="3" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="3488" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="3504" time="25" ease="cubeInOut" startValue="3" DI_value="false"/>
+		
+	
+	</Events>
+	
+
+</Modchart>

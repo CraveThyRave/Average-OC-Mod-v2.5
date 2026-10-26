@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spirit-dialogue.png">
+<SubTexture name="spirit talk0000" x="0" y="0" width="927" height="923" frameX="-56" frameY="0" frameWidth="1000" frameHeight="1033" />
+<SubTexture name="spirit talk0001" x="927" y="0" width="1000" height="892" frameX="0" frameY="-6" frameWidth="1000" frameHeight="1033" />
+<SubTexture name="spirit idle0000" x="0" y="923" width="908" height="884" frameX="-62" frameY="-149" frameWidth="1000" frameHeight="1033" />
+<SubTexture name="spirit idle0001" x="908" y="923" width="879" height="868" frameX="-110" frameY="-151" frameWidth="1000" frameHeight="1033" />
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spirit-fah-animated.png">
+<SubTexture name="lose0000" x="309" y="0" width="157" height="173" frameX="-18" frameY="-11" frameWidth="184" frameHeight="176" />
+<SubTexture name="lose0001" x="0" y="0" width="155" height="175" frameX="-19" frameY="-9" frameWidth="184" frameHeight="176" />
+<SubTexture name="lose0002" x="155" y="0" width="154" height="174" frameX="-20" frameY="-11" frameWidth="184" frameHeight="176" />
+<SubTexture name="idle0000" x="0" y="175" width="157" height="173" frameX="-19" frameY="-9" frameWidth="184" frameHeight="176" />
+<SubTexture name="idle0001" x="466" y="0" width="156" height="172" frameX="-20" frameY="-10" frameWidth="184" frameHeight="176" />
+<SubTexture name="idle0002" x="0" y="348" width="160" height="171" frameX="-18" frameY="-8" frameWidth="184" frameHeight="176" />
+<SubTexture name="win0000" x="157" y="175" width="157" height="173" frameX="-17" frameY="-7" frameWidth="184" frameHeight="176" />
+<SubTexture name="win0001" x="160" y="348" width="157" height="171" frameX="-18" frameY="-8" frameWidth="184" frameHeight="176" />
+<SubTexture name="win0002" x="466" y="172" width="153" height="170" frameX="-22" frameY="-8" frameWidth="184" frameHeight="176" />
+</TextureAtlas>

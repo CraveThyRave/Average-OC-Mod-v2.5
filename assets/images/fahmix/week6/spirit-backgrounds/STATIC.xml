@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="STATIC.png">
+<SubTexture name="STATIC idle0000" x="0" y="0" width="2576" height="1509" frameX="0" frameY="0" frameWidth="2576" frameHeight="1509" />
+<SubTexture name="STATIC idle0001" x="2576" y="0" width="2576" height="1509" frameX="0" frameY="0" frameWidth="2576" frameHeight="1509" />
+<SubTexture name="STATIC idle0002" x="0" y="1509" width="2576" height="1509" frameX="0" frameY="0" frameWidth="2576" frameHeight="1509" />
+<SubTexture name="STATIC idle0003" x="2576" y="1509" width="2576" height="1509" frameX="0" frameY="0" frameWidth="2576" frameHeight="1509" />
+<SubTexture name="STATIC idle0004" x="0" y="3018" width="2576" height="1509" frameX="0" frameY="0" frameWidth="2576" frameHeight="1509" />
+<SubTexture name="STATIC idle0005" x="2576" y="3018" width="2576" height="1509" frameX="0" frameY="0" frameWidth="2576" frameHeight="1509" />
+<SubTexture name="STATIC idle0006" x="5152" y="0" width="2576" height="1509" frameX="0" frameY="0" frameWidth="2576" frameHeight="1509" />
+</TextureAtlas>

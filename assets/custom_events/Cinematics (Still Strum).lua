@@ -35,7 +35,7 @@ local function placeBarsUnderNotes()
      
      
     local currentSong = string.lower(songName or '')
-    if currentSong == 'roses' or currentSong == 'senpai' then
+    if currentSong == 'roses' or currentSong == 'senpai' or currentSong == 'thorns' then
         runHaxeCode([[
             var hatred = game.variables.get('hatredTxt');
             var upper = game.getLuaObject('UpperBar(Still Strum)');
@@ -54,7 +54,7 @@ end
 function onCreatePost()
     local upperBarY = -1080
     local currentSong = string.lower(songName or '')
-    if currentSong == 'roses' or currentSong == 'senpai' then
+    if currentSong == 'roses' or currentSong == 'senpai' or currentSong == 'thorns' then
         upperBarY = upperBarY + 100
     end
 

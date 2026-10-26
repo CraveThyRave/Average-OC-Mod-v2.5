@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="senpai.png">
+<SubTexture name="senpai building0000" x="3035" y="2172" width="545" height="481" frameX="-9" frameY="-16" frameWidth="568" frameHeight="497" />
+<SubTexture name="senpai building0001" x="2253" y="1523" width="563" height="474" frameX="-5" frameY="-10" frameWidth="568" frameHeight="497" />
+<SubTexture name="senpai building0002" x="3035" y="1685" width="553" height="487" frameX="0" frameY="0" frameWidth="568" frameHeight="497" />
+<SubTexture name="senpai building-20000" x="0" y="0" width="1104" height="1057" frameX="-8" frameY="0" frameWidth="1157" frameHeight="1057" />
+<SubTexture name="senpai building-20001" x="0" y="1057" width="1156" height="1053" frameX="0" frameY="0" frameWidth="1157" frameHeight="1057" />
+<SubTexture name="senpai building-20002" x="1104" y="0" width="1149" height="1057" frameX="-8" frameY="0" frameWidth="1157" frameHeight="1057" />
+<SubTexture name="senpai tree10000" x="3035" y="1157" width="486" height="528" frameX="-2" frameY="-10" frameWidth="533" frameHeight="602" />
+<SubTexture name="senpai tree10001" x="3035" y="599" width="532" height="558" frameX="0" frameY="-6" frameWidth="533" frameHeight="602" />
+<SubTexture name="senpai tree10002" x="2050" y="2110" width="529" height="602" frameX="-4" frameY="0" frameWidth="533" frameHeight="602" />
+<SubTexture name="senpai tree20000" x="1251" y="2110" width="799" height="619" frameX="-3" frameY="0" frameWidth="812" frameHeight="632" />
+<SubTexture name="senpai tree20001" x="3035" y="0" width="803" height="599" frameX="-9" frameY="-27" frameWidth="812" frameHeight="632" />
+<SubTexture name="senpai tree20002" x="0" y="2785" width="812" height="596" frameX="0" frameY="-36" frameWidth="812" frameHeight="632" />
+<SubTexture name="senpai building30000" x="2253" y="766" width="778" height="757" frameX="-9" frameY="-2" frameWidth="787" frameHeight="782" />
+<SubTexture name="senpai building30001" x="2253" y="0" width="782" height="766" frameX="-2" frameY="0" frameWidth="787" frameHeight="782" />
+<SubTexture name="senpai building30002" x="1156" y="1057" width="784" height="774" frameX="0" frameY="-8" frameWidth="787" frameHeight="782" />
+<SubTexture name="senpai fah-platform0000" x="3838" y="0" width="1222" height="461" frameX="0" frameY="-15" frameWidth="1267" frameHeight="480" />
+<SubTexture name="senpai fah-platform0001" x="812" y="2785" width="1242" height="480" frameX="0" frameY="0" frameWidth="1267" frameHeight="480" />
+<SubTexture name="senpai fah-platform0002" x="2054" y="2785" width="1183" height="468" frameX="-84" frameY="-2" frameWidth="1267" frameHeight="480" />
+<SubTexture name="senpai girl10000" x="3838" y="831" width="474" height="356" frameX="-4" frameY="-4" frameWidth="478" frameHeight="371" />
+<SubTexture name="senpai girl10001" x="3838" y="461" width="460" height="370" frameX="0" frameY="-1" frameWidth="478" frameHeight="371" />
+<SubTexture name="senpai girl10002" x="4298" y="461" width="454" height="362" frameX="-2" frameY="0" frameWidth="478" frameHeight="371" />
+<SubTexture name="senpai girl20000" x="412" y="2110" width="414" height="673" frameX="-18" frameY="-4" frameWidth="446" frameHeight="746" />
+<SubTexture name="senpai girl20001" x="0" y="2110" width="412" height="675" frameX="-19" frameY="0" frameWidth="446" frameHeight="746" />
+<SubTexture name="senpai girl20002" x="826" y="2110" width="425" height="660" frameX="-21" frameY="-8" frameWidth="446" frameHeight="746" />
+</TextureAtlas>
