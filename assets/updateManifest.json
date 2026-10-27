@@ -1,19 +1,12 @@
 {
   "format": 2,
-  "version": "2.5.36",
-  "baseVersion": "2.5.35",
+  "version": "2.5.37",
+  "baseVersion": "2.5.36",
   "files": [
     {
-      "path": "assets/data/thorns/thornsDialogue.txt",
-      "size": 385,
-      "sha256": "59de582d99ae726e6fa86ec83997ef0282e60420da2cf9ffdb3c3fa2d007e9fa",
-      "textSha256": "ba36dd369102e4b06b208707fbe170068bb565c51dce7664c6456ada284f883b",
-      "change": "changed"
-    },
-    {
       "path": "Average OC Mod.exe",
-      "size": 44276224,
-      "sha256": "70a7ae19a22ecf6275ec1da57f5b8146db016e9651e65e2947aa89491419bbce",
+      "size": 44408320,
+      "sha256": "c23543573a57e452279cfd97f12cfb4ca0e72c06ce6dcae06a992b0db701df78",
       "change": "changed"
     }
   ],
