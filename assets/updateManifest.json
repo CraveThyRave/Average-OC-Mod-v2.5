@@ -1,12 +1,12 @@
 {
   "format": 2,
-  "version": "2.5.38",
-  "baseVersion": "2.5.37",
+  "version": "2.5.39",
+  "baseVersion": "2.5.38",
   "files": [
     {
       "path": "Average OC Mod.exe",
-      "size": 44414976,
-      "sha256": "b6cab2989b19c9de4ee4eb72b5337e8b49272cf95764a7e2bed3125bf0c5a8b2",
+      "size": 44439040,
+      "sha256": "f56e47fa88d5327c002aab2fe8d33e19281eb63d393b7e07c5cb9a4faad4d11f",
       "change": "changed"
     }
   ],
