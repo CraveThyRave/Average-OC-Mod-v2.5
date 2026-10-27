@@ -1,5 +1,5 @@
 {
-  "version": "2.5.35",
+  "version": "2.5.36",
   "files": [
     {
       "path": ".gitattributes",
@@ -1646,9 +1646,9 @@
     },
     {
       "path": "assets/data/thorns/thornsDialogue.txt",
-      "size": 386,
-      "sha256": "78701f310a590c33e6b48cc314db0187a11750a85223165f7d3637335d7ace2a",
-      "textSha256": "4f1350a695ad0e98bb7e313db1551dd78d0aef5667367cb5e62dc773e3e7db89"
+      "size": 385,
+      "sha256": "59de582d99ae726e6fa86ec83997ef0282e60420da2cf9ffdb3c3fa2d007e9fa",
+      "textSha256": "ba36dd369102e4b06b208707fbe170068bb565c51dce7664c6456ada284f883b"
     },
     {
       "path": "assets/data/tutorial/01-visibility.lua",
@@ -13409,8 +13409,8 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 44254720,
-      "sha256": "7444c2af87a139f5a367d9e46d8d2fe325c197b85b7041809fdac32702d3691b"
+      "size": 44276224,
+      "sha256": "70a7ae19a22ecf6275ec1da57f5b8146db016e9651e65e2947aa89491419bbce"
     },
     {
       "path": "icon.ico",
