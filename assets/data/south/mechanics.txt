@@ -1,0 +1,4 @@
+[Week2A]
+headshakesToClear=4.5
+maximumHealthDrain=0.0047
+danceStartStep=0

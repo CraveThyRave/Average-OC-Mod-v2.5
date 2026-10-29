@@ -175,7 +175,7 @@ local function updateColors()
 	if song == 'stress' or song == 'pews' or song == 'bleh' then
 		primaryColor = 'E5D13C'
 		detailColor = primaryColor
-	elseif song == 'spookeez' then
+	elseif song == 'spookeez' or song == 'south' then
 		detailColor = 'CBCBCB'
 	end
     local key = primaryColor .. ':' .. detailColor
@@ -255,9 +255,10 @@ end
 local function showCard()
     if entered or finished or not built then return end
     local now = os.time()
+    local chartPreview = getPropertyFromClass('PlayState', 'chartingMode') == true
     local previous = getDataFromSave(cooldownSave, cooldownKey)
     previous = tonumber(previous)
-    if previous and now - previous < cooldownSeconds then
+    if not chartPreview and previous and now - previous < cooldownSeconds then
         stopCard()
         return
     end
@@ -272,8 +273,10 @@ local function showCard()
     visibility(true)
     setVar('songCreditVisible', true)
     doTweenX('songCreditSlide', rootTag, homeX, math.max(0.01, tonumber(settings.introduration) or 0.5), 'quadOut')
-    setDataFromSave(cooldownSave, cooldownKey, now)
-    flushSaveData(cooldownSave)
+    if not chartPreview then
+        setDataFromSave(cooldownSave, cooldownKey, now)
+        flushSaveData(cooldownSave)
+    end
 end
 
 local function processStep(step)
