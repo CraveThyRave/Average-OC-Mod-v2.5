@@ -89,12 +89,26 @@ function onCreatePost()
     setProperty('camFollow.y', lockY)
     setProperty('camFollowPos.x', lockX)
     setProperty('camFollowPos.y', lockY)
+    if string.lower(songName) == 'south' then
+        for _, tag in ipairs({'raven-spooky', 'raven-spooky-lightning', 'phoenix-spooky', 'phoenix-spooky-lightning'}) do
+            objectPlayAnimation(tag, 'dance', true)
+        end
+        runHaxeCode([[
+            game.boyfriend.idleSuffix = '2';
+            game.boyfriend.recalculateDanceIdle();
+            game.boyfriend.dance();
+            game.dad.idleSuffix = '-dance';
+            game.dad.recalculateDanceIdle();
+            game.dad.dance();
+        ]])
+    end
 end
 
 function scheduleLightning()
     if getPropertyFromClass('MirrorMode', 'active') then return end
 		if inGameOver or getProperty('isDead') then return end
-		runTimer('randomLightning', getRandomFloat(8, 17))
+		local intervalScale = string.lower(songName) == 'south' and 0.5 or 1
+		runTimer('randomLightning', getRandomFloat(8 * intervalScale, 17 * intervalScale))
 end
 
 function playerNoteNearStrumline()

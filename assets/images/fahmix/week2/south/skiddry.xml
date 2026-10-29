@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="skiddry.png">
+<SubTexture name="skiddry idle0000" x="0" y="0" width="655" height="686" frameX="-304" frameY="0" frameWidth="1156" frameHeight="786" />
+<SubTexture name="skiddry idle0001" x="655" y="0" width="697" height="642" frameX="-248" frameY="-53" frameWidth="1156" frameHeight="786" />
+<SubTexture name="skiddry idle0002" x="0" y="686" width="1156" height="621" frameX="0" frameY="-123" frameWidth="1156" frameHeight="786" />
+<SubTexture name="skiddry idle0003" x="1352" y="0" width="964" height="552" frameX="-12" frameY="-234" frameWidth="1156" frameHeight="786" />
+<SubTexture name="skiddry idle0004" x="0" y="1307" width="985" height="466" frameX="-6" frameY="-320" frameWidth="1156" frameHeight="786" />
+</TextureAtlas>
