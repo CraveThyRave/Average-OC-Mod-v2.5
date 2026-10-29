@@ -1,12 +1,165 @@
 {
   "format": 2,
-  "version": "2.5.40",
-  "baseVersion": "2.5.39",
+  "version": "2.5.41",
+  "baseVersion": "2.5.40",
   "files": [
     {
+      "path": "assets/data/south/02-lightning.lua",
+      "size": 7043,
+      "sha256": "699a4cb00155d36cc77752aa4de061844daffb9d70d802afa050cafb1fd51a6c",
+      "textSha256": "7af57272590acf1b9ca5ec52b42b7b32d0010faf71750c953a8944c9c598996b",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/south/05-hud.lua",
+      "size": 2957,
+      "sha256": "9bfb4c7dd596a75d6e247644fccd85518d03090010e0b8e8a0b9aa1b01c20531",
+      "textSha256": "9bfb4c7dd596a75d6e247644fccd85518d03090010e0b8e8a0b9aa1b01c20531",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/south/06-lighting.lua",
+      "size": 3759,
+      "sha256": "2a41c9fc7989b4fe536194adb79be12fcac97aa82c83fc515b4d295d3ce3f401",
+      "textSha256": "2a41c9fc7989b4fe536194adb79be12fcac97aa82c83fc515b4d295d3ce3f401",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/south/07-popups.lua",
+      "size": 5270,
+      "sha256": "1a49a976f341da6c92b2d7cc13a453b0fa695e217e928a037c6cc9dafc86d690",
+      "textSha256": "1a49a976f341da6c92b2d7cc13a453b0fa695e217e928a037c6cc9dafc86d690",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/south/credits.txt",
+      "size": 192,
+      "sha256": "c3e07816661cffb04b5023b3feb7e7bdb69d8e3fe1cbcc8b97b943f254bf6343",
+      "textSha256": "c3e07816661cffb04b5023b3feb7e7bdb69d8e3fe1cbcc8b97b943f254bf6343",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/south/mechanics.txt",
+      "size": 74,
+      "sha256": "63461771f57e01db398091d07bc1d8001927eca7b058a267d60aa452f4c6cef2",
+      "textSha256": "63461771f57e01db398091d07bc1d8001927eca7b058a267d60aa452f4c6cef2",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/south/pause.txt",
+      "size": 490,
+      "sha256": "c6f0cc5ebb9c7c229efab5e3abcd2f279f41f6dc0af485c272a8e60d19d277c3",
+      "textSha256": "60c925767f1a7001208d0815068dc3f43dd8416550ba05b50966c2429bd82e8c",
+      "change": "added"
+    },
+    {
+      "path": "assets/data/south/south-hard.json",
+      "size": 109051,
+      "sha256": "43753c96c6734c4cf0844a788c3ca1b99f30710b70e69a1823bc513fd910404e",
+      "textSha256": "43753c96c6734c4cf0844a788c3ca1b99f30710b70e69a1823bc513fd910404e",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week2/south-logo.png",
+      "size": 484297,
+      "sha256": "593c813f9852484c533276b0447d1902e25d5bdcac076c30ef831fa35d91351f",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week2/south/bark.png",
+      "size": 4674896,
+      "sha256": "4e319c06a63be35358fbfc03261afa8fac3e88e3356e68c98e71a75486558df9",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week2/south/bark.xml",
+      "size": 647,
+      "sha256": "a2c14cdec506785c50b6d945572367a2f9f717fdc66e71cc6606ef9178de1199",
+      "textSha256": "74706d40cd00fd0436828eddc7cab6d5cfda792ad20e3bb77d95f1be97ce10f8",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week2/south/laffatu.png",
+      "size": 1740649,
+      "sha256": "c9d10a233a62276146924c43603f52f762b43715c84b264b4036066e1d65a668",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week2/south/laffatu.xml",
+      "size": 378,
+      "sha256": "06956944c1162758ff297e2c8e912552d8904baa81a4e0156af25bc3ff886600",
+      "textSha256": "29a6a914af5a85e1ed4a54a810b1d1858ef1ae14f703f887a9d662ac5dad688c",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week2/south/skelly.png",
+      "size": 467528,
+      "sha256": "ddac535448a4b4b970fbda3b320af509f8af64d916b736416ca9534af154fa70",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week2/south/skelly.xml",
+      "size": 364,
+      "sha256": "6914f6ce1290ff88abc6af551e0a05ccf03d178b7803fd38644e6b135a434475",
+      "textSha256": "06ba21a29157ba6b375b177bd3a98c8262a8b9974e5304595e241aba81fa8638",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week2/south/skiddry.png",
+      "size": 1597954,
+      "sha256": "c8f377aa50a002cdacb8bfd246fab1ece99510f48ed395321b49d8dcb69aac79",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/fahmix/week2/south/skiddry.xml",
+      "size": 801,
+      "sha256": "29cd731eabb8cb448f1e1eaec1e0261a6da81137f56a9d6d787a99212dc39905",
+      "textSha256": "61eddb17268e47e4e195024adfc8844a3498f2ca7dc5053e6d78d772b3a91744",
+      "change": "added"
+    },
+    {
+      "path": "assets/images/Menus/MainMenu-stuff/menuicons/new-song.txt",
+      "size": 6,
+      "sha256": "dae52a06e6ed952d35b994fca3a7656709fdaa75b75cd3124682ca4661a665d9",
+      "textSha256": "dae52a06e6ed952d35b994fca3a7656709fdaa75b75cd3124682ca4661a665d9",
+      "change": "changed"
+    },
+    {
+      "path": "assets/scripts/song-credits.lua",
+      "size": 16323,
+      "sha256": "05ace685851308b444b4485826489cf6dd6fccd4eff90741d632713b90899fb6",
+      "textSha256": "05ace685851308b444b4485826489cf6dd6fccd4eff90741d632713b90899fb6",
+      "change": "changed"
+    },
+    {
+      "path": "assets/songs/south/BF.ogg",
+      "size": 8204147,
+      "sha256": "74ebe1a4d6d47d052207843559808067ad20a364dffc5d1099b1d03818057555",
+      "change": "added"
+    },
+    {
+      "path": "assets/songs/south/Dad.ogg",
+      "size": 8067191,
+      "sha256": "59f10354861ca4a3f7063bdb322f5492887c96442e21e9ed53b1dce1de7c46da",
+      "change": "added"
+    },
+    {
+      "path": "assets/songs/south/Inst.ogg",
+      "size": 8753037,
+      "sha256": "f79c9d7e4f920e315b34ad59204d7b39546aaf3c1463d84227bc54fbc9acb0e3",
+      "change": "added"
+    },
+    {
+      "path": "assets/stages/fah-week2.lua",
+      "size": 5904,
+      "sha256": "98d3766a9995d61d5c76ddea859e68943a398a990d74629d575beb3c9b8af923",
+      "textSha256": "98d3766a9995d61d5c76ddea859e68943a398a990d74629d575beb3c9b8af923",
+      "change": "changed"
+    },
+    {
       "path": "Average OC Mod.exe",
-      "size": 44439040,
-      "sha256": "16450a02c514897fff2121268acb9f5c5d45fd50b0cb2095d27fb9393dcc85a7",
+      "size": 44781568,
+      "sha256": "70bcbd1f8241a4b50e147bb35d427bcdf7eb6dbe0c288a7c61c71b4380764bbb",
       "change": "changed"
     }
   ],
