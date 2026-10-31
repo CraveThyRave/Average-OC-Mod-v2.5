@@ -32,9 +32,9 @@
 			"fps": 18,
 			"name": "down",
 			"indices": [
+				0,
 				1,
-				2,
-				0
+				2
 			]
 		},
 		{
@@ -46,9 +46,9 @@
 			"fps": 18,
 			"anim": "singLEFT",
 			"indices": [
-				1,
+				0,
 				2,
-				0
+				1
 			],
 			"name": "right"
 		},
@@ -61,9 +61,9 @@
 			"fps": 18,
 			"anim": "singRIGHT",
 			"indices": [
+				0,
 				1,
-				2,
-				0
+				2
 			],
 			"name": "left"
 		},
@@ -91,9 +91,9 @@
 			"fps": 18,
 			"anim": "singDOWN-alt",
 			"indices": [
+				0,
 				1,
-				2,
-				0
+				2
 			],
 			"name": "down-alt"
 		},
@@ -106,9 +106,9 @@
 			"fps": 18,
 			"anim": "singLEFT-alt",
 			"indices": [
+				0,
 				1,
-				2,
-				0
+				2
 			],
 			"name": "right-alt"
 		},
@@ -121,9 +121,9 @@
 			"fps": 18,
 			"anim": "singRIGHT-alt",
 			"indices": [
-				1,
+				0,
 				2,
-				0
+				1
 			],
 			"name": "left-alt"
 		},

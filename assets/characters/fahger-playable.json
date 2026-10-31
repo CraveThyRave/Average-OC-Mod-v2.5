@@ -70,8 +70,8 @@
 			"fps": 12,
 			"name": "d-miss",
 			"indices": [
-				0,
-				1
+				1,
+				0
 			]
 		},
 		{
@@ -84,8 +84,8 @@
 			"fps": 12,
 			"name": "u-miss",
 			"indices": [
-				0,
-				1
+				1,
+				0
 			]
 		},
 		{
@@ -128,9 +128,9 @@
 			"fps": 12,
 			"name": "l-miss",
 			"indices": [
-				0,
+				2,
 				1,
-				2
+				0
 			]
 		},
 		{
@@ -142,7 +142,10 @@
 			"anim": "singLEFTmiss",
 			"fps": 12,
 			"name": "r-miss",
-			"indices": []
+			"indices": [
+				1,
+				0
+			]
 		},
 		{
 			"loop": false,

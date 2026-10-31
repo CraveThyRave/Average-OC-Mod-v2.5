@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fah masks.png">
+<SubTexture name="fah masks ghost0000" x="980" y="0" width="342" height="343" frameX="-58" frameY="-95" frameWidth="441" frameHeight="472" />
+<SubTexture name="fah masks ghost0001" x="0" y="786" width="356" height="342" frameX="-45" frameY="-95" frameWidth="441" frameHeight="472" />
+<SubTexture name="fah masks pumpkin0000" x="709" y="786" width="363" height="320" frameX="-29" frameY="-115" frameWidth="441" frameHeight="469" />
+<SubTexture name="fah masks pumpkin0001" x="356" y="786" width="353" height="321" frameX="-36" frameY="-117" frameWidth="441" frameHeight="469" />
+<SubTexture name="fah masks vox0000" x="0" y="1128" width="407" height="294" frameX="-15" frameY="-73" frameWidth="441" frameHeight="411" />
+<SubTexture name="fah masks vox0001" x="1158" y="1128" width="410" height="290" frameX="-9" frameY="-79" frameWidth="441" frameHeight="411" />
+<SubTexture name="fah masks z0000" x="0" y="410" width="336" height="376" frameX="-61" frameY="-45" frameWidth="441" frameHeight="465" />
+<SubTexture name="fah masks z0001" x="643" y="0" width="337" height="386" frameX="-59" frameY="-42" frameWidth="441" frameHeight="465" />
+<SubTexture name="fah masks forest0000" x="812" y="1128" width="346" height="292" frameX="-38" frameY="-54" frameWidth="441" frameHeight="371" />
+<SubTexture name="fah masks forest0001" x="1641" y="289" width="331" height="282" frameX="-44" frameY="-56" frameWidth="441" frameHeight="371" />
+<SubTexture name="fah masks poppy0000" x="407" y="1128" width="405" height="293" frameX="-7" frameY="-44" frameWidth="424" frameHeight="355" />
+<SubTexture name="fah masks poppy0001" x="1641" y="0" width="400" height="289" frameX="0" frameY="-46" frameWidth="424" frameHeight="355" />
+<SubTexture name="fah masks chica0000" x="626" y="410" width="277" height="359" frameX="-79" frameY="-3" frameWidth="441" frameHeight="404" />
+<SubTexture name="fah masks chica0001" x="336" y="410" width="290" height="368" frameX="-74" frameY="0" frameWidth="441" frameHeight="404" />
+<SubTexture name="fah masks bonnie0000" x="323" y="0" width="320" height="409" frameX="-30" frameY="0" frameWidth="441" frameHeight="484" />
+<SubTexture name="fah masks bonnie0001" x="0" y="0" width="323" height="410" frameX="-37" frameY="0" frameWidth="441" frameHeight="484" />
+<SubTexture name="fah masks puppet0000" x="1322" y="0" width="319" height="317" frameX="-32" frameY="-102" frameWidth="379" frameHeight="484" />
+<SubTexture name="fah masks puppet0001" x="980" y="343" width="314" height="326" frameX="-33" frameY="-99" frameWidth="379" frameHeight="484" />
+</TextureAtlas>
