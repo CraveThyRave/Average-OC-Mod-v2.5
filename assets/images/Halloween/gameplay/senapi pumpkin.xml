@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="senapi pumpkin.png">
+<SubTexture name="senapi pumpkin 10000" x="347" y="0" width="187" height="199" frameX="-1" frameY="-12" frameWidth="190" frameHeight="239" />
+<SubTexture name="senapi pumpkin 10001" x="534" y="0" width="188" height="198" frameX="-2" frameY="-12" frameWidth="190" frameHeight="239" />
+<SubTexture name="senapi pumpkin 10002" x="534" y="198" width="180" height="198" frameX="-7" frameY="-13" frameWidth="190" frameHeight="239" />
+<SubTexture name="senapi pumpkin 20000" x="223" y="402" width="222" height="193" frameX="-13" frameY="-17" frameWidth="242" frameHeight="222" />
+<SubTexture name="senapi pumpkin 20001" x="0" y="402" width="223" height="197" frameX="-11" frameY="-16" frameWidth="242" frameHeight="222" />
+<SubTexture name="senapi pumpkin 20002" x="0" y="203" width="219" height="199" frameX="-15" frameY="-13" frameWidth="242" frameHeight="222" />
+<SubTexture name="senapi pumpkin 30000" x="219" y="203" width="180" height="199" frameX="0" frameY="-4" frameWidth="198" frameHeight="229" />
+<SubTexture name="senapi pumpkin 30001" x="174" y="0" width="173" height="202" frameX="-2" frameY="0" frameWidth="198" frameHeight="229" />
+<SubTexture name="senapi pumpkin 30002" x="0" y="0" width="174" height="203" frameX="-3" frameY="-1" frameWidth="198" frameHeight="229" />
+</TextureAtlas>

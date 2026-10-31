@@ -20,8 +20,8 @@
 			"fps": 12,
 			"anim": "singDOWNmiss",
 			"indices": [
-				0,
-				1
+				1,
+				0
 			],
 			"name": "d-miss"
 		},
@@ -34,8 +34,8 @@
 			"fps": 12,
 			"anim": "singUPmiss",
 			"indices": [
-				0,
-				1
+				1,
+				0
 			],
 			"name": "u-miss"
 		},
@@ -48,9 +48,9 @@
 			"fps": 12,
 			"anim": "singRIGHTmiss",
 			"indices": [
-				0,
+				2,
 				1,
-				2
+				0
 			],
 			"name": "l-miss"
 		},
@@ -62,7 +62,10 @@
 			"loop": false,
 			"fps": 12,
 			"anim": "singLEFTmiss",
-			"indices": [],
+			"indices": [
+				1,
+				0
+			],
 			"name": "r-miss"
 		},
 		{
@@ -75,8 +78,8 @@
 			"fps": 18,
 			"name": "up",
 			"indices": [
-				1,
 				2,
+				1,
 				0
 			]
 		},
@@ -90,8 +93,8 @@
 			"fps": 18,
 			"name": "left",
 			"indices": [
-				1,
 				2,
+				1,
 				0
 			]
 		},
@@ -105,8 +108,8 @@
 			"fps": 18,
 			"name": "right",
 			"indices": [
-				1,
 				2,
+				1,
 				0
 			]
 		},
@@ -120,8 +123,8 @@
 			"fps": 18,
 			"name": "down",
 			"indices": [
-				1,
 				2,
+				1,
 				0
 			]
 		},
@@ -131,8 +134,8 @@
 				70
 			],
 			"indices": [
-				1,
 				2,
+				1,
 				0
 			],
 			"fps": 18,
@@ -146,8 +149,8 @@
 				60
 			],
 			"indices": [
-				1,
 				2,
+				1,
 				0
 			],
 			"fps": 18,
@@ -161,8 +164,8 @@
 				10
 			],
 			"indices": [
-				1,
 				2,
+				1,
 				0
 			],
 			"fps": 18,
@@ -176,8 +179,8 @@
 				50
 			],
 			"indices": [
-				1,
 				2,
+				1,
 				0
 			],
 			"fps": 18,

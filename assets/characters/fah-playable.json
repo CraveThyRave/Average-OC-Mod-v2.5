@@ -82,8 +82,8 @@
 			"fps": 12,
 			"name": "fah-playable d-miss",
 			"indices": [
-				0,
-				1
+				1,
+				0
 			]
 		},
 		{
@@ -96,8 +96,8 @@
 			"fps": 12,
 			"name": "fah-playable u-miss",
 			"indices": [
-				0,
-				1
+				1,
+				0
 			]
 		},
 		{
@@ -139,9 +139,9 @@
 			"fps": 12,
 			"anim": "singRIGHTmiss",
 			"indices": [
-				0,
+				2,
 				1,
-				2
+				0
 			],
 			"name": "fah-playable l-miss"
 		},
@@ -153,7 +153,10 @@
 			"loop": false,
 			"fps": 12,
 			"anim": "singLEFTmiss",
-			"indices": [],
+			"indices": [
+				1,
+				0
+			],
 			"name": "fah-playable ri-miss"
 		},
 		{
@@ -224,7 +227,10 @@
 			"loop": false,
 			"fps": 18,
 			"anim": "singUP-mic",
-			"indices": [],
+			"indices": [
+				1,
+				0
+			],
 			"name": "fah-playable box-up"
 		},
 		{
@@ -235,7 +241,10 @@
 			"loop": false,
 			"fps": 12,
 			"anim": "singDOWN-mic",
-			"indices": [],
+			"indices": [
+				1,
+				0
+			],
 			"name": "fah-playable box-down"
 		},
 		{
@@ -246,7 +255,10 @@
 			"loop": false,
 			"fps": 12,
 			"anim": "singRIGHT-mic",
-			"indices": [],
+			"indices": [
+				1,
+				0
+			],
 			"name": "fah-playable box-left"
 		},
 		{
@@ -257,7 +269,10 @@
 			"loop": false,
 			"fps": 12,
 			"anim": "singLEFT-mic",
-			"indices": [],
+			"indices": [
+				1,
+				0
+			],
 			"name": "fah-playable box-right"
 		},
 		{

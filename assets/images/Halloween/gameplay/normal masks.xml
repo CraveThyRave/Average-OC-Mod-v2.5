@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="normal masks.png">
+<SubTexture name="normal masks rare10000" x="510" y="339" width="258" height="269" frameX="-11" frameY="-51" frameWidth="282" frameHeight="340" />
+<SubTexture name="normal masks rare20000" x="904" y="460" width="225" height="196" frameX="-37" frameY="-31" frameWidth="282" frameHeight="242" />
+<SubTexture name="normal masks idle0000" x="296" y="0" width="313" height="290" frameX="-5" frameY="-28" frameWidth="327" frameHeight="330" />
+<SubTexture name="normal masks idle0001" x="0" y="620" width="290" height="246" frameX="-15" frameY="-33" frameWidth="327" frameHeight="306" />
+<SubTexture name="normal masks idle0002" x="0" y="0" width="296" height="339" frameX="-26" frameY="-22" frameWidth="330" frameHeight="370" />
+<SubTexture name="normal masks idle0003" x="248" y="339" width="262" height="271" frameX="-21" frameY="-30" frameWidth="297" frameHeight="337" />
+<SubTexture name="normal masks idle0004" x="290" y="620" width="292" height="245" frameX="-23" frameY="-13" frameWidth="344" frameHeight="297" />
+<SubTexture name="normal masks idle0005" x="0" y="339" width="248" height="281" frameX="-40" frameY="0" frameWidth="341" frameHeight="310" />
+<SubTexture name="normal masks idle0006" x="609" y="0" width="295" height="285" frameX="-33" frameY="-17" frameWidth="370" frameHeight="314" />
+<SubTexture name="normal masks idle0007" x="904" y="235" width="248" height="225" frameX="-26" frameY="-11" frameWidth="290" frameHeight="250" />
+<SubTexture name="normal masks idle0008" x="904" y="0" width="337" height="235" frameX="-24" frameY="-16" frameWidth="383" frameHeight="302" />
+<SubTexture name="normal masks idle0009" x="582" y="620" width="299" height="243" frameX="-5" frameY="-15" frameWidth="314" frameHeight="278" />
+</TextureAtlas>

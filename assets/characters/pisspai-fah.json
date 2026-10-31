@@ -10,9 +10,9 @@
 			"fps": 18,
 			"name": "down",
 			"indices": [
+				0,
 				1,
-				2,
-				0
+				2
 			]
 		},
 		{
@@ -24,8 +24,8 @@
 			"fps": 18,
 			"anim": "singLEFT",
 			"indices": [
-				1,
 				2,
+				1,
 				0
 			],
 			"name": "right"
@@ -39,9 +39,9 @@
 			"fps": 18,
 			"anim": "singRIGHT",
 			"indices": [
+				0,
 				1,
-				2,
-				0
+				2
 			],
 			"name": "left"
 		},

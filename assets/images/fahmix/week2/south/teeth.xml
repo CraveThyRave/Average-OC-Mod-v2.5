@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="teeth.png">
+<SubTexture name="teeth bottom0000" x="0" y="368" width="975" height="348" frameX="-54" frameY="-12" frameWidth="1035" frameHeight="361" />
+<SubTexture name="teeth bottom0001" x="975" y="368" width="988" height="337" frameX="-46" frameY="-24" frameWidth="1035" frameHeight="361" />
+<SubTexture name="teeth top0000" x="0" y="0" width="1034" height="368" frameX="0" frameY="0" frameWidth="1037" frameHeight="417" />
+<SubTexture name="teeth top0001" x="1034" y="0" width="1035" height="362" frameX="-2" frameY="-4" frameWidth="1037" frameHeight="417" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="requital.png">
+<SubTexture name="requital jump0000" x="0" y="899" width="254" height="308" frameX="-23" frameY="-13" frameWidth="290" frameHeight="327" />
+<SubTexture name="requital jump0001" x="637" y="454" width="266" height="319" frameX="-13" frameY="0" frameWidth="290" frameHeight="327" />
+<SubTexture name="requital jump0002" x="903" y="454" width="290" height="312" frameX="0" frameY="-15" frameWidth="290" frameHeight="327" />
+<SubTexture name="requital idle0000" x="0" y="454" width="637" height="445" frameX="-44" frameY="-7" frameWidth="682" frameHeight="454" />
+<SubTexture name="requital idle0001" x="670" y="0" width="682" height="452" frameX="0" frameY="-2" frameWidth="682" frameHeight="454" />
+<SubTexture name="requital idle0002" x="0" y="0" width="670" height="454" frameX="-9" frameY="0" frameWidth="682" frameHeight="454" />
+</TextureAtlas>

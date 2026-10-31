@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="normal pumpkin.png">
+<SubTexture name="normal pumpkin idle0000" x="535" y="311" width="222" height="218" frameX="-15" frameY="-119" frameWidth="256" frameHeight="405" />
+<SubTexture name="normal pumpkin idle0001" x="0" y="0" width="240" height="311" frameX="-26" frameY="-24" frameWidth="286" frameHeight="385" />
+<SubTexture name="normal pumpkin idle0002" x="290" y="311" width="245" height="221" frameX="-21" frameY="-81" frameWidth="306" frameHeight="377" />
+<SubTexture name="normal pumpkin idle0003" x="240" y="0" width="266" height="278" frameX="-22" frameY="-29" frameWidth="306" frameHeight="385" />
+<SubTexture name="normal pumpkin idle0004" x="506" y="0" width="301" height="260" frameX="-3" frameY="-48" frameWidth="306" frameHeight="385" />
+<SubTexture name="normal pumpkin idle0005" x="0" y="311" width="290" height="251" frameX="-7" frameY="-55" frameWidth="297" frameHeight="395" />
+</TextureAtlas>
