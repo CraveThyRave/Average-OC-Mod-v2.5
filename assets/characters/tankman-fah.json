@@ -64,7 +64,11 @@
 			"loop": false,
 			"fps": 13,
 			"anim": "singUP-alt",
-			"indices": [],
+			"indices": [
+				2,
+				1,
+				0
+			],
 			"name": "bleh"
 		},
 		{

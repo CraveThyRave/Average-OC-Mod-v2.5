@@ -95,7 +95,10 @@
 			"anim": "singUP-alt",
 			"fps": 10,
 			"name": "laugh",
-			"indices": []
+			"indices": [
+				1,
+				0
+			]
 		},
 		{
 			"loop": false,

@@ -122,8 +122,8 @@
 			"fps": 12,
 			"anim": "singDOWNmiss",
 			"indices": [
-				0,
-				1
+				1,
+				0
 			],
 			"name": "fah-playable d-miss"
 		},
@@ -136,8 +136,8 @@
 			"fps": 12,
 			"anim": "singUPmiss",
 			"indices": [
-				0,
-				1
+				1,
+				0
 			],
 			"name": "fah-playable u-miss"
 		},
@@ -181,9 +181,9 @@
 			"fps": 12,
 			"name": "fah-playable l-miss",
 			"indices": [
-				0,
+				2,
 				1,
-				2
+				0
 			]
 		},
 		{
@@ -195,7 +195,10 @@
 			"anim": "singLEFTmiss",
 			"fps": 12,
 			"name": "fah-playable ri-miss",
-			"indices": []
+			"indices": [
+				1,
+				0
+			]
 		},
 		{
 			"loop": false,
