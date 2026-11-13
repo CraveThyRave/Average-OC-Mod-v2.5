@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yoyai-idle-first.png">
+<SubTexture name="yoyai first0000" x="62" y="0" width="492" height="1341" frameX="-62" frameY="0" frameWidth="594" frameHeight="1351" />
+</TextureAtlas>

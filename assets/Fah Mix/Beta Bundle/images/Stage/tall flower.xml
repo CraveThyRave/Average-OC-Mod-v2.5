@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tall flower.png">
+<SubTexture name="tall flower idle0000" x="213" y="0" width="224" height="549" frameX="-8" frameY="-56" frameWidth="255" frameHeight="605" />
+<SubTexture name="tall flower idle0001" x="638" y="0" width="255" height="294" frameX="0" frameY="-306" frameWidth="255" frameHeight="605" />
+<SubTexture name="tall flower idle0002" x="0" y="0" width="213" height="588" frameX="-11" frameY="0" frameWidth="255" frameHeight="605" />
+<SubTexture name="tall flower grow0000" x="0" y="588" width="170" height="148" frameX="-63" frameY="-442" frameWidth="255" frameHeight="605" />
+<SubTexture name="tall flower grow0001" x="638" y="294" width="205" height="256" frameX="-27" frameY="-327" frameWidth="255" frameHeight="605" />
+<SubTexture name="tall flower grow0002" x="437" y="0" width="201" height="515" frameX="-11" frameY="-81" frameWidth="255" frameHeight="605" />
+</TextureAtlas>

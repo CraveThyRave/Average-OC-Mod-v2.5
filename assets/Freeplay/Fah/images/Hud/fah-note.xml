@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fah-note.png">
+<SubTexture name="fah-note appear0000" x="171" y="0" width="162" height="132" frameX="-102" frameY="-42" frameWidth="318" frameHeight="224" />
+<SubTexture name="fah-note appear0001" x="0" y="0" width="171" height="138" frameX="-97" frameY="-37" frameWidth="318" frameHeight="224" />
+<SubTexture name="fah-note appear0002" x="333" y="103" width="95" height="79" frameX="-136" frameY="-51" frameWidth="318" frameHeight="224" />
+<SubTexture name="fah-note appear0003" x="333" y="0" width="109" height="103" frameX="-126" frameY="-26" frameWidth="318" frameHeight="224" />
+<SubTexture name="fah-note idle0000" x="0" y="138" width="129" height="117" frameX="-114" frameY="-11" frameWidth="318" frameHeight="224" />
+<SubTexture name="fah-note idle0001" x="129" y="138" width="130" height="115" frameX="-113" frameY="-12" frameWidth="318" frameHeight="224" />
+</TextureAtlas>

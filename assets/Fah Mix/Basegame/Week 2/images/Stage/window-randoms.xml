@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="window-randoms.png">
+<SubTexture name="window cult0000" x="10" y="5" width="593" height="630" frameX="-514" frameY="-237" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="window cult0001" x="16" y="1411" width="591" height="644" frameX="-520" frameY="-234" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="window cult0002" x="2959" y="2" width="585" height="637" frameX="-523" frameY="-234" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="window eye0000" x="2937" y="1398" width="608" height="626" frameX="-501" frameY="-221" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="window eye0001" x="2" y="2820" width="604" height="642" frameX="-506" frameY="-234" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="window eye0002" x="2936" y="2823" width="613" height="613" frameX="-500" frameY="-237" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="window aspen10000" x="0" y="4228" width="616" height="610" frameX="-504" frameY="-233" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="window aspen10001" x="2942" y="4229" width="618" height="610" frameX="-506" frameY="-234" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="window aspen10002" x="5878" y="0" width="615" height="613" frameX="-502" frameY="-232" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="window aspen20000" x="5877" y="1403" width="608" height="652" frameX="-501" frameY="-226" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="window aspen20001" x="5889" y="2816" width="594" height="639" frameX="-513" frameY="-230" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="window aspen20002" x="5883" y="4220" width="599" height="648" frameX="-507" frameY="-225" frameWidth="2940" frameHeight="1409" />
+</TextureAtlas>

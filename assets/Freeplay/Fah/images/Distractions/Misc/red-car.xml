@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="red-car.png">
+<SubTexture name="red-car idle0000" x="201" y="0" width="200" height="161" frameX="-57" frameY="-43" frameWidth="301" frameHeight="247" />
+<SubTexture name="red-car idle0001" x="0" y="0" width="201" height="162" frameX="-57" frameY="-43" frameWidth="301" frameHeight="247" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pee.png">
+<SubTexture name="pee idle0000" x="0" y="0" width="232" height="457" frameX="-755" frameY="-328" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="pee idle0001" x="461" y="0" width="230" height="445" frameX="-757" frameY="-339" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="pee idle0002" x="232" y="0" width="229" height="455" frameX="-759" frameY="-330" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="pee idle0003" x="691" y="0" width="227" height="434" frameX="-759" frameY="-348" frameWidth="1500" frameHeight="1000" />
+</TextureAtlas>

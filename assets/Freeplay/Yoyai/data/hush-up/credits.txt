@@ -1,0 +1,11 @@
+Chibi = yoyai
+ChibiScale = 0.6
+ChibiClipY = 401
+Composer = Tabby Kat
+Visuals = Brytato
+Charted = Bwippity
+Chromatics = Stuffyant
+Animation = Bwippity, Brytato
+Coded = CraveThyRave
+IntroDuration = 0.3
+TrackControlled = true

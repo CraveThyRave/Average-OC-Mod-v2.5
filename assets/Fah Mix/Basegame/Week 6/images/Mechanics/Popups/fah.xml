@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fah.png">
+<SubTexture name="10000" x="0" y="0" width="317" height="454" frameX="-58" frameY="-25" frameWidth="393" frameHeight="486" />
+<SubTexture name="10001" x="317" y="0" width="322" height="435" frameX="-57" frameY="-24" frameWidth="393" frameHeight="486" />
+<SubTexture name="20000" x="639" y="0" width="315" height="377" frameX="-16" frameY="-42" frameWidth="341" frameHeight="441" />
+<SubTexture name="20001" x="0" y="454" width="317" height="375" frameX="-15" frameY="-43" frameWidth="341" frameHeight="441" />
+<SubTexture name="30000" x="317" y="454" width="379" height="366" frameX="-11" frameY="-39" frameWidth="414" frameHeight="426" />
+<SubTexture name="30001" x="954" y="0" width="381" height="363" frameX="-12" frameY="-40" frameWidth="414" frameHeight="426" />
+<SubTexture name="40000" x="873" y="829" width="299" height="265" frameX="-17" frameY="-17" frameWidth="335" frameHeight="304" />
+<SubTexture name="40001" x="1335" y="0" width="295" height="258" frameX="-21" frameY="-20" frameWidth="335" frameHeight="304" />
+<SubTexture name="50000" x="347" y="829" width="264" height="311" frameX="-8" frameY="-52" frameWidth="305" frameHeight="400" />
+<SubTexture name="50001" x="611" y="829" width="262" height="305" frameX="-9" frameY="-51" frameWidth="305" frameHeight="400" />
+<SubTexture name="60000" x="954" y="363" width="350" height="333" frameX="-1" frameY="-85" frameWidth="376" frameHeight="458" />
+<SubTexture name="60001" x="0" y="829" width="347" height="330" frameX="0" frameY="-82" frameWidth="376" frameHeight="458" />
+</TextureAtlas>

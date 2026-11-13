@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="raven-glitch.png">
+<SubTexture name="raven-glitch danceLeft0000" x="1125" y="1624" width="393" height="745" frameX="-228" frameY="-145" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-glitch danceLeft0001" x="374" y="1624" width="385" height="754" frameX="-236" frameY="-136" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-glitch danceLeft0002" x="2326" y="0" width="376" height="762" frameX="-245" frameY="-128" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-glitch danceLeft0003" x="869" y="855" width="370" height="764" frameX="-251" frameY="-125" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-glitch danceLeft0004" x="1239" y="855" width="370" height="764" frameX="-252" frameY="-125" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-glitch danceRight0000" x="759" y="1624" width="366" height="746" frameX="-280" frameY="-144" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-glitch danceRight0001" x="0" y="1624" width="374" height="756" frameX="-264" frameY="-134" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-glitch danceRight0002" x="2326" y="762" width="372" height="762" frameX="-258" frameY="-128" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-glitch danceRight0003" x="1902" y="764" width="372" height="763" frameX="-254" frameY="-126" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-glitch danceRight0004" x="1239" y="855" width="370" height="764" frameX="-252" frameY="-125" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-glitch down0000" x="1218" y="2380" width="623" height="540" frameX="-174" frameY="-458" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="raven-glitch down0001" x="0" y="2380" width="609" height="574" frameX="-176" frameY="-422" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="raven-glitch down0002" x="609" y="2380" width="609" height="562" frameX="-176" frameY="-434" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="raven-glitch up0000" x="0" y="0" width="637" height="855" frameX="-132" frameY="-149" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="raven-glitch up0001" x="1270" y="0" width="632" height="838" frameX="-137" frameY="-166" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="raven-glitch up0002" x="637" y="0" width="633" height="845" frameX="-137" frameY="-159" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="raven-glitch left0000" x="0" y="855" width="442" height="769" frameX="-122" frameY="-236" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="raven-glitch left0001" x="1902" y="0" width="424" height="764" frameX="-142" frameY="-241" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="raven-glitch left0002" x="442" y="855" width="427" height="766" frameX="-139" frameY="-239" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="raven-glitch right0000" x="2702" y="0" width="513" height="704" frameX="-394" frameY="-297" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="raven-glitch right0001" x="1518" y="1624" width="494" height="705" frameX="-393" frameY="-296" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="raven-glitch right0002" x="2012" y="1624" width="500" height="705" frameX="-394" frameY="-296" frameWidth="1000" frameHeight="1200" />
+</TextureAtlas>

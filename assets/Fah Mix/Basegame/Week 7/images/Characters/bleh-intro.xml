@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bleh-intro.png">
+<SubTexture name="bleh-intro idle0000" x="1579" y="439" width="296" height="433" frameX="-19" frameY="-32" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0001" x="670" y="0" width="286" height="462" frameX="-23" frameY="-4" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0002" x="382" y="0" width="288" height="465" frameX="-24" frameY="-3" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0003" x="670" y="0" width="286" height="462" frameX="-23" frameY="-4" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0004" x="382" y="0" width="288" height="465" frameX="-24" frameY="-3" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0005" x="670" y="0" width="286" height="462" frameX="-23" frameY="-4" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0006" x="622" y="933" width="288" height="442" frameX="-22" frameY="-20" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0007" x="0" y="933" width="313" height="449" frameX="-12" frameY="-18" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0008" x="313" y="933" width="309" height="444" frameX="-7" frameY="-25" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0009" x="408" y="471" width="309" height="458" frameX="-14" frameY="0" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0010" x="956" y="454" width="303" height="450" frameX="-16" frameY="-11" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0011" x="408" y="471" width="309" height="458" frameX="-14" frameY="0" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0012" x="956" y="454" width="303" height="450" frameX="-16" frameY="-11" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0013" x="408" y="471" width="309" height="458" frameX="-14" frameY="0" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0014" x="956" y="454" width="303" height="450" frameX="-16" frameY="-11" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0015" x="408" y="471" width="309" height="458" frameX="-14" frameY="0" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0016" x="1277" y="450" width="302" height="443" frameX="-14" frameY="-18" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0017" x="344" y="1382" width="315" height="423" frameX="0" frameY="-36" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0018" x="1277" y="450" width="302" height="443" frameX="-14" frameY="-18" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0019" x="344" y="1382" width="315" height="423" frameX="0" frameY="-36" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0020" x="1277" y="450" width="302" height="443" frameX="-14" frameY="-18" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0021" x="344" y="1382" width="315" height="423" frameX="0" frameY="-36" frameWidth="325" frameHeight="469" />
+<SubTexture name="bleh-intro idle0022" x="659" y="1382" width="316" height="423" frameX="0" frameY="-36" frameWidth="419" frameHeight="481" />
+<SubTexture name="bleh-intro idle0023" x="1579" y="872" width="304" height="432" frameX="-18" frameY="-30" frameWidth="419" frameHeight="481" />
+<SubTexture name="bleh-intro idle0024" x="956" y="0" width="321" height="454" frameX="12" frameY="-10" frameWidth="419" frameHeight="481" />
+<SubTexture name="bleh-intro idle0025" x="1579" y="0" width="330" height="439" frameX="-7" frameY="-25" frameWidth="419" frameHeight="481" />
+<SubTexture name="bleh-intro idle0026" x="910" y="933" width="320" height="441" frameX="-10" frameY="-23" frameWidth="419" frameHeight="481" />
+<SubTexture name="bleh-intro idle0027" x="1277" y="0" width="302" height="450" frameX="-14" frameY="-20" frameWidth="419" frameHeight="481" />
+<SubTexture name="bleh-intro idle0028" x="1230" y="933" width="319" height="441" frameX="-17" frameY="-32" frameWidth="419" frameHeight="481" />
+<SubTexture name="bleh-intro idle0029" x="975" y="1382" width="391" height="380" frameX="33" frameY="-92" frameWidth="419" frameHeight="481" />
+<SubTexture name="bleh-intro idle0030" x="0" y="0" width="382" height="471" frameX="49" frameY="7" frameWidth="419" frameHeight="481" />
+<SubTexture name="bleh-intro idle0031" x="0" y="471" width="408" height="462" frameX="61" frameY="-12" frameWidth="419" frameHeight="481" />
+<SubTexture name="bleh-intro idle0032" x="0" y="1382" width="344" height="437" frameX="19" frameY="-19" frameWidth="419" frameHeight="481" />
+</TextureAtlas>

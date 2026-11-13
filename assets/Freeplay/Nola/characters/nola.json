@@ -1,0 +1,94 @@
+{
+	"healthbar_colors": [
+		181,
+		66,
+		82
+	],
+	"icon_settings": {
+		"animations": [],
+		"preview": {
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 1
+		},
+		"name": "noler",
+		"offset": {
+			"x": 0,
+			"y": 0
+		}
+	},
+	"icon_hud": "Auto",
+	"position": [
+		-30,
+		-280
+	],
+	"scale": 0.8,
+	"no_antialiasing": false,
+	"camera_position": [
+		270,
+		70
+	],
+	"image": "characters/skyline/nola",
+	"sing_duration": 4,
+	"healthicon": "noler",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				17
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "nola idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				12
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "nola down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "nola left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "nola right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				15
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "nola up",
+			"indices": []
+		}
+	]
+}

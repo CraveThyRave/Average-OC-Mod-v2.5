@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="distractions.png">
+<SubTexture name="test scare0000" x="2186" y="0" width="533" height="763" frameX="0" frameY="-10" frameWidth="544" frameHeight="773" />
+<SubTexture name="test scare0001" x="551" y="1173" width="544" height="771" frameX="0" frameY="0" frameWidth="544" frameHeight="773" />
+<SubTexture name="test start-exp0000" x="2409" y="2031" width="584" height="468" frameX="-126" frameY="-120" frameWidth="912" frameHeight="703" />
+<SubTexture name="test explode0000" x="912" y="2031" width="741" height="660" frameX="-54" frameY="0" frameWidth="912" frameHeight="703" />
+<SubTexture name="test explode0001" x="1653" y="2031" width="756" height="642" frameX="-64" frameY="-56" frameWidth="912" frameHeight="703" />
+<SubTexture name="test explode0002" x="0" y="2031" width="912" height="689" frameX="0" frameY="-14" frameWidth="912" frameHeight="703" />
+<SubTexture name="test bomb0000" x="0" y="2720" width="548" height="441" frameX="0" frameY="-33" frameWidth="548" frameHeight="482" />
+<SubTexture name="test bomb0001" x="2186" y="763" width="430" height="482" frameX="-112" frameY="0" frameWidth="548" frameHeight="482" />
+<SubTexture name="test sentry0000" x="2719" y="726" width="573" height="549" frameX="0" frameY="0" frameWidth="576" frameHeight="552" />
+<SubTexture name="test sentry0001" x="2719" y="1275" width="570" height="549" frameX="-6" frameY="-3" frameWidth="576" frameHeight="552" />
+<SubTexture name="test robot0000" x="822" y="0" width="815" height="1165" frameX="0" frameY="-5" frameWidth="825" frameHeight="1173" />
+<SubTexture name="test robot0001" x="0" y="0" width="822" height="1173" frameX="-3" frameY="0" frameWidth="825" frameHeight="1173" />
+<SubTexture name="test jump0000" x="1637" y="0" width="549" height="868" frameX="0" frameY="0" frameWidth="552" frameHeight="868" />
+<SubTexture name="test jump0001" x="0" y="1173" width="551" height="858" frameX="-1" frameY="-2" frameWidth="552" frameHeight="868" />
+<SubTexture name="test double jump 0000" x="1095" y="1173" width="738" height="767" frameX="0" frameY="-5" frameWidth="738" frameHeight="772" />
+<SubTexture name="test double jump 0001" x="2719" y="0" width="694" height="726" frameX="-6" frameY="0" frameWidth="738" frameHeight="772" />
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<TextureAtlas imagePath="YoyaiHap.png">
+<SubTexture name="YoyaiHap idle0000" x="2195" y="0" width="490" height="1099" frameX="-167" frameY="-80" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiHap idle0001" x="0" y="1154" width="490" height="1087" frameX="-166" frameY="-79" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiHap idle0002" x="1701" y="0" width="494" height="1102" frameX="-168" frameY="-77" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiHap scared0000" x="1280" y="0" width="421" height="1108" frameX="-128" frameY="-82" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiHap scared0001" x="858" y="0" width="422" height="1121" frameX="-133" frameY="-57" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiHap downtap0000" x="2685" y="1067" width="479" height="1060" frameX="-187" frameY="-118" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiHap downtap0001" x="2685" y="0" width="484" height="1067" frameX="-182" frameY="-111" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiHap clapup0000" x="0" y="0" width="417" height="1154" frameX="-169" frameY="-25" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiHap clapup0001" x="417" y="0" width="441" height="1140" frameX="-174" frameY="-39" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiHap lefthip0000" x="1982" y="1154" width="558" height="1069" frameX="-97" frameY="-109" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiHap lefthip0001" x="1401" y="1154" width="581" height="1082" frameX="-75" frameY="-96" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiHap rightgolfclap0000" x="950" y="1154" width="451" height="1087" frameX="-210" frameY="-87" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiHap rightgolfclap0001" x="490" y="1154" width="460" height="1087" frameX="-200" frameY="-83" frameWidth="900" frameHeight="1250" />
+</TextureAtlas>

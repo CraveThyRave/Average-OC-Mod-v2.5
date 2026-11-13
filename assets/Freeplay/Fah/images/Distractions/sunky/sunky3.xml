@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sunky3.png">
+<SubTexture name="sunky3 idle0000" x="0" y="0" width="362" height="219" frameX="-25" frameY="-33" frameWidth="420" frameHeight="270" />
+<SubTexture name="sunky3 idle0001" x="362" y="0" width="357" height="216" frameX="-30" frameY="-32" frameWidth="420" frameHeight="270" />
+</TextureAtlas>

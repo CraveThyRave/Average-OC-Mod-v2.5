@@ -1,0 +1,349 @@
+{
+	"healthbar_colors": [
+		254,
+		254,
+		255
+	],
+	"icon_settings": {
+		"preview": {
+			"scale": 1,
+			"layout": "week7",
+			"downscroll": false,
+			"player": true
+		},
+		"offset": {
+			"x": 10,
+			"y": 1
+		},
+		"name": "fahtank-playable",
+		"animations": [
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 2
+						},
+						"name": "idle0000"
+					},
+					{
+						"scale": 0.95,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 2
+						},
+						"name": "idle0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "idle0002"
+					}
+				],
+				"offset": {
+					"x": 0,
+					"y": 0
+				},
+				"name": "idle"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0002"
+					}
+				],
+				"offset": {
+					"x": 0,
+					"y": 0
+				},
+				"name": "win"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "lose0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "lose0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "lose0002"
+					}
+				],
+				"offset": {
+					"x": 0,
+					"y": 0
+				},
+				"name": "lose"
+			}
+		]
+	},
+	"icon_hud": "Auto",
+	"position": [
+		220,
+		490
+	],
+	"scale": 1,
+	"no_antialiasing": false,
+	"camera_position": [
+		120,
+		-180
+	],
+	"image": "characters/tankfah-playable",
+	"sing_duration": 4,
+	"healthicon": "fahtank-playable",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"offsets": [
+				173,
+				112
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				122,
+				138
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				153,
+				128
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				160,
+				110
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWNmiss",
+			"indices": [
+				1,
+				0
+			],
+			"name": "d-miss"
+		},
+		{
+			"offsets": [
+				140,
+				140
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUPmiss",
+			"indices": [
+				1,
+				0
+			],
+			"name": "u-miss"
+		},
+		{
+			"offsets": [
+				100,
+				116
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				163,
+				99
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				84,
+				97
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				1,
+				0
+			],
+			"name": "l-miss"
+		},
+		{
+			"offsets": [
+				172,
+				98
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFTmiss",
+			"indices": [
+				1,
+				0
+			],
+			"name": "r-miss"
+		},
+		{
+			"offsets": [
+				140,
+				99
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN-alt",
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"name": "down-alt"
+		},
+		{
+			"offsets": [
+				130,
+				110
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP-alt",
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"name": "up-alt"
+		},
+		{
+			"offsets": [
+				190,
+				82
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT-alt",
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"name": "left-alt"
+		},
+		{
+			"offsets": [
+				50,
+				70
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"name": "right-alt"
+		},
+		{
+			"offsets": [
+				112,
+				103
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "shrug",
+			"indices": [],
+			"name": "shrug idle"
+		}
+	]
+}

@@ -1,0 +1,343 @@
+{
+	"healthbar_colors": [
+		131,
+		167,
+		189
+	],
+	"position": [
+		10,
+		-10
+	],
+	"icon_hud": "Auto",
+	"icon_settings": {
+		"animations": [
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "idle0000",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "idle0001",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "idle0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "idle",
+				"offset": {
+					"x": 15,
+					"y": 0
+				},
+				"scale": 1
+			},
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "win0000",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "win0001",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "win0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "win",
+				"offset": {
+					"x": 13,
+					"y": 0
+				},
+				"scale": 1.05
+			},
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "lose0000",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "lose0001",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "lose0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "lose",
+				"offset": {
+					"x": 12,
+					"y": 0
+				},
+				"scale": 1
+			}
+		],
+		"preview": {
+			"player": true,
+			"downscroll": false,
+			"layout": "what-the-fah",
+			"scale": 1.1
+		},
+		"name": "fah-bf",
+		"offset": {
+			"x": -1,
+			"y": -9.5
+		}
+	},
+	"no_antialiasing": false,
+	"scale": 1,
+	"image": "characters/fah/bf",
+	"camera_position": [
+		440,
+		-160
+	],
+	"sing_duration": 4,
+	"healthicon": "fah-bf",
+	"flip_x": true,
+	"animations": [
+		{
+			"offsets": [
+				156,
+				100
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "bf idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				108
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "bf up",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				105
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "bf left",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				108
+			],
+			"anim": "singUPmiss",
+			"fps": 10,
+			"name": "bf up-miss",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				100
+			],
+			"anim": "singLEFTmiss",
+			"fps": 10,
+			"name": "bf left-miss",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				100
+			],
+			"anim": "singDOWNmiss",
+			"fps": 10,
+			"name": "bf right-miss",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				101
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 10,
+			"name": "bf down-miss",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				93
+			],
+			"anim": "singRIGHT",
+			"fps": 7,
+			"name": "bf right",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				94
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "bf down",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				238,
+				43
+			],
+			"anim": "singLEFT-alt",
+			"fps": 10,
+			"name": "bf left-alt",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				79
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 10,
+			"name": "bf right-alt",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				209,
+				73
+			],
+			"anim": "singUP-alt",
+			"fps": 10,
+			"name": "bf up-alt",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				243,
+				66
+			],
+			"anim": "singDOWN-alt",
+			"fps": 10,
+			"name": "bf down-alt",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		}
+	],
+	"extra_images": []
+}

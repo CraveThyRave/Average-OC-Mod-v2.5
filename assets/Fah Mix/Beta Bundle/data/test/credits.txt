@@ -1,0 +1,16 @@
+IntroStep = 512
+DisplayDuration = 4
+IntroDuration = 0.5
+OutroDuration = 0.3
+Chibi = fahbotcredit
+ChibiX = 8
+ChibiY = 18
+ChibiScale = 0.64
+ChibiClipY = 401
+Composer = Bwippity
+Color = 828A86
+DetailColor = 828A86
+Charted = Bwippity
+Chromatic = StuffyAnt
+Art = Brytato
+Coded = CraveThyRave

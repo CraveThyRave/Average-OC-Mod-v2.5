@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Retrogabby.png">
+<SubTexture name="retrogabbychibi click0000" x="308" y="0" width="431" height="320" frameX="0" frameY="-115" frameWidth="453" frameHeight="455" />
+<SubTexture name="retrogabbychibi stand0000" x="0" y="0" width="308" height="452" frameX="-108" frameY="0" frameWidth="453" frameHeight="455" />
+<SubTexture name="retrogabbychibi sit0000" x="739" y="234" width="303" height="221" frameX="-100" frameY="-234" frameWidth="453" frameHeight="455" />
+<SubTexture name="retrogabbychibi walk0000" x="299" y="452" width="348" height="251" frameX="-68" frameY="-103" frameWidth="453" frameHeight="455" />
+<SubTexture name="retrogabbychibi walk0001" x="739" y="0" width="305" height="234" frameX="-66" frameY="-118" frameWidth="453" frameHeight="455" />
+<SubTexture name="retrogabbychibi walk0002" x="0" y="452" width="299" height="255" frameX="-36" frameY="-100" frameWidth="453" frameHeight="455" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="santa.png">
+<SubTexture name="eaten0000" x="0" y="0" width="442" height="559" frameX="-41" frameY="-15" frameWidth="513" frameHeight="597" />
+<SubTexture name="eaten0001" x="432" y="559" width="440" height="553" frameX="-41" frameY="-18" frameWidth="513" frameHeight="597" />
+<SubTexture name="eaten0002" x="884" y="0" width="432" height="558" frameX="-43" frameY="-15" frameWidth="513" frameHeight="597" />
+<SubTexture name="eating0000" x="442" y="0" width="442" height="559" frameX="-41" frameY="-15" frameWidth="513" frameHeight="597" />
+<SubTexture name="eating0001" x="872" y="559" width="440" height="553" frameX="-41" frameY="-18" frameWidth="513" frameHeight="597" />
+<SubTexture name="eating0002" x="0" y="559" width="432" height="558" frameX="-43" frameY="-15" frameWidth="513" frameHeight="597" />
+</TextureAtlas>

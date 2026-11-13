@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="botfah.png">
+<SubTexture name="win0000" x="0" y="0" width="236" height="215" frameX="-19" frameY="-21" frameWidth="255" frameHeight="239" />
+<SubTexture name="win0001" x="236" y="0" width="237" height="204" frameX="-16" frameY="-34" frameWidth="255" frameHeight="239" />
+<SubTexture name="win0002" x="244" y="419" width="231" height="200" frameX="-19" frameY="-33" frameWidth="255" frameHeight="239" />
+<SubTexture name="lose0000" x="475" y="419" width="234" height="199" frameX="-11" frameY="-18" frameWidth="269" frameHeight="217" />
+<SubTexture name="lose0001" x="0" y="215" width="237" height="204" frameX="-9" frameY="-11" frameWidth="269" frameHeight="217" />
+<SubTexture name="lose0002" x="237" y="215" width="236" height="204" frameX="-10" frameY="-13" frameWidth="269" frameHeight="217" />
+<SubTexture name="idle0000" x="0" y="419" width="244" height="203" frameX="0" frameY="0" frameWidth="261" frameHeight="210" />
+<SubTexture name="idle0001" x="473" y="0" width="237" height="204" frameX="-3" frameY="-1" frameWidth="261" frameHeight="210" />
+<SubTexture name="idle0002" x="473" y="204" width="229" height="204" frameX="-5" frameY="0" frameWidth="261" frameHeight="210" />
+</TextureAtlas>

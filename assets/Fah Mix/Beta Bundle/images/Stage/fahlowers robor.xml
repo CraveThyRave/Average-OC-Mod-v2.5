@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fahlowers robor.png">
+<SubTexture name="fahlowers robor tall-flower-idle0000" x="214" y="0" width="228" height="549" frameX="-8" frameY="-56" frameWidth="255" frameHeight="605" />
+<SubTexture name="fahlowers robor tall-flower-idle0001" x="643" y="0" width="255" height="295" frameX="0" frameY="-305" frameWidth="255" frameHeight="605" />
+<SubTexture name="fahlowers robor tall-flower-idle0002" x="0" y="0" width="214" height="589" frameX="-11" frameY="0" frameWidth="255" frameHeight="605" />
+<SubTexture name="fahlowers robor mini-flower-intro0000" x="898" y="148" width="139" height="105" frameX="-7" frameY="-161" frameWidth="342" frameHeight="271" />
+<SubTexture name="fahlowers robor mini-flower-intro0001" x="0" y="849" width="182" height="135" frameX="-36" frameY="-134" frameWidth="342" frameHeight="271" />
+<SubTexture name="fahlowers robor mini-flower-intro0002" x="658" y="589" width="203" height="188" frameX="-32" frameY="-82" frameWidth="342" frameHeight="271" />
+<SubTexture name="fahlowers robor miniflower-idle0000" x="0" y="589" width="212" height="260" frameX="-130" frameY="-10" frameWidth="342" frameHeight="271" />
+<SubTexture name="fahlowers robor miniflower-idle0001" x="417" y="589" width="241" height="238" frameX="-25" frameY="-29" frameWidth="342" frameHeight="271" />
+<SubTexture name="fahlowers robor miniflower-idle0002" x="643" y="295" width="204" height="271" frameX="0" frameY="0" frameWidth="342" frameHeight="271" />
+<SubTexture name="fahlowers robor tall-flower-intreo0000" x="898" y="0" width="170" height="148" frameX="-63" frameY="-442" frameWidth="255" frameHeight="605" />
+<SubTexture name="fahlowers robor tall-flower-intreo0001" x="212" y="589" width="205" height="256" frameX="-27" frameY="-327" frameWidth="255" frameHeight="605" />
+<SubTexture name="fahlowers robor tall-flower-intreo0002" x="442" y="0" width="201" height="515" frameX="-11" frameY="-81" frameWidth="255" frameHeight="605" />
+</TextureAtlas>

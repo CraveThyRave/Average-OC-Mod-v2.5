@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="norm floor.png">
+<SubTexture name="norm floor idle0000" x="0" y="0" width="1362" height="344" frameX="0" frameY="0" frameWidth="1385" frameHeight="350" />
+<SubTexture name="norm floor idle0001" x="1362" y="0" width="1370" height="315" frameX="-15" frameY="-35" frameWidth="1385" frameHeight="350" />
+<SubTexture name="norm floor idle0002" x="0" y="344" width="1354" height="329" frameX="-22" frameY="-17" frameWidth="1385" frameHeight="350" />
+</TextureAtlas>

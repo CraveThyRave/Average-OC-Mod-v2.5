@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="front-grass.png">
+<SubTexture name="front-grass grow0000" x="945" y="629" width="280" height="210" frameX="-29" frameY="-378" frameWidth="669" frameHeight="635" />
+<SubTexture name="front-grass grow0001" x="473" y="629" width="472" height="516" frameX="-19" frameY="-102" frameWidth="669" frameHeight="635" />
+<SubTexture name="front-grass grow0002" x="0" y="629" width="473" height="580" frameX="-14" frameY="-25" frameWidth="669" frameHeight="635" />
+<SubTexture name="front-grass grow0003" x="592" y="0" width="669" height="624" frameX="0" frameY="-11" frameWidth="669" frameHeight="635" />
+<SubTexture name="front-grass idle0000" x="592" y="0" width="669" height="624" frameX="0" frameY="-11" frameWidth="669" frameHeight="635" />
+<SubTexture name="front-grass idle0001" x="0" y="0" width="592" height="629" frameX="-1" frameY="0" frameWidth="669" frameHeight="635" />
+</TextureAtlas>

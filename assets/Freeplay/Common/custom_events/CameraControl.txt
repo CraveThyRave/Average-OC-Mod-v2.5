@@ -1,0 +1,25 @@
+-- VALUE 1:
+-- dad
+-- bf
+-- middle
+-- default
+--
+-- OPTIONAL OFFSET:
+-- dad,30
+-- dad,-50
+-- bf,100
+--
+-- Dad:
+-- positive = LEFT
+-- negative = RIGHT
+--
+-- BF:
+-- positive = LEFT
+-- negative = RIGHT
+--
+-- VALUE 2:
+-- number = sets camera_speed
+-- snap   = temporarily uses 1000 speed then restores speed
+
+Vertical offset in Value 1: dad,++100 moves up 100 pixels. bf,--100 moves down 100 pixels.
+Combine axes with middle,-50,++100. Value 2 still accepts speed or snap.

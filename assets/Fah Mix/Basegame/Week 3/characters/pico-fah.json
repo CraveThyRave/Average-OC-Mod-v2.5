@@ -1,0 +1,304 @@
+{
+	"healthbar_colors": [
+		246,
+		180,
+		85
+	],
+	"position": [
+		0,
+		280
+	],
+	"icon_hud": "Auto",
+	"icon_settings": {
+		"animations": [
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "idle0000",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "idle0001",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "idle0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "idle",
+				"offset": {
+					"x": -3,
+					"y": -13
+				},
+				"scale": 1
+			},
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "win0000",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "win0001",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "win0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "win",
+				"offset": {
+					"x": 0,
+					"y": -15
+				},
+				"scale": 1
+			},
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "lose0000",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "lose0001",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "lose0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "lose",
+				"offset": {
+					"x": -5,
+					"y": -12
+				},
+				"scale": 1
+			}
+		],
+		"preview": {
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 0.5
+		},
+		"name": "pico-fah",
+		"offset": {
+			"x": 0,
+			"y": 0
+		}
+	},
+	"no_antialiasing": true,
+	"scale": 1,
+	"image": "characters/pico-fah",
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"healthicon": "pico-fah",
+	"flip_x": false,
+	"animations": [
+		{
+			"offsets": [
+				4,
+				-8
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-58,
+				-3
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-1,
+				-10
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [
+				1,
+				0
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-3,
+				-2
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				0
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				3,
+				-57
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "burp",
+			"indices": [],
+			"name": "burp"
+		},
+		{
+			"offsets": [
+				0,
+				5
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "shoot",
+			"indices": [],
+			"name": "shoot"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				-2
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-47
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN-alt",
+			"indices": [
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "burp"
+		},
+		{
+			"offsets": [
+				0,
+				-50
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "burp"
+		},
+		{
+			"offsets": [
+				0,
+				-50
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT-alt",
+			"indices": [
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "burp"
+		},
+		{
+			"offsets": [
+				0,
+				-47
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP-alt",
+			"indices": [
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "burp"
+		}
+	],
+	"extra_images": []
+}

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spotlight-dad-fah.png">
+<SubTexture name="spotlight-dad-fah idle0000" x="234" y="0" width="232" height="239" frameX="-26" frameY="-71" frameWidth="318" frameHeight="336" />
+<SubTexture name="spotlight-dad-fah idle0001" x="0" y="0" width="234" height="248" frameX="-21" frameY="-69" frameWidth="318" frameHeight="336" />
+<SubTexture name="spotlight-dad-fah idle0002" x="466" y="0" width="233" height="234" frameX="-30" frameY="-78" frameWidth="318" frameHeight="336" />
+</TextureAtlas>

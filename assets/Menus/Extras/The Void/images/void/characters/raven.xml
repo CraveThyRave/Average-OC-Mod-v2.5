@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="raven.png">
+<SubTexture name="raven print-face0000" x="684" y="1115" width="184" height="128" frameX="-235" frameY="-145" frameWidth="655" frameHeight="1069" />
+<SubTexture name="raven print-face0001" x="868" y="1115" width="188" height="116" frameX="-236" frameY="-139" frameWidth="655" frameHeight="1069" />
+<SubTexture name="raven print-body0000" x="2155" y="0" width="652" height="1066" frameX="0" frameY="-1" frameWidth="655" frameHeight="1069" />
+<SubTexture name="raven print-body0001" x="1500" y="0" width="655" height="1069" frameX="0" frameY="0" frameWidth="655" frameHeight="1069" />
+<SubTexture name="raven idle0000" x="0" y="1115" width="684" height="1048" frameX="-28" frameY="-65" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0001" x="0" y="1115" width="684" height="1048" frameX="-28" frameY="-65" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0002" x="971" y="0" width="529" height="1074" frameX="-55" frameY="-39" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0003" x="971" y="0" width="529" height="1074" frameX="-55" frameY="-39" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0004" x="0" y="1115" width="684" height="1048" frameX="-28" frameY="-65" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0005" x="0" y="1115" width="684" height="1048" frameX="-28" frameY="-65" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0006" x="0" y="0" width="456" height="1115" frameX="-118" frameY="0" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0007" x="0" y="0" width="456" height="1115" frameX="-118" frameY="0" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0008" x="0" y="1115" width="684" height="1048" frameX="-28" frameY="-65" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0009" x="0" y="1115" width="684" height="1048" frameX="-28" frameY="-65" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0010" x="456" y="0" width="515" height="1100" frameX="-99" frameY="-7" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0011" x="456" y="0" width="515" height="1100" frameX="-99" frameY="-7" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0012" x="0" y="1115" width="684" height="1048" frameX="-28" frameY="-65" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0013" x="0" y="1115" width="684" height="1048" frameX="-28" frameY="-65" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0014" x="0" y="0" width="456" height="1115" frameX="-118" frameY="0" frameWidth="712" frameHeight="1115" />
+<SubTexture name="raven idle0015" x="0" y="0" width="456" height="1115" frameX="-118" frameY="0" frameWidth="712" frameHeight="1115" />
+</TextureAtlas>

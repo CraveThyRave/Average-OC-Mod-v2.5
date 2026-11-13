@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ridge second.png">
+<SubTexture name="ridge second mag0000" x="1710" y="0" width="484" height="851" frameX="-199" frameY="-22" frameWidth="992" frameHeight="873" />
+<SubTexture name="ridge second mag0001" x="0" y="1030" width="478" height="837" frameX="-207" frameY="-28" frameWidth="992" frameHeight="873" />
+<SubTexture name="ridge second meta0000" x="0" y="0" width="852" height="1030" frameX="-4" frameY="0" frameWidth="920" frameHeight="1100" />
+<SubTexture name="ridge second meta0001" x="852" y="0" width="858" height="1028" frameX="0" frameY="0" frameWidth="920" frameHeight="1100" />
+</TextureAtlas>

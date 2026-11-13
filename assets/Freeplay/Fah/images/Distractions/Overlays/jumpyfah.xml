@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jumpyfah.png">
+<SubTexture name="idle0000" x="455" y="0" width="235" height="330" frameX="-41" frameY="-45" frameWidth="301" frameHeight="399" />
+<SubTexture name="idle0001" x="0" y="341" width="239" height="326" frameX="-39" frameY="-27" frameWidth="301" frameHeight="399" />
+<SubTexture name="idle0002" x="239" y="341" width="239" height="326" frameX="-37" frameY="-14" frameWidth="301" frameHeight="399" />
+<SubTexture name="idle0003" x="222" y="0" width="233" height="331" frameX="-39" frameY="-33" frameWidth="301" frameHeight="399" />
+<SubTexture name="idle0004" x="0" y="0" width="222" height="341" frameX="-47" frameY="-54" frameWidth="301" frameHeight="399" />
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bar-front.png">
+<SubTexture name="bar-front idle0000" x="0" y="53" width="240" height="52" frameX="-28" frameY="-31" frameWidth="290" frameHeight="103" />
+<SubTexture name="bar-front idle0001" x="0" y="0" width="244" height="53" frameX="-24" frameY="-29" frameWidth="290" frameHeight="103" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flower-foreground.png">
+<SubTexture name="flower-foreground grow0000" x="1510" y="117" width="1510" height="53" frameX="0" frameY="-957" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-foreground grow0001" x="1510" y="0" width="1510" height="117" frameX="0" frameY="-893" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-foreground grow0002" x="0" y="1150" width="1510" height="267" frameX="0" frameY="-743" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-foreground grow0003" x="0" y="808" width="1510" height="342" frameX="0" frameY="-668" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-foreground grow0004" x="0" y="0" width="1510" height="405" frameX="0" frameY="-605" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-foreground grow0005" x="0" y="405" width="1510" height="403" frameX="0" frameY="-607" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-foreground idle0000" x="0" y="0" width="1510" height="405" frameX="0" frameY="-605" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="flower-foreground idle0001" x="0" y="405" width="1510" height="403" frameX="0" frameY="-607" frameWidth="1500" frameHeight="1000" />
+</TextureAtlas>

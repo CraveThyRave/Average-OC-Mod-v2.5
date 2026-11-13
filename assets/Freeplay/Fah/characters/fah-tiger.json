@@ -1,0 +1,110 @@
+{
+	"healthbar_colors": [
+		197,
+		157,
+		57
+	],
+	"position": [
+		220,
+		0
+	],
+	"icon_hud": "Auto",
+	"icon_settings": {
+		"animations": [],
+		"preview": {
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 1
+		},
+		"name": "fah-tiger",
+		"offset": {
+			"x": 0,
+			"y": 0
+		}
+	},
+	"no_antialiasing": false,
+	"scale": 1,
+	"image": "characters/fah/fah-tiger",
+	"camera_position": [
+		-220,
+		-180
+	],
+	"sing_duration": 4,
+	"healthicon": "fah-tiger",
+	"flip_x": false,
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				170,
+				109
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "fah-tiger idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				160,
+				129
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singUP",
+			"loop": false,
+			"name": "fah-tiger up"
+		},
+		{
+			"offsets": [
+				113,
+				98
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "fah-tiger down"
+		},
+		{
+			"offsets": [
+				156,
+				105
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "fah-tiger left"
+		},
+		{
+			"offsets": [
+				81,
+				99
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "fah-tiger right"
+		}
+	],
+	"extra_images": []
+}

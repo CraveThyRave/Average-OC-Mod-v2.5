@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="popper.png">
+<SubTexture name="popper idle0000" x="0" y="357" width="363" height="345" frameX="-45" frameY="-46" frameWidth="454" frameHeight="450" />
+<SubTexture name="popper idle0001" x="353" y="0" width="357" height="351" frameX="-52" frameY="-41" frameWidth="454" frameHeight="450" />
+<SubTexture name="popper idle0002" x="0" y="0" width="353" height="357" frameX="-55" frameY="-44" frameWidth="454" frameHeight="450" />
+</TextureAtlas>

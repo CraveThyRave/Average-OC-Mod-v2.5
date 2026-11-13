@@ -1,0 +1,124 @@
+{
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"icon_settings": {
+		"animations": [],
+		"preview": {
+			"player": false,
+			"downscroll": false,
+			"layout": "christmas",
+			"scale": 0.8
+		},
+		"name": "dad",
+		"offset": {
+			"x": 0,
+			"y": 0
+		}
+	},
+	"icon_hud": "Auto",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"no_antialiasing": true,
+	"camera_position": [
+		430,
+		-220
+	],
+	"image": "characters/merrymama-fah",
+	"sing_duration": 6.1,
+	"healthicon": "dad",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "left",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "right",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-13
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "up",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "down",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				3
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				59,
+				33
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "clap",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				3,
+				3
+			],
+			"name": "clap"
+		}
+	]
+}

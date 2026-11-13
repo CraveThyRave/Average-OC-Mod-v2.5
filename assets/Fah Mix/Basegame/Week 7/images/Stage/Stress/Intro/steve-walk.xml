@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="steve-walk.png">
+<SubTexture name="steve-walk idle0000" x="0" y="0" width="318" height="587" frameX="0" frameY="0" frameWidth="402" frameHeight="587" />
+<SubTexture name="steve-walk idle0001" x="711" y="0" width="316" height="571" frameX="0" frameY="-3" frameWidth="402" frameHeight="587" />
+<SubTexture name="steve-walk idle0002" x="318" y="0" width="393" height="579" frameX="-9" frameY="-2" frameWidth="402" frameHeight="587" />
+</TextureAtlas>
