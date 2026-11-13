@@ -1,0 +1,244 @@
+{
+	"healthbar_colors": [
+		115,
+		144,
+		127
+	],
+	"position": [
+		220,
+		20
+	],
+	"icon_hud": "Auto",
+	"icon_settings": {
+		"animations": [
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "idle0000",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "idle0001",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 0.95
+					},
+					{
+						"index": 2,
+						"name": "idle0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "idle",
+				"offset": {
+					"x": 5,
+					"y": 0
+				},
+				"scale": 1
+			},
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "win0000",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "win0001",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "win0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "win",
+				"offset": {
+					"x": 7,
+					"y": 0
+				},
+				"scale": 1
+			},
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "lose0000",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "lose0001",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "lose0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "lose",
+				"offset": {
+					"x": 6,
+					"y": 0
+				},
+				"scale": 1
+			}
+		],
+		"preview": {
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 1
+		},
+		"name": "fah",
+		"offset": {
+			"x": 0,
+			"y": -13
+		}
+	},
+	"no_antialiasing": false,
+	"scale": 1,
+	"image": "characters/fah/fah",
+	"camera_position": [
+		-220,
+		-180
+	],
+	"sing_duration": 4,
+	"healthicon": "fah",
+	"flip_x": false,
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				173,
+				109
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "fah idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				190,
+				129
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singUP",
+			"loop": false,
+			"name": "fah up"
+		},
+		{
+			"offsets": [
+				152,
+				117
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "fah down"
+		},
+		{
+			"offsets": [
+				189,
+				114
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "fah left"
+		},
+		{
+			"offsets": [
+				110,
+				120
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "fah right"
+		},
+		{
+			"offsets": [
+				169,
+				134
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "yell",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "fah screech"
+		}
+	],
+	"extra_images": []
+}

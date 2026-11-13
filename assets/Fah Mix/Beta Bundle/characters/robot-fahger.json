@@ -1,0 +1,149 @@
+{
+	"healthbar_colors": [
+		130,
+		138,
+		134
+	],
+	"position": [
+		220,
+		520
+	],
+	"icon_hud": "Auto",
+	"icon_settings": {
+		"animations": [
+			{
+				"frames": [],
+				"name": "idle",
+				"offset": {
+					"x": 0,
+					"y": 0
+				},
+				"scale": 1
+			},
+			{
+				"frames": [],
+				"name": "lose",
+				"offset": {
+					"x": 0,
+					"y": -7
+				},
+				"scale": 1
+			},
+			{
+				"frames": [],
+				"name": "win",
+				"offset": {
+					"x": 0,
+					"y": -13
+				},
+				"scale": 1
+			}
+		],
+		"preview": {
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 0.64
+		},
+		"name": "botfah",
+		"offset": {
+			"x": 5,
+			"y": -16
+		}
+	},
+	"scale": 0.9,
+	"no_antialiasing": false,
+	"image": "fahmix/test/robot-fahger",
+	"camera_position": [
+		-120,
+		-180
+	],
+	"sing_duration": 4,
+	"healthicon": "botfah",
+	"flip_x": false,
+	"animations": [
+		{
+			"offsets": [
+				326,
+				350
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "robot-fahger idle"
+		},
+		{
+			"offsets": [
+				306,
+				350
+			],
+			"indices": [
+				2,
+				0,
+				1
+			],
+			"fps": 10,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "robot-fahger left"
+		},
+		{
+			"offsets": [
+				306,
+				310
+			],
+			"indices": [
+				2,
+				0,
+				1
+			],
+			"fps": 10,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "robot-fahger down"
+		},
+		{
+			"offsets": [
+				326,
+				330
+			],
+			"indices": [
+				2,
+				0,
+				1
+			],
+			"fps": 10,
+			"anim": "singUP",
+			"loop": false,
+			"name": "robot-fahger up"
+		},
+		{
+			"offsets": [
+				346,
+				350
+			],
+			"indices": [
+				2,
+				0,
+				1
+			],
+			"fps": 10,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "robot-fahger right"
+		},
+		{
+			"offsets": [
+				316,
+				340
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "glitch",
+			"indices": [],
+			"name": "robot-fahger glitch"
+		}
+	],
+	"extra_images": []
+}

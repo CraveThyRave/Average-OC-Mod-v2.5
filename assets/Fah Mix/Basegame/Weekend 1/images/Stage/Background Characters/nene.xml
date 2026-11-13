@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nene.png">
+<SubTexture name="nene fall0000" x="325" y="0" width="306" height="324" frameX="-9" frameY="-1" frameWidth="325" frameHeight="332" />
+<SubTexture name="nene fall0001" x="631" y="0" width="303" height="319" frameX="-10" frameY="-2" frameWidth="325" frameHeight="332" />
+<SubTexture name="nene fall0002" x="0" y="0" width="325" height="332" frameX="0" frameY="0" frameWidth="325" frameHeight="332" />
+<SubTexture name="nene idle0000" x="336" y="332" width="365" height="256" frameX="-6" frameY="-6" frameWidth="371" frameHeight="265" />
+<SubTexture name="nene idle0001" x="0" y="591" width="358" height="256" frameX="0" frameY="-9" frameWidth="371" frameHeight="265" />
+<SubTexture name="nene idle0002" x="0" y="332" width="336" height="259" frameX="-12" frameY="0" frameWidth="371" frameHeight="265" />
+</TextureAtlas>

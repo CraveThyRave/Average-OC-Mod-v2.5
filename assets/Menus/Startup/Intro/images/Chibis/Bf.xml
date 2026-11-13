@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bf.png">
+<SubTexture name="bf small stand0000" x="232" y="269" width="201" height="247" frameX="-4" frameY="-25" frameWidth="243" frameHeight="281" />
+<SubTexture name="bf small sit0000" x="433" y="269" width="212" height="212" frameX="-24" frameY="-69" frameWidth="243" frameHeight="281" />
+<SubTexture name="bf small click0000" x="0" y="269" width="232" height="250" frameX="-7" frameY="-24" frameWidth="243" frameHeight="281" />
+<SubTexture name="bf small walk0000" x="229" y="0" width="241" height="268" frameX="0" frameY="0" frameWidth="243" frameHeight="281" />
+<SubTexture name="bf small walk0001" x="0" y="0" width="229" height="269" frameX="-4" frameY="0" frameWidth="243" frameHeight="281" />
+<SubTexture name="bf small walk0002" x="470" y="0" width="227" height="265" frameX="-16" frameY="-1" frameWidth="243" frameHeight="281" />
+</TextureAtlas>

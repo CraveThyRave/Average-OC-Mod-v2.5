@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gabby.png">
+<SubTexture name="gabby down0000" x="456" y="1666" width="454" height="632" frameX="-207" frameY="-278" frameWidth="750" frameHeight="1000" />
+<SubTexture name="gabby down0001" x="2159" y="791" width="439" height="638" frameX="-207" frameY="-272" frameWidth="750" frameHeight="1000" />
+<SubTexture name="gabby idle0000" x="1688" y="801" width="470" height="800" frameX="-125" frameY="-111" frameWidth="750" frameHeight="1000" />
+<SubTexture name="gabby idle0001" x="1688" y="0" width="471" height="801" frameX="-124" frameY="-110" frameWidth="750" frameHeight="1000" />
+<SubTexture name="gabby idle0002" x="954" y="852" width="475" height="808" frameX="-119" frameY="-102" frameWidth="750" frameHeight="1000" />
+<SubTexture name="gabby idle0003" x="477" y="852" width="477" height="813" frameX="-116" frameY="-97" frameWidth="750" frameHeight="1000" />
+<SubTexture name="gabby idle0004" x="0" y="852" width="477" height="814" frameX="-115" frameY="-96" frameWidth="750" frameHeight="1000" />
+<SubTexture name="gabby left0000" x="2159" y="0" width="451" height="791" frameX="-48" frameY="-119" frameWidth="750" frameHeight="1000" />
+<SubTexture name="gabby left0001" x="0" y="1666" width="456" height="790" frameX="-57" frameY="-120" frameWidth="750" frameHeight="1000" />
+<SubTexture name="gabby right0000" x="0" y="0" width="447" height="852" frameX="-228" frameY="-81" frameWidth="750" frameHeight="1000" />
+<SubTexture name="gabby right0001" x="447" y="0" width="454" height="852" frameX="-203" frameY="-81" frameWidth="750" frameHeight="1000" />
+<SubTexture name="gabby up0000" x="901" y="0" width="381" height="839" frameX="-143" frameY="-73" frameWidth="750" frameHeight="1000" />
+<SubTexture name="gabby up0001" x="1282" y="0" width="406" height="835" frameX="-137" frameY="-77" frameWidth="750" frameHeight="1000" />
+</TextureAtlas>

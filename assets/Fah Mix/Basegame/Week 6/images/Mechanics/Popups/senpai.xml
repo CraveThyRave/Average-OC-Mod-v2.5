@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="senpai.png">
+<SubTexture name="10000" x="600" y="0" width="231" height="510" frameX="-69" frameY="-47" frameWidth="339" frameHeight="557" />
+<SubTexture name="10001" x="371" y="0" width="229" height="511" frameX="-65" frameY="-43" frameWidth="339" frameHeight="557" />
+<SubTexture name="20000" x="1351" y="450" width="266" height="447" frameX="-44" frameY="-35" frameWidth="371" frameHeight="519" />
+<SubTexture name="20001" x="1351" y="0" width="266" height="450" frameX="-43" frameY="-34" frameWidth="371" frameHeight="519" />
+<SubTexture name="30000" x="0" y="0" width="190" height="515" frameX="-44" frameY="-22" frameWidth="315" frameHeight="550" />
+<SubTexture name="30001" x="190" y="0" width="181" height="512" frameX="-47" frameY="-24" frameWidth="315" frameHeight="550" />
+<SubTexture name="40000" x="0" y="515" width="328" height="483" frameX="-25" frameY="-45" frameWidth="376" frameHeight="549" />
+<SubTexture name="40001" x="328" y="515" width="327" height="482" frameX="-28" frameY="-44" frameWidth="376" frameHeight="549" />
+<SubTexture name="50000" x="1098" y="475" width="251" height="471" frameX="-44" frameY="-48" frameWidth="348" frameHeight="527" />
+<SubTexture name="50001" x="1098" y="0" width="253" height="475" frameX="-42" frameY="-42" frameWidth="348" frameHeight="527" />
+<SubTexture name="60000" x="831" y="0" width="267" height="484" frameX="-49" frameY="-50" frameWidth="318" frameHeight="564" />
+<SubTexture name="60001" x="655" y="515" width="272" height="482" frameX="-46" frameY="-51" frameWidth="318" frameHeight="564" />
+</TextureAtlas>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="senpai-fah-notes.png">
+<SubTexture name="blue0000" x="597" y="138" width="96" height="119" frameX="-52" frameY="-33" frameWidth="200" frameHeight="180" />
+<SubTexture name="blue0001" x="269" y="475" width="98" height="125" frameX="-51" frameY="-30" frameWidth="200" frameHeight="180" />
+<SubTexture name="arrowDOWN0000" x="459" y="333" width="97" height="138" frameX="-53" frameY="-14" frameWidth="200" frameHeight="180" />
+<SubTexture name="arrowDOWN0001" x="263" y="333" width="98" height="140" frameX="-51" frameY="-15" frameWidth="200" frameHeight="180" />
+<SubTexture name="down confirm0000" x="0" y="0" width="148" height="169" frameX="-29" frameY="-7" frameWidth="200" frameHeight="180" />
+<SubTexture name="down confirm0001" x="148" y="0" width="128" height="168" frameX="-35" frameY="-6" frameWidth="200" frameHeight="180" />
+<SubTexture name="down press0000" x="332" y="169" width="99" height="141" frameX="-53" frameY="-14" frameWidth="200" frameHeight="180" />
+<SubTexture name="down press0001" x="433" y="147" width="100" height="143" frameX="-51" frameY="-12" frameWidth="200" frameHeight="180" />
+<SubTexture name="arrowUP0000" x="597" y="0" width="96" height="138" frameX="-53" frameY="-23" frameWidth="200" frameHeight="180" />
+<SubTexture name="arrowUP0001" x="165" y="333" width="98" height="141" frameX="-54" frameY="-22" frameWidth="200" frameHeight="180" />
+<SubTexture name="up press0000" x="361" y="333" width="98" height="139" frameX="-54" frameY="-22" frameWidth="200" frameHeight="180" />
+<SubTexture name="up press0001" x="0" y="475" width="98" height="138" frameX="-55" frameY="-21" frameWidth="200" frameHeight="180" />
+<SubTexture name="green0000" x="465" y="475" width="99" height="119" frameX="-54" frameY="-22" frameWidth="200" frameHeight="180" />
+<SubTexture name="green0001" x="367" y="475" width="98" height="123" frameX="-54" frameY="-22" frameWidth="200" frameHeight="180" />
+<SubTexture name="up confirm0000" x="0" y="169" width="139" height="164" frameX="-40" frameY="0" frameWidth="200" frameHeight="180" />
+<SubTexture name="up confirm0001" x="276" y="0" width="157" height="167" frameX="-22" frameY="0" frameWidth="200" frameHeight="180" />
+<SubTexture name="arrowRIGHT0000" x="0" y="712" width="138" height="96" frameX="-22" frameY="-42" frameWidth="200" frameHeight="180" />
+<SubTexture name="arrowRIGHT0001" x="140" y="613" width="141" height="98" frameX="-21" frameY="-42" frameWidth="200" frameHeight="180" />
+<SubTexture name="right press0000" x="0" y="613" width="140" height="99" frameX="-22" frameY="-41" frameWidth="200" frameHeight="180" />
+<SubTexture name="right press0001" x="693" y="0" width="137" height="101" frameX="-22" frameY="-40" frameWidth="200" frameHeight="180" />
+<SubTexture name="red0000" x="693" y="202" width="119" height="96" frameX="-41" frameY="-43" frameWidth="200" frameHeight="180" />
+<SubTexture name="red0001" x="693" y="202" width="119" height="96" frameX="-41" frameY="-43" frameWidth="200" frameHeight="180" />
+<SubTexture name="right confirm0000" x="0" y="333" width="165" height="142" frameX="-13" frameY="-17" frameWidth="200" frameHeight="180" />
+<SubTexture name="right confirm0001" x="433" y="0" width="164" height="147" frameX="-13" frameY="-17" frameWidth="200" frameHeight="180" />
+<SubTexture name="left press0000" x="281" y="613" width="140" height="98" frameX="-35" frameY="-42" frameWidth="200" frameHeight="180" />
+<SubTexture name="left press0001" x="562" y="613" width="138" height="97" frameX="-36" frameY="-41" frameWidth="200" frameHeight="180" />
+<SubTexture name="arrowLEFT0000" x="421" y="613" width="141" height="98" frameX="-35" frameY="-41" frameWidth="200" frameHeight="180" />
+<SubTexture name="left confirm0000" x="98" y="475" width="171" height="138" frameX="-13" frameY="-17" frameWidth="200" frameHeight="180" />
+<SubTexture name="left confirm0001" x="139" y="169" width="193" height="157" frameX="-3" frameY="-11" frameWidth="200" frameHeight="180" />
+<SubTexture name="purple0000" x="564" y="475" width="129" height="103" frameX="-32" frameY="-40" frameWidth="200" frameHeight="180" />
+<SubTexture name="purple0001" x="693" y="101" width="126" height="101" frameX="-34" frameY="-40" frameWidth="200" frameHeight="180" />
+<SubTexture name="arrowLEFT0001" x="138" y="712" width="140" height="95" frameX="-36" frameY="-42" frameWidth="200" frameHeight="180" />
+<SubTexture name="purple hold piece0000" x="693" y="298" width="37" height="42" frameX="0" frameY="0" frameWidth="37" frameHeight="42" />
+<SubTexture name="blue hold piece0000" x="730" y="298" width="37" height="42" frameX="0" frameY="0" frameWidth="37" frameHeight="42" />
+<SubTexture name="green hold piece0000" x="767" y="298" width="37" height="42" frameX="0" frameY="0" frameWidth="37" frameHeight="42" />
+<SubTexture name="red hold piece0000" x="693" y="340" width="37" height="42" frameX="0" frameY="0" frameWidth="37" frameHeight="42" />
+<SubTexture name="purple hold end0000" x="730" y="340" width="37" height="41" frameX="0" frameY="0" frameWidth="37" frameHeight="41" />
+<SubTexture name="red hold end0000" x="767" y="340" width="37" height="41" frameX="0" frameY="0" frameWidth="37" frameHeight="41" />
+<SubTexture name="green hold end0000" x="693" y="382" width="37" height="41" frameX="0" frameY="0" frameWidth="37" frameHeight="41" />
+<SubTexture name="blue hold end0000" x="730" y="382" width="37" height="41" frameX="0" frameY="0" frameWidth="37" frameHeight="41" />
+</TextureAtlas>

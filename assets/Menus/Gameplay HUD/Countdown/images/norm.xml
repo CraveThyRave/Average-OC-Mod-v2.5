@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="norm.png">
+<SubTexture name="norm 10000" x="379" y="0" width="173" height="218" frameX="-11" frameY="-28" frameWidth="196" frameHeight="300" />
+<SubTexture name="norm 20000" x="167" y="0" width="212" height="221" frameX="-5" frameY="-3" frameWidth="228" frameHeight="235" />
+<SubTexture name="norm 30000" x="0" y="0" width="167" height="253" frameX="-23" frameY="-33" frameWidth="196" frameHeight="300" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tallie.png">
+<SubTexture name="idle0000" x="688" y="0" width="289" height="622" frameX="-114" frameY="-73" frameWidth="669" frameHeight="758" />
+<SubTexture name="idle0001" x="575" y="633" width="279" height="572" frameX="-114" frameY="-122" frameWidth="669" frameHeight="758" />
+<SubTexture name="idle0002" x="0" y="0" width="299" height="633" frameX="-94" frameY="-72" frameWidth="669" frameHeight="758" />
+<SubTexture name="heave0000" x="298" y="633" width="277" height="608" frameX="-120" frameY="-96" frameWidth="669" frameHeight="758" />
+<SubTexture name="heave0001" x="0" y="633" width="298" height="617" frameX="-159" frameY="-97" frameWidth="669" frameHeight="758" />
+<SubTexture name="heave0002" x="299" y="0" width="389" height="623" frameX="-62" frameY="-85" frameWidth="669" frameHeight="758" />
+<SubTexture name="heave0003" x="977" y="0" width="365" height="620" frameX="-71" frameY="-85" frameWidth="669" frameHeight="758" />
+<SubTexture name="heave0004" x="299" y="0" width="389" height="623" frameX="-62" frameY="-85" frameWidth="669" frameHeight="758" />
+<SubTexture name="heave0005" x="299" y="0" width="389" height="623" frameX="-62" frameY="-85" frameWidth="669" frameHeight="758" />
+<SubTexture name="heave0006" x="299" y="0" width="389" height="623" frameX="-62" frameY="-85" frameWidth="669" frameHeight="758" />
+<SubTexture name="heave0007" x="977" y="0" width="365" height="620" frameX="-71" frameY="-85" frameWidth="669" frameHeight="758" />
+<SubTexture name="heave0008" x="299" y="0" width="389" height="623" frameX="-62" frameY="-85" frameWidth="669" frameHeight="758" />
+<SubTexture name="heave0009" x="0" y="633" width="298" height="617" frameX="-159" frameY="-97" frameWidth="669" frameHeight="758" />
+<SubTexture name="heave0010" x="298" y="633" width="277" height="608" frameX="-120" frameY="-96" frameWidth="669" frameHeight="758" />
+</TextureAtlas>

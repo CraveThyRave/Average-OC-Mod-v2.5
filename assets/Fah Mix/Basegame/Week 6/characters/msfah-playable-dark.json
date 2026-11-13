@@ -1,0 +1,338 @@
+{
+	"healthbar_colors": [
+		115,
+		144,
+		127
+	],
+	"icon_settings": {
+		"preview": {
+			"scale": 0.95,
+			"layout": "senpai",
+			"downscroll": false,
+			"player": true
+		},
+		"offset": {
+			"x": 35,
+			"y": 14
+		},
+		"name": "msfah-playable-dark",
+		"animations": [
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": -2,
+							"y": -2
+						},
+						"name": "idle0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": -4,
+							"y": -3
+						},
+						"name": "idle0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": -4,
+							"y": -5
+						},
+						"name": "idle0002"
+					}
+				],
+				"offset": {
+					"x": 6,
+					"y": -5
+				},
+				"name": "idle"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0002"
+					}
+				],
+				"offset": {
+					"x": -4,
+					"y": -6
+				},
+				"name": "win"
+			},
+			{
+				"scale": 0.95,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": -5,
+							"y": -4
+						},
+						"name": "lose0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": -4,
+							"y": -5
+						},
+						"name": "lose0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": -6,
+							"y": -4
+						},
+						"name": "lose0002"
+					}
+				],
+				"offset": {
+					"x": 8,
+					"y": 0
+				},
+				"name": "lose"
+			}
+		]
+	},
+	"icon_hud": "Auto",
+	"position": [
+		220,
+		490
+	],
+	"scale": 1,
+	"no_antialiasing": true,
+	"camera_position": [
+		120,
+		-180
+	],
+	"image": "characters/msfah-playable",
+	"sing_duration": 4,
+	"healthicon": "msfah-playable",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				173,
+				112
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				123
+			],
+			"anim": "singDOWNmiss",
+			"fps": 10,
+			"name": "d-miss",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				110
+			],
+			"anim": "singUPmiss",
+			"fps": 10,
+			"name": "u-miss",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				204,
+				125
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 10,
+			"name": "l-miss",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				120
+			],
+			"anim": "singLEFTmiss",
+			"fps": 10,
+			"name": "r-miss",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"offsets": [
+				180,
+				109
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				201,
+				121
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				191,
+				122
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				180,
+				118
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				82
+			],
+			"anim": "singUP-alt",
+			"fps": 10,
+			"name": "up-alt",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				80
+			],
+			"anim": "singLEFT-alt",
+			"fps": 10,
+			"name": "left-alt",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				38
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 10,
+			"name": "right-alt",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				217,
+				60
+			],
+			"anim": "singDOWN-alt",
+			"fps": 10,
+			"name": "down-alt",
+			"indices": [
+				1,
+				2,
+				0
+			]
+		}
+	]
+}

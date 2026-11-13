@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="senpai-fah-splashes.png">
+<SubTexture name="note splash green 10000" x="0" y="0" width="168" height="172" frameX="-14" frameY="-17" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash green 10001" x="168" y="172" width="161" height="163" frameX="-12" frameY="-9" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash green 10002" x="0" y="344" width="172" height="159" frameX="-12" frameY="-9" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash green 10003" x="172" y="503" width="151" height="152" frameX="-20" frameY="-19" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash red 10000" x="168" y="0" width="168" height="172" frameX="-16" frameY="-24" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash red 10001" x="329" y="172" width="161" height="163" frameX="-14" frameY="-16" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash red 10002" x="172" y="344" width="172" height="159" frameX="-14" frameY="-16" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash red 10003" x="323" y="503" width="151" height="152" frameX="-22" frameY="-26" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash blue 10000" x="336" y="0" width="168" height="172" frameX="-13" frameY="-16" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash blue 10001" x="504" y="0" width="161" height="163" frameX="-11" frameY="-8" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash blue 10002" x="344" y="344" width="172" height="159" frameX="-11" frameY="-8" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash blue 10003" x="474" y="503" width="151" height="152" frameX="-19" frameY="-18" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash purple 10000" x="0" y="172" width="168" height="172" frameX="-15" frameY="-24" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash purple 10001" x="504" y="163" width="161" height="163" frameX="-13" frameY="-16" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash purple 10002" x="0" y="503" width="172" height="159" frameX="-13" frameY="-16" frameWidth="189" frameHeight="201" />
+<SubTexture name="note splash purple 10003" x="665" y="0" width="151" height="152" frameX="-21" frameY="-26" frameWidth="189" frameHeight="201" />
+</TextureAtlas>

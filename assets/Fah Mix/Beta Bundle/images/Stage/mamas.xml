@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mamas.png">
+<SubTexture name="mamas raven-glitch0000" x="1257" y="652" width="256" height="521" frameX="-395" frameY="-106" frameWidth="682" frameHeight="660" />
+<SubTexture name="mamas raven-glitch0001" x="300" y="0" width="310" height="625" frameX="-341" frameY="0" frameWidth="682" frameHeight="660" />
+<SubTexture name="mamas raven-glitch0002" x="1563" y="0" width="344" height="484" frameX="-284" frameY="-123" frameWidth="682" frameHeight="660" />
+<SubTexture name="mamas raven-glitch0003" x="340" y="1269" width="324" height="385" frameX="-358" frameY="-240" frameWidth="682" frameHeight="660" />
+<SubTexture name="mamas phoenix-glitch0000" x="959" y="652" width="298" height="530" frameX="-87" frameY="-130" frameWidth="682" frameHeight="660" />
+<SubTexture name="mamas phoenix-glitch0001" x="0" y="0" width="300" height="652" frameX="-117" frameY="-8" frameWidth="682" frameHeight="660" />
+<SubTexture name="mamas phoenix-glitch0002" x="0" y="1269" width="340" height="420" frameX="0" frameY="-225" frameWidth="682" frameHeight="660" />
+<SubTexture name="mamas phoenix-glitch0003" x="1563" y="484" width="258" height="423" frameX="-132" frameY="-225" frameWidth="682" frameHeight="660" />
+<SubTexture name="mamas idles0000" x="476" y="652" width="483" height="590" frameX="-8" frameY="-32" frameWidth="491" frameHeight="634" />
+<SubTexture name="mamas idles0001" x="0" y="652" width="476" height="617" frameX="-3" frameY="-17" frameWidth="491" frameHeight="634" />
+<SubTexture name="mamas idles0002" x="610" y="0" width="475" height="625" frameX="-2" frameY="0" frameWidth="491" frameHeight="634" />
+<SubTexture name="mamas idles0003" x="1085" y="0" width="478" height="618" frameX="0" frameY="-5" frameWidth="491" frameHeight="634" />
+</TextureAtlas>

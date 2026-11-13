@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dodge.png">
+<SubTexture name="dodge idle0000" x="0" y="0" width="323" height="565" frameX="0" frameY="0" frameWidth="407" frameHeight="565" />
+<SubTexture name="dodge idle0001" x="677" y="0" width="354" height="356" frameX="-26" frameY="-196" frameWidth="407" frameHeight="565" />
+<SubTexture name="dodge idle0002" x="323" y="0" width="354" height="411" frameX="-53" frameY="-138" frameWidth="407" frameHeight="565" />
+</TextureAtlas>

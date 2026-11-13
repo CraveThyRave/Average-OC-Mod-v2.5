@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ravenanim2.png">
+<SubTexture name="ravenanim2 down0000" x="2660" y="0" width="341" height="547" frameX="-281" frameY="-340" frameWidth="750" frameHeight="1000" />
+<SubTexture name="ravenanim2 down0001" x="2267" y="1360" width="328" height="555" frameX="-286" frameY="-331" frameWidth="750" frameHeight="1000" />
+<SubTexture name="ravenanim2 right0000" x="0" y="0" width="353" height="782" frameX="-288" frameY="-105" frameWidth="750" frameHeight="1000" />
+<SubTexture name="ravenanim2 right0001" x="353" y="0" width="429" height="758" frameX="-242" frameY="-129" frameWidth="750" frameHeight="1000" />
+<SubTexture name="ravenanim2 right0002" x="1017" y="782" width="477" height="717" frameX="-253" frameY="-170" frameWidth="750" frameHeight="1000" />
+<SubTexture name="ravenanim2 right0003" x="1797" y="0" width="470" height="716" frameX="-240" frameY="-171" frameWidth="750" frameHeight="1000" />
+<SubTexture name="ravenanim2 right0004" x="0" y="1531" width="471" height="715" frameX="-237" frameY="-172" frameWidth="750" frameHeight="1000" />
+<SubTexture name="ravenanim2 pipebomb0000" x="2267" y="0" width="393" height="680" frameX="-313" frameY="-303" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="ravenanim2 pipebomb0001" x="865" y="1531" width="394" height="705" frameX="-314" frameY="-278" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="ravenanim2 pipebomb0002" x="1797" y="716" width="394" height="715" frameX="-321" frameY="-268" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="ravenanim2 pipebomb0003" x="1653" y="1531" width="394" height="688" frameX="-315" frameY="-289" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="ravenanim2 pipebomb0004" x="2267" y="680" width="393" height="680" frameX="-325" frameY="-303" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="ravenanim2 pipebomb0005" x="1259" y="1531" width="394" height="703" frameX="-323" frameY="-280" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="ravenanim2 pipebomb0006" x="471" y="1531" width="394" height="715" frameX="-316" frameY="-268" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="ravenanim2 pipebomb0007" x="1653" y="1531" width="394" height="688" frameX="-315" frameY="-289" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="ravenanim2 raspberry0000" x="0" y="782" width="339" height="749" frameX="-383" frameY="-274" frameWidth="1053" frameHeight="1364" />
+<SubTexture name="ravenanim2 raspberry0001" x="1120" y="0" width="336" height="751" frameX="-382" frameY="-272" frameWidth="1053" frameHeight="1364" />
+<SubTexture name="ravenanim2 raspberry0002" x="679" y="782" width="338" height="746" frameX="-382" frameY="-277" frameWidth="1053" frameHeight="1364" />
+<SubTexture name="ravenanim2 raspberry0003" x="1456" y="0" width="341" height="751" frameX="-382" frameY="-272" frameWidth="1053" frameHeight="1364" />
+<SubTexture name="ravenanim2 raspberry0004" x="339" y="782" width="340" height="749" frameX="-383" frameY="-274" frameWidth="1053" frameHeight="1364" />
+<SubTexture name="ravenanim2 raspberry0005" x="782" y="0" width="338" height="752" frameX="-382" frameY="-271" frameWidth="1053" frameHeight="1364" />
+</TextureAtlas>

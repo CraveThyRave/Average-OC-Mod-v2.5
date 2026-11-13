@@ -1,0 +1,138 @@
+{
+	"healthbar_colors": [
+		103,
+		72,
+		148
+	],
+	"icon_settings": {
+		"animations": [],
+		"preview": {
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 1
+		},
+		"name": "ray",
+		"offset": {
+			"x": 0,
+			"y": 0
+		}
+	},
+	"icon_hud": "Auto",
+	"position": [
+		-250,
+		-100
+	],
+	"scale": 1,
+	"no_antialiasing": false,
+	"camera_position": [
+		280,
+		0
+	],
+	"image": "characters/raven/raven",
+	"sing_duration": 3,
+	"healthicon": "ray",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "raven left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "raven down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "raven up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "raven right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-44,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "raven idle"
+		},
+		{
+			"offsets": [
+				-48,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "raven missleft"
+		},
+		{
+			"offsets": [
+				-50,
+				-2
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "raven missdown"
+		},
+		{
+			"offsets": [
+				-47,
+				-3
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "raven missup"
+		},
+		{
+			"offsets": [
+				-40,
+				-4
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "raven missright"
+		}
+	]
+}

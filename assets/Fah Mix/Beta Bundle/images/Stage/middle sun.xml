@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="middle sun.png">
+<SubTexture name="middle sun transition0000" x="0" y="0" width="510" height="409" frameX="0" frameY="-192" frameWidth="937" frameHeight="601" />
+<SubTexture name="middle sun transition0001" x="510" y="0" width="484" height="361" frameX="-293" frameY="-33" frameWidth="937" frameHeight="601" />
+<SubTexture name="middle sun transition0002" x="994" y="0" width="500" height="347" frameX="-437" frameY="-2" frameWidth="937" frameHeight="601" />
+<SubTexture name="middle sun idle0000" x="994" y="0" width="500" height="347" frameX="-437" frameY="-2" frameWidth="937" frameHeight="601" />
+<SubTexture name="middle sun idle0001" x="0" y="409" width="495" height="357" frameX="-429" frameY="0" frameWidth="937" frameHeight="601" />
+</TextureAtlas>

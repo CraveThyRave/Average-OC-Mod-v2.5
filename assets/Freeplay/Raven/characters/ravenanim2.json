@@ -1,0 +1,83 @@
+{
+	"healthbar_colors": [
+		103,
+		72,
+		148
+	],
+	"icon_settings": {
+		"animations": [],
+		"preview": {
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 1
+		},
+		"name": "ar",
+		"offset": {
+			"x": 0,
+			"y": 0
+		}
+	},
+	"icon_hud": "Auto",
+	"position": [
+		-270,
+		-230
+	],
+	"scale": 1,
+	"no_antialiasing": false,
+	"camera_position": [
+		280,
+		0
+	],
+	"image": "characters/raven/ravenanim2",
+	"sing_duration": 3,
+	"healthicon": "ar",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-33,
+				-133
+			],
+			"anim": "singDOWN",
+			"fps": 8,
+			"name": "ravenanim2 down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				18,
+				4
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "raspberry",
+			"indices": [],
+			"name": "ravenanim2 raspberry"
+		},
+		{
+			"offsets": [
+				-55,
+				-133
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ravenanim2 right"
+		},
+		{
+			"offsets": [
+				-6,
+				-37
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "pipebomb",
+			"indices": [],
+			"name": "ravenanim2 pipebomb"
+		}
+	]
+}

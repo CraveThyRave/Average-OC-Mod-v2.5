@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tree.png">
+<SubTexture name="tree grow0000" x="368" y="907" width="93" height="176" frameX="-222" frameY="-716" frameWidth="660" frameHeight="932" />
+<SubTexture name="tree grow0001" x="241" y="907" width="127" height="313" frameX="-203" frameY="-570" frameWidth="660" frameHeight="932" />
+<SubTexture name="tree grow0002" x="0" y="907" width="241" height="525" frameX="-143" frameY="-365" frameWidth="660" frameHeight="932" />
+<SubTexture name="tree grow0003" x="1706" y="0" width="465" height="820" frameX="-72" frameY="-74" frameWidth="660" frameHeight="932" />
+<SubTexture name="tree grow0004" x="0" y="0" width="573" height="907" frameX="-51" frameY="0" frameWidth="660" frameHeight="932" />
+<SubTexture name="tree idle0000" x="573" y="0" width="551" height="899" frameX="-1" frameY="-8" frameWidth="660" frameHeight="932" />
+<SubTexture name="tree idle0001" x="1124" y="0" width="582" height="881" frameX="0" frameY="-6" frameWidth="660" frameHeight="932" />
+<SubTexture name="tree shrink0000" x="0" y="0" width="573" height="907" frameX="-51" frameY="0" frameWidth="660" frameHeight="932" />
+<SubTexture name="tree shrink0001" x="1706" y="0" width="465" height="820" frameX="-72" frameY="-74" frameWidth="660" frameHeight="932" />
+<SubTexture name="tree shrink0002" x="0" y="907" width="241" height="525" frameX="-143" frameY="-365" frameWidth="660" frameHeight="932" />
+<SubTexture name="tree shrink0003" x="241" y="907" width="127" height="313" frameX="-203" frameY="-570" frameWidth="660" frameHeight="932" />
+<SubTexture name="tree shrink0004" x="368" y="907" width="93" height="176" frameX="-222" frameY="-716" frameWidth="660" frameHeight="932" />
+</TextureAtlas>

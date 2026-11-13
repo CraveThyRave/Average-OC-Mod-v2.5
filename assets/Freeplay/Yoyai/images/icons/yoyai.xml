@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yoyai.png">
+    <SubTexture name="idle0000" x="0" y="0" width="520" height="426" />
+    <SubTexture name="win0000" x="520" y="0" width="520" height="426" />
+    <SubTexture name="lose0000" x="1040" y="0" width="520" height="426" />
+</TextureAtlas>

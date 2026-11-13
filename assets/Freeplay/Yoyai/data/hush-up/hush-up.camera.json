@@ -1,0 +1,615 @@
+{
+	"events": [
+		{
+			"value1": "{\"target\":\"Opening camera focus\",\"value\":1,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Camera focus",
+			"value2": "",
+			"time": 0,
+			"name": "Song Presentation"
+		},
+		{
+			"value1": "{\"target\":\"Background opacity\",\"value\":0.65,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Background",
+			"value2": "",
+			"time": 0,
+			"name": "Song Presentation"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.75",
+			"time": 164.835164835165,
+			"value2": "1.2",
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "middle",
+			"after": 0,
+			"value2": "1",
+			"time": 2637.36263736264,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "{\"target\":\"Opening camera focus\",\"value\":0,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Camera focus",
+			"value2": "",
+			"time": 2637.36263736264,
+			"name": "Song Presentation"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.85",
+			"time": 2637.36263736264,
+			"value2": "0.8",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 0,
+			"value1": "dad",
+			"time": 4450.54945054945,
+			"value2": "0.5",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.66",
+			"time": 4450.54945054945,
+			"value2": "1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 0,
+			"value1": "bf",
+			"time": 5604.39560439561,
+			"value2": "0.9",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.75",
+			"time": 6263.73626373627,
+			"value2": "0.85",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.85",
+			"time": 8901.0989010989,
+			"value2": "0.85",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.7",
+			"time": 11703.2967032967,
+			"value2": "1.5",
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "middle",
+			"after": 0,
+			"value2": "1",
+			"time": 11868.1318681319,
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.73",
+			"time": 14505.4945054945,
+			"value2": "0.4",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.75",
+			"time": 15164.8351648352,
+			"value2": "0.65",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 0,
+			"value1": "bf",
+			"time": 16813.1868131868,
+			"value2": "0.6",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.83",
+			"time": 18461.5384615385,
+			"value2": "0.7",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.85",
+			"time": 19450.5494505495,
+			"value2": "0.7",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.8",
+			"time": 21098.9010989011,
+			"value2": "1.4",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "middle",
+			"time": 21263.7362637363,
+			"value2": "0.8",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.9",
+			"time": 22747.2527472527,
+			"value2": "0.8",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 0,
+			"value1": "bf",
+			"time": 23736.2637362637,
+			"value2": "0.5",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "1",
+			"time": 27362.6373626374,
+			"value2": "1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 0,
+			"value1": "dad",
+			"time": 29010.989010989,
+			"value2": "0.45",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.85",
+			"time": 29010.989010989,
+			"value2": "1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.93",
+			"time": 30000,
+			"value2": "0.8",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 0,
+			"value1": "bf",
+			"time": 30659.3406593407,
+			"value2": "0.4",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "bf, --30",
+			"time": 31648.3516483516,
+			"value2": "0.45",
+			"name": "CameraControl"
+		},
+		{
+			"value1": "{\"target\":\"Background opacity\",\"value\":1,\"duration\":125,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Background",
+			"value2": "",
+			"time": 31648.3516483516,
+			"name": "Song Presentation"
+		},
+		{
+			"after": 1000000,
+			"value1": "1.07",
+			"time": 31648.3516483517,
+			"value2": "1.1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "1.1",
+			"time": 35274.7252747253,
+			"value2": "0.8",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 0,
+			"value1": "middle",
+			"time": 36923.0769230769,
+			"value2": "0.5",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.83",
+			"time": 36923.0769230769,
+			"value2": "0.8",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.95",
+			"time": 39560.4395604396,
+			"value2": "0.8",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.75",
+			"time": 40219.7802197802,
+			"value2": "1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.95",
+			"time": 42197.8021978022,
+			"value2": "10",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "middle, ++750",
+			"time": 50439.5604395604,
+			"value2": "0.2",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "middle, ++745",
+			"time": 52087.9120879121,
+			"value2": "0.8",
+			"name": "CameraControl"
+		},
+		{
+			"value1": "{\"opacity\":0.5,\"duration\":9,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "HUD and notes",
+			"value2": "",
+			"time": 52417.5824175824,
+			"name": "HUD Opacity"
+		},
+		{
+			"value1": "dad",
+			"after": 0,
+			"value2": "2",
+			"time": 55384.6153846154,
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 55384.6153846154,
+			"value1": "0.7",
+			"value2": "0.7"
+		},
+		{
+			"value1": "{\"opacity\":1,\"duration\":1.82,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "HUD and notes",
+			"value2": "",
+			"time": 55384.6153846154,
+			"name": "HUD Opacity"
+		},
+		{
+			"value1": "{\"target\":\"Credits visible\",\"value\":1,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Credits",
+			"value2": "",
+			"time": 55384.6153846154,
+			"name": "Song Presentation"
+		},
+		{
+			"value1": "{\"target\":\"Yoyai phase\",\"value\":1,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Yoyai performance",
+			"value2": "",
+			"time": 55384.6153846154,
+			"name": "Song Presentation"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 57197.8021978022,
+			"value1": "0.65",
+			"value2": "0.8"
+		},
+		{
+			"value1": "{\"target\":\"Credits visible\",\"value\":0,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Credits",
+			"value2": "",
+			"time": 59835.1648351648,
+			"name": "Song Presentation"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 59835.1648351648,
+			"value1": "0.60",
+			"value2": "0.8"
+		},
+		{
+			"after": 0,
+			"name": "CameraControl",
+			"time": 60659.3406593407,
+			"value1": "middle",
+			"value2": "0.55"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 65109.8901098901,
+			"value1": "0.56",
+			"value2": "0.8"
+		},
+		{
+			"after": 0,
+			"name": "CameraControl",
+			"time": 68901.0989010989,
+			"value1": "dad",
+			"value2": "0.5"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 68901.0989010989,
+			"value1": "0.75",
+			"value2": "1.1"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 71208.7912087912,
+			"value1": "0.8",
+			"value2": "0.9"
+		},
+		{
+			"after": 0,
+			"name": "CameraControl",
+			"time": 76813.1868131868,
+			"value1": "middle",
+			"value2": "0.5"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 78626.3736263736,
+			"value1": "0.78",
+			"value2": "0.8"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 82087.9120879121,
+			"value1": "0.82",
+			"value2": "0.8"
+		},
+		{
+			"value1": "{\"target\":\"Background opacity\",\"value\":0.5,\"duration\":32,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Background",
+			"value2": "",
+			"time": 86868.1318681319,
+			"name": "Song Presentation"
+		},
+		{
+			"after": 0,
+			"name": "CameraControl",
+			"time": 87032.967032967,
+			"value1": "bf, -75",
+			"value2": "0.35"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 87032.967032967,
+			"value1": "1.1",
+			"value2": "6"
+		},
+		{
+			"value1": "{\"target\":\"Yoyai scared\",\"value\":1,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Yoyai performance",
+			"value2": "",
+			"time": 88846.1538461538,
+			"name": "Song Presentation"
+		},
+		{
+			"after": 0,
+			"name": "CameraControl",
+			"time": 97582.4175824175,
+			"value1": "dad",
+			"value2": "1.6"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 97582.4175824175,
+			"value1": "0.8",
+			"value2": "0.3"
+		},
+		{
+			"value1": "{\"opacity\":0,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "HUD and notes",
+			"value2": "",
+			"time": 97756.8361870687,
+			"name": "HUD Opacity"
+		},
+		{
+			"value1": "{\"target\":\"Note opacity\",\"value\":0,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "HUD and notes",
+			"value2": "",
+			"time": 99326.6036289292,
+			"name": "Song Presentation"
+		},
+		{
+			"value1": "{\"target\":\"Notes above overlays\",\"value\":1,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "HUD and notes",
+			"value2": "",
+			"time": 99326.6036289292,
+			"name": "Song Presentation"
+		},
+		{
+			"value1": "{\"target\":\"Note opacity\",\"value\":1,\"duration\":1,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "HUD and notes",
+			"value2": "",
+			"time": 99326.6036289292,
+			"name": "Song Presentation"
+		},
+		{
+			"value1": "{\"target\":\"White overlay opacity\",\"value\":1,\"duration\":5,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Overlays",
+			"value2": "",
+			"time": 99501.0222335803,
+			"name": "Song Presentation"
+		},
+		{
+			"after": 0,
+			"name": "CameraControl",
+			"time": 100373.115256836,
+			"value1": "middle",
+			"value2": "snap"
+		},
+		{
+			"value1": "{\"target\":\"Background opacity\",\"value\":0.93,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Background",
+			"value2": "",
+			"time": 100373.115256836,
+			"name": "Song Presentation"
+		},
+		{
+			"value1": "{\"opacity\":1,\"duration\":1.1466666666666667,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "HUD and notes",
+			"value2": "",
+			"time": 100373.115256836,
+			"name": "HUD Opacity"
+		},
+		{
+			"value1": "{\"target\":\"White overlay opacity\",\"value\":0,\"duration\":1.1466666666666667,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Overlays",
+			"value2": "",
+			"time": 100373.115256836,
+			"name": "Song Presentation"
+		},
+		{
+			"value1": "{\"target\":\"Yoyai scared\",\"value\":0,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Yoyai performance",
+			"value2": "",
+			"time": 100373.115256836,
+			"name": "Song Presentation"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 100373.115256836,
+			"value1": "0.75",
+			"value2": "0.4"
+		},
+		{
+			"value1": "{\"target\":\"Notes above overlays\",\"value\":0,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "HUD and notes",
+			"value2": "",
+			"time": 100573.115256836,
+			"name": "Song Presentation"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 104210.324559162,
+			"value1": "0.7",
+			"value2": "0.5"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 108745.208280092,
+			"value1": "0.6",
+			"value2": "0.3"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 111535.905954511,
+			"value1": "0.5",
+			"value2": "0.7"
+		},
+		{
+			"value1": "{\"opacity\":0,\"duration\":5,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "HUD and notes",
+			"value2": "",
+			"time": 111535.905954511,
+			"name": "HUD Opacity"
+		},
+		{
+			"value1": "{\"target\":\"Black overlay opacity\",\"value\":1,\"duration\":5,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Overlays",
+			"value2": "",
+			"time": 111535.905954511,
+			"name": "Song Presentation"
+		},
+		{
+			"value1": "{\"target\":\"Logo opacity\",\"value\":1,\"duration\":0,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Logo",
+			"value2": "",
+			"time": 111535.905954511,
+			"name": "Song Presentation"
+		},
+		{
+			"value1": "{\"target\":\"Logo fall\",\"value\":1,\"duration\":5,\"ease\":\"quartOut\"}",
+			"after": 1000000,
+			"layer": "Logo",
+			"value2": "",
+			"time": 111535.905954511,
+			"name": "Song Presentation"
+		},
+		{
+			"value1": "{\"target\":\"Logo scale\",\"value\":0,\"duration\":2.8666666666666667,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Logo",
+			"value2": "",
+			"time": 115896.37107079,
+			"name": "Song Presentation"
+		},
+		{
+			"value1": "{\"target\":\"Logo opacity\",\"value\":0,\"duration\":2.8666666666666667,\"ease\":\"linear\"}",
+			"after": 1000000,
+			"layer": "Logo",
+			"value2": "",
+			"time": 115896.37107079,
+			"name": "Song Presentation"
+		}
+	],
+	"layers": [
+		"Camera focus",
+		"Background",
+		"HUD and notes",
+		"Overlays",
+		"Credits",
+		"Yoyai performance",
+		"Logo"
+	],
+	"version": 1
+}

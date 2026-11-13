@@ -1,0 +1,12 @@
+IntroStep = 740
+DisplayDuration = 5
+Composer = Cookie
+Chibi = fahbotcredit
+ChibiX = 8
+ChibiY = 18
+ChibiScale = 0.64
+ChibiClipY = 401
+Charted = Tabby Kat
+Chromatic = StuffyAnt
+Coded = CraveThyRave
+Art = Brytato

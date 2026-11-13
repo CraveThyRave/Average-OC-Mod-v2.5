@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="burnmark2.png">
+<SubTexture name="burnmark2 idle0000" x="0" y="430" width="847" height="161" frameX="-1179" frameY="-2112" frameWidth="4000" frameHeight="3000" />
+<SubTexture name="burnmark2 idle0001" x="0" y="227" width="869" height="203" frameX="-1188" frameY="-2110" frameWidth="4000" frameHeight="3000" />
+<SubTexture name="burnmark2 idle0002" x="0" y="227" width="869" height="203" frameX="-1188" frameY="-2110" frameWidth="4000" frameHeight="3000" />
+<SubTexture name="burnmark2 idle0003" x="0" y="227" width="869" height="203" frameX="-1188" frameY="-2110" frameWidth="4000" frameHeight="3000" />
+<SubTexture name="burnmark2 idle0004" x="0" y="0" width="1162" height="227" frameX="-1046" frameY="-2109" frameWidth="4000" frameHeight="3000" />
+<SubTexture name="burnmark2 idle0005" x="0" y="0" width="1162" height="227" frameX="-1046" frameY="-2109" frameWidth="4000" frameHeight="3000" />
+</TextureAtlas>

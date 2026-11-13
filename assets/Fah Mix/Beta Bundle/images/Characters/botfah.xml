@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="botfah.png">
+<SubTexture name="botfah idle0000" x="354" y="871" width="277" height="367" frameX="-114" frameY="-64" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah idle0001" x="935" y="871" width="316" height="341" frameX="-89" frameY="-85" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah idle0002" x="631" y="871" width="304" height="360" frameX="-86" frameY="-67" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah idle0003" x="594" y="458" width="278" height="391" frameX="-89" frameY="-36" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah left0000" x="257" y="458" width="337" height="398" frameX="-28" frameY="-35" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah left0001" x="977" y="385" width="313" height="372" frameX="-14" frameY="-59" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah left0002" x="977" y="0" width="353" height="385" frameX="0" frameY="-46" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah down0000" x="1604" y="0" width="391" height="259" frameX="-80" frameY="-146" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah down0001" x="1604" y="500" width="352" height="231" frameX="-72" frameY="-173" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah down0002" x="1604" y="259" width="343" height="241" frameX="-65" frameY="-164" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah up0000" x="599" y="1239" width="278" height="309" frameX="-93" frameY="-115" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah up0001" x="727" y="0" width="250" height="424" frameX="-115" frameY="0" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah up0002" x="0" y="458" width="257" height="413" frameX="-106" frameY="-10" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah right0000" x="1330" y="0" width="274" height="336" frameX="-146" frameY="-89" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah right0001" x="296" y="1239" width="303" height="326" frameX="-141" frameY="-108" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah right0002" x="0" y="1239" width="296" height="333" frameX="-132" frameY="-88" frameWidth="471" frameHeight="434" />
+<SubTexture name="botfah glitch0000" x="306" y="0" width="421" height="452" frameX="-107" frameY="-82" frameWidth="550" frameHeight="534" />
+<SubTexture name="botfah glitch0001" x="0" y="871" width="354" height="368" frameX="-196" frameY="-127" frameWidth="550" frameHeight="534" />
+<SubTexture name="botfah glitch0002" x="0" y="0" width="306" height="458" frameX="-98" frameY="0" frameWidth="550" frameHeight="534" />
+<SubTexture name="botfah glitch0003" x="877" y="1239" width="464" height="298" frameX="-18" frameY="-199" frameWidth="550" frameHeight="534" />
+</TextureAtlas>

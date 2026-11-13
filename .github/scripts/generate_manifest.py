@@ -44,6 +44,8 @@ def validate_path(value):
 def is_private(value):
     lower = value.lower()
     parts = lower.split("/")
+    if parts[0] == "drawings":
+        return True
     return lower in GENERATED or any(p in PRIVATE_DIRS for p in parts) or parts[-1] in PRIVATE_NAMES or Path(lower).suffix in PRIVATE_EXTENSIONS
 
 
@@ -108,7 +110,7 @@ def hide_updater_files(root):
     kernel = ctypes.WinDLL("kernel32", use_last_error=True)
     kernel.SetFileAttributesW.argtypes = [ctypes.c_wchar_p, ctypes.c_uint32]
     kernel.SetFileAttributesW.restype = ctypes.c_int
-    for name in (".github", ".gitattributes", "update_temp", ".aom-update-receipt.json"):
+    for name in (".github", ".gitattributes", "update_temp", ".aom-update-receipt.json", "assets/pack.json", "assets/updateInventory.json", "assets/updateManifest.json", "assets/updateVersion.json"):
         path = root / name
         if path.exists() and not is_link(path):
             attributes = path.stat().st_file_attributes | stat.FILE_ATTRIBUTE_HIDDEN

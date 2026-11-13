@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="robotlower-short.png">
+<SubTexture name="robotlower-short idle0000" x="204" y="0" width="208" height="258" frameX="-134" frameY="-12" frameWidth="342" frameHeight="271" />
+<SubTexture name="robotlower-short idle0001" x="0" y="0" width="204" height="271" frameX="0" frameY="0" frameWidth="342" frameHeight="271" />
+<SubTexture name="robotlower-short idle0002" x="412" y="0" width="237" height="236" frameX="-26" frameY="-31" frameWidth="342" frameHeight="271" />
+<SubTexture name="robotlower-short grow0000" x="376" y="271" width="138" height="104" frameX="-7" frameY="-161" frameWidth="342" frameHeight="271" />
+<SubTexture name="robotlower-short grow0001" x="195" y="271" width="181" height="134" frameX="-37" frameY="-134" frameWidth="342" frameHeight="271" />
+<SubTexture name="robotlower-short grow0002" x="0" y="271" width="195" height="188" frameX="-37" frameY="-82" frameWidth="342" frameHeight="271" />
+</TextureAtlas>

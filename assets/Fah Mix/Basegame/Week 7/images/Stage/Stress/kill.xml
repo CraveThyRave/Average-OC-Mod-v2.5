@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kill.png">
+<SubTexture name="kill explode0000" x="0" y="0" width="562" height="524" frameX="0" frameY="0" frameWidth="562" frameHeight="526" />
+<SubTexture name="kill explode0001" x="316" y="524" width="515" height="465" frameX="-32" frameY="-61" frameWidth="562" frameHeight="526" />
+<SubTexture name="kill explode0002" x="1123" y="441" width="258" height="280" frameX="-163" frameY="-135" frameWidth="562" frameHeight="526" />
+<SubTexture name="kill explode0003" x="1123" y="721" width="276" height="267" frameX="-157" frameY="-138" frameWidth="562" frameHeight="526" />
+<SubTexture name="kill walk10000" x="722" y="1011" width="436" height="363" frameX="-8" frameY="0" frameWidth="444" frameHeight="427" />
+<SubTexture name="kill walk10001" x="1422" y="424" width="255" height="423" frameX="-94" frameY="-4" frameWidth="444" frameHeight="427" />
+<SubTexture name="kill walk10002" x="353" y="1011" width="369" height="386" frameX="0" frameY="-4" frameWidth="444" frameHeight="427" />
+<SubTexture name="kill walk10003" x="1422" y="424" width="255" height="423" frameX="-94" frameY="-4" frameWidth="444" frameHeight="427" />
+<SubTexture name="kill walk20000" x="810" y="0" width="313" height="506" frameX="0" frameY="-4" frameWidth="362" frameHeight="518" />
+<SubTexture name="kill walk20001" x="562" y="0" width="248" height="518" frameX="-63" frameY="0" frameWidth="362" frameHeight="518" />
+<SubTexture name="kill walk20002" x="0" y="524" width="316" height="487" frameX="-46" frameY="-12" frameWidth="362" frameHeight="518" />
+<SubTexture name="kill walk20003" x="562" y="0" width="248" height="518" frameX="-63" frameY="0" frameWidth="362" frameHeight="518" />
+<SubTexture name="kill walk30000" x="1422" y="0" width="308" height="424" frameX="0" frameY="-13" frameWidth="374" frameHeight="441" />
+<SubTexture name="kill walk30001" x="1123" y="0" width="299" height="441" frameX="-2" frameY="0" frameWidth="374" frameHeight="441" />
+<SubTexture name="kill walk30002" x="0" y="1011" width="353" height="412" frameX="-21" frameY="-21" frameWidth="374" frameHeight="441" />
+<SubTexture name="kill walk30003" x="1123" y="0" width="299" height="441" frameX="-2" frameY="0" frameWidth="374" frameHeight="441" />
+</TextureAtlas>

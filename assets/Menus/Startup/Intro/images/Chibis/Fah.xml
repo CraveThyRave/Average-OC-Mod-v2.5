@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Fah.png">
+<SubTexture name="Fah Click0000" x="0" y="258" width="218" height="234" frameX="-29" frameY="-59" frameWidth="400" frameHeight="338" />
+<SubTexture name="Fah Sit0000" x="556" y="0" width="229" height="222" frameX="-23" frameY="-88" frameWidth="400" frameHeight="338" />
+<SubTexture name="Fah Idle0000" x="218" y="258" width="215" height="231" frameX="-40" frameY="-68" frameWidth="400" frameHeight="338" />
+<SubTexture name="Fah Walk0000" x="369" y="0" width="187" height="246" frameX="-73" frameY="-50" frameWidth="400" frameHeight="338" />
+<SubTexture name="Fah Walk0001" x="185" y="0" width="184" height="250" frameX="-74" frameY="-52" frameWidth="400" frameHeight="338" />
+<SubTexture name="Fah Walk0002" x="0" y="0" width="185" height="258" frameX="-75" frameY="-46" frameWidth="400" frameHeight="338" />
+</TextureAtlas>

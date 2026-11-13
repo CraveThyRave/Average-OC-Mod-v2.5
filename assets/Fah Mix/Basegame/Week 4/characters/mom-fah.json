@@ -1,0 +1,231 @@
+{
+	"healthbar_colors": [
+		206,
+		111,
+		193
+	],
+	"icon_settings": {
+		"preview": {
+			"scale": 0.55,
+			"layout": "fah",
+			"downscroll": false,
+			"player": false
+		},
+		"offset": {
+			"x": 2,
+			"y": -32
+		},
+		"name": "mom-fah",
+		"animations": [
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "idle0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "idle0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": -1,
+							"y": 1
+						},
+						"name": "idle0002"
+					}
+				],
+				"offset": {
+					"x": 0,
+					"y": 0
+				},
+				"name": "idle"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": -1
+						},
+						"name": "win0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 0,
+							"y": -1
+						},
+						"name": "win0002"
+					}
+				],
+				"offset": {
+					"x": -6,
+					"y": -2
+				},
+				"name": "win"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 1,
+							"y": 0
+						},
+						"name": "lose0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": -1,
+							"y": 0
+						},
+						"name": "lose0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": -2,
+							"y": 1
+						},
+						"name": "lose0002"
+					}
+				],
+				"offset": {
+					"x": 0,
+					"y": 2
+				},
+				"name": "lose"
+			}
+		]
+	},
+	"icon_hud": "Auto",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"no_antialiasing": true,
+	"camera_position": [
+		0,
+		0
+	],
+	"image": "characters/fah-mom",
+	"sing_duration": 6.1,
+	"healthicon": "mom-fah",
+	"flip_x": false,
+	"extra_images": [
+		"characters/mom-dodge"
+	],
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-19
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "left",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "down",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-44
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "up",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "right",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				-155
+			],
+			"anim": "dodge",
+			"fps": 12,
+			"name": "dodge idle",
+			"indices": []
+		}
+	]
+}

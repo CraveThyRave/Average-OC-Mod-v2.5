@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bar-push.png">
+<SubTexture name="idle10000" x="151" y="0" width="148" height="176" frameX="-34" frameY="-11" frameWidth="197" frameHeight="184" />
+<SubTexture name="idle10001" x="0" y="0" width="151" height="180" frameX="-30" frameY="-10" frameWidth="197" frameHeight="184" />
+<SubTexture name="idle20000" x="299" y="0" width="180" height="153" frameX="-19" frameY="-18" frameWidth="197" frameHeight="184" />
+<SubTexture name="idle20001" x="0" y="180" width="181" height="153" frameX="-17" frameY="-18" frameWidth="197" frameHeight="184" />
+</TextureAtlas>

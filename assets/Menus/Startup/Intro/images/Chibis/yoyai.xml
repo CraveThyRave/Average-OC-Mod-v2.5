@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yoyai.png">
+<SubTexture name="yoyai click0000" x="221" y="0" width="252" height="302" frameX="0" frameY="-7" frameWidth="266" frameHeight="322" />
+<SubTexture name="yoyai stand0000" x="0" y="0" width="221" height="307" frameX="-14" frameY="0" frameWidth="266" frameHeight="322" />
+<SubTexture name="yoyai sit0000" x="708" y="0" width="244" height="242" frameX="-22" frameY="-80" frameWidth="266" frameHeight="322" />
+<SubTexture name="yoyai walk0000" x="473" y="0" width="235" height="302" frameX="-4" frameY="0" frameWidth="240" frameHeight="303" />
+<SubTexture name="yoyai walk0001" x="0" y="307" width="238" height="297" frameX="-2" frameY="-6" frameWidth="240" frameHeight="303" />
+<SubTexture name="yoyai walk0002" x="238" y="307" width="237" height="276" frameX="0" frameY="-24" frameWidth="240" frameHeight="303" />
+</TextureAtlas>

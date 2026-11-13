@@ -1,0 +1,116 @@
+{
+	"healthbar_colors": [
+		103,
+		72,
+		148
+	],
+	"icon_settings": {
+		"animations": [],
+		"preview": {
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 1
+		},
+		"name": "ar",
+		"offset": {
+			"x": 0,
+			"y": 0
+		}
+	},
+	"icon_hud": "Auto",
+	"position": [
+		-270,
+		-230
+	],
+	"scale": 1,
+	"no_antialiasing": false,
+	"camera_position": [
+		280,
+		0
+	],
+	"image": "characters/raven/ravenanim1",
+	"sing_duration": 3,
+	"healthicon": "ar",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-8,
+				2
+			],
+			"anim": "wave",
+			"fps": 8,
+			"name": "ravenanim1 wave",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "tap",
+			"indices": [],
+			"name": "ravenanim1 tap"
+		},
+		{
+			"offsets": [
+				-8,
+				2
+			],
+			"loop": true,
+			"fps": 4,
+			"anim": "morty",
+			"indices": [],
+			"name": "ravenanim1 morty"
+		},
+		{
+			"offsets": [
+				3,
+				5
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "turn",
+			"indices": [],
+			"name": "ravenanim1 turn"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "ravenanim1 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "ravenanim1 right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				4,
+				6
+			],
+			"indices": [],
+			"fps": 4,
+			"anim": "turn-rest",
+			"loop": true,
+			"name": "ravenanim1 rest-turn"
+		}
+	]
+}

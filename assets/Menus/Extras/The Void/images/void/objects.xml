@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="objects.png">
+<SubTexture name="objects mics0000" x="468" y="0" width="465" height="471" frameX="-29" frameY="0" frameWidth="526" frameHeight="479" />
+<SubTexture name="objects mics0001" x="468" y="0" width="465" height="471" frameX="-29" frameY="0" frameWidth="526" frameHeight="479" />
+<SubTexture name="objects mics0002" x="933" y="0" width="467" height="465" frameX="-28" frameY="-3" frameWidth="526" frameHeight="479" />
+<SubTexture name="objects mics0003" x="933" y="0" width="467" height="465" frameX="-28" frameY="-3" frameWidth="526" frameHeight="479" />
+<SubTexture name="objects mics0004" x="0" y="0" width="468" height="476" frameX="-27" frameY="-1" frameWidth="526" frameHeight="479" />
+<SubTexture name="objects mics0005" x="0" y="0" width="468" height="476" frameX="-27" frameY="-1" frameWidth="526" frameHeight="479" />
+<SubTexture name="objects speaker0000" x="655" y="476" width="667" height="350" frameX="-43" frameY="-4" frameWidth="845" frameHeight="354" />
+<SubTexture name="objects speaker0001" x="655" y="476" width="667" height="350" frameX="-43" frameY="-4" frameWidth="845" frameHeight="354" />
+<SubTexture name="objects speaker0002" x="0" y="827" width="658" height="348" frameX="-46" frameY="-4" frameWidth="845" frameHeight="354" />
+<SubTexture name="objects speaker0003" x="0" y="827" width="658" height="348" frameX="-46" frameY="-4" frameWidth="845" frameHeight="354" />
+<SubTexture name="objects speaker0004" x="0" y="476" width="655" height="351" frameX="-48" frameY="-3" frameWidth="845" frameHeight="354" />
+<SubTexture name="objects speaker0005" x="0" y="476" width="655" height="351" frameX="-48" frameY="-3" frameWidth="845" frameHeight="354" />
+<SubTexture name="objects pen-pencil0000" x="1400" y="285" width="436" height="104" frameX="-51" frameY="-49" frameWidth="487" frameHeight="173" />
+<SubTexture name="objects pen-pencil0001" x="1400" y="285" width="436" height="104" frameX="-51" frameY="-49" frameWidth="487" frameHeight="173" />
+<SubTexture name="objects pen-pencil0002" x="1400" y="173" width="433" height="112" frameX="-53" frameY="-47" frameWidth="487" frameHeight="173" />
+<SubTexture name="objects pen-pencil0003" x="1400" y="173" width="433" height="112" frameX="-53" frameY="-47" frameWidth="487" frameHeight="173" />
+<SubTexture name="objects pen-pencil0004" x="1833" y="173" width="432" height="109" frameX="-53" frameY="-48" frameWidth="487" frameHeight="173" />
+<SubTexture name="objects pen-pencil0005" x="1833" y="173" width="432" height="109" frameX="-53" frameY="-48" frameWidth="487" frameHeight="173" />
+<SubTexture name="objects blanket0000" x="0" y="1175" width="1100" height="174" frameX="-6" frameY="0" frameWidth="1119" frameHeight="182" />
+<SubTexture name="objects blanket0001" x="0" y="1175" width="1100" height="174" frameX="-6" frameY="0" frameWidth="1119" frameHeight="182" />
+<SubTexture name="objects blanket0002" x="1400" y="0" width="1112" height="173" frameX="-3" frameY="-9" frameWidth="1119" frameHeight="182" />
+<SubTexture name="objects blanket0003" x="1400" y="0" width="1112" height="173" frameX="-3" frameY="-9" frameWidth="1119" frameHeight="182" />
+<SubTexture name="objects blanket0004" x="0" y="1349" width="1119" height="172" frameX="0" frameY="-10" frameWidth="1119" frameHeight="182" />
+<SubTexture name="objects blanket0005" x="0" y="1349" width="1119" height="172" frameX="0" frameY="-10" frameWidth="1119" frameHeight="182" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lila.png">
+<SubTexture name="lila norm0000" x="424" y="0" width="207" height="643" frameX="-2" frameY="0" frameWidth="215" frameHeight="653" />
+<SubTexture name="lila norm0001" x="631" y="0" width="211" height="643" frameX="-4" frameY="-3" frameWidth="215" frameHeight="653" />
+<SubTexture name="lila norm0002" x="0" y="0" width="212" height="649" frameX="0" frameY="-4" frameWidth="215" frameHeight="653" />
+<SubTexture name="lila lightning0000" x="842" y="0" width="207" height="643" frameX="-2" frameY="0" frameWidth="215" frameHeight="653" />
+<SubTexture name="lila lightning0001" x="1049" y="0" width="211" height="643" frameX="-4" frameY="-3" frameWidth="215" frameHeight="653" />
+<SubTexture name="lila lightning0002" x="212" y="0" width="212" height="649" frameX="0" frameY="-4" frameWidth="215" frameHeight="653" />
+</TextureAtlas>

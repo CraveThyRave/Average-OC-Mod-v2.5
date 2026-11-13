@@ -1,0 +1,133 @@
+{
+	"healthbar_colors": [
+		130,
+		138,
+		134
+	],
+	"icon_settings": {
+		"animations": [
+			{
+				"frames": [],
+				"name": "idle",
+				"offset": {
+					"x": 0,
+					"y": 0
+				},
+				"scale": 1
+			},
+			{
+				"frames": [],
+				"name": "lose",
+				"offset": {
+					"x": 0,
+					"y": -7
+				},
+				"scale": 1
+			},
+			{
+				"frames": [],
+				"name": "win",
+				"offset": {
+					"x": 0,
+					"y": -13
+				},
+				"scale": 1
+			}
+		],
+		"preview": {
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 0.64
+		},
+		"name": "botfah",
+		"offset": {
+			"x": 5,
+			"y": -16
+		}
+	},
+	"icon_hud": "Auto",
+	"position": [
+		220,
+		520
+	],
+	"no_antialiasing": false,
+	"scale": 0.9,
+	"camera_position": [
+		-120,
+		-180
+	],
+	"image": "characters/botfah",
+	"sing_duration": 4,
+	"healthicon": "botfah",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				235,
+				170
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "botfah idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				235,
+				170
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "botfah left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				235,
+				170
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "botfah down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				235,
+				170
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "botfah up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				235,
+				170
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "botfah right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				275,
+				270
+			],
+			"anim": "glitch",
+			"fps": 12,
+			"name": "botfah glitch",
+			"indices": []
+		}
+	]
+}

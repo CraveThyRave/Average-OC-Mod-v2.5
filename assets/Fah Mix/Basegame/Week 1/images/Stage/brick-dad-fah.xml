@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="brick-dad-fah.png">
+<SubTexture name="brick-dad-fah idle0000" x="0" y="0" width="1200" height="705" frameX="-78" frameY="-30" frameWidth="1362" frameHeight="807" />
+<SubTexture name="brick-dad-fah idle0001" x="0" y="705" width="1201" height="700" frameX="-77" frameY="-30" frameWidth="1362" frameHeight="807" />
+<SubTexture name="brick-dad-fah idle0002" x="1200" y="0" width="1216" height="703" frameX="-69" frameY="-26" frameWidth="1362" frameHeight="807" />
+</TextureAtlas>

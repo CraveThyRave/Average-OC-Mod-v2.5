@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="raven-active.png">
+<SubTexture name="raven-active danceLeft0000" x="2765" y="0" width="393" height="745" frameX="-228" frameY="-145" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active danceLeft0001" x="1125" y="1644" width="385" height="754" frameX="-236" frameY="-136" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active danceLeft0002" x="0" y="1644" width="376" height="762" frameX="-245" frameY="-128" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active danceLeft0003" x="1647" y="0" width="370" height="764" frameX="-251" frameY="-125" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active danceLeft0004" x="1647" y="764" width="370" height="764" frameX="-252" frameY="-125" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active danceRight0000" x="1845" y="1644" width="366" height="746" frameX="-280" frameY="-144" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active danceRight0001" x="751" y="1644" width="374" height="756" frameX="-264" frameY="-134" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active danceRight0002" x="2393" y="763" width="372" height="762" frameX="-258" frameY="-128" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active danceRight0003" x="2393" y="0" width="372" height="763" frameX="-254" frameY="-126" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active danceRight0004" x="1647" y="764" width="370" height="764" frameX="-252" frameY="-125" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active right0000" x="1197" y="2406" width="411" height="714" frameX="-321" frameY="-173" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active right0001" x="0" y="2406" width="397" height="724" frameX="-318" frameY="-163" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active right0002" x="2765" y="745" width="392" height="725" frameX="-317" frameY="-162" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active right0003" x="1510" y="1644" width="335" height="748" frameX="-314" frameY="-139" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active down0000" x="3625" y="0" width="475" height="594" frameX="-231" frameY="-296" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active down0001" x="3158" y="0" width="467" height="601" frameX="-233" frameY="-288" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active down0002" x="2042" y="2406" width="468" height="607" frameX="-233" frameY="-282" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active down0003" x="1608" y="2406" width="434" height="659" frameX="-234" frameY="-230" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active left0000" x="799" y="832" width="388" height="773" frameX="-8" frameY="-117" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active left0001" x="2017" y="0" width="376" height="764" frameX="-32" frameY="-126" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active left0002" x="376" y="1644" width="375" height="760" frameX="-39" frameY="-130" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active left0003" x="2211" y="1644" width="342" height="746" frameX="-180" frameY="-143" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active up0000" x="0" y="0" width="419" height="832" frameX="-159" frameY="-58" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active up0001" x="829" y="0" width="409" height="816" frameX="-163" frameY="-74" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active up0002" x="0" y="832" width="410" height="812" frameX="-161" frameY="-78" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active up0003" x="410" y="832" width="389" height="800" frameX="-176" frameY="-91" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active missright0000" x="397" y="2406" width="397" height="724" frameX="-318" frameY="-163" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active missright0001" x="794" y="2406" width="403" height="719" frameX="-320" frameY="-168" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active missleft0000" x="2017" y="764" width="376" height="764" frameX="-32" frameY="-126" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active missleft0001" x="1187" y="832" width="376" height="769" frameX="-27" frameY="-121" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active missup0000" x="1238" y="0" width="409" height="816" frameX="-163" frameY="-74" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active missup0001" x="419" y="0" width="410" height="820" frameX="-164" frameY="-70" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active missdown0000" x="3158" y="601" width="467" height="601" frameX="-233" frameY="-288" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven-active missdown0001" x="2510" y="2406" width="468" height="607" frameX="-233" frameY="-282" frameWidth="750" frameHeight="1000" />
+</TextureAtlas>

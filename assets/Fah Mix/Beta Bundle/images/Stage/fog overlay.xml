@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fog overlay.png">
+<SubTexture name="fog overlay idle0000" x="336" y="373" width="235" height="208" frameX="-135" frameY="-108" frameWidth="461" frameHeight="380" />
+<SubTexture name="fog overlay idle0001" x="0" y="373" width="336" height="298" frameX="-73" frameY="-60" frameWidth="461" frameHeight="380" />
+<SubTexture name="fog overlay idle0002" x="0" y="0" width="461" height="373" frameX="0" frameY="0" frameWidth="461" frameHeight="380" />
+<SubTexture name="fog overlay idle0003" x="461" y="0" width="442" height="368" frameX="-3" frameY="-12" frameWidth="461" frameHeight="380" />
+<SubTexture name="fog overlay idle0004" x="0" y="0" width="461" height="373" frameX="0" frameY="0" frameWidth="461" frameHeight="380" />
+<SubTexture name="fog overlay idle0005" x="461" y="0" width="442" height="368" frameX="-3" frameY="-12" frameWidth="461" frameHeight="380" />
+</TextureAtlas>

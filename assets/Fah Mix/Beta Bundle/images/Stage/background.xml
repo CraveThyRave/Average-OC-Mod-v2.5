@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="background.png">
+<SubTexture name="botfah bg grass0000" x="503" y="1061" width="1362" height="344" frameX="0" frameY="0" frameWidth="1385" frameHeight="350" />
+<SubTexture name="botfah bg grass0001" x="0" y="1852" width="1370" height="315" frameX="-15" frameY="-35" frameWidth="1385" frameHeight="350" />
+<SubTexture name="botfah bg grass0002" x="0" y="1523" width="1354" height="329" frameX="-22" frameY="-17" frameWidth="1385" frameHeight="350" />
+<SubTexture name="botfah bg sun0000" x="1821" y="544" width="534" height="485" frameX="-13" frameY="0" frameWidth="562" frameHeight="493" />
+<SubTexture name="botfah bg sun0001" x="1259" y="544" width="562" height="487" frameX="0" frameY="-6" frameWidth="562" frameHeight="493" />
+<SubTexture name="botfah bg sun0002" x="0" y="1061" width="503" height="462" frameX="-27" frameY="-15" frameWidth="562" frameHeight="493" />
+<SubTexture name="botfah bg smog0000" x="0" y="544" width="1259" height="517" frameX="-12" frameY="-5" frameWidth="1279" frameHeight="551" />
+<SubTexture name="botfah bg smog0001" x="1244" y="0" width="1279" height="537" frameX="0" frameY="-2" frameWidth="1279" frameHeight="551" />
+<SubTexture name="botfah bg smog0002" x="0" y="0" width="1244" height="544" frameX="-18" frameY="-7" frameWidth="1279" frameHeight="551" />
+</TextureAtlas>

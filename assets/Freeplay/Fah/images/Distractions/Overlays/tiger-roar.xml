@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tiger-roar.png">
+<SubTexture name="tiger-roar hi0000" x="1482" y="1626" width="1381" height="276" frameX="0" frameY="-729" frameWidth="1485" frameHeight="1005" />
+<SubTexture name="tiger-roar hi0001" x="1485" y="2010" width="1485" height="445" frameX="0" frameY="-560" frameWidth="1485" frameHeight="1005" />
+<SubTexture name="tiger-roar hi0002" x="0" y="2010" width="1485" height="863" frameX="0" frameY="-142" frameWidth="1485" frameHeight="1005" />
+<SubTexture name="tiger-roar hi0003" x="0" y="0" width="1472" height="1005" frameX="0" frameY="0" frameWidth="1485" frameHeight="1005" />
+<SubTexture name="tiger-roar hi0004" x="1472" y="0" width="1472" height="1005" frameX="0" frameY="0" frameWidth="1485" frameHeight="1005" />
+<SubTexture name="tiger-roar hi0005" x="0" y="1005" width="1482" height="1005" frameX="0" frameY="0" frameWidth="1485" frameHeight="1005" />
+<SubTexture name="tiger-roar hi0006" x="2944" y="0" width="1485" height="963" frameX="0" frameY="-42" frameWidth="1485" frameHeight="1005" />
+<SubTexture name="tiger-roar hi0007" x="2944" y="963" width="1253" height="921" frameX="-206" frameY="-84" frameWidth="1485" frameHeight="1005" />
+<SubTexture name="tiger-roar hi0008" x="2970" y="2010" width="963" height="426" frameX="-267" frameY="-579" frameWidth="1485" frameHeight="1005" />
+<SubTexture name="tiger-roar hi0009" x="1482" y="1005" width="1092" height="621" frameX="-98" frameY="-384" frameWidth="1485" frameHeight="1005" />
+</TextureAtlas>

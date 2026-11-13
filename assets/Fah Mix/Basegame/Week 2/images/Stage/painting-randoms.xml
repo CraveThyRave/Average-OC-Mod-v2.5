@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="painting-randoms.png">
+<SubTexture name="paintings painting1-10000" x="4125" y="10153" width="205" height="270" frameX="-107" frameY="-399" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting1-10001" x="7051" y="10163" width="216" height="264" frameX="-93" frameY="-409" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting1-10002" x="9979" y="314" width="230" height="244" frameX="-81" frameY="-423" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting1-20000" x="10009" y="1706" width="194" height="249" frameX="-111" frameY="-406" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting1-20001" x="10008" y="3116" width="207" height="253" frameX="-110" frameY="-407" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting1-20002" x="9989" y="4510" width="223" height="270" frameX="-91" frameY="-392" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting2-10000" x="3008" y="2862" width="126" height="215" frameX="-1930" frameY="-153" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting2-10001" x="62" y="2860" width="130" height="220" frameX="-1924" frameY="-151" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting2-10002" x="3000" y="1451" width="146" height="217" frameX="-1922" frameY="-151" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting2-20000" x="3001" y="0" width="134" height="254" frameX="-1923" frameY="-109" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting2-20001" x="56" y="1409" width="157" height="253" frameX="-1918" frameY="-109" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting2-20002" x="49" y="0" width="160" height="259" frameX="-1911" frameY="-109" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting3-10000" x="6112" y="7318" width="127" height="216" frameX="-2094" frameY="-382" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting3-10001" x="3169" y="7325" width="140" height="207" frameX="-2091" frameY="-389" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting3-10002" x="230" y="7325" width="144" height="198" frameX="-2092" frameY="-389" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting3-20000" x="6107" y="5898" width="134" height="243" frameX="-2089" frameY="-371" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting3-20001" x="3164" y="5905" width="134" height="219" frameX="-2086" frameY="-378" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting3-20002" x="224" y="5909" width="135" height="212" frameX="-2086" frameY="-382" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting4-10000" x="9262" y="7618" width="124" height="224" frameX="-2304" frameY="-682" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting4-10001" x="9264" y="6232" width="112" height="207" frameX="-2306" frameY="-705" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting4-10002" x="9260" y="4816" width="116" height="217" frameX="-2302" frameY="-698" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting4-20000" x="9271" y="3382" width="106" height="262" frameX="-2313" frameY="-673" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting4-20001" x="9270" y="1982" width="103" height="239" frameX="-2312" frameY="-682" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting4-20002" x="9271" y="553" width="117" height="260" frameX="-2313" frameY="-662" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting5-10000" x="5884" y="4928" width="260" height="132" frameX="-1866" frameY="-810" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting5-10001" x="5878" y="3514" width="268" height="134" frameX="-1860" frameY="-805" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting5-10002" x="5881" y="2105" width="263" height="129" frameX="-1863" frameY="-805" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting5-20000" x="5893" y="697" width="241" height="133" frameX="-1875" frameY="-806" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting5-20001" x="2945" y="4915" width="256" height="147" frameX="-1867" frameY="-797" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting5-20002" x="0" y="4912" width="277" height="140" frameX="-1862" frameY="-794" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting6-10000" x="566" y="9421" width="78" height="264" frameX="-2428" frameY="-1076" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting6-10001" x="3491" y="9375" width="112" height="319" frameX="-2413" frameY="-1030" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting6-10002" x="6443" y="9381" width="105" height="301" frameX="-2425" frameY="-1036" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting6-20000" x="9380" y="9454" width="86" height="218" frameX="-2422" frameY="-1109" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting6-20001" x="567" y="10811" width="108" height="274" frameX="-2429" frameY="-1057" frameWidth="2940" frameHeight="1409" />
+<SubTexture name="paintings painting6-20002" x="3510" y="10812" width="109" height="272" frameX="-2432" frameY="-1058" frameWidth="2940" frameHeight="1409" />
+</TextureAtlas>

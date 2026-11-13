@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="raven.png">
+<SubTexture name="raven idle0000" x="0" y="1639" width="371" height="769" frameX="-203" frameY="-120" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven idle0001" x="1695" y="778" width="374" height="774" frameX="-206" frameY="-115" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven idle0002" x="1695" y="0" width="375" height="778" frameX="-208" frameY="-111" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven idle0003" x="787" y="826" width="375" height="780" frameX="-209" frameY="-109" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven idle0004" x="1162" y="826" width="374" height="780" frameX="-211" frameY="-109" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven left0000" x="371" y="1639" width="351" height="762" frameX="-166" frameY="-127" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven left0001" x="2042" y="1639" width="342" height="759" frameX="-176" frameY="-130" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven left0002" x="2738" y="759" width="339" height="757" frameX="-179" frameY="-132" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven left0003" x="722" y="1639" width="314" height="762" frameX="-200" frameY="-126" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven right0000" x="2738" y="1516" width="341" height="755" frameX="-311" frameY="-132" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven right0001" x="1036" y="1639" width="331" height="762" frameX="-309" frameY="-125" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven right0002" x="2070" y="772" width="330" height="765" frameX="-308" frameY="-122" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven right0003" x="2070" y="0" width="338" height="772" frameX="-265" frameY="-116" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven down0000" x="0" y="2408" width="294" height="710" frameX="-268" frameY="-178" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven down0001" x="3080" y="0" width="285" height="721" frameX="-274" frameY="-167" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven down0002" x="2408" y="1507" width="283" height="724" frameX="-273" frameY="-164" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven down0003" x="2408" y="759" width="293" height="748" frameX="-255" frameY="-139" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven up0000" x="0" y="0" width="430" height="826" frameX="-158" frameY="-61" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven up0001" x="853" y="0" width="421" height="818" frameX="-165" frameY="-69" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven up0002" x="0" y="826" width="422" height="813" frameX="-164" frameY="-74" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven up0003" x="422" y="826" width="365" height="802" frameX="-220" frameY="-87" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven missright0000" x="1367" y="1639" width="331" height="762" frameX="-309" frameY="-125" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven missright0001" x="2408" y="0" width="330" height="759" frameX="-312" frameY="-128" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven missup0000" x="1274" y="0" width="421" height="818" frameX="-165" frameY="-69" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven missup0001" x="430" y="0" width="423" height="822" frameX="-166" frameY="-65" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven missleft0000" x="2738" y="0" width="342" height="759" frameX="-176" frameY="-130" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven missleft0001" x="1698" y="1639" width="344" height="761" frameX="-173" frameY="-128" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven missdown0000" x="3080" y="721" width="285" height="721" frameX="-274" frameY="-167" frameWidth="750" frameHeight="1000" />
+<SubTexture name="raven missdown0001" x="3080" y="1442" width="285" height="718" frameX="-276" frameY="-170" frameWidth="750" frameHeight="1000" />
+</TextureAtlas>

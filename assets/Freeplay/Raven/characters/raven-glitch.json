@@ -1,0 +1,105 @@
+{
+	"healthbar_colors": [
+		103,
+		72,
+		148
+	],
+	"icon_settings": {
+		"animations": [],
+		"preview": {
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 1
+		},
+		"name": "gr",
+		"offset": {
+			"x": 0,
+			"y": 0
+		}
+	},
+	"icon_hud": "Auto",
+	"position": [
+		-210,
+		-130
+	],
+	"scale": 1,
+	"no_antialiasing": false,
+	"camera_position": [
+		240,
+		30
+	],
+	"image": "characters/raven/raven-glitch",
+	"sing_duration": 3,
+	"healthicon": "gr",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-30
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "raven-glitch danceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-30
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "raven-glitch danceRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				84
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "raven-glitch left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "raven-glitch down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				81
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "raven-glitch right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				84
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "raven-glitch up",
+			"indices": []
+		}
+	]
+}

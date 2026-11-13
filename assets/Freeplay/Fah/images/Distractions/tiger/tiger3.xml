@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tiger3.png">
+<SubTexture name="tiger3 idle0000" x="488" y="0" width="442" height="325" frameX="-36" frameY="-61" frameWidth="535" frameHeight="404" />
+<SubTexture name="tiger3 idle0001" x="0" y="0" width="488" height="326" frameX="-35" frameY="-59" frameWidth="535" frameHeight="404" />
+</TextureAtlas>

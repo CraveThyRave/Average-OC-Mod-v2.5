@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tallie-sad.png">
+<SubTexture name="idle0000" x="0" y="647" width="285" height="623" frameX="-114" frameY="-73" frameWidth="669" frameHeight="758" />
+<SubTexture name="idle0001" x="573" y="647" width="280" height="570" frameX="-114" frameY="-122" frameWidth="669" frameHeight="758" />
+<SubTexture name="idle0002" x="785" y="0" width="311" height="624" frameX="-94" frameY="-72" frameWidth="669" frameHeight="758" />
+<SubTexture name="cry0000" x="285" y="647" width="288" height="620" frameX="-108" frameY="-76" frameWidth="669" frameHeight="758" />
+<SubTexture name="cry0001" x="499" y="0" width="286" height="627" frameX="-103" frameY="-66" frameWidth="669" frameHeight="758" />
+<SubTexture name="cry0002" x="235" y="0" width="264" height="634" frameX="-119" frameY="-58" frameWidth="669" frameHeight="758" />
+<SubTexture name="cry0003" x="0" y="0" width="235" height="647" frameX="-121" frameY="-44" frameWidth="669" frameHeight="758" />
+<SubTexture name="cry0004" x="1096" y="0" width="231" height="624" frameX="-119" frameY="-63" frameWidth="669" frameHeight="758" />
+<SubTexture name="cry0005" x="1096" y="0" width="231" height="624" frameX="-119" frameY="-63" frameWidth="669" frameHeight="758" />
+<SubTexture name="cry0006" x="285" y="647" width="288" height="620" frameX="-108" frameY="-76" frameWidth="669" frameHeight="758" />
+<SubTexture name="cry0007" x="499" y="0" width="286" height="627" frameX="-103" frameY="-66" frameWidth="669" frameHeight="758" />
+<SubTexture name="cry0008" x="235" y="0" width="264" height="634" frameX="-119" frameY="-58" frameWidth="669" frameHeight="758" />
+<SubTexture name="cry0009" x="0" y="0" width="235" height="647" frameX="-121" frameY="-44" frameWidth="669" frameHeight="758" />
+
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fah.png">
+<SubTexture name="fah spin0000" x="4" y="4" width="539" height="434" frameX="-19" frameY="-45" frameWidth="582" frameHeight="504" />
+<SubTexture name="fah spin0001" x="557" y="4" width="462" height="455" frameX="-47" frameY="-24" frameWidth="582" frameHeight="504" />
+<SubTexture name="fah spin0002" x="1110" y="4" width="350" height="485" frameX="-109" frameY="-19" frameWidth="582" frameHeight="504" />
+<SubTexture name="fah spin0003" x="1663" y="4" width="444" height="451" frameX="-63" frameY="-32" frameWidth="582" frameHeight="504" />
+<SubTexture name="fah spin0004" x="4" y="497" width="545" height="440" frameX="-16" frameY="-39" frameWidth="582" frameHeight="504" />
+<SubTexture name="fah spin0005" x="557" y="497" width="444" height="451" frameX="-63" frameY="-32" frameWidth="582" frameHeight="504" />
+<SubTexture name="fah spin0006" x="1110" y="497" width="350" height="466" frameX="-125" frameY="-38" frameWidth="582" frameHeight="504" />
+<SubTexture name="fah spin0007" x="1663" y="497" width="442" height="455" frameX="-67" frameY="-24" frameWidth="582" frameHeight="504" />
+</TextureAtlas>

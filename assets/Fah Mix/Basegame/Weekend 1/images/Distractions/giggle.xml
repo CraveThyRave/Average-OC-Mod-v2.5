@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="giggle.png">
+<SubTexture name="giggle into0000" x="0" y="947" width="1072" height="860" frameX="-64" frameY="-62" frameWidth="1136" frameHeight="947" />
+<SubTexture name="giggle into0001" x="989" y="0" width="1078" height="924" frameX="0" frameY="-23" frameWidth="1136" frameHeight="947" />
+<SubTexture name="giggle into0002" x="0" y="0" width="989" height="947" frameX="-58" frameY="0" frameWidth="1136" frameHeight="947" />
+<SubTexture name="giggle idlle0000" x="989" y="0" width="1078" height="924" frameX="0" frameY="-23" frameWidth="1136" frameHeight="947" />
+<SubTexture name="giggle idlle0001" x="0" y="0" width="989" height="947" frameX="-58" frameY="0" frameWidth="1136" frameHeight="947" />
+</TextureAtlas>
