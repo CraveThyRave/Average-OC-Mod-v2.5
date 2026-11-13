@@ -1,0 +1,149 @@
+{
+	"healthbar_colors": [
+		43,
+		18,
+		84
+	],
+	"position": [
+		-290,
+		-270
+	],
+	"icon_settings": {
+		"animations": [],
+		"preview": {
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 0.288461538461538
+		},
+		"name": "yoyai",
+		"offset": {
+			"x": -8,
+			"y": -6
+		}
+	},
+	"icon_hud": "Auto",
+	"scale": 0.85,
+	"no_antialiasing": false,
+	"image": "characters/YoyaiHap",
+	"camera_position": [
+		100,
+		-70
+	],
+	"sing_duration": 4,
+	"healthicon": "yoyai",
+	"flip_x": false,
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 7,
+			"anim": "idle",
+			"loop": true,
+			"name": "YoyaiHap idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-19,
+				-3
+			],
+			"anim": "scared",
+			"fps": 12,
+			"name": "YoyaiHap scared",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "downtap",
+			"fps": 12,
+			"name": "YoyaiHap downtap",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "clapup",
+			"fps": 12,
+			"name": "YoyaiHap clapup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "lefthip",
+			"fps": 12,
+			"name": "YoyaiHap lefthip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "rightgolfclap",
+			"fps": 12,
+			"name": "YoyaiHap rightgolfclap",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "YoyaiHap lefthip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "YoyaiHap downtap",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "YoyaiHap clapup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "YoyaiHap rightgolfclap",
+			"indices": []
+		}
+	],
+	"extra_images": []
+}

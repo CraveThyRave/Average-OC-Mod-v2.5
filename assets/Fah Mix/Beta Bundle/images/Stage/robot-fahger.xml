@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="robot-fahger.png">
+<SubTexture name="robot-fahger glitch0000" x="885" y="0" width="484" height="534" frameX="0" frameY="-42" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger glitch0001" x="0" y="0" width="451" height="611" frameX="-41" frameY="0" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger glitch0002" x="430" y="611" width="448" height="520" frameX="-46" frameY="-61" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger glitch0003" x="0" y="611" width="430" height="534" frameX="-60" frameY="-92" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger glitch0004" x="1369" y="473" width="331" height="458" frameX="-217" frameY="-158" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger idle0000" x="858" y="1598" width="347" height="336" frameX="-153" frameY="-278" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger idle0001" x="1771" y="378" width="345" height="346" frameX="-142" frameY="-262" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger idle0002" x="1771" y="0" width="346" height="378" frameX="-105" frameY="-235" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger right0000" x="1215" y="1145" width="418" height="398" frameX="-169" frameY="-203" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger right0001" x="451" y="1598" width="407" height="363" frameX="-93" frameY="-241" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger right0002" x="393" y="1145" width="476" height="429" frameX="-145" frameY="-183" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger up0000" x="878" y="611" width="468" height="509" frameX="-108" frameY="-112" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger up0001" x="1205" y="1598" width="391" height="334" frameX="-114" frameY="-281" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger up0002" x="451" y="0" width="434" height="581" frameX="-116" frameY="-37" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger down0000" x="2117" y="0" width="612" height="327" frameX="-41" frameY="-269" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger down0001" x="0" y="1598" width="451" height="368" frameX="-92" frameY="-224" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger down0002" x="2117" y="327" width="467" height="296" frameX="-97" frameY="-296" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger left0000" x="0" y="1145" width="393" height="453" frameX="-4" frameY="-168" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger left0001" x="869" y="1145" width="346" height="421" frameX="-107" frameY="-196" frameWidth="653" frameHeight="626" />
+<SubTexture name="robot-fahger left0002" x="1369" y="0" width="402" height="473" frameX="-48" frameY="-143" frameWidth="653" frameHeight="626" />
+</TextureAtlas>

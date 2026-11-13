@@ -1,0 +1,293 @@
+{
+	"healthbar_colors": [
+		250,
+		166,
+		109
+	],
+	"icon_settings": {
+		"preview": {
+			"scale": 0.9,
+			"layout": "senpai",
+			"downscroll": false,
+			"player": false
+		},
+		"offset": {
+			"x": -41,
+			"y": -10
+		},
+		"name": "senpai-fah",
+		"animations": [
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": -9,
+							"y": 2
+						},
+						"name": "idle0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": -8,
+							"y": 2
+						},
+						"name": "idle0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": -7,
+							"y": 3
+						},
+						"name": "idle0002"
+					}
+				],
+				"offset": {
+					"x": 10,
+					"y": 0
+				},
+				"name": "idle"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0002"
+					}
+				],
+				"offset": {
+					"x": 0,
+					"y": 0
+				},
+				"name": "win"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "lose0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "lose0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 1,
+							"y": -1
+						},
+						"name": "lose0002"
+					}
+				],
+				"offset": {
+					"x": 0,
+					"y": 0
+				},
+				"name": "lose"
+			}
+		]
+	},
+	"icon_hud": "Auto",
+	"position": [
+		150,
+		190
+	],
+	"scale": 1,
+	"no_antialiasing": true,
+	"camera_position": [
+		120,
+		-180
+	],
+	"image": "characters/senpai-fah",
+	"sing_duration": 4,
+	"healthicon": "senpai-fah",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				170,
+				112
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				117
+			],
+			"anim": "blush",
+			"fps": 10,
+			"name": "blush",
+			"indices": []
+		},
+		{
+			"offsets": [
+				163,
+				98
+			],
+			"indices": [
+				0,
+				2,
+				1
+			],
+			"fps": 10,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				182,
+				120
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				188,
+				121
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				172,
+				113
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				129,
+				83
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "down-alt"
+		},
+		{
+			"offsets": [
+				134,
+				100
+			],
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"fps": 10,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "right-alt"
+		},
+		{
+			"offsets": [
+				146,
+				98
+			],
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"fps": 10,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "left-alt"
+		},
+		{
+			"offsets": [
+				128,
+				86
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "up-alt"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tankman-runner.png">
+<SubTexture name="run0000" x="0" y="1229" width="354" height="439" frameX="-29" frameY="-32" frameWidth="435" frameHeight="492" />
+<SubTexture name="run0001" x="1529" y="0" width="291" height="444" frameX="-97" frameY="-42" frameWidth="435" frameHeight="492" />
+<SubTexture name="run0002" x="1249" y="0" width="280" height="462" frameX="-96" frameY="-27" frameWidth="435" frameHeight="492" />
+<SubTexture name="explode0000" x="354" y="1229" width="411" height="437" frameX="-158" frameY="-168" frameWidth="778" frameHeight="752" />
+<SubTexture name="explode0001" x="569" y="640" width="471" height="473" frameX="-123" frameY="-132" frameWidth="778" frameHeight="752" />
+<SubTexture name="explode0002" x="0" y="640" width="569" height="589" frameX="-78" frameY="-25" frameWidth="778" frameHeight="752" />
+<SubTexture name="explode0003" x="659" y="0" width="590" height="613" frameX="-81" frameY="-33" frameWidth="778" frameHeight="752" />
+<SubTexture name="explode0004" x="0" y="0" width="659" height="640" frameX="-63" frameY="-58" frameWidth="778" frameHeight="752" />
+</TextureAtlas>

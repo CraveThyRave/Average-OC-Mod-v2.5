@@ -1,0 +1,274 @@
+{
+	"healthbar_colors": [
+		212,
+		102,
+		200
+	],
+	"icon_settings": {
+		"preview": {
+			"scale": 0.6,
+			"layout": "fah",
+			"downscroll": false,
+			"player": false
+		},
+		"offset": {
+			"x": 2,
+			"y": -38
+		},
+		"name": "dad-fah",
+		"animations": [
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "idle0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "idle0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "idle0002"
+					}
+				],
+				"offset": {
+					"x": -1,
+					"y": 5
+				},
+				"name": "idle"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0002"
+					}
+				],
+				"offset": {
+					"x": -1,
+					"y": 5
+				},
+				"name": "win"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "lose0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "lose0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "lose0002"
+					}
+				],
+				"offset": {
+					"x": 0,
+					"y": 0
+				},
+				"name": "lose"
+			}
+		]
+	},
+	"icon_hud": "Auto",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"no_antialiasing": true,
+	"camera_position": [
+		0,
+		0
+	],
+	"image": "characters/dad-fah",
+	"sing_duration": 6.1,
+	"healthicon": "dad-fah",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				-1
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "dad-fah idle"
+		},
+		{
+			"offsets": [
+				-9,
+				11
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "dad-fah left"
+		},
+		{
+			"offsets": [
+				-9,
+				14
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				0
+			],
+			"name": "dad-fah down"
+		},
+		{
+			"offsets": [
+				-3,
+				-8
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [
+				1,
+				0
+			],
+			"name": "dad-fah up"
+		},
+		{
+			"offsets": [
+				2,
+				13
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "dad-fah right"
+		},
+		{
+			"offsets": [
+				1,
+				-80
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT-alt",
+			"indices": [
+				1,
+				0
+			],
+			"name": "dad-fah l-box"
+		},
+		{
+			"offsets": [
+				-35,
+				-88
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN-alt",
+			"indices": [
+				1,
+				0
+			],
+			"name": "dad-fah d-box"
+		},
+		{
+			"offsets": [
+				-31,
+				-91
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP-alt",
+			"indices": [
+				1,
+				0
+			],
+			"name": "dad-fah u-box"
+		},
+		{
+			"offsets": [
+				-50,
+				-57
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				1,
+				0
+			],
+			"name": "dad-fah r-box"
+		}
+	]
+}

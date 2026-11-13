@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fah-dialogue.png">
+<SubTexture name="talk0000" x="0" y="774" width="579" height="765" frameX="-40" frameY="-54" frameWidth="624" frameHeight="861" />
+<SubTexture name="talk0001" x="0" y="0" width="580" height="774" frameX="-39" frameY="-50" frameWidth="624" frameHeight="861" />
+<SubTexture name="not-talk0000" x="580" y="0" width="591" height="771" frameX="-28" frameY="-53" frameWidth="624" frameHeight="861" />
+<SubTexture name="not-talk0001" x="1171" y="0" width="589" height="770" frameX="-35" frameY="-56" frameWidth="624" frameHeight="861" />
+</TextureAtlas>

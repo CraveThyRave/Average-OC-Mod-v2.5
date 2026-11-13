@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="minion.png">
+<SubTexture name="walk0000" x="159" y="0" width="281" height="375" frameX="-23" frameY="-24" frameWidth="329" frameHeight="409" />
+<SubTexture name="walk0001" x="0" y="0" width="159" height="382" frameX="-99" frameY="-24" frameWidth="329" frameHeight="409" />
+<SubTexture name="idle0000" x="720" y="0" width="293" height="373" frameX="-42" frameY="-51" frameWidth="360" frameHeight="449" />
+<SubTexture name="idle0001" x="440" y="0" width="280" height="373" frameX="-51" frameY="-51" frameWidth="360" frameHeight="449" />
+<SubTexture name="dead-walk0000" x="119" y="382" width="259" height="172" frameX="-13" frameY="-26" frameWidth="301" frameHeight="213" />
+<SubTexture name="dead-walk0001" x="0" y="382" width="119" height="176" frameX="-88" frameY="-25" frameWidth="301" frameHeight="213" />
+</TextureAtlas>

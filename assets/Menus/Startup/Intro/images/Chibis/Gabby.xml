@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gabby.png">
+<SubTexture name="Gabby Click0000" x="0" y="257" width="261" height="254" frameX="-26" frameY="-54" frameWidth="400" frameHeight="338" />
+<SubTexture name="Gabby Sit0000" x="0" y="511" width="291" height="218" frameX="-9" frameY="-102" frameWidth="400" frameHeight="338" />
+<SubTexture name="Gabby Idle0000" x="261" y="257" width="238" height="251" frameX="-35" frameY="-52" frameWidth="400" frameHeight="338" />
+<SubTexture name="Gabby Walk0000" x="545" y="0" width="269" height="251" frameX="-35" frameY="-48" frameWidth="400" frameHeight="338" />
+<SubTexture name="Gabby Walk0001" x="271" y="0" width="274" height="255" frameX="-44" frameY="-55" frameWidth="400" frameHeight="338" />
+<SubTexture name="Gabby Walk0002" x="0" y="0" width="271" height="257" frameX="-40" frameY="-46" frameWidth="400" frameHeight="338" />
+</TextureAtlas>

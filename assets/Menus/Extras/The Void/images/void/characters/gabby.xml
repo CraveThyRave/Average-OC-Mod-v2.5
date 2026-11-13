@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gabby.png">
+<SubTexture name="gabby idle0000" x="574" y="0" width="487" height="1075" frameX="0" frameY="-6" frameWidth="637" frameHeight="1088" />
+<SubTexture name="gabby idle0001" x="574" y="0" width="487" height="1075" frameX="0" frameY="-6" frameWidth="637" frameHeight="1088" />
+<SubTexture name="gabby idle0002" x="2134" y="0" width="486" height="1058" frameX="-7" frameY="-21" frameWidth="637" frameHeight="1088" />
+<SubTexture name="gabby idle0003" x="2134" y="0" width="486" height="1058" frameX="-7" frameY="-21" frameWidth="637" frameHeight="1088" />
+<SubTexture name="gabby idle0004" x="1605" y="0" width="529" height="1067" frameX="-24" frameY="0" frameWidth="637" frameHeight="1088" />
+<SubTexture name="gabby idle0005" x="1605" y="0" width="529" height="1067" frameX="-24" frameY="0" frameWidth="637" frameHeight="1088" />
+<SubTexture name="gabby idle0006" x="1061" y="0" width="544" height="1068" frameX="-67" frameY="-14" frameWidth="637" frameHeight="1088" />
+<SubTexture name="gabby idle0007" x="1061" y="0" width="544" height="1068" frameX="-67" frameY="-14" frameWidth="637" frameHeight="1088" />
+<SubTexture name="gabby idle0008" x="0" y="0" width="574" height="1080" frameX="-63" frameY="-8" frameWidth="637" frameHeight="1088" />
+<SubTexture name="gabby idle0009" x="0" y="0" width="574" height="1080" frameX="-63" frameY="-8" frameWidth="637" frameHeight="1088" />
+<SubTexture name="gabby idle0010" x="1061" y="0" width="544" height="1068" frameX="-67" frameY="-14" frameWidth="637" frameHeight="1088" />
+<SubTexture name="gabby idle0011" x="1061" y="0" width="544" height="1068" frameX="-67" frameY="-14" frameWidth="637" frameHeight="1088" />
+<SubTexture name="gabby idle0012" x="1605" y="0" width="529" height="1067" frameX="-24" frameY="0" frameWidth="637" frameHeight="1088" />
+<SubTexture name="gabby idle0013" x="1605" y="0" width="529" height="1067" frameX="-24" frameY="0" frameWidth="637" frameHeight="1088" />
+</TextureAtlas>

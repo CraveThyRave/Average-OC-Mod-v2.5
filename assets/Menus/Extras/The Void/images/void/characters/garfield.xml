@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="garefield.png">
+<SubTexture name="garefield normal idle0000" x="711" y="518" width="296" height="352" frameX="-39" frameY="-102" frameWidth="371" frameHeight="541" />
+<SubTexture name="garefield normal idle0001" x="711" y="518" width="296" height="352" frameX="-39" frameY="-102" frameWidth="371" frameHeight="541" />
+<SubTexture name="garefield normal idle0002" x="381" y="518" width="330" height="361" frameX="0" frameY="-96" frameWidth="371" frameHeight="541" />
+<SubTexture name="garefield normal idle0003" x="381" y="518" width="330" height="361" frameX="0" frameY="-96" frameWidth="371" frameHeight="541" />
+<SubTexture name="garefield normal idle0004" x="0" y="892" width="316" height="317" frameX="-19" frameY="-136" frameWidth="371" frameHeight="541" />
+<SubTexture name="garefield normal idle0005" x="0" y="892" width="316" height="317" frameX="-19" frameY="-136" frameWidth="371" frameHeight="541" />
+<SubTexture name="garefield normal idle0006" x="1227" y="0" width="278" height="339" frameX="-88" frameY="-114" frameWidth="371" frameHeight="541" />
+<SubTexture name="garefield normal idle0007" x="1227" y="0" width="278" height="339" frameX="-88" frameY="-114" frameWidth="371" frameHeight="541" />
+<SubTexture name="garefield sleep idle0000" x="0" y="518" width="381" height="374" frameX="-67" frameY="-159" frameWidth="448" frameHeight="570" />
+<SubTexture name="garefield sleep idle0001" x="0" y="518" width="381" height="374" frameX="-67" frameY="-159" frameWidth="448" frameHeight="570" />
+<SubTexture name="garefield sleep idle0002" x="833" y="0" width="394" height="413" frameX="-53" frameY="-140" frameWidth="448" frameHeight="570" />
+<SubTexture name="garefield sleep idle0003" x="833" y="0" width="394" height="413" frameX="-53" frameY="-140" frameWidth="448" frameHeight="570" />
+<SubTexture name="garefield sleep idle0004" x="437" y="0" width="396" height="486" frameX="-38" frameY="-84" frameWidth="448" frameHeight="570" />
+<SubTexture name="garefield sleep idle0005" x="437" y="0" width="396" height="486" frameX="-38" frameY="-84" frameWidth="448" frameHeight="570" />
+<SubTexture name="garefield sleep idle0006" x="0" y="0" width="437" height="518" frameX="-1" frameY="-43" frameWidth="448" frameHeight="570" />
+<SubTexture name="garefield sleep idle0007" x="0" y="0" width="437" height="518" frameX="-1" frameY="-43" frameWidth="448" frameHeight="570" />
+</TextureAtlas>

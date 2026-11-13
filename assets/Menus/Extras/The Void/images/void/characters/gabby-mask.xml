@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gabby-mask.png">
+  <SubTexture name="gabby idle0000" x="4" y="4" width="743" height="1331" frameX="128" frameY="122" frameWidth="637" frameHeight="1088" />
+  <SubTexture name="gabby idle0001" x="4" y="4" width="743" height="1331" frameX="128" frameY="122" frameWidth="637" frameHeight="1088" />
+  <SubTexture name="gabby idle0002" x="755" y="4" width="742" height="1314" frameX="121" frameY="107" frameWidth="637" frameHeight="1088" />
+  <SubTexture name="gabby idle0003" x="755" y="4" width="742" height="1314" frameX="121" frameY="107" frameWidth="637" frameHeight="1088" />
+  <SubTexture name="gabby idle0004" x="4" y="1343" width="785" height="1323" frameX="104" frameY="128" frameWidth="637" frameHeight="1088" />
+  <SubTexture name="gabby idle0005" x="4" y="1343" width="785" height="1323" frameX="104" frameY="128" frameWidth="637" frameHeight="1088" />
+  <SubTexture name="gabby idle0006" x="797" y="1343" width="800" height="1324" frameX="61" frameY="114" frameWidth="637" frameHeight="1088" />
+  <SubTexture name="gabby idle0007" x="797" y="1343" width="800" height="1324" frameX="61" frameY="114" frameWidth="637" frameHeight="1088" />
+  <SubTexture name="gabby idle0008" x="4" y="2675" width="830" height="1336" frameX="65" frameY="120" frameWidth="637" frameHeight="1088" />
+  <SubTexture name="gabby idle0009" x="4" y="2675" width="830" height="1336" frameX="65" frameY="120" frameWidth="637" frameHeight="1088" />
+  <SubTexture name="gabby idle0010" x="797" y="1343" width="800" height="1324" frameX="61" frameY="114" frameWidth="637" frameHeight="1088" />
+  <SubTexture name="gabby idle0011" x="797" y="1343" width="800" height="1324" frameX="61" frameY="114" frameWidth="637" frameHeight="1088" />
+  <SubTexture name="gabby idle0012" x="4" y="1343" width="785" height="1323" frameX="104" frameY="128" frameWidth="637" frameHeight="1088" />
+  <SubTexture name="gabby idle0013" x="4" y="1343" width="785" height="1323" frameX="104" frameY="128" frameWidth="637" frameHeight="1088" />
+</TextureAtlas>

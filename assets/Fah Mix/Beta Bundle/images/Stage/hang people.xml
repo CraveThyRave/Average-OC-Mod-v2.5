@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hang people.png">
+<SubTexture name="hang people idle0000" x="0" y="0" width="543" height="332" frameX="0" frameY="0" frameWidth="543" frameHeight="332" />
+<SubTexture name="hang people idle0001" x="543" y="0" width="539" height="328" frameX="-1" frameY="-3" frameWidth="543" frameHeight="332" />
+<SubTexture name="hang people idle0002" x="0" y="332" width="537" height="316" frameX="-4" frameY="-7" frameWidth="543" frameHeight="332" />
+</TextureAtlas>

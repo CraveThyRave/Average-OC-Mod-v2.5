@@ -1,0 +1,255 @@
+{
+	"healthbar_colors": [
+		250,
+		166,
+		109
+	],
+	"icon_settings": {
+		"preview": {
+			"scale": 0.9,
+			"layout": "senpai",
+			"downscroll": false,
+			"player": false
+		},
+		"offset": {
+			"x": -4,
+			"y": 1
+		},
+		"name": "pisspai-fah",
+		"animations": [
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": -1,
+							"y": 0
+						},
+						"name": "idle0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "idle0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 1,
+							"y": 0
+						},
+						"name": "idle0002"
+					}
+				],
+				"offset": {
+					"x": -35,
+					"y": -10
+				},
+				"name": "idle"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0002"
+					}
+				],
+				"offset": {
+					"x": -35,
+					"y": -10
+				},
+				"name": "win"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": -1,
+							"y": -1
+						},
+						"name": "lose0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": -1,
+							"y": 1
+						},
+						"name": "lose0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 2,
+							"y": 0
+						},
+						"name": "lose0002"
+					}
+				],
+				"offset": {
+					"x": -33,
+					"y": -13
+				},
+				"name": "lose"
+			}
+		]
+	},
+	"icon_hud": "Auto",
+	"position": [
+		150,
+		190
+	],
+	"scale": 1,
+	"no_antialiasing": true,
+	"camera_position": [
+		120,
+		-180
+	],
+	"image": "characters/pisspai-fah",
+	"sing_duration": 4,
+	"healthicon": "pisspai-fah",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"offsets": [
+				172,
+				106
+			],
+			"indices": [
+				0,
+				2,
+				1
+			],
+			"fps": 10,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				182,
+				122
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				195,
+				123
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				163,
+				122
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				170,
+				112
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "pisspai",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				173,
+				115
+			],
+			"anim": "blush",
+			"fps": 10,
+			"name": "swat",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				29
+			],
+			"anim": "barf",
+			"fps": 10,
+			"name": "barf in",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				65,
+				30
+			],
+			"anim": "barf-loop",
+			"fps": 10,
+			"name": "barf loop",
+			"indices": []
+		}
+	]
+}

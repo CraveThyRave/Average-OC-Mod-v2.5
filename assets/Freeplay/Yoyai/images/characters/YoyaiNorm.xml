@@ -1,0 +1,25 @@
+<TextureAtlas imagePath="YoyaiNorm.png">
+<SubTexture name="YoyaiNorm idle0000" x="483" y="0" width="485" height="1084" frameX="-136" frameY="-88" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm idle0001" x="0" y="0" width="483" height="1086" frameX="-137" frameY="-88" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm idle0002" x="968" y="0" width="484" height="1083" frameX="-137" frameY="-89" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writedown0000" x="3071" y="1066" width="418" height="1061" frameX="-126" frameY="-111" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writedown0001" x="839" y="1086" width="415" height="1066" frameX="-129" frameY="-106" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writeleft0000" x="393" y="1086" width="446" height="1066" frameX="-96" frameY="-106" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writeleft0001" x="1254" y="1086" width="441" height="1066" frameX="-103" frameY="-106" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writeright0000" x="1845" y="0" width="393" height="1067" frameX="-157" frameY="-105" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writeright0001" x="1695" y="1086" width="391" height="1066" frameX="-153" frameY="-106" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writeup0000" x="1452" y="0" width="393" height="1071" frameX="-151" frameY="-101" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writeup0001" x="2238" y="0" width="391" height="1066" frameX="-153" frameY="-106" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm penciltap0000" x="870" y="2153" width="426" height="1053" frameX="-117" frameY="-119" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm penciltap0001" x="446" y="2153" width="424" height="1056" frameX="-120" frameY="-112" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm pencileraseleft0000" x="1296" y="2153" width="428" height="1053" frameX="-115" frameY="-119" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm pencilerasedown0000" x="1724" y="2153" width="428" height="1053" frameX="-115" frameY="-119" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm pencileraseright0000" x="2152" y="2153" width="428" height="1053" frameX="-115" frameY="-119" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm pencileraseup0000" x="1724" y="2153" width="428" height="1053" frameX="-115" frameY="-119" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writelongleft0000" x="3071" y="0" width="419" height="1066" frameX="-108" frameY="-106" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writelongleft0001" x="0" y="2153" width="446" height="1056" frameX="-96" frameY="-106" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writelongleft0002" x="2629" y="0" width="442" height="1066" frameX="-102" frameY="-106" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writelongright0000" x="2629" y="1066" width="395" height="1066" frameX="-161" frameY="-106" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writelongright0001" x="0" y="1086" width="393" height="1067" frameX="-157" frameY="-105" frameWidth="900" frameHeight="1250" />
+<SubTexture name="YoyaiNorm writelongright0002" x="1695" y="1086" width="391" height="1066" frameX="-153" frameY="-106" frameWidth="900" frameHeight="1250" />
+</TextureAtlas>

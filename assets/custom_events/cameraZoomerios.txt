@@ -1,3 +1,0 @@
-!!Default camera zoom is 0.9!!
-Value 1 is the amount of zoom you want
-Value 2 is the time it takes to zoom

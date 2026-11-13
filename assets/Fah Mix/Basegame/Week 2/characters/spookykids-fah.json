@@ -1,0 +1,262 @@
+{
+	"healthbar_colors": [
+		224,
+		167,
+		66
+	],
+	"icon_settings": {
+		"preview": {
+			"scale": 0.65,
+			"layout": "week2",
+			"downscroll": false,
+			"player": false
+		},
+		"offset": {
+			"x": 0,
+			"y": 0
+		},
+		"name": "spookykids-fah",
+		"animations": [
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "idle0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "idle0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "idle0002"
+					}
+				],
+				"offset": {
+					"x": -1,
+					"y": -4
+				},
+				"name": "idle"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 1,
+							"y": 0
+						},
+						"name": "win0002"
+					}
+				],
+				"offset": {
+					"x": -1,
+					"y": -4
+				},
+				"name": "win"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": -2,
+							"y": -5
+						},
+						"name": "lose0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": -2,
+							"y": -3
+						},
+						"name": "lose0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": -2,
+							"y": -3
+						},
+						"name": "lose0002"
+					}
+				],
+				"offset": {
+					"x": 1,
+					"y": 1
+				},
+				"name": "lose"
+			}
+		]
+	},
+	"icon_hud": "Auto",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"no_antialiasing": true,
+	"camera_position": [
+		0,
+		0
+	],
+	"image": "characters/fah-spookykids",
+	"sing_duration": 6.1,
+	"healthicon": "spookykids-fah",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"offsets": [
+				-58,
+				-219
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-61,
+				-229
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle-dance",
+			"indices": [],
+			"name": "idle-dance"
+		},
+		{
+			"offsets": [
+				-60,
+				-217
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-61,
+				-220
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				0
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-59,
+				-230
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [
+				1,
+				0
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-71,
+				-214
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-36,
+				-239
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP-alt",
+			"indices": [
+				1,
+				0
+			],
+			"name": "laugh"
+		},
+		{
+			"offsets": [
+				-32,
+				-210
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		}
+	]
+}

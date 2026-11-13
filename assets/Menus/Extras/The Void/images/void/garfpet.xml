@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="garfpet.png">
+<SubTexture name="garfpet purr head0000" x="0" y="2918" width="1383" height="707" frameX="-207" frameY="-241" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet purr head0001" x="0" y="2918" width="1383" height="707" frameX="-207" frameY="-241" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet purr head0002" x="0" y="2199" width="1393" height="719" frameX="-202" frameY="-235" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet purr head0003" x="0" y="2199" width="1393" height="719" frameX="-202" frameY="-235" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet purr head0004" x="1393" y="2199" width="1263" height="713" frameX="-267" frameY="-216" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet purr head0005" x="1393" y="2199" width="1263" height="713" frameX="-267" frameY="-216" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet normal head0000" x="2451" y="0" width="1220" height="888" frameX="-288" frameY="-39" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet normal head0001" x="2451" y="0" width="1220" height="888" frameX="-288" frameY="-39" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet normal head0002" x="1229" y="1274" width="1212" height="904" frameX="-293" frameY="-26" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet normal head0003" x="1229" y="1274" width="1212" height="904" frameX="-293" frameY="-26" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet normal head0004" x="0" y="1274" width="1229" height="925" frameX="-285" frameY="0" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet normal head0005" x="0" y="1274" width="1229" height="925" frameX="-285" frameY="0" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet body0000" x="1177" y="0" width="1274" height="1087" frameX="0" frameY="-436" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet body0001" x="1177" y="0" width="1274" height="1087" frameX="0" frameY="-436" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet body0002" x="0" y="0" width="1177" height="1274" frameX="-96" frameY="-249" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet body0003" x="0" y="0" width="1177" height="1274" frameX="-96" frameY="-249" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet body0004" x="2451" y="888" width="1186" height="836" frameX="-94" frameY="-687" frameWidth="1595" frameHeight="1523" />
+<SubTexture name="garfpet body0005" x="2451" y="888" width="1186" height="836" frameX="-94" frameY="-687" frameWidth="1595" frameHeight="1523" />
+</TextureAtlas>

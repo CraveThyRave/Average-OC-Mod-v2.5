@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="long-floor.png">
+<SubTexture name="long-floor grow0000" x="0" y="1111" width="1298" height="377" frameX="-77" frameY="-161" frameWidth="1461" frameHeight="573" />
+<SubTexture name="long-floor grow0001" x="1392" y="573" width="1302" height="489" frameX="-70" frameY="-65" frameWidth="1461" frameHeight="573" />
+<SubTexture name="long-floor grow0002" x="0" y="573" width="1392" height="538" frameX="-38" frameY="-14" frameWidth="1461" frameHeight="573" />
+<SubTexture name="long-floor grow0003" x="1436" y="0" width="1458" height="564" frameX="-3" frameY="-6" frameWidth="1461" frameHeight="573" />
+<SubTexture name="long-floor grow0004" x="0" y="0" width="1436" height="573" frameX="0" frameY="0" frameWidth="1461" frameHeight="573" />
+<SubTexture name="long-floor idle0000" x="1436" y="0" width="1458" height="564" frameX="-3" frameY="-6" frameWidth="1461" frameHeight="573" />
+<SubTexture name="long-floor idle0001" x="0" y="0" width="1436" height="573" frameX="0" frameY="0" frameWidth="1461" frameHeight="573" />
+</TextureAtlas>

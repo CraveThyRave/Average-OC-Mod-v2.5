@@ -1,0 +1,1847 @@
+{
+	"events": [
+		{
+			"value1": "1.1",
+			"after": 0,
+			"value2": "0.5",
+			"time": 82.8729281767956,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.35",
+			"after": 0,
+			"value2": "0.2",
+			"time": 1712.70718232044,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "500",
+			"after": 0,
+			"value2": "350",
+			"time": 2237.56906077348,
+			"name": "Camera Follow Pos"
+		},
+		{
+			"value1": "534.090364",
+			"after": 1000000,
+			"value2": "362.5",
+			"time": 2651.93370165746,
+			"name": "Camera Follow Pos"
+		},
+		{
+			"value1": "1.3025",
+			"after": 1000000,
+			"value2": "0",
+			"time": 2651.93370165746,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "568.180727",
+			"after": 1000000,
+			"value2": "375",
+			"time": 3149.17127071823,
+			"name": "Camera Follow Pos"
+		},
+		{
+			"value1": "1.255",
+			"after": 1000000,
+			"value2": "0",
+			"time": 3149.17127071823,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "602.271091",
+			"after": 1000000,
+			"value2": "387.5",
+			"time": 3563.53591160221,
+			"name": "Camera Follow Pos"
+		},
+		{
+			"value1": "1.2075",
+			"after": 1000000,
+			"value2": "0",
+			"time": 3563.53591160221,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "636.361455",
+			"after": 1000000,
+			"value2": "400",
+			"time": 4143.64640883978,
+			"name": "Camera Follow Pos"
+		},
+		{
+			"value1": "1.16",
+			"after": 1000000,
+			"value2": "0",
+			"time": 4143.64640883978,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "670.451818",
+			"after": 1000000,
+			"value2": "412.5",
+			"time": 4640.88397790055,
+			"name": "Camera Follow Pos"
+		},
+		{
+			"value1": "1.1125",
+			"after": 1000000,
+			"value2": "0",
+			"time": 4640.88397790055,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "704.542182",
+			"after": 1000000,
+			"value2": "425",
+			"time": 4889.50276243094,
+			"name": "Camera Follow Pos"
+		},
+		{
+			"value1": "1.065",
+			"after": 1000000,
+			"value2": "0",
+			"time": 4889.50276243094,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "738.632545",
+			"after": 1000000,
+			"value2": "437.5",
+			"time": 5220.99447513812,
+			"name": "Camera Follow Pos"
+		},
+		{
+			"value1": "1.0175",
+			"after": 1000000,
+			"value2": "0",
+			"time": 5220.99447513812,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.97",
+			"after": 0,
+			"value2": "0",
+			"time": 5745.85635359116,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "772.722909",
+			"after": 0,
+			"value2": "450",
+			"time": 5745.85635359116,
+			"name": "Camera Follow Pos"
+		},
+		{
+			"value1": "806.813273",
+			"after": 1000000,
+			"value2": "462.5",
+			"time": 6215.46961325967,
+			"name": "Camera Follow Pos"
+		},
+		{
+			"value1": "0.9225",
+			"after": 1000000,
+			"value2": "0",
+			"time": 6215.46961325967,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "840.903636",
+			"after": 1000000,
+			"value2": "475",
+			"time": 6961.32596685083,
+			"name": "Camera Follow Pos"
+		},
+		{
+			"value1": "0.875",
+			"after": 1000000,
+			"value2": "0",
+			"time": 6961.32596685083,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "874.994",
+			"after": 1000000,
+			"value2": "487.5",
+			"time": 7292.81767955801,
+			"name": "Camera Follow Pos"
+		},
+		{
+			"value1": "0.8275",
+			"after": 1000000,
+			"value2": "0",
+			"time": 7292.81767955801,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.78",
+			"after": 0,
+			"value2": "0.1",
+			"time": 7624.30939226519,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "",
+			"after": 1000000,
+			"value2": "",
+			"time": 7624.3093922652,
+			"name": "Camera Follow Pos"
+		},
+		{
+			"value1": "1.1",
+			"after": 0,
+			"value2": "3",
+			"time": 7955.80110497238,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,-100",
+			"after": 1000000,
+			"value2": "0.5",
+			"time": 7955.80110497238,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "0.9",
+			"after": 0,
+			"value2": "0.2",
+			"time": 10607.7348066298,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,-75",
+			"after": 1000000,
+			"value2": "1.7",
+			"time": 10607.7348066298,
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.93",
+			"time": 11685.0828729282,
+			"value2": "0.1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,+70",
+			"after": 1000000,
+			"value2": "5",
+			"time": 11685.0828729282,
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.96",
+			"time": 12016.5745856354,
+			"value2": "0.1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "bf,-100",
+			"time": 12016.5745856354,
+			"value2": "2.1",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "bf",
+			"time": 12430.9392265193,
+			"value2": "2.1",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.88",
+			"time": 12430.9392265193,
+			"value2": "0.1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.96",
+			"time": 12928.1767955801,
+			"value2": "0.8",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.85",
+			"time": 13425.4143646409,
+			"value2": "0.1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.9",
+			"time": 13922.6519337017,
+			"value2": "0.25",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.93",
+			"time": 14337.0165745856,
+			"value2": "0.1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,+70",
+			"after": 1000000,
+			"value2": "5",
+			"time": 14337.0165745856,
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "bf,-100",
+			"time": 14668.5082872928,
+			"value2": "2.1",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.96",
+			"time": 14668.5082872928,
+			"value2": "0.1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.88",
+			"time": 15082.8729281768,
+			"value2": "0.1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "bf",
+			"time": 15082.8729281768,
+			"value2": "2.1",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.94",
+			"time": 15497.2375690608,
+			"value2": "0.2",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.85",
+			"time": 16160.2209944751,
+			"value2": "0.1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.9",
+			"time": 16657.458563536,
+			"value2": "0.25",
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,+70",
+			"after": 1000000,
+			"value2": "5",
+			"time": 17071.8232044199,
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.93",
+			"time": 17071.8232044199,
+			"value2": "0.1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "bf,-100",
+			"time": 17403.3149171271,
+			"value2": "2.1",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.96",
+			"time": 17403.3149171271,
+			"value2": "0.1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "bf",
+			"time": 17817.679558011,
+			"value2": "2.1",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.88",
+			"time": 17817.679558011,
+			"value2": "0.1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.94",
+			"time": 17983.4254143646,
+			"value2": "0.2",
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 0,
+			"value2": "0.25",
+			"time": 18563.5359116022,
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "1.15",
+			"time": 19889.5027624309,
+			"value2": "0.1",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 0,
+			"value1": "0.74",
+			"time": 20552.4861878453,
+			"value2": "0.5",
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf",
+			"after": 1000000,
+			"value2": "1",
+			"time": 20552.4861878453,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "default",
+			"after": 0,
+			"value2": "0.9",
+			"time": 21215.4696132597,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "0.9",
+			"after": 0,
+			"value2": "0.3",
+			"time": 21236.1878453039,
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 0,
+			"value1": "0.99",
+			"time": 22541.4364640884,
+			"value2": "0.6",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "{\"ease\":\"quadInOut\",\"duration\":5,\"angle\":2}",
+			"time": 22541.4364640884,
+			"value2": "",
+			"name": "Camera Rotation"
+		},
+		{
+			"after": 1000000,
+			"value1": "{\"ease\":\"quadInOut\",\"duration\":5,\"angle\":-2}",
+			"time": 23204.4198895028,
+			"value2": "",
+			"name": "Camera Rotation"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.9",
+			"time": 23204.4198895028,
+			"value2": "0.6",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "{\"ease\":\"quadInOut\",\"duration\":2,\"angle\":0}",
+			"time": 23535.9116022099,
+			"value2": "",
+			"name": "Camera Rotation"
+		},
+		{
+			"value1": "1.08",
+			"after": 0,
+			"value2": "0.3",
+			"time": 23867.4033149171,
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "dad,++100,-110",
+			"time": 24530.3867403315,
+			"value2": "2",
+			"name": "CameraControl"
+		},
+		{
+			"after": 0,
+			"value1": "1.15",
+			"time": 25193.3701657459,
+			"value2": "0.2",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "dad,-110",
+			"time": 25193.3701657459,
+			"value2": "2",
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "1.23",
+			"time": 25690.6077348066,
+			"value2": "0.2",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "1.4",
+			"time": 26022.0994475138,
+			"value2": "0.2",
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf",
+			"after": 1000000,
+			"value2": "snap",
+			"time": 26519.3370165746,
+			"name": "CameraControl"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.83",
+			"time": 26519.3370165746,
+			"value2": "0.45",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.75",
+			"time": 27928.1767955801,
+			"value2": "0.2",
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"value1": "0.8",
+			"time": 28839.7790055249,
+			"value2": "0.2",
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.92",
+			"after": 1000000,
+			"value2": "0.4",
+			"time": 29171.270718232,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.8",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 29751.3812154696,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.92",
+			"after": 0,
+			"value2": "0.25",
+			"time": 30497.2375690608,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.35",
+			"after": 0,
+			"value2": "0.25",
+			"time": 31160.2209944751,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,--200",
+			"after": 1000000,
+			"value2": "snap",
+			"time": 31160.2209944751,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "bf,--50",
+			"after": 0,
+			"value2": "snap",
+			"time": 31823.2044198895,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "0.84",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 32320.4419889503,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.95",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 32817.679558011,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.8",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 33480.6629834254,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.95",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 33977.9005524862,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.99",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 34475.138121547,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,--70",
+			"after": 1000000,
+			"value2": "4",
+			"time": 34640.8839779006,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "bf,--110",
+			"after": 1000000,
+			"value2": "4",
+			"time": 34972.3756906077,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "bf,",
+			"after": 1000000,
+			"value2": "7",
+			"time": 35303.8674033149,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "1.02",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 35303.8674033149,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,-60",
+			"after": 1000000,
+			"value2": "1.2",
+			"time": 35801.1049723757,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "0.95",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 35801.1049723757,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.85",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 36132.5966850829,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.94",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 36381.2154696133,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 36712.7071823204,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.15",
+			"after": 0,
+			"value2": "0.55",
+			"time": 37044.1988950276,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,-100",
+			"after": 1000000,
+			"value2": "1.2",
+			"time": 37044.1988950276,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "bf,-120",
+			"after": 1000000,
+			"value2": "6",
+			"time": 37458.5635359116,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "bf,-170",
+			"after": 1000000,
+			"value2": "6",
+			"time": 37624.3093922652,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "dad,-100",
+			"after": 1000000,
+			"value2": "0.9",
+			"time": 37790.0552486188,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "0.78",
+			"after": 1000000,
+			"value2": "0.6",
+			"time": 37872.9281767956,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.82",
+			"after": 0,
+			"value2": "0.25",
+			"time": 38453.0386740331,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.95",
+			"after": 0,
+			"value2": "0.25",
+			"time": 39779.0055248619,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 1000000,
+			"value2": "0.4",
+			"time": 41022.0994475138,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.9",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 41519.3370165746,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf",
+			"after": 1000000,
+			"value2": "6",
+			"time": 41685.0828729282,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "0.75",
+			"after": 0,
+			"value2": "0.2",
+			"time": 42430.9392265193,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.85",
+			"after": 0,
+			"value2": "0.25",
+			"time": 43259.6685082873,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.88",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 43756.9060773481,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.9",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 44088.3977900552,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.8",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 44254.1436464088,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.9",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 44502.7624309392,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,-60",
+			"after": 1000000,
+			"value2": "1.2",
+			"time": 45082.8729281768,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "1",
+			"after": 1000000,
+			"value2": "0.25",
+			"time": 45082.8729281768,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.03",
+			"after": 1000000,
+			"value2": "0.25",
+			"time": 45497.2375690608,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.07",
+			"after": 1000000,
+			"value2": "0.25",
+			"time": 45911.6022099447,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.85",
+			"after": 1000000,
+			"value2": "0.25",
+			"time": 46408.8397790055,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.93",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 47154.6961325967,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.7",
+			"after": 1000000,
+			"value2": "0.5",
+			"time": 47569.0607734807,
+			"name": "cameraZoomerios"
+		},
+		{
+			"after": 1000000,
+			"name": "cameraZoomerios",
+			"time": 47734.8066298343,
+			"value1": "0.9",
+			"value2": "0.6"
+		},
+		{
+			"value1": "dad",
+			"after": 1000000,
+			"value2": "4",
+			"time": 47734.8066298343,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "0.9",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 49060.773480663,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 50386.7403314917,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.2",
+			"after": 1000000,
+			"value2": "0.8",
+			"time": 51132.5966850829,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf",
+			"after": 1000000,
+			"value2": "3.6",
+			"time": 51132.5966850829,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "0.84",
+			"after": 0,
+			"value2": "0.25",
+			"time": 51712.7071823204,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.5",
+			"after": 0,
+			"value2": "0.1",
+			"time": 52375.6906077348,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,-20,--100",
+			"after": 1000000,
+			"value2": "5",
+			"time": 52375.6906077348,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "1.0",
+			"after": 0,
+			"value2": "0.1",
+			"time": 53038.6740331492,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "true",
+			"after": 1000000,
+			"value2": "0.03",
+			"time": 53038.6740331492,
+			"name": "Camera Beat"
+		},
+		{
+			"value1": "bf,-50, --100",
+			"after": 1000000,
+			"value2": "snap",
+			"time": 53038.6740331492,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "1.06",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 53701.6574585635,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 0,
+			"value2": "0.1",
+			"time": 54364.6408839779,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.2",
+			"after": 1000000,
+			"value2": "0.3",
+			"time": 54944.7513812155,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "true",
+			"after": 0,
+			"value2": "0.035",
+			"time": 55690.6077348066,
+			"name": "Camera Beat"
+		},
+		{
+			"value1": "0.93",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 55690.6077348066,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.15",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 56353.591160221,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "true",
+			"after": 0,
+			"value2": "0.04",
+			"time": 57016.5745856353,
+			"name": "Camera Beat"
+		},
+		{
+			"value1": "1",
+			"after": 1000000,
+			"value2": "0.32",
+			"time": 57016.5745856354,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.9",
+			"after": 1000000,
+			"value2": "0.32",
+			"time": 57348.0662983425,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.8",
+			"after": 1000000,
+			"value2": "0.32",
+			"time": 57679.5580110497,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.4",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 58011.0497237569,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "true",
+			"after": 0,
+			"value2": "0.03",
+			"time": 58342.5414364641,
+			"name": "Camera Beat"
+		},
+		{
+			"value1": "0.78",
+			"after": 1000000,
+			"value2": "0.15",
+			"time": 58342.5414364641,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.85",
+			"after": 1000000,
+			"value2": "0.15",
+			"time": 58674.0331491713,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.95",
+			"after": 1000000,
+			"value2": "0.15",
+			"time": 59668.5082872928,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,30, --100",
+			"after": 1000000,
+			"value2": "8",
+			"time": 60000,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "bf,-100, --100",
+			"after": 1000000,
+			"value2": "6",
+			"time": 60165.7458563536,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "true",
+			"after": 0,
+			"value2": "0.035",
+			"time": 60497.2375690608,
+			"name": "Camera Beat"
+		},
+		{
+			"value1": "1.2",
+			"after": 1000000,
+			"value2": "0.25",
+			"time": 60497.2375690608,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.5",
+			"after": 0,
+			"value2": "0.1",
+			"time": 60994.4751381215,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 61491.7127071823,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.5",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 61823.2044198895,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1",
+			"after": 0,
+			"value2": "0.1",
+			"time": 62320.4419889503,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.9",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 62734.8066298343,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.3",
+			"after": 0,
+			"value2": "0.2",
+			"time": 63149.1712707182,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "true",
+			"after": 0,
+			"value2": "0.05",
+			"time": 63646.408839779,
+			"name": "Camera Beat"
+		},
+		{
+			"value1": "0.8",
+			"after": 1000000,
+			"value2": "0.13",
+			"time": 63646.408839779,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 64295.0574884276,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.9",
+			"after": 0,
+			"value2": "0.1",
+			"time": 64943.7061370763,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.7",
+			"after": 1000000,
+			"value2": "2",
+			"time": 65268.0304614006,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.4",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 65592.3547857249,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 66078.8412722114,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.6",
+			"after": 1000000,
+			"value2": "0.9",
+			"time": 66646.408839779,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 66889.6520830222,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.85",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 67213.9764073466,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.82",
+			"after": 0,
+			"value2": "0.1",
+			"time": 68024.7872181573,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 0,
+			"value2": "0.12",
+			"time": 68835.5980289682,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.3",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 69159.9223532925,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.6",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 69808.5710019411,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 0,
+			"value2": "0.1",
+			"time": 70132.8953262655,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.9",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 70457.2196505898,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 70781.5439749141,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.3",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 71105.8682992385,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,-20, --100",
+			"after": 1000000,
+			"value2": "8",
+			"time": 71430.1926235628,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "bf,20, --100",
+			"after": 1000000,
+			"value2": "10",
+			"time": 71673.435866806,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "0.8",
+			"after": 0,
+			"value2": "0.25",
+			"time": 71916.6791100492,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.3",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 72727.4899208601,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,-20, --100",
+			"after": 1000000,
+			"value2": "8",
+			"time": 72727.4899208601,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "bf,20, --100",
+			"after": 1000000,
+			"value2": "10",
+			"time": 72970.7331641033,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "0.8",
+			"after": 1000000,
+			"value2": "0.25",
+			"time": 73213.9764073465,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.3",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 74024.7872181573,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,-50, --100",
+			"after": 1000000,
+			"value2": "snap",
+			"time": 74024.7872181573,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "1.5",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 74659.707853078,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.15",
+			"after": 0,
+			"value2": "0.25",
+			"time": 75294.6284879986,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.25",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 75929.5491229192,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.3",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 76247.0094403796,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.6",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 76564.4697578399,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.8",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 77199.3903927605,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.4",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 77516.8507102208,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.9",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 77834.3110276811,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.87",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 78231.1364245065,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 1000000,
+			"value2": "0.6",
+			"time": 78786.6919800621,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.8",
+			"after": 0,
+			"value2": "0.25",
+			"time": 79100.1840435542,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "false",
+			"after": 1000000,
+			"value2": "0.05",
+			"time": 79104.1522975224,
+			"name": "Camera Beat"
+		},
+		{
+			"value1": "0.9",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 79421.6126149827,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 79739.072932443,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 80056.5332499034,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.2",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 80377.9618213319,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.3",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 80691.453884824,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.4",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 81008.9142022843,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.6",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 81330.3427737128,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.7",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 81643.8348372049,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "true",
+			"after": 1000000,
+			"value2": "0.05",
+			"time": 81643.834837205,
+			"name": "Camera Beat"
+		},
+		{
+			"value1": "2",
+			"after": 1000000,
+			"value2": "0.9",
+			"time": 82913.6761070462,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.9",
+			"after": 0,
+			"value2": "0.25",
+			"time": 83562.3247556949,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.9",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 84210.9734043435,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "dad",
+			"after": 1000000,
+			"value2": "0.4",
+			"time": 84210.9734043435,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "false",
+			"after": 1000000,
+			"value2": "",
+			"time": 84210.9734043435,
+			"name": "Camera Beat"
+		},
+		{
+			"value1": "1",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 85702.6861115259,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.2",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 86034.177824233,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf,-50, --100",
+			"after": 1000000,
+			"value2": "0.8",
+			"time": 86365.6695369402,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "1.4",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 86365.6695369402,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "true",
+			"after": 0,
+			"value2": "0.05",
+			"time": 86780.0341778242,
+			"name": "Camera Beat"
+		},
+		{
+			"value1": "bf,-50, --100",
+			"after": 1000000,
+			"value2": "snap",
+			"time": 86780.0341778242,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "1.55",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 87443.0176032386,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.75",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 88023.1281004761,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.85",
+			"after": 0,
+			"value2": "0.1",
+			"time": 88851.8573822441,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.95",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 89183.3490949512,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 89431.9678794816,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.5",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 89846.3325203656,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.8",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 90177.8242330728,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.35",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 90840.8076584872,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 1000000,
+			"value2": "1",
+			"time": 91172.2993711943,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.7",
+			"after": 1000000,
+			"value2": "0.5",
+			"time": 91835.2827966087,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1",
+			"after": 0,
+			"value2": "0.25",
+			"time": 92166.7745093159,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 1000000,
+			"value2": "0.25",
+			"time": 92664.0120783767,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.4",
+			"after": 1000000,
+			"value2": "0.8",
+			"time": 93492.7413601446,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1",
+			"after": 1000000,
+			"value2": "0.4",
+			"time": 94155.724785559,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.2",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 94818.7082109734,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.4",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 95481.6916363877,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.6",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 95813.1833490949,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.8",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 96144.6750618021,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 1000000,
+			"value2": "0.3",
+			"time": 96807.6584872165,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0",
+			"after": 0,
+			"value2": "0.6",
+			"time": 97470.6419126308,
+			"name": "Kaboom"
+		},
+		{
+			"value1": "0.9",
+			"after": 1000000,
+			"value2": "0.25",
+			"time": 97470.6419126308,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 98133.6253380452,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.4",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 98796.6087634595,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 99293.8463325203,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.4",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 99625.3380452275,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.8",
+			"after": 0,
+			"value2": "1.2",
+			"time": 100122.575614288,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "2",
+			"after": 1000000,
+			"value2": "0.4",
+			"time": 100785.559039703,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "2.3",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 101117.05075241,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "2.6",
+			"after": 1000000,
+			"value2": "2",
+			"time": 101780.034177824,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.6",
+			"after": 0,
+			"value2": "0.3",
+			"time": 102774.509315946,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.15",
+			"after": 0,
+			"value2": "0.25",
+			"time": 103437.49274136,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.6",
+			"after": 1000000,
+			"value2": "0.3",
+			"time": 104100.476166774,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.8",
+			"after": 1000000,
+			"value2": "0.1",
+			"time": 104763.459592189,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.3",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 105426.443017603,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 106089.426443018,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.5",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 106752.409868432,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.25",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 107415.393293846,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.5",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 108078.376719261,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0.86",
+			"after": 0,
+			"value2": "0.4",
+			"time": 108409.868431968,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "0",
+			"after": 1000000,
+			"value2": "0",
+			"time": 108409.868431968,
+			"name": "Kaboom"
+		},
+		{
+			"value1": "false",
+			"after": 1000000,
+			"value2": "",
+			"time": 108409.868431968,
+			"name": "Camera Beat"
+		},
+		{
+			"value1": "dad",
+			"after": 1000000,
+			"value2": "0.6",
+			"time": 108409.868431968,
+			"name": "CameraControl"
+		},
+		{
+			"value1": "0.95",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 111724.78555904,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.1",
+			"after": 1000000,
+			"value2": "0.9",
+			"time": 112470.641912631,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "1.15",
+			"after": 1000000,
+			"value2": "0.2",
+			"time": 113050.752409868,
+			"name": "cameraZoomerios"
+		},
+		{
+			"value1": "bf",
+			"after": 1000000,
+			"value2": "snap",
+			"time": 114708.210973404,
+			"name": "CameraControl"
+		}
+	],
+	"layers": [],
+	"version": 1
+}

@@ -1,0 +1,75 @@
+2.5 - Side D
+Added Beta Bundle, Addition
+Added Hush-Up!, Addition
+Added Test, Addition
+Added Ridge, Addition
+Added Smash, Addition
+Added 25 achievements, Addition
+Added Extras menu, Addition
+Added The Bin, Addition
+Added music player, Addition
+Added The Void, Addition
+Added another minigame, Addition
+Added built in Changelogs, Addition
+Added high-score leaderboards to shop minigames, Addition
+Added 2 themes, Addition
+Added 3 modifiers, Addition
+Added Militus discount feature, Addition
+Added a new power-up use overlay, Addition
+Added Lila to Spookeez, Addition
+Added Cookie to credits, Addition
+Added 1 completion achievement, Addition
+Added more locked achievement text, Addition
+Added 18 Militus About dialogues, Addition
+Added 2 character bios, Addition
+Locked BF bio, Adjustment
+Added 1 scrolling art to GameBanana, Addition
+Added 1 icon to GameBanana, Addition
+Added 3 chibi babies, Addition
+Added 3 main menu plushies, Addition
+Added 13 loading screens, Addition
+Added 9 main menu artworks, Addition
+Added 14 intro texts, Addition
+Added 3 pause hints, Addition
+Added 10 loading hints, Addition
+Added randomized production notes to pause screens, Addition
+Added new sound effects for things that previously had none, Addition
+Changed achievement popup title font, Adjustment
+Changed how Legacy ShiftR is displayed, Adjustment
+Changed up Militus key presser, Adjustment
+Changed some window titles, Adjustment
+Changed ShiftR song text, Adjustment
+Changed split screen, Adjustment
+Changed minigame explosion, Adjustment
+Changed how the HUD is rendered, Adjustment
+Changed how Militus's console screen is rendered, Adjustment
+Changed how highest and lowest scores are calculated in Fah Mix, Adjustment
+Slightly changed main menu artwork functionality, Adjustment
+Slightly changed the mouse section of the keypress display, Adjustment
+Slightly changed the ending of Hodgepodge, Adjustment
+Slightly changed the ending of Sunburnt, Adjustment
+Slightly changed South's laugh, Adjustment
+Slightly changed Christmas credits, Adjustment
+Slightly changed hold-note tails, Adjustment
+Slightly adjusted Freeplay and Fah Mix menu scaling, Adjustment
+Slightly adjusted menu parallax, Adjustment
+Slightly adjusted split-ball halves in Nola of the Moth, Adjustment
+Adjusted some song mixing, Adjustment
+Tweaked pause song, Adjustment
+Made Fah Mix trophies slightly bigger, Adjustment
+Moved several menus to the Extras menu, Adjustment
+Removed Phoenix and Raven from the Week 4 background for continuity, Removal
+Replaced Gabby's character bio artwork, Overhaul
+Replaced 1 old main menu artwork, Overhaul
+Replaced many placeholder sound effects, Overhaul
+Reworked bios song, Overhaul
+Reworked 1 main menu artwork, Overhaul
+Reworked several menu transitions, Overhaul
+Remade every pause description, Overhaul
+Remade every character bio description, Overhaul
+Remade Week 2 background, Overhaul
+Redid all Freeplay song camera work, Overhaul
+Updated a handful of in-game charts, Adjustment
+Fixed South in Mirror Mode, Bugfix
+Optimized and reorganized backend code, Optimization
+Remade every freeplay icon, Overhaul

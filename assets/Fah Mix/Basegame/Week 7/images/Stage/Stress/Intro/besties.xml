@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="besties.png">
+<SubTexture name="besties idle0000" x="655" y="989" width="291" height="436" frameX="-45" frameY="-93" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0001" x="0" y="1432" width="276" height="417" frameX="-46" frameY="-112" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0002" x="1221" y="444" width="272" height="440" frameX="-48" frameY="-87" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0003" x="1757" y="423" width="258" height="422" frameX="-56" frameY="-104" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0004" x="1495" y="431" width="261" height="428" frameX="-54" frameY="-91" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0005" x="1757" y="845" width="262" height="413" frameX="-52" frameY="-104" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0006" x="950" y="0" width="271" height="447" frameX="-48" frameY="-74" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0007" x="683" y="0" width="267" height="464" frameX="-50" frameY="-59" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0008" x="1221" y="0" width="274" height="444" frameX="-48" frameY="-81" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0009" x="0" y="542" width="266" height="447" frameX="-51" frameY="-76" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0010" x="1495" y="0" width="262" height="431" frameX="-57" frameY="-91" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0011" x="1757" y="0" width="265" height="423" frameX="-55" frameY="-102" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0012" x="1757" y="0" width="265" height="423" frameX="-55" frameY="-102" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0013" x="1757" y="0" width="265" height="423" frameX="-55" frameY="-102" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0014" x="266" y="542" width="738" height="445" frameX="-26" frameY="-81" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0015" x="0" y="0" width="329" height="542" frameX="-33" frameY="0" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0016" x="329" y="0" width="354" height="509" frameX="0" frameY="-28" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0017" x="946" y="989" width="374" height="436" frameX="-40" frameY="-98" frameWidth="764" frameHeight="542" />
+<SubTexture name="besties idle0018" x="0" y="989" width="655" height="443" frameX="-43" frameY="-89" frameWidth="764" frameHeight="542" />
+</TextureAtlas>

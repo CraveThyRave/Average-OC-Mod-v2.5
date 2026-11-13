@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				19000,
+				[
+					[
+						"Cinematics (Still Strum)",
+						"0.2",
+						"100"
+					]
+				]
+			],
+			[
+				33756.25,
+				[
+					[
+						"Cinematics (Still Strum)",
+						"0.3",
+						"0"
+					]
+				]
+			],
+			[
+				123500,
+				[
+					[
+						"Cinematics (Still Strum)",
+						"0.5",
+						"90"
+					]
+				]
+			],
+			[
+				131371.875,
+				[
+					[
+						"Cinematics (Still Strum)",
+						"0.9",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}

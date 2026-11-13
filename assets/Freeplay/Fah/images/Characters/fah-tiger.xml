@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fah-tiger.png">
+<SubTexture name="fah-tiger idle0000" x="510" y="0" width="304" height="365" frameX="-46" frameY="-22" frameWidth="387" frameHeight="398" />
+<SubTexture name="fah-tiger idle0001" x="512" y="754" width="312" height="332" frameX="-48" frameY="-55" frameWidth="387" frameHeight="398" />
+<SubTexture name="fah-tiger idle0002" x="1060" y="754" width="299" height="326" frameX="-54" frameY="-67" frameWidth="387" frameHeight="398" />
+<SubTexture name="fah-tiger right0000" x="249" y="389" width="282" height="359" frameX="-14" frameY="-11" frameWidth="294" frameHeight="389" />
+<SubTexture name="fah-tiger right0001" x="814" y="358" width="282" height="356" frameX="-15" frameY="-17" frameWidth="294" frameHeight="389" />
+<SubTexture name="fah-tiger right0002" x="814" y="0" width="284" height="358" frameX="-13" frameY="-15" frameWidth="294" frameHeight="389" />
+<SubTexture name="fah-tiger left0000" x="0" y="754" width="270" height="342" frameX="-21" frameY="-34" frameWidth="294" frameHeight="389" />
+<SubTexture name="fah-tiger left0001" x="1098" y="0" width="292" height="349" frameX="0" frameY="-34" frameWidth="294" frameHeight="389" />
+<SubTexture name="fah-tiger left0002" x="1098" y="349" width="283" height="348" frameX="-4" frameY="-37" frameWidth="294" frameHeight="389" />
+<SubTexture name="fah-tiger down0000" x="531" y="389" width="221" height="352" frameX="-33" frameY="-23" frameWidth="277" frameHeight="382" />
+<SubTexture name="fah-tiger down0001" x="824" y="754" width="236" height="330" frameX="-18" frameY="-45" frameWidth="277" frameHeight="382" />
+<SubTexture name="fah-tiger down0002" x="270" y="754" width="242" height="341" frameX="-13" frameY="-36" frameWidth="277" frameHeight="382" />
+<SubTexture name="fah-tiger down0003" x="270" y="754" width="242" height="341" frameX="-13" frameY="-36" frameWidth="277" frameHeight="382" />
+<SubTexture name="fah-tiger down0004" x="270" y="754" width="242" height="341" frameX="-13" frameY="-36" frameWidth="277" frameHeight="382" />
+<SubTexture name="fah-tiger up0000" x="0" y="389" width="249" height="365" frameX="-28" frameY="-35" frameWidth="317" frameHeight="408" />
+<SubTexture name="fah-tiger up0001" x="0" y="0" width="259" height="389" frameX="-23" frameY="-15" frameWidth="317" frameHeight="408" />
+<SubTexture name="fah-tiger up0002" x="259" y="0" width="251" height="380" frameX="-31" frameY="-23" frameWidth="317" frameHeight="408" />
+</TextureAtlas>

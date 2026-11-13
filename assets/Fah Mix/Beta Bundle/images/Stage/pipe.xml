@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pipe.png">
+<SubTexture name="pipe pipe-grow0000" x="812" y="957" width="210" height="75" frameX="-141" frameY="-895" frameWidth="477" frameHeight="982" />
+<SubTexture name="pipe pipe-grow0001" x="1289" y="835" width="270" height="191" frameX="-107" frameY="-774" frameWidth="477" frameHeight="982" />
+<SubTexture name="pipe pipe-grow0002" x="305" y="1037" width="344" height="473" frameX="-69" frameY="-509" frameWidth="477" frameHeight="982" />
+<SubTexture name="pipe pipe-grow0003" x="0" y="1037" width="305" height="508" frameX="-77" frameY="-471" frameWidth="477" frameHeight="982" />
+<SubTexture name="pipe pipe-grow0004" x="1289" y="0" width="455" height="835" frameX="-22" frameY="-137" frameWidth="477" frameHeight="982" />
+<SubTexture name="pipe pipe-grow0005" x="812" y="0" width="477" height="957" frameX="0" frameY="0" frameWidth="477" frameHeight="982" />
+<SubTexture name="pipe idle0000" x="550" y="0" width="262" height="1005" frameX="-11" frameY="0" frameWidth="279" frameHeight="1052" />
+<SubTexture name="pipe idle0001" x="276" y="0" width="274" height="1020" frameX="0" frameY="-6" frameWidth="279" frameHeight="1052" />
+<SubTexture name="pipe idle0002" x="0" y="0" width="276" height="1037" frameX="-3" frameY="-15" frameWidth="279" frameHeight="1052" />
+</TextureAtlas>

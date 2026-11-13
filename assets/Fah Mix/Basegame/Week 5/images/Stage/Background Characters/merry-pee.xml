@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="merry-pee.png">
+<SubTexture name="idle0000" x="239" y="0" width="242" height="489" frameX="-90" frameY="-58" frameWidth="426" frameHeight="582" />
+<SubTexture name="idle0001" x="481" y="0" width="240" height="489" frameX="-92" frameY="-57" frameWidth="426" frameHeight="582" />
+<SubTexture name="idle0002" x="0" y="0" width="239" height="491" frameX="-94" frameY="-57" frameWidth="426" frameHeight="582" />
+<SubTexture name="idle0003" x="721" y="0" width="237" height="489" frameX="-94" frameY="-59" frameWidth="426" frameHeight="582" />
+</TextureAtlas>

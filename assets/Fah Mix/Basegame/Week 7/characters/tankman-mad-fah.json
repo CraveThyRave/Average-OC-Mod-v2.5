@@ -1,0 +1,253 @@
+{
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"position": [
+		0,
+		0
+	],
+	"icon_hud": "Auto",
+	"icon_settings": {
+		"preview": {
+			"scale": 0.5,
+			"layout": "week7",
+			"downscroll": false,
+			"player": false
+		},
+		"offset": {
+			"x": 1,
+			"y": 6
+		},
+		"name": "tankman-fah",
+		"animations": [
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 3,
+							"y": 8
+						},
+						"name": "idle0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 4,
+							"y": 5
+						},
+						"name": "idle0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 4,
+							"y": 6
+						},
+						"name": "idle0002"
+					}
+				],
+				"offset": {
+					"x": -3,
+					"y": -5
+				},
+				"name": "idle"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 2
+						},
+						"name": "win0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "win0002"
+					}
+				],
+				"offset": {
+					"x": 1,
+					"y": 1
+				},
+				"name": "win"
+			},
+			{
+				"scale": 1,
+				"frames": [
+					{
+						"scale": 1,
+						"index": 0,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "lose0000"
+					},
+					{
+						"scale": 1,
+						"index": 1,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "lose0001"
+					},
+					{
+						"scale": 1,
+						"index": 2,
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"name": "lose0002"
+					}
+				],
+				"offset": {
+					"x": 0,
+					"y": 0
+				},
+				"name": "lose"
+			}
+		]
+	},
+	"no_antialiasing": true,
+	"scale": 0.9,
+	"image": "characters/tankman-mad-fah",
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"healthicon": "tankman-fah",
+	"flip_x": false,
+	"animations": [
+		{
+			"offsets": [
+				-12,
+				41
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				19,
+				28
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				20,
+				30
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [
+				1,
+				0
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				36,
+				36
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				0
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-31
+			],
+			"anim": "heh",
+			"fps": 8,
+			"name": "heh idle",
+			"indices": [
+				0,
+				1,
+				2,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-30
+			],
+			"anim": "you",
+			"fps": 8,
+			"name": "heh idle",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"extra_images": []
+}

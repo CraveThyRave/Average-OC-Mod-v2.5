@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="diving.png">
+<SubTexture name="diving trans0000" x="488" y="0" width="251" height="311" frameX="-39" frameY="-15" frameWidth="454" frameHeight="482" />
+<SubTexture name="diving trans0001" x="481" y="363" width="243" height="288" frameX="-64" frameY="-38" frameWidth="454" frameHeight="482" />
+<SubTexture name="diving trans0002" x="0" y="363" width="272" height="306" frameX="-82" frameY="-80" frameWidth="454" frameHeight="482" />
+<SubTexture name="diving trans0003" x="272" y="363" width="209" height="304" frameX="-146" frameY="-129" frameWidth="454" frameHeight="482" />
+<SubTexture name="diving trans0004" x="0" y="0" width="244" height="363" frameX="-132" frameY="-105" frameWidth="454" frameHeight="482" />
+<SubTexture name="diving idle0000" x="0" y="0" width="244" height="363" frameX="-31" frameY="-31" frameWidth="316" frameHeight="413" />
+<SubTexture name="diving idle0001" x="244" y="0" width="244" height="359" frameX="-30" frameY="-34" frameWidth="316" frameHeight="413" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Moth.png">
+<SubTexture name="Moth Sit0000" x="0" y="277" width="257" height="266" frameX="-36" frameY="-19" frameWidth="352" frameHeight="298" />
+<SubTexture name="Moth Click0000" x="757" y="0" width="282" height="253" frameX="-22" frameY="-44" frameWidth="331" frameHeight="320" />
+<SubTexture name="Moth Idle0000" x="257" y="277" width="240" height="260" frameX="-33" frameY="-41" frameWidth="331" frameHeight="320" />
+<SubTexture name="Moth walk0000" x="497" y="0" width="260" height="273" frameX="-46" frameY="-29" frameWidth="331" frameHeight="320" />
+<SubTexture name="Moth walk0001" x="245" y="0" width="252" height="274" frameX="-54" frameY="-30" frameWidth="331" frameHeight="320" />
+<SubTexture name="Moth walk0002" x="0" y="0" width="245" height="277" frameX="-40" frameY="-27" frameWidth="331" frameHeight="320" />
+</TextureAtlas>

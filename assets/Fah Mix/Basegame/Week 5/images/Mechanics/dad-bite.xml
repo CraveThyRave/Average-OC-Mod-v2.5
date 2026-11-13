@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dad-bite.png">
+<SubTexture name="dad-bite eat0000" x="423" y="0" width="423" height="702" frameX="0" frameY="-46" frameWidth="480" frameHeight="757" />
+<SubTexture name="dad-bite eat0001" x="0" y="0" width="423" height="727" frameX="0" frameY="-30" frameWidth="480" frameHeight="757" />
+<SubTexture name="dad-bite eat0002" x="846" y="0" width="414" height="645" frameX="0" frameY="-84" frameWidth="480" frameHeight="757" />
+<SubTexture name="dad-bite idle0000" x="1260" y="0" width="416" height="604" frameX="0" frameY="-142" frameWidth="480" frameHeight="757" />
+<SubTexture name="dad-bite idle0001" x="0" y="727" width="420" height="604" frameX="0" frameY="-147" frameWidth="480" frameHeight="757" />
+</TextureAtlas>

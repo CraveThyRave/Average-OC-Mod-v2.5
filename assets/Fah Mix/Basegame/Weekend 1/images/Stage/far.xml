@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="far.png">
+<SubTexture name="far idle0000" x="473" y="0" width="475" height="513" frameX="0" frameY="-51" frameWidth="515" frameHeight="565" />
+<SubTexture name="far idle0001" x="0" y="0" width="473" height="519" frameX="-4" frameY="-46" frameWidth="515" frameHeight="565" />
+</TextureAtlas>

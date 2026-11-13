@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Phoenix.png">
+<SubTexture name="Phoenix Click0000" x="644" y="0" width="274" height="267" frameX="-25" frameY="-42" frameWidth="400" frameHeight="338" />
+<SubTexture name="Phoenix Sit0000" x="0" y="591" width="309" height="248" frameX="-34" frameY="-60" frameWidth="400" frameHeight="338" />
+<SubTexture name="Phoenix Idle0000" x="347" y="311" width="224" height="270" frameX="-58" frameY="-56" frameWidth="400" frameHeight="338" />
+<SubTexture name="Phoenix Walk0000" x="0" y="0" width="311" height="311" frameX="-46" frameY="0" frameWidth="400" frameHeight="338" />
+<SubTexture name="Phoenix Walk0001" x="311" y="0" width="333" height="284" frameX="-48" frameY="-30" frameWidth="400" frameHeight="338" />
+<SubTexture name="Phoenix Walk0002" x="0" y="311" width="347" height="280" frameX="-48" frameY="-28" frameWidth="400" frameHeight="338" />
+</TextureAtlas>

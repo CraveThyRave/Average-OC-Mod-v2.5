@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fah-bite.png">
+<SubTexture name="fah-bite bite0000" x="939" y="0" width="443" height="554" frameX="0" frameY="-154" frameWidth="509" frameHeight="744" />
+<SubTexture name="fah-bite bite0001" x="0" y="0" width="453" height="630" frameX="0" frameY="-114" frameWidth="509" frameHeight="744" />
+<SubTexture name="fah-bite bite0002" x="453" y="0" width="486" height="591" frameX="0" frameY="-125" frameWidth="509" frameHeight="744" />
+<SubTexture name="fah-bite bite0003" x="0" y="630" width="450" height="528" frameX="0" frameY="-180" frameWidth="509" frameHeight="744" />
+<SubTexture name="fah-bite idle0000" x="0" y="630" width="450" height="528" frameX="0" frameY="-180" frameWidth="509" frameHeight="744" />
+<SubTexture name="fah-bite idle0001" x="450" y="630" width="433" height="528" frameX="0" frameY="-186" frameWidth="509" frameHeight="744" />
+</TextureAtlas>

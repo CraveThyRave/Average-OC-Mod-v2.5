@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phoenix-head.png">
+<SubTexture name="phoenix-head turn0000" x="496" y="201" width="246" height="201" frameX="-26" frameY="-18" frameWidth="305" frameHeight="253" />
+<SubTexture name="phoenix-head turn0001" x="496" y="0" width="246" height="201" frameX="-26" frameY="-18" frameWidth="305" frameHeight="253" />
+<SubTexture name="phoenix-head turn0002" x="248" y="208" width="248" height="208" frameX="-26" frameY="-17" frameWidth="305" frameHeight="253" />
+<SubTexture name="phoenix-head eyeroll0000" x="0" y="208" width="248" height="208" frameX="-26" frameY="-17" frameWidth="305" frameHeight="253" />
+<SubTexture name="phoenix-head eyeroll0001" x="248" y="0" width="248" height="208" frameX="-26" frameY="-17" frameWidth="305" frameHeight="253" />
+<SubTexture name="phoenix-head eyeroll0002" x="0" y="0" width="248" height="208" frameX="-26" frameY="-17" frameWidth="305" frameHeight="253" />
+<SubTexture name="phoenix-head eyeroll0003" x="248" y="208" width="248" height="208" frameX="-26" frameY="-17" frameWidth="305" frameHeight="253" />
+<SubTexture name="phoenix-head turn-back0000" x="248" y="208" width="248" height="208" frameX="-26" frameY="-17" frameWidth="305" frameHeight="253" />
+<SubTexture name="phoenix-head turn-back0001" x="496" y="0" width="246" height="201" frameX="-26" frameY="-18" frameWidth="305" frameHeight="253" />
+<SubTexture name="phoenix-head turn-back0002" x="496" y="201" width="246" height="201" frameX="-26" frameY="-18" frameWidth="305" frameHeight="253" />
+</TextureAtlas>

@@ -1,0 +1,363 @@
+{
+	"healthbar_colors": [
+		115,
+		144,
+		127
+	],
+	"position": [
+		220,
+		490
+	],
+	"icon_hud": "Auto",
+	"icon_settings": {
+		"animations": [
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "idle0000",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "idle0001",
+						"offset": {
+							"x": 0,
+							"y": 4
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "idle0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "idle",
+				"offset": {
+					"x": 0,
+					"y": 2
+				},
+				"scale": 1
+			},
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "win0000",
+						"offset": {
+							"x": 1,
+							"y": 1
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "win0001",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "win0002",
+						"offset": {
+							"x": 0,
+							"y": 1
+						},
+						"scale": 1
+					}
+				],
+				"name": "win",
+				"offset": {
+					"x": 8,
+					"y": 3
+				},
+				"scale": 1
+			},
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "lose0000",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "lose0001",
+						"offset": {
+							"x": 0,
+							"y": 1
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "lose0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "lose",
+				"offset": {
+					"x": 1,
+					"y": 11
+				},
+				"scale": 1
+			}
+		],
+		"preview": {
+			"player": true,
+			"downscroll": false,
+			"layout": "christmas",
+			"scale": 0.65
+		},
+		"name": "fahmas-playable",
+		"offset": {
+			"x": 6,
+			"y": -20
+		}
+	},
+	"no_antialiasing": false,
+	"scale": 1,
+	"image": "characters/merryfah-playable",
+	"camera_position": [
+		120,
+		-180
+	],
+	"sing_duration": 4,
+	"healthicon": "fahmas-playable",
+	"flip_x": false,
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				173,
+				112
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				190,
+				148
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				172,
+				118
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				120
+			],
+			"anim": "singDOWNmiss",
+			"fps": 10,
+			"name": "d-miss",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				140
+			],
+			"anim": "singUPmiss",
+			"fps": 10,
+			"name": "u-miss",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"offsets": [
+				160,
+				116
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				235,
+				138
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				107
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 10,
+			"name": "l-miss",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				234,
+				118
+			],
+			"anim": "singLEFTmiss",
+			"fps": 10,
+			"name": "r-miss",
+			"indices": [
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				138
+			],
+			"anim": "brace",
+			"fps": 8,
+			"name": "brace",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				230,
+				138
+			],
+			"anim": "brace-hold",
+			"fps": 8,
+			"name": "brace",
+			"indices": [
+				3,
+				3
+			]
+		},
+		{
+			"offsets": [
+				190,
+				70
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "down-alt"
+		},
+		{
+			"offsets": [
+				210,
+				120
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "up-alt"
+		},
+		{
+			"offsets": [
+				201,
+				74
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "left-alt"
+		},
+		{
+			"offsets": [
+				110,
+				81
+			],
+			"indices": [
+				1,
+				2,
+				0
+			],
+			"fps": 10,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "right-alt"
+		}
+	],
+	"extra_images": []
+}

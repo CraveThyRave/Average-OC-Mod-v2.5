@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sun-2.png">
+<SubTexture name="sun-2 trans0000" x="0" y="0" width="424" height="455" frameX="0" frameY="-1" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="sun-2 trans0001" x="424" y="0" width="356" height="419" frameX="-6" frameY="0" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="sun-2 trans0002" x="371" y="455" width="371" height="273" frameX="-53" frameY="0" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="sun-2 trans0003" x="0" y="455" width="371" height="275" frameX="-176" frameY="0" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="sun-2 trans0004" x="780" y="0" width="371" height="250" frameX="-258" frameY="0" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="sun-2 trans0005" x="780" y="250" width="346" height="230" frameX="-402" frameY="-1" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="sun-2 trans0006" x="780" y="480" width="298" height="188" frameX="-534" frameY="0" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="sun-2 trans0007" x="442" y="730" width="248" height="137" frameX="-636" frameY="0" frameWidth="1500" frameHeight="1000" />
+<SubTexture name="sun-2 idle0000" x="690" y="730" width="222" height="137" frameX="-24" frameY="-38" frameWidth="266" frameHeight="193" />
+<SubTexture name="sun-2 idle0001" x="221" y="730" width="221" height="143" frameX="-26" frameY="-33" frameWidth="266" frameHeight="193" />
+<SubTexture name="sun-2 idle0002" x="0" y="730" width="221" height="144" frameX="-27" frameY="-30" frameWidth="266" frameHeight="193" />
+<SubTexture name="sun-2 idle0003" x="912" y="730" width="214" height="137" frameX="-31" frameY="-34" frameWidth="266" frameHeight="193" />
+</TextureAtlas>
