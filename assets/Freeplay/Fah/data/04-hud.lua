@@ -457,7 +457,7 @@ function onTimerCompleted(tag)
 
     if tag == 'setHUDZoom' then
         if not inGameOver then
-            setProperty('camHUD.zoom', getPropertyFromClass('MirrorMode', 'active') and 2.5 or 2)
+            setProperty('camHUD.zoom', 2)
         end
     end
 end

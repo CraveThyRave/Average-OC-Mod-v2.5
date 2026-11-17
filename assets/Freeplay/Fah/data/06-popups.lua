@@ -170,7 +170,7 @@ function onStepHit()
     end
 
 
-    if curStep == 929 then
+    if mechanicsEnabled and curStep == 929 then
       beginTruckDistraction('truck1')
       addLuaSprite('trucker1', false)
       doTweenX('trucker', 'trucker1', -530, 3.2, 'linear')
@@ -178,7 +178,7 @@ function onStepHit()
       runTimer('truck1', 3.2)
     end
 
-    if curStep == 993 then
+    if mechanicsEnabled and curStep == 993 then
       beginTruckDistraction('truck2')
       addLuaSprite('trucker2', false)
       doTweenX('trucker2', 'trucker2', 1300, 5.5, 'linear')
@@ -186,7 +186,7 @@ function onStepHit()
       runTimer('truck2', 5.5)
     end
 
-    if curStep == 1056 then
+    if mechanicsEnabled and curStep == 1056 then
       beginTruckDistraction('truck3')
       addLuaSprite('trucker3', false)
       doTweenX('trucker3', 'trucker3', -730, 4, 'linear')
@@ -195,7 +195,7 @@ function onStepHit()
     end
 
 
-    if curStep == 1121 then
+    if mechanicsEnabled and curStep == 1121 then
       beginTruckDistraction('truck4')
       addLuaSprite('trucker4', false)
       doTweenY('trucker4Y', 'trucker4', 940, 2.5, 'linear')
@@ -228,7 +228,7 @@ function onStepHit()
 
 
     local hiTag = hiPopupSteps[curStep]
-    if hiTag ~= nil then
+    if mechanicsEnabled and hiTag ~= nil then
         spawnHi(hiTag)
     end
 
@@ -236,6 +236,7 @@ end
 
 
 function onUpdate(elapsed)
+    if not mechanicsEnabled then return end
     local songPosition = getSongPosition()
     if curStep ~= lastTruckWindowStep then
       lastTruckWindowStep = curStep

@@ -20,9 +20,6 @@ local lampSpeed = 2500
 local lampEndX = 2600
 local lampTriggerStep = 634
 local backLowStartX = -450
-local henchmenDieSave = 'highHenchmenDieProgress'
-local henchmenDieAchievementTag = 'Die'
-local henchmenPassesRequired = 5
 local minionsCutThisPass = 0
 local recordedHenchmenPass = false
 
@@ -49,19 +46,7 @@ function awardHenchmenAchievementTick()
 	if recordedHenchmenPass then return end
 	recordedHenchmenPass = true
 
-	local savedPasses = tonumber(getDataFromSave(
-		henchmenDieSave, 'completedPasses', 0)) or 0
-	local livePasses = tonumber(getPropertyFromClass(
-		'ClientPrefs', 'henchmenMassacreCount')) or 0
-	local count = math.min(henchmenPassesRequired,
-		math.max(savedPasses, livePasses) + 1)
-
-	setPropertyFromClass('ClientPrefs', 'henchmenMassacreCount', count)
-
-	setDataFromSave(henchmenDieSave, 'completedPasses', count)
-	flushSaveData(henchmenDieSave)
-
-	recordHenchmenMassacre(count)
+	recordHenchmenMassacre(0)
 end
 
 function recordHenchmenWipe()
@@ -77,7 +62,6 @@ end
 
 function onCreate()
 	startDeadWalk = string.lower(songName or '') == 'mama'
-	initSaveData(henchmenDieSave, 'psychenginemods')
 
 	makeAnimatedLuaSprite('paper', 'Freeplay-Chrs/fah/BG', 50, 50)
 	addAnimationByPrefix('paper', 'idle', 'BG idle', 3, true)
@@ -278,21 +262,12 @@ function onUpdate(elapsed)
 
     local offset = math.sin(camTime * swaySpeed) * swayDistance
 
-		if lampMoving then
-		    local x = getProperty('b-lamp-low.x')
-		    x = x + lampSpeed * elapsed
-
-		    if x >= lampEndX then
-
-		        awardHenchmenAchievementTick()
-		        x = backLowStartX
-		        lampMoving = false
-		        lampCutsMinions = false
-		        setProperty('b-lamp-low.alpha', 0)
-		    end
-
-		    setProperty('b-lamp-low.x', x)
-		end
+    local lampStart = getProperty('b-lamp-low.x')
+    local lampFinish = lampStart
+    if lampMoving then
+        lampFinish = math.min(lampEndX, lampStart + lampSpeed * elapsed)
+        setProperty('b-lamp-low.x', lampFinish)
+    end
 
     setProperty('camFollow.x', lockX + offset)
     setProperty('camFollow.y', lockY)
@@ -358,10 +333,9 @@ function onUpdate(elapsed)
         end
 
 				if lampMoving and lampCutsMinions and not m.dead then
-				    local lampX = getProperty('b-lamp-low.x')
 				    local minionX = m.baseX + m.walkOffset - offset * 0.4
 
-				    if math.abs(minionX - lampX) < 80 then
+				    if minionX >= lampStart - 80 and minionX <= lampFinish + 80 then
 				        m.dead = true
 				        m.state = 'walk'
 				        m.speed = math.random(700,900)
@@ -399,6 +373,13 @@ function onUpdate(elapsed)
 
 				setProperty(m.tag..'.x', m.baseX + m.walkOffset - offset * 0.4)
         setProperty(m.tag..'.y', m.baseY)
+    end
+
+    if lampMoving and lampFinish >= lampEndX then
+        lampMoving = false
+        lampCutsMinions = false
+        setProperty('b-lamp-low.x', backLowStartX)
+        setProperty('b-lamp-low.alpha', 0)
     end
 
     for i = #deadHalves, 1, -1 do

@@ -81,6 +81,7 @@ local function finishSprite(tag)
 end
 
 function onCreate()
+    if not mechanicsEnabled then return end
     addHaxeLibrary('Achievements')
     addHaxeLibrary('ClientPrefs')
     runID = runID + 1
@@ -112,6 +113,7 @@ sets = {
 }
 
 function onSongStart()
+    if not mechanicsEnabled then return end
     local recordedSteps = getRecordedSceneValue('fah.distractionSteps')
     if recordedSteps ~= nil then spawnSteps = recordedSteps end
     recordSceneValue('fah.distractionSteps', spawnSteps)
@@ -342,6 +344,7 @@ function onTweenCompleted(tag)
 end
 
 function onUpdate(elapsed)
+    if not mechanicsEnabled then return end
     local songPosition = getSongPosition()
     if curStep ~= lastDistractionWindowStep then
         lastDistractionWindowStep = curStep
@@ -379,6 +382,7 @@ function onGameOverStart()
 end
 
 function onStepHit()
+    if not mechanicsEnabled then return end
     if shouldSpawn(curStep) then
         spawnImage()
     end
