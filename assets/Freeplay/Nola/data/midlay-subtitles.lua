@@ -28,42 +28,37 @@ local function cancelMidlayTweens()
 end
 
 local function placeBlackMidlayBelowGameplay()
-	if transitionOrders == nil then
-		transitionOrders = {
-			blackmidlay = getObjectOrder('blackmidlay'),
-			text = getObjectOrder('skylineMidlayText'),
-			notes = getObjectOrder('notes'),
-			strums = getObjectOrder('strumLineNotes'),
-			splashes = getObjectOrder('grpNoteSplashes')
-		}
-	end
+	if transitionOrders then return end
+	transitionOrders = true
 	runHaxeCode([[
-		var blackout = game.getLuaObject("blackmidlay");
-		var subtitle = game.getLuaObject("skylineMidlayText");
-		for (object in [blackout, game.strumLineNotes, game.notes, game.noteHeadLayer, game.grpAomHoldSplashes, game.grpNoteSplashes, subtitle])
-		{
-			if (object != null && game.members.indexOf(object) >= 0)
-			{
-				game.remove(object, true);
-				game.add(object);
-			}
+		var layers = [game.getLuaObject("blackmidlay"), game.timeBarBG, game.timeBar, game.timeTxt,
+			game.timeColonTxt, game.timeSecondsTxt, game.getLuaObject("timebarbg"), game.getLuaObject("timebar"),
+			game.getLuaObject("fakeTimeTxt"), game.strumLineNotes, game.notes, game.noteHeadLayer,
+			game.grpAomHoldSplashes, game.grpNoteSplashes, game.getLuaObject("skylineMidlayText")];
+		var saved = [];
+		for (layer in layers) {
+			var index = game.members.indexOf(layer);
+			if (layer != null && index >= 0) saved.push({layer:layer, index:index});
+		}
+		game.variables.set("skylineMidlayOrders", saved);
+		for (entry in saved) {
+			game.remove(entry.layer, true);
+			game.insert(game.members.length, entry.layer);
 		}
 	]])
 end
 
 local function restoreTransitionOrders()
-	if transitionOrders == nil then return end
-	local objects = {
-		{tag = 'blackmidlay', order = transitionOrders.blackmidlay},
-		{tag = 'skylineMidlayText', order = transitionOrders.text},
-		{tag = 'notes', order = transitionOrders.notes},
-		{tag = 'strumLineNotes', order = transitionOrders.strums},
-		{tag = 'grpNoteSplashes', order = transitionOrders.splashes}
-	}
-	table.sort(objects, function(a, b) return a.order < b.order end)
-	for _, object in ipairs(objects) do
-		setObjectOrder(object.tag, object.order)
-	end
+	if not transitionOrders then return end
+	runHaxeCode([[
+		var saved = game.variables.get("skylineMidlayOrders");
+		if (saved != null) {
+			saved.sort(function(a, b) { return a.index - b.index; });
+			for (entry in saved) game.remove(entry.layer, true);
+			for (entry in saved) game.insert(entry.index, entry.layer);
+			game.variables.remove("skylineMidlayOrders");
+		}
+	]])
 	transitionOrders = nil
 end
 

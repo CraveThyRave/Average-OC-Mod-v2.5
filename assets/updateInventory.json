@@ -1,5 +1,5 @@
 {
-  "version": "2.5.43",
+  "version": "2.5.44",
   "files": [
     {
       "path": ".gitattributes",
@@ -773,8 +773,8 @@
     {
       "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/05-hud.lua",
       "size": 10655,
-      "sha256": "ba5144a37fab71f94c8609e01d721c7181eb2a3b2dd0dd151b0e845721c65d82",
-      "textSha256": "ba5144a37fab71f94c8609e01d721c7181eb2a3b2dd0dd151b0e845721c65d82"
+      "sha256": "bb88fa1b95eda73e0d4253d2355740e437462e146fbc1850961fd8536853d09b",
+      "textSha256": "bb88fa1b95eda73e0d4253d2355740e437462e146fbc1850961fd8536853d09b"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/06-lila.lua",
@@ -1358,9 +1358,9 @@
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 3/data/pico/credits.txt",
-      "size": 216,
-      "sha256": "da5b650e569a856ae4647fc7f8fd9974f351ff4e111c7b86dd3b4fef355ea3b6",
-      "textSha256": "da5b650e569a856ae4647fc7f8fd9974f351ff4e111c7b86dd3b4fef355ea3b6"
+      "size": 220,
+      "sha256": "c4af678d3d7711717aad6ed4722535ee324ff2573cd69263a86c893bc90aac6b",
+      "textSha256": "c4af678d3d7711717aad6ed4722535ee324ff2573cd69263a86c893bc90aac6b"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 3/data/pico/pause.txt",
@@ -2170,9 +2170,9 @@
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 4/stages/fah-week4.lua",
-      "size": 12433,
-      "sha256": "89b19e01bb17259e216f289b34e188e1bcd3a49913424bcc9c1f2237210edb39",
-      "textSha256": "89b19e01bb17259e216f289b34e188e1bcd3a49913424bcc9c1f2237210edb39"
+      "size": 11873,
+      "sha256": "7123e26e3e571b3863765c2c52d5443b334e164ef6c1dc75199b560ff90713ab",
+      "textSha256": "7123e26e3e571b3863765c2c52d5443b334e164ef6c1dc75199b560ff90713ab"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 5/characters/fahmas-playable.json",
@@ -2672,9 +2672,9 @@
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/characters/msfah-playable-dark.json",
-      "size": 4215,
-      "sha256": "abfedf7a1bd90cef284c7950397bd15ba9b444266d4f6e71dd311c7ea48c9a0b",
-      "textSha256": "abfedf7a1bd90cef284c7950397bd15ba9b444266d4f6e71dd311c7ea48c9a0b"
+      "size": 4221,
+      "sha256": "b091a1b3c2cd38a6ddac752d884cbda2bbdde6096fb7f032e21a11c0cf0f8860",
+      "textSha256": "b091a1b3c2cd38a6ddac752d884cbda2bbdde6096fb7f032e21a11c0cf0f8860"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/characters/msfah-playable.json",
@@ -4426,9 +4426,9 @@
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 7/stages/fah-week7.lua",
-      "size": 5401,
-      "sha256": "bd849e76f2e241005e7ad4327dd9b21302c5f552508c18642bf4486fede14590",
-      "textSha256": "bd849e76f2e241005e7ad4327dd9b21302c5f552508c18642bf4486fede14590"
+      "size": 5422,
+      "sha256": "270be289db152dd66377e7edecf86376b57ebb46184b0b8cf860f2c4c3240b92",
+      "textSha256": "270be289db152dd66377e7edecf86376b57ebb46184b0b8cf860f2c4c3240b92"
     },
     {
       "path": "assets/Fah Mix/Basegame/Weekend 1/characters/darnell-fah.json",
@@ -5855,9 +5855,9 @@
     },
     {
       "path": "assets/Freeplay/Fah/data/04-hud.lua",
-      "size": 14961,
-      "sha256": "29cd613f8bb98c24e70326bc4938f398cb8632ab6da6ec5d117e5adaae05c949",
-      "textSha256": "29cd613f8bb98c24e70326bc4938f398cb8632ab6da6ec5d117e5adaae05c949"
+      "size": 14905,
+      "sha256": "2dba3b7eaf6ab91c70a7564a07f95b21423d579d3db1e2443aea262c09a0a12c",
+      "textSha256": "2dba3b7eaf6ab91c70a7564a07f95b21423d579d3db1e2443aea262c09a0a12c"
     },
     {
       "path": "assets/Freeplay/Fah/data/05-props.lua",
@@ -5867,15 +5867,15 @@
     },
     {
       "path": "assets/Freeplay/Fah/data/06-popups.lua",
-      "size": 9148,
-      "sha256": "a5498559dc5e82befa40728eb0e33ec7de861c0cf4680e935760004087e1fc6a",
-      "textSha256": "e3c5cd7e3770cd1b533d166b5ca5ce2bef1240311b905f51d7b3ecd1089f1e34"
+      "size": 9437,
+      "sha256": "e333d6db261f4a0a09027196727212b89163054faac4d078cd14d8be3fbd2ca1",
+      "textSha256": "6020ab8e74c5efc15ed03fb8127a46b34a992346481307f71d13390c767ad249"
     },
     {
       "path": "assets/Freeplay/Fah/data/07-distractions.lua",
-      "size": 13238,
-      "sha256": "ce626f83a8cf6b829e89e987539f8bc9286a5a69847f7466a942cbad881e4b1b",
-      "textSha256": "e2ef1f243aa6db38553d71775a4c244d7c541afd2852559e55ebf67673987a52"
+      "size": 13713,
+      "sha256": "b7b57e7b889a40fd7d02eabb303db32fc9e00309370568b72cae87eeb49adcd3",
+      "textSha256": "24f96438b156abac8f9c8a036038e37f95cacda9291bf8009317709e217aebe8"
     },
     {
       "path": "assets/Freeplay/Fah/data/credits.txt",
@@ -6996,9 +6996,9 @@
     },
     {
       "path": "assets/Freeplay/Nola/data/midlay-subtitles.lua",
-      "size": 6189,
-      "sha256": "69535d7a0e61415c58e092fc9b0f87e61c37baefdee10f6a241585e65f322d81",
-      "textSha256": "69535d7a0e61415c58e092fc9b0f87e61c37baefdee10f6a241585e65f322d81"
+      "size": 6155,
+      "sha256": "4b1a2edaa14086c43faaf00af4f7a733cf282c3def901be0e23dcd0875eff007",
+      "textSha256": "4b1a2edaa14086c43faaf00af4f7a733cf282c3def901be0e23dcd0875eff007"
     },
     {
       "path": "assets/Freeplay/Nola/data/ntsc-transition.lua",
@@ -7355,9 +7355,9 @@
     },
     {
       "path": "assets/Freeplay/Phoenix/stages/phoenix.lua",
-      "size": 13241,
-      "sha256": "88ec8c32dad05f2fa7a3de52780332b5242b974cbfaeb3b5d269652f0f4727c5",
-      "textSha256": "88ec8c32dad05f2fa7a3de52780332b5242b974cbfaeb3b5d269652f0f4727c5"
+      "size": 13285,
+      "sha256": "7f695ed0ac4a8200322ee6fd5363c2a585add4d30bf539c2a61845fc2a5a207c",
+      "textSha256": "7f695ed0ac4a8200322ee6fd5363c2a585add4d30bf539c2a61845fc2a5a207c"
     },
     {
       "path": "assets/Freeplay/Raven/characters/raven-active-annoyed.json",
@@ -7916,9 +7916,9 @@
     },
     {
       "path": "assets/Freeplay/Yoyai/data/hush-up/pause.txt",
-      "size": 1016,
-      "sha256": "b0909900f4e9166fe745dabd991638bfec1654eaf303d1826e35c758418c9bc7",
-      "textSha256": "b0909900f4e9166fe745dabd991638bfec1654eaf303d1826e35c758418c9bc7"
+      "size": 1136,
+      "sha256": "8c67484907fdd39ad94013ed3e077cc77499cd34c80c6277ced600be5b87a39b",
+      "textSha256": "8c67484907fdd39ad94013ed3e077cc77499cd34c80c6277ced600be5b87a39b"
     },
     {
       "path": "assets/Freeplay/Yoyai/data/hush-up/pose-anchors.json",
@@ -8031,9 +8031,9 @@
     },
     {
       "path": "assets/Freeplay/Yoyai/stages/yoyai.lua",
-      "size": 6517,
-      "sha256": "a6928fcc34b0f8a4a3eadd7f31e8329af575c274d1daf22d9dd7c582c49a2507",
-      "textSha256": "a6928fcc34b0f8a4a3eadd7f31e8329af575c274d1daf22d9dd7c582c49a2507"
+      "size": 6521,
+      "sha256": "3433b29f23fae50eb633340bcb00603da1141b13db25d5e1236b819b4405faad",
+      "textSha256": "3433b29f23fae50eb633340bcb00603da1141b13db25d5e1236b819b4405faad"
     },
     {
       "path": "assets/Menus/Common/Backgrounds/checkerboard.png",
@@ -8124,6 +8124,12 @@
       "path": "assets/Menus/Common/music/freakyMenu.ogg",
       "size": 5953101,
       "sha256": "dc89405944fa9827e5914b92babffc94ef5004a25fec2c1d7c847286dd203986"
+    },
+    {
+      "path": "assets/Menus/Common/shaders/blackwhite.frag",
+      "size": 676,
+      "sha256": "41142a5cb931a479572adbca4a1da18c4343a38157cad6f6f44deefb42acf03b",
+      "textSha256": "41142a5cb931a479572adbca4a1da18c4343a38157cad6f6f44deefb42acf03b"
     },
     {
       "path": "assets/Menus/Common/shaders/checkerboard.frag",
@@ -9454,6 +9460,11 @@
       "path": "assets/Menus/Extras/Achievements/Week6.png",
       "size": 16385,
       "sha256": "0a565c100a56af31044ff153b58b7fb7b9c157c4d22861fdb63c6a67cb124c3b"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/well-you-listened.png",
+      "size": 14481,
+      "sha256": "91f66a2d6f2c3ea8a04cbbea9073bf7793ba2d32c29820735cab0d91a697ac9f"
     },
     {
       "path": "assets/Menus/Extras/Achievements/WHOREYOU.png",
@@ -12480,6 +12491,12 @@
       "sha256": "319a1ceb5196280df107a55a54a67eebf6be62f7f710ee4ad624f6c31ac54c54"
     },
     {
+      "path": "assets/Menus/Options/changelog-history.json",
+      "size": 3228,
+      "sha256": "bafe8e54eb03f574cdd3f7e14db339e2fcd32946413a77732fd36c36ec08e8aa",
+      "textSha256": "bafe8e54eb03f574cdd3f7e14db339e2fcd32946413a77732fd36c36ec08e8aa"
+    },
+    {
       "path": "assets/Menus/Options/changelog.txt",
       "size": 3102,
       "sha256": "e2f869fadcf27335f5e7296e99b96f595f0c186edb8459d568a1889b894c1d3b",
@@ -13802,8 +13819,8 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 53582848,
-      "sha256": "2b9025086ac6a3c5cbcf246a1a708d6357bf54f1e973aad8f48f51d24b92e518"
+      "size": 53733888,
+      "sha256": "bac009b075cb4d34617a56c739fcc21c57c9a80c26e202bfc2c913df5575286f"
     },
     {
       "path": "icon.ico",
@@ -14794,7 +14811,7 @@
     {
       "path": "plugins/plugins.dat",
       "size": 256718,
-      "sha256": "dc4a912257e1ccc8209e617468c37315d22016a30eb92106772a11291d85bd98"
+      "sha256": "8b469dab5232898736fc7c40ca2423b4b3da4c9084556bed7c9676e3f87feca2"
     },
     {
       "path": "plugins/services_discovery/libmediadirs_plugin.dll",

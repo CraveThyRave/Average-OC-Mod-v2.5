@@ -141,7 +141,7 @@
 		120,
 		-180
 	],
-	"image": "characters/msfah-playable",
+	"image": "characters/ms-fah-playable-dark",
 	"sing_duration": 4,
 	"healthicon": "msfah-playable",
 	"flip_x": false,

@@ -80,7 +80,7 @@ function onCreate()
 
 
 
-  makeAnimatedLuaSprite('haha', 'fahmix/week2/haha', 1200, 940)
+  makeAnimatedLuaSprite('haha', 'fahmix/week2/haha', 1240, 940)
 	addAnimationByPrefix('haha', 'idle', 'haha idle', 3, true)
 	addLuaSprite('haha', true)
   setProperty('haha.alpha', 0)

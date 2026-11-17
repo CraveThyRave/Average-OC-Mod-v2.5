@@ -482,6 +482,7 @@ function onStepHit()
 end
 
 function startHealthDrain()
+    if not mechanicsEnabled then return end
 
     local currentHealth = getProperty('health')
 
