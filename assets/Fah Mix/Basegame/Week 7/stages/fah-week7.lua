@@ -145,7 +145,7 @@ function onUpdate(elapsed)
     if steveWalking then
         local phase = math.floor(math.max(0, getSongPosition() - steveWalkStarted) * 12 / 1000) % #steveBounce + 1
         setProperty('steve.bottomAnchor.y', steveBounce[phase] * 18 / 15)
-		if not getPropertyFromClass('MirrorMode', 'active') and getVar('pewCursorDisabled') ~= true and mouseClicked('left') then
+		if mechanicsEnabled and not getPropertyFromClass('MirrorMode', 'active') and getVar('pewCursorDisabled') ~= true and mouseClicked('left') then
 			if mouseOverlapsObjectPixels('steve', 'game', 1) then
 				playSound('fail', 1, 'steveShootFail')
 				setVar('pewCursorDisabled', true)

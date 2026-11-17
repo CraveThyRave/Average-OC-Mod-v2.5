@@ -100,7 +100,7 @@ function onCreatePost()
     setProperty('notePushAngleAmount', 1.25)
     setProperty('camZoomingMult', 0.5)
     setProperty('iconBopMultiplier', 0.5)
-    addCharacterToList('yoyai-happy', getPropertyFromClass('MirrorMode', 'active') and 'bf' or 'dad')
+    addCharacterToList('yoyai-happy', getProperty('boyfriend.curCharacter') == 'yoyai' and 'bf' or 'dad')
     addHaxeLibrary('FlxImageFrame', 'flixel.graphics.frames')
     addHaxeLibrary('FlxRect', 'flixel.math')
     runHaxeCode([[

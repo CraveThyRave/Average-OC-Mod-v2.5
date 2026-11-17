@@ -6,7 +6,10 @@ from pathlib import Path
 import re
 import subprocess
 
-from generate_manifest import build_number, generate, write_delta
+from generate_manifest import atomic_write, build_number, generate, json_bytes, write_delta
+
+NOTES_PATH = "assets/Menus/Options/changelog.txt"
+HISTORY_PATH = "assets/Menus/Options/changelog-history.json"
 
 
 def git(root, *arguments, input=None):
@@ -19,6 +22,36 @@ def git(root, *arguments, input=None):
 def remote_ref(root, name):
     result = git(root, "ls-remote", "origin", name)
     return result.split()[0] if result else None
+
+
+def update_changelog_history(root, previous, previous_version, version):
+    history = []
+
+    def remember(release, notes):
+        notes = notes.lstrip("\ufeff").strip()
+        if notes and (not history or history[-1]["notes"] != notes):
+            history.append({"version": release, "notes": notes})
+
+    if previous and git(root, "ls-tree", previous, "--", HISTORY_PATH):
+        history = json.loads(git(root, "show", f"{previous}:{HISTORY_PATH}"))
+    elif previous:
+        releases = {}
+        for tag in git(root, "tag", "--list", "aom-build-*").splitlines():
+            if re.fullmatch(r"aom-build-(0|[1-9][0-9]*)", tag):
+                number = int(tag.rsplit("-", 1)[1])
+                if number <= build_number(previous_version):
+                    releases[number] = tag
+        releases[build_number(previous_version)] = previous
+        for number, ref in sorted(releases.items()):
+            if git(root, "ls-tree", ref, "--", NOTES_PATH):
+                remember(f"2.5.{number}", git(root, "show", f"{ref}:{NOTES_PATH}"))
+
+    notes = root / NOTES_PATH
+    if notes.is_file():
+        remember(version, notes.read_text(encoding="utf-8-sig"))
+    if history:
+        atomic_write(root / HISTORY_PATH, json_bytes(history))
+        git(root, "add", "--", HISTORY_PATH)
 
 
 def publish(root, run_number):
@@ -61,6 +94,7 @@ def publish(root, run_number):
     old_number = build_number(descriptors[latest]["version"]) if latest else 0
     number = max(int(run_number), old_number + 1)
     version = f"2.5.{number}"
+    update_changelog_history(root, previous.get(latest), descriptors[latest]["version"] if latest else None, version)
     manifest = generate(root, version, release_ref=f"aom-build-{number}", source_commit=source)
     git(root, "add", "--", ".gitattributes", "assets/updateManifest.json", "assets/updateVersion.json")
     git(root, "rm", "--cached", "--ignore-unmatch", "--", "assets/updateInventory.json")
