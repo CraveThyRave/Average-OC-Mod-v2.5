@@ -289,40 +289,10 @@
       "sha256": "ab074d90a60f68ad04738591664b43a2559cc508285d1808274b0e5ed77258cb"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 0/data/01-visibility.lua",
-      "size": 819,
-      "sha256": "5ebeb9b2ee7dc7c5f00eab395dbf875aab5222ff041ae8d05aeb4f6b0c1376c5",
-      "textSha256": "243b1c35ea9e0a15dbe2e8253e114fd28184debf1a4dea0c2392c27ace490c81"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 0/data/02-hud.lua",
-      "size": 4342,
-      "sha256": "74bddfa90f26e461a77401f42066338c9731801e08f163530c426a1d896274ca",
-      "textSha256": "74bddfa90f26e461a77401f42066338c9731801e08f163530c426a1d896274ca"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 0/data/03-prompts.lua",
-      "size": 4197,
-      "sha256": "c5ec4a57d11bbf65bbb630898ed28e46d4fe00b9fce4fb39b593a3d7d122a4d2",
-      "textSha256": "c5ec4a57d11bbf65bbb630898ed28e46d4fe00b9fce4fb39b593a3d7d122a4d2"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 0/data/credits.txt",
-      "size": 190,
-      "sha256": "7b7ac40a33c9e1625fc4d686c0a7368fd11a1a5dc8cd22ccf23f56fa36bfc833",
-      "textSha256": "7b7ac40a33c9e1625fc4d686c0a7368fd11a1a5dc8cd22ccf23f56fa36bfc833"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 0/data/events.json",
       "size": 32,
       "sha256": "c82ad606fe38868990f4b4d6ddc4f38825299ab9d95ecde244f3602c53da5b70",
       "textSha256": "c82ad606fe38868990f4b4d6ddc4f38825299ab9d95ecde244f3602c53da5b70"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 0/data/pause.txt",
-      "size": 130,
-      "sha256": "bcf679eb562d49e12b5a84d149e70405bd5e5395151081a3d384fd99412db03d",
-      "textSha256": "9084433167074cfc7582f3ffd88effec28fb3ef21becf9c801fd885c999f8dcc"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 0/data/tutorial.json",
@@ -396,22 +366,10 @@
       "textSha256": "018ea97142150ce7db3c37ff9b10681b01eee73a40f7a78ecec4b909021551dc"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 0/stages/week0.lua",
-      "size": 1105,
-      "sha256": "3935723162d90a08687ef249d34759b5bacfcd1f8707adca514be6360afb7c1c",
-      "textSha256": "998e7ddace15c74f64667b6118334455de4a12c292c1f2054e4748761b72a660"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 1/characters/dad-fah.json",
       "size": 3514,
       "sha256": "98497efe9a5144d817e3b609e805fd165251c2f39d7c612f95233f379285f495",
       "textSha256": "98497efe9a5144d817e3b609e805fd165251c2f39d7c612f95233f379285f495"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/bopeebo/01-hud.lua",
-      "size": 4632,
-      "sha256": "74da5577b1b44dc182eea20a9d4722f77cff58f72f4d1544090464b5c53714d5",
-      "textSha256": "74da5577b1b44dc182eea20a9d4722f77cff58f72f4d1544090464b5c53714d5"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 1/data/bopeebo/bopeebo.json",
@@ -420,82 +378,22 @@
       "textSha256": "64308b60a1e793d60025125c29b96b76cec27c229caea1224e8d73e8572b289f"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/bopeebo/credits.txt",
-      "size": 174,
-      "sha256": "db93285eda5b203c4d7f79cd9aaa0d9f26cd8033ba0fa7e9983a4b43cf4d0058",
-      "textSha256": "db93285eda5b203c4d7f79cd9aaa0d9f26cd8033ba0fa7e9983a4b43cf4d0058"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 1/data/bopeebo/events.json",
       "size": 1760,
       "sha256": "ef4529a887a98e28e3a0e54321609cdeab625b263ec0654c091ae2962b34fa39",
       "textSha256": "ef4529a887a98e28e3a0e54321609cdeab625b263ec0654c091ae2962b34fa39"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/bopeebo/pause.txt",
-      "size": 285,
-      "sha256": "5977065d5dca8efd0d74b07a36332c7753a01d82b2dabff436fd076f2eed717c",
-      "textSha256": "264bf1dc25371fed326f397599e816c756b14a398bc86369e1586415b89c1134"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/dadbattle/01-zoom.lua",
-      "size": 426,
-      "sha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02",
-      "textSha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/dadbattle/03-hud.lua",
-      "size": 4693,
-      "sha256": "92d2c87aaf51b85f124e5dc7e8d2c96f23a5bf25262a255ec9754cd54a5f327c",
-      "textSha256": "92d2c87aaf51b85f124e5dc7e8d2c96f23a5bf25262a255ec9754cd54a5f327c"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/dadbattle/credits.txt",
-      "size": 180,
-      "sha256": "f2f8673cabe9c72bd50dfcb6268ab2c096bfafe3de8fa5e259fe477c53a5dc7a",
-      "textSha256": "f2f8673cabe9c72bd50dfcb6268ab2c096bfafe3de8fa5e259fe477c53a5dc7a"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 1/data/dadbattle/dadbattle.json",
-      "size": 32430,
-      "sha256": "40358d366f2a4ebea3bbc97a77061fd8c4d32979947ffa26325d90aff32f0dcd",
-      "textSha256": "40358d366f2a4ebea3bbc97a77061fd8c4d32979947ffa26325d90aff32f0dcd"
+      "size": 32874,
+      "sha256": "ba2b47f68a0ea9ffe097daa97116d35d2567944410ffe4d256555c43a7ca93ed",
+      "textSha256": "ba2b47f68a0ea9ffe097daa97116d35d2567944410ffe4d256555c43a7ca93ed"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 1/data/dadbattle/events.json",
       "size": 1254,
       "sha256": "ca333fdf15b02895411b6cccf6b5bc330c97f3f6e042b0b002bdb37fd257e9f5",
       "textSha256": "ca333fdf15b02895411b6cccf6b5bc330c97f3f6e042b0b002bdb37fd257e9f5"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/dadbattle/pause.txt",
-      "size": 225,
-      "sha256": "f4b0ded678a0096c237dfd97bcfdb26ed862f8a05a567c080473ffe3eb06aae6",
-      "textSha256": "bfe28e1e7eee59c08c2011d2d57bdb10d6772eb2ba4f70f957237846b8e7a741"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/fresh/01-zoom.lua",
-      "size": 426,
-      "sha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02",
-      "textSha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/fresh/03-hud.lua",
-      "size": 4686,
-      "sha256": "1b691665744408d7355826d4a8b5749bdd41e059bb8945ebaa235ea50de58978",
-      "textSha256": "1b691665744408d7355826d4a8b5749bdd41e059bb8945ebaa235ea50de58978"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/fresh/04-receptors.lua",
-      "size": 3229,
-      "sha256": "51c104512c3023a792b30ca7ff238a6aa87a8a32560d2f3f561890d1d41f471a",
-      "textSha256": "51c104512c3023a792b30ca7ff238a6aa87a8a32560d2f3f561890d1d41f471a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/fresh/credits.txt",
-      "size": 185,
-      "sha256": "1d887e44fb507bee687d92dfab592187cd9464b107b416d43a327fe2775caf7e",
-      "textSha256": "1d887e44fb507bee687d92dfab592187cd9464b107b416d43a327fe2775caf7e"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 1/data/fresh/events.json",
@@ -505,15 +403,9 @@
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 1/data/fresh/fresh.json",
-      "size": 53048,
-      "sha256": "1ea05c63c61201594b9b8dc2b1ef78019311c088239b7473a6b1a772605c53b4",
-      "textSha256": "1ea05c63c61201594b9b8dc2b1ef78019311c088239b7473a6b1a772605c53b4"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/fresh/pause.txt",
-      "size": 331,
-      "sha256": "09657abe5a98c118a41e2ad7956d9176e21b6e32f8a1e9d4092b0faa97f1ace0",
-      "textSha256": "d704c58e9a2c75e714ab3a2df1a90ae447ca6870e7b6ca550e0168a263f34893"
+      "size": 52538,
+      "sha256": "ec3a22034030dc0ca2004e709342cc3a1cf40844dd42a599c9d9c81884f7e109",
+      "textSha256": "ec3a22034030dc0ca2004e709342cc3a1cf40844dd42a599c9d9c81884f7e109"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 1/images/Characters/dad-fah.png",
@@ -631,18 +523,18 @@
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 1/songs/bopeebo/BF.ogg",
-      "size": 952586,
-      "sha256": "5f41d48e5434eeaf885fa8a63a82a32bb249dd3e9b3ceeb416c219f10a02475b"
+      "size": 993053,
+      "sha256": "ef4149e928434799c77f8b0fab7ff22b2a0e95f24b5a9e24df151e5ed9f0a81c"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 1/songs/bopeebo/Dad.ogg",
-      "size": 805638,
-      "sha256": "6a5b25deb84f778fc450dceb357fec5fccbe96a718e7705f2f33e71fa6674b9a"
+      "size": 847785,
+      "sha256": "d613379f50357f25470e61875b67ccf4d9740e2f9460ecc9fb4b6ab055bf6def"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 1/songs/bopeebo/Inst.ogg",
-      "size": 2131269,
-      "sha256": "49cc495fd1a9e7f5d36c7b3f9c9b7feed553a6f182ca541c7bb5b617ff6f9b7d"
+      "size": 2132829,
+      "sha256": "ffe1ecf9682b3841dda560f6221998ee8a7af9b3e27b6f8e0992d8b0f50c95e6"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 1/songs/dadbattle/BF.ogg",
@@ -681,12 +573,6 @@
       "textSha256": "8eadfdaa5c6a9a4cea5a431f36ce3c17f9f8655dc923925f93d389f86826de89"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 1/stages/fah-week1.lua",
-      "size": 2307,
-      "sha256": "80c0b242c0ab986c7dcbdac5dd5831f143a9d8f754e46dd7facd17281149ebb9",
-      "textSha256": "6f8d55636b1c332439d2a2feae41cabc9f2cc9cba3b8e72c1ffe93ef5b6e518b"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-playable-gameover.json",
       "size": 807,
       "sha256": "3e4d553c74a686448226fd50f3ee256b4dcce853baa79e267ef02b7f355990d0",
@@ -705,94 +591,10 @@
       "textSha256": "e1e5d45e1dcbbccb395b2c55fc61c34ad2e8c8227d790e4f384a58ace960f794"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/02-lightning.lua",
-      "size": 7044,
-      "sha256": "d7391d1f806d5e0d23dbf0fff6acc33b13ed0b69760db0f9fd354d6015d7cdb6",
-      "textSha256": "fe73ad823dcd316cbc810f55d8cf6ceef52e584c7a815958c1ba533add9349e2"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/05-hud.lua",
-      "size": 2957,
-      "sha256": "9bfb4c7dd596a75d6e247644fccd85518d03090010e0b8e8a0b9aa1b01c20531",
-      "textSha256": "9bfb4c7dd596a75d6e247644fccd85518d03090010e0b8e8a0b9aa1b01c20531"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/06-lighting.lua",
-      "size": 3759,
-      "sha256": "2a41c9fc7989b4fe536194adb79be12fcac97aa82c83fc515b4d295d3ce3f401",
-      "textSha256": "2a41c9fc7989b4fe536194adb79be12fcac97aa82c83fc515b4d295d3ce3f401"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/07-popups.lua",
-      "size": 5270,
-      "sha256": "1a49a976f341da6c92b2d7cc13a453b0fa695e217e928a037c6cc9dafc86d690",
-      "textSha256": "1a49a976f341da6c92b2d7cc13a453b0fa695e217e928a037c6cc9dafc86d690"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/08-ending-teeth.lua",
-      "size": 4289,
-      "sha256": "ec635beda1318a6532ff60eea33c6f14f44edeb20925444ad3530cbf0bb6e573",
-      "textSha256": "ec635beda1318a6532ff60eea33c6f14f44edeb20925444ad3530cbf0bb6e573"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/credits.txt",
-      "size": 192,
-      "sha256": "c3e07816661cffb04b5023b3feb7e7bdb69d8e3fe1cbcc8b97b943f254bf6343",
-      "textSha256": "c3e07816661cffb04b5023b3feb7e7bdb69d8e3fe1cbcc8b97b943f254bf6343"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/mechanics.txt",
-      "size": 74,
-      "sha256": "63461771f57e01db398091d07bc1d8001927eca7b058a267d60aa452f4c6cef2",
-      "textSha256": "63461771f57e01db398091d07bc1d8001927eca7b058a267d60aa452f4c6cef2"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/pause.txt",
-      "size": 437,
-      "sha256": "fca43c69480544e248f84b418ff5c66ecae41dac168c08ddef38e7fae58bc3e5",
-      "textSha256": "f8cab1798536451bf8c629fd3d38a02b92a1ab20d401327b513435da6ef9d208"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 2/data/south/south.json",
-      "size": 102355,
-      "sha256": "af97763ad432b639adb9aa860654aef3b96986c6740da91e6127cf5879b2efa8",
-      "textSha256": "af97763ad432b639adb9aa860654aef3b96986c6740da91e6127cf5879b2efa8"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/02-lightning.lua",
-      "size": 7044,
-      "sha256": "d7391d1f806d5e0d23dbf0fff6acc33b13ed0b69760db0f9fd354d6015d7cdb6",
-      "textSha256": "fe73ad823dcd316cbc810f55d8cf6ceef52e584c7a815958c1ba533add9349e2"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/04-bounce.lua",
-      "size": 2211,
-      "sha256": "d1f8f0b8ccc6f9fa9ba5b9dd26bfc751eb6dbbd5ec14dc0ca45bd9569fffd4f5",
-      "textSha256": "1acda7f68625100019c917ce17024b9fccae61f01a01623cc10224569b89abde"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/05-hud.lua",
-      "size": 10655,
-      "sha256": "ba5144a37fab71f94c8609e01d721c7181eb2a3b2dd0dd151b0e845721c65d82",
-      "textSha256": "ba5144a37fab71f94c8609e01d721c7181eb2a3b2dd0dd151b0e845721c65d82"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/credits.txt",
-      "size": 187,
-      "sha256": "989816b7b29dbeb88d5fa4fdd84e0686cf87071f0d78565b23d51ff2eb204049",
-      "textSha256": "989816b7b29dbeb88d5fa4fdd84e0686cf87071f0d78565b23d51ff2eb204049"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/mechanics.txt",
-      "size": 55,
-      "sha256": "ea4d63fea9c55f6d0ddbb4a58567405e8ad7ba646d9d09a626a09ae6cb13fa6e",
-      "textSha256": "ea4d63fea9c55f6d0ddbb4a58567405e8ad7ba646d9d09a626a09ae6cb13fa6e"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/pause.txt",
-      "size": 490,
-      "sha256": "c6f0cc5ebb9c7c229efab5e3abcd2f279f41f6dc0af485c272a8e60d19d277c3",
-      "textSha256": "60c925767f1a7001208d0815068dc3f43dd8416550ba05b50966c2429bd82e8c"
+      "size": 102276,
+      "sha256": "e69ba6b8ae7479e5d273142a80939addba96819085832bd9f9e802ce3ce09a17",
+      "textSha256": "e69ba6b8ae7479e5d273142a80939addba96819085832bd9f9e802ce3ce09a17"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/spookeez.json",
@@ -991,6 +793,17 @@
       "sha256": "b0ede9b1489d11b6431e1116bd0e3e250fb3bfc71ae41a8dc228bc601af74827"
     },
     {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/Background Characters/lila.png",
+      "size": 534913,
+      "sha256": "f8757efad35b7cb85d269aacf757da4bdb7c367bf1fcb4b1ab62e6e6d36a116c"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/Background Characters/lila.xml",
+      "size": 912,
+      "sha256": "34af2bf929b83b49c11a0d6efd31a4739ccad6445123d7306a09da7a8909f4c2",
+      "textSha256": "9013b5d89833004b50b39b101b28d7a6326ea1688b32e0e48e82e51b1c2bac79"
+    },
+    {
       "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/Background Characters/phoenix-spooky-lightning.png",
       "size": 1265977,
       "sha256": "142d75c65616185318385663b84306ac4297758240b3c00c934b9421d07652ff"
@@ -1055,6 +868,28 @@
       "size": 3776,
       "sha256": "bc77c15f129bdc1a2ca5c28746f2b8d97cba53383daca271e9772b224634e8cb",
       "textSha256": "00d19ebffdfe4e1325b0377827346eba463fe4877dc4e4f56463672b7a32b1d7"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/main-bg.png",
+      "size": 3215663,
+      "sha256": "afadea5df226776fdbe6ffd67dd7cde346e6e44991e85fbe70142cccdb8fdcbd"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/main-bg.xml",
+      "size": 508,
+      "sha256": "482f45c1144269027a98d4b258ab675740f3c2114dfcc85b523e326badd17fbd",
+      "textSha256": "ad51824ffb3473232e8e954a5caf7646bff8228bce618ae856f7fb9372e0a2c5"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/painting-randoms.png",
+      "size": 1770722,
+      "sha256": "608700648bd7be9dd748c12a4d88ead3b67724628c93341f43b53503c95c724c"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/painting-randoms.xml",
+      "size": 5771,
+      "sha256": "f242abb3dfda4ea951d34cd0a8bbdd756ffaf17ada202d7c0d9ac1035222f25d",
+      "textSha256": "6eb02b76fa9fa18799014db2b0046d9ae4dcd4622fd2940c8962032bb606e031"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/south/bark.png",
@@ -1123,6 +958,17 @@
       "textSha256": "d8e5a774514830d5429de60da63cbf9dcb895c803b3e41d1984d1c2e9d2f371b"
     },
     {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/window-randoms.png",
+      "size": 2554601,
+      "sha256": "864d1e05e4c2d1508a7911bf0b54c7fda6cfa76563afaf6b58e95524df5640b8"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/window-randoms.xml",
+      "size": 1856,
+      "sha256": "7d383fbdb5d0f1818de4893b9d48cd4d27ca5360465a6610137d75721b4d62da",
+      "textSha256": "c703ce0c7b042a0fcf4352f2c09ad99acdc87e0e29fb95b40107d879e597ae49"
+    },
+    {
       "path": "assets/Fah Mix/Basegame/Week 2/songs/south/BF.ogg",
       "size": 8204147,
       "sha256": "74ebe1a4d6d47d052207843559808067ad20a364dffc5d1099b1d03818057555"
@@ -1153,16 +999,20 @@
       "sha256": "f9f416ba032db2db78a6fbe57b9ba829082b9c8e8e6e08c27dad03605b6621f0"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 2/stages/fah-week2.json",
-      "size": 179,
-      "sha256": "e9ffbb22ebbf89455402b3ee8b33c4ef2fd4421e147cb3c71fe3dd125bfb308c",
-      "textSha256": "80d56143b1ea0af985cd9bad67d21e9ea88e20568a72684d34bab0b7c6b7b9be"
+      "path": "assets/Fah Mix/Basegame/Week 2/sounds/fahsmh1.ogg",
+      "size": 12479,
+      "sha256": "eb1338025459a1b0982314ec18a0197890181b9e367cbcea4b948ec500ffd98c"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 2/stages/fah-week2.lua",
-      "size": 5904,
-      "sha256": "98d3766a9995d61d5c76ddea859e68943a398a990d74629d575beb3c9b8af923",
-      "textSha256": "98d3766a9995d61d5c76ddea859e68943a398a990d74629d575beb3c9b8af923"
+      "path": "assets/Fah Mix/Basegame/Week 2/sounds/fahsmh2.ogg",
+      "size": 11902,
+      "sha256": "38a5f35c36f56155aac09d0e5e15053f8b0d0154c50b007a402c3e0a43d8c573"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/stages/fah-week2.json",
+      "size": 181,
+      "sha256": "65a5b487d3e88b126f37217b92310775a117eab2e8dbd3c0f253d71585be140a",
+      "textSha256": "023f1de03d599397d25af1ff2c0e37b1bb81bb2a39003c8e7892cc82922ab622"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 3/characters/fah-playable-blammed.json",
@@ -1183,34 +1033,10 @@
       "textSha256": "3a6837e38df5ed8cf01a19c7ce58f6e435d59a01b736c5211e8404ffea6c1586"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 3/custom_events/blammed_colors.lua",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "textSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/custom_events/blammed_colors.txt",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "textSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/blammed/01-hud.lua",
-      "size": 4644,
-      "sha256": "a113b05a88a6e195e4e1d3a6e374666476f978b44fdb1c9612865c82fba2565d",
-      "textSha256": "a113b05a88a6e195e4e1d3a6e374666476f978b44fdb1c9612865c82fba2565d"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 3/data/blammed/blammed.json",
       "size": 71622,
       "sha256": "bf22d386a3422c9faed6b52d6f8a16d9a3953e6ac88589a37c043a90a59318f2",
       "textSha256": "bf22d386a3422c9faed6b52d6f8a16d9a3953e6ac88589a37c043a90a59318f2"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/blammed/credits.txt",
-      "size": 184,
-      "sha256": "abc58603ae327d18f086abec0e8a66fd9606f26a6e96ebbcb3faeab1d82dc6f9",
-      "textSha256": "abc58603ae327d18f086abec0e8a66fd9606f26a6e96ebbcb3faeab1d82dc6f9"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 3/data/blammed/events.json",
@@ -1219,94 +1045,10 @@
       "textSha256": "ecad581cde5ce1d1d4d17948b531a9774482e40db2f9719ed4369e045b1ba057"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/blammed/pause.txt",
-      "size": 530,
-      "sha256": "293def6a4a8f6ec9dc173ac9fab637b3eb7d986704cd2e045b76f1e59a83551b",
-      "textSha256": "48f3debb837f355e048c22e91177ffb6154049e39f7b9dfa861a2856c2ff0574"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/01-presentation.lua",
-      "size": 2769,
-      "sha256": "be27f9d83aaefff0c4ead8222d117fbee688c5e84e1a6f5cf9bed49200c71cfa",
-      "textSha256": "be27f9d83aaefff0c4ead8222d117fbee688c5e84e1a6f5cf9bed49200c71cfa"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/02-parvin.lua",
-      "size": 2473,
-      "sha256": "51f19bddbed0e744f45099d81d99d1570b9ea0dc4f983546870c5044337ba5f5",
-      "textSha256": "51f19bddbed0e744f45099d81d99d1570b9ea0dc4f983546870c5044337ba5f5"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/03-foo.lua",
-      "size": 2176,
-      "sha256": "23ab2a0b991b29e8efff11c2bbf4e29e1a08164b3b7b5167c1cb407acd90b827",
-      "textSha256": "23ab2a0b991b29e8efff11c2bbf4e29e1a08164b3b7b5167c1cb407acd90b827"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/04-fahreddy.lua",
-      "size": 2238,
-      "sha256": "0c31b4fd55c16a4c85ae27752aeced9f874380e81642f3c71cbe0abb30c3f75d",
-      "textSha256": "0c31b4fd55c16a4c85ae27752aeced9f874380e81642f3c71cbe0abb30c3f75d"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/05-mad.lua",
-      "size": 1684,
-      "sha256": "248bc3cf968434e2d0e65517f7860fc65cb483ed426b663fa278fafd26788c6f",
-      "textSha256": "248bc3cf968434e2d0e65517f7860fc65cb483ed426b663fa278fafd26788c6f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/06-morticco.lua",
-      "size": 3084,
-      "sha256": "4069a19d3694cd9db821351d95c4114f931a54813bc62194b179a4a017eeb3b9",
-      "textSha256": "4069a19d3694cd9db821351d95c4114f931a54813bc62194b179a4a017eeb3b9"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/credits.txt",
-      "size": 189,
-      "sha256": "2bd5e99951fc893f92635379660deec9b4a35d39689e78356d499759f2feb682",
-      "textSha256": "2bd5e99951fc893f92635379660deec9b4a35d39689e78356d499759f2feb682"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/pause.txt",
-      "size": 190,
-      "sha256": "34deb7676d3400d5029dfd7769d359db180f5971966e214466d01b93463bee76",
-      "textSha256": "741babd7407725d0dd0b2935bfc154a1b96057022f7693fc75e02a42d151ac41"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/philly-nice.json",
-      "size": 58541,
-      "sha256": "2f8659ef357303c68798da28e546a09a869dea92cbbb440dbdd8c2503a309a15",
-      "textSha256": "2f8659ef357303c68798da28e546a09a869dea92cbbb440dbdd8c2503a309a15"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/pico/01-presentation.lua",
-      "size": 1926,
-      "sha256": "f11a0a9b8bfabc0b050d0a95ba6413723d27be5bd4491045e7bf280584b9af85",
-      "textSha256": "f11a0a9b8bfabc0b050d0a95ba6413723d27be5bd4491045e7bf280584b9af85"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/pico/06-ending.lua",
-      "size": 842,
-      "sha256": "5bc60380908e5099104159c2d8a91a179cdd6e647df4842b8a74c31c98964f67",
-      "textSha256": "5bc60380908e5099104159c2d8a91a179cdd6e647df4842b8a74c31c98964f67"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/pico/07-requital.lua",
-      "size": 4886,
-      "sha256": "9d0b59baa2c667479396029e9f74eb624ebeb611126711f4e01772280fe1e0c7",
-      "textSha256": "9d0b59baa2c667479396029e9f74eb624ebeb611126711f4e01772280fe1e0c7"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/pico/credits.txt",
-      "size": 216,
-      "sha256": "da5b650e569a856ae4647fc7f8fd9974f351ff4e111c7b86dd3b4fef355ea3b6",
-      "textSha256": "da5b650e569a856ae4647fc7f8fd9974f351ff4e111c7b86dd3b4fef355ea3b6"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/pico/pause.txt",
-      "size": 232,
-      "sha256": "72d29705bb53f2365a840b1f34dc2e753c02d8935904084a0612b4b5241340e2",
-      "textSha256": "9f48253bd42b5e709e58ae74ed8018615ea1a7aeb589d620c5a5a3349cc06b73"
+      "size": 58452,
+      "sha256": "5bf3ffa40a18ee46cc5e8eb8ad21cb82d6b07736960822f8caf64cbb261ee0d1",
+      "textSha256": "5bf3ffa40a18ee46cc5e8eb8ad21cb82d6b07736960822f8caf64cbb261ee0d1"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 3/data/pico/pico.json",
@@ -1685,40 +1427,10 @@
       "textSha256": "20a778581a4c63dbba8bd91de54f08adc9dd3ceaf87d0d2874cc511cc0a792c6"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 3/stages/fah-week3.lua",
-      "size": 10684,
-      "sha256": "0e52a66b2122e56ada71abfdbd5709dfc020a13e20d60848aaf5afcfe766f80a",
-      "textSha256": "0e52a66b2122e56ada71abfdbd5709dfc020a13e20d60848aaf5afcfe766f80a"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 4/characters/mom-fah.json",
       "size": 2979,
       "sha256": "8675bf0c164d78f309edadd919ffd0f9e4805770d7725114207d2a0f7aed173a",
       "textSha256": "8675bf0c164d78f309edadd919ffd0f9e4805770d7725114207d2a0f7aed173a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/high/01-zoom.lua",
-      "size": 41,
-      "sha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a",
-      "textSha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/high/03-hud.lua",
-      "size": 4556,
-      "sha256": "d967b75d804258520fc5d80890c6bd01f49c3e23d2e151e430669a1ad88cb961",
-      "textSha256": "d967b75d804258520fc5d80890c6bd01f49c3e23d2e151e430669a1ad88cb961"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/high/04-sway.lua",
-      "size": 305,
-      "sha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679",
-      "textSha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/high/credits.txt",
-      "size": 185,
-      "sha256": "5ea6532ef7ddb929dcbf4b63a350f8edd61bac1d4a17a754270d4aea424b6432",
-      "textSha256": "5ea6532ef7ddb929dcbf4b63a350f8edd61bac1d4a17a754270d4aea424b6432"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 4/data/high/events.json",
@@ -1728,51 +1440,9 @@
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 4/data/high/high.json",
-      "size": 47501,
-      "sha256": "8eecbfe56611d25595e538a48a0d72dbc22bc504e86aa66e304aef171bc9f09c",
-      "textSha256": "8eecbfe56611d25595e538a48a0d72dbc22bc504e86aa66e304aef171bc9f09c"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/high/mechanics.txt",
-      "size": 25,
-      "sha256": "8c6b77a9b8dd0128bb82971192221527a9c866496f1c16941c3d0c95184fa314",
-      "textSha256": "8c6b77a9b8dd0128bb82971192221527a9c866496f1c16941c3d0c95184fa314"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/high/pause.txt",
-      "size": 454,
-      "sha256": "f1c69cbe62d7cf2dbcc3d0a80a269668fc29ecbe6ea27d2636d84db104a18fc1",
-      "textSha256": "36950eaef03dd2f69247191853535218032ce197ea9ab1cd4c3d12c80800a354"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/01-zoom.lua",
-      "size": 41,
-      "sha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a",
-      "textSha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/03-hud.lua",
-      "size": 4591,
-      "sha256": "1abb2d9363aac2dde08406293c9a9104cea2c0fe5af30d098b68a3dcdba33f40",
-      "textSha256": "1abb2d9363aac2dde08406293c9a9104cea2c0fe5af30d098b68a3dcdba33f40"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/04-sway.lua",
-      "size": 305,
-      "sha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679",
-      "textSha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/05-bounce.lua",
-      "size": 1557,
-      "sha256": "f72d97984654b67432404a21aa724c463503668d65074ac5e66dd1adfd7bed27",
-      "textSha256": "f72d97984654b67432404a21aa724c463503668d65074ac5e66dd1adfd7bed27"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/credits.txt",
-      "size": 179,
-      "sha256": "a14af96e544b7f5e2ca339f71ec8a6d3baf3592044b134f54f355fb7a7f86d5d",
-      "textSha256": "a14af96e544b7f5e2ca339f71ec8a6d3baf3592044b134f54f355fb7a7f86d5d"
+      "size": 47535,
+      "sha256": "0c5bb9164b5e7e030c4411ac83f1039b30aceaf4ff885daec619e6e1e2a82617",
+      "textSha256": "0c5bb9164b5e7e030c4411ac83f1039b30aceaf4ff885daec619e6e1e2a82617"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 4/data/mama/events.json",
@@ -1782,63 +1452,15 @@
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 4/data/mama/mama.json",
-      "size": 44896,
-      "sha256": "d279b058b9f1910a9e03913cf168c1c4378bf832e93bff60a4ede020f00ad2f1",
-      "textSha256": "d279b058b9f1910a9e03913cf168c1c4378bf832e93bff60a4ede020f00ad2f1"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/mechanics.txt",
-      "size": 33,
-      "sha256": "687bf8217ba0eab9c0904f9af29da012bbd7ef7cb6a84ae06ab6c4a6d02ffbcb",
-      "textSha256": "687bf8217ba0eab9c0904f9af29da012bbd7ef7cb6a84ae06ab6c4a6d02ffbcb"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/pause.txt",
-      "size": 236,
-      "sha256": "c31a71477ec010c4aecbb93843149f8e11ceb8549ad8dfc7963327decbc2fea3",
-      "textSha256": "befa2a69cc6db242a36ea320ab4d6d7f21321885da078cd5945ec85e9c323e1f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/undies/01-zoom.lua",
-      "size": 40,
-      "sha256": "aa542a79a62fc3b752f3135240d8f164991210a5962e0bf8b3e4c7e97600e040",
-      "textSha256": "aa542a79a62fc3b752f3135240d8f164991210a5962e0bf8b3e4c7e97600e040"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/undies/03-hud.lua",
-      "size": 3295,
-      "sha256": "60b494373037b04ab5a12a679f0cfb921a39f0873abb4bffe02214356b0eff59",
-      "textSha256": "60b494373037b04ab5a12a679f0cfb921a39f0873abb4bffe02214356b0eff59"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/undies/04-sway.lua",
-      "size": 303,
-      "sha256": "02e1add7cd399bdfecc14efd014b3f25e14ab1a4d2aa2f0fee3838d5b61fb650",
-      "textSha256": "02e1add7cd399bdfecc14efd014b3f25e14ab1a4d2aa2f0fee3838d5b61fb650"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/undies/05-runner.lua",
-      "size": 5201,
-      "sha256": "cfed9bb8c64ee57fe399733be439d2fe392b6dc7679c0b5b70a7b0ce9f3978b8",
-      "textSha256": "cfed9bb8c64ee57fe399733be439d2fe392b6dc7679c0b5b70a7b0ce9f3978b8"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/undies/credits.txt",
-      "size": 190,
-      "sha256": "119bcb99f1f903a02fa8eacd9e3f9f8eb74fa91ca36d6f125f482b6763ef4637",
-      "textSha256": "119bcb99f1f903a02fa8eacd9e3f9f8eb74fa91ca36d6f125f482b6763ef4637"
+      "size": 45426,
+      "sha256": "28ed2fcac8d8b82e16f87acbf80df8c9a0cd18b31ecacecf012f43196c373f52",
+      "textSha256": "28ed2fcac8d8b82e16f87acbf80df8c9a0cd18b31ecacecf012f43196c373f52"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 4/data/undies/events.json",
       "size": 134,
       "sha256": "9826d66f2a12acdfbd038d36c1174187d9b5a948b2bc1fe83ce38c0a0afa7cab",
       "textSha256": "9826d66f2a12acdfbd038d36c1174187d9b5a948b2bc1fe83ce38c0a0afa7cab"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/undies/pause.txt",
-      "size": 305,
-      "sha256": "98cd05818dfa7af68caeb6f2d461e403abe67f2d8a23227a720b25272306d7f8",
-      "textSha256": "98cd05818dfa7af68caeb6f2d461e403abe67f2d8a23227a720b25272306d7f8"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 4/data/undies/undies.json",
@@ -2074,30 +1696,39 @@
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 4/songs/undies/BF.ogg",
-      "size": 2122378,
-      "sha256": "74ee38e053a63f7c3b0c8fdf635344507c190cd57c489fae0a45047bfa0b14ed"
+      "size": 2168419,
+      "sha256": "7a707f00c3467302ddb77050644f12a55fd950f2a4671b07639bab7c5db9007f"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 4/songs/undies/Dad.ogg",
-      "size": 2174095,
-      "sha256": "869b952faaec13d034925937b8eec7d59fa97b2988f4ea614dda3ac3170d969e"
+      "size": 2255963,
+      "sha256": "013b4b5ac4c642d00c6e6998ed8d10d619bc80dbdb69532c6a53eb4c54e70c4e"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 4/songs/undies/Inst.ogg",
-      "size": 2785443,
-      "sha256": "eb739fbef3a57b588884b84f2bb503b5d4a6f5048265023d00ac3a9876f896a0"
+      "size": 2787296,
+      "sha256": "a67bad4791f5141064997fdbdb112422f45177cd042bf922c51b5cb263a80bd3"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 4/sounds/lampposthit.ogg",
+      "size": 41223,
+      "sha256": "3dc3d26c730d737acdd71714578fbbf47c8d61af2ffffa2f1219c661e9c610f9"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 4/sounds/lamppostpassing.ogg",
+      "size": 28967,
+      "sha256": "fd3de6a83ce8f726716585fefd1d2a09cb85687709ea4f3f7b2107cbf1772bed"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 4/sounds/spinningloop.ogg",
+      "size": 99334,
+      "sha256": "c3bcfb04f2dd2a22ad9feb65814c2de4d29d4282a4649bbaa822901bc30ce97e"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 4/stages/fah-week4.json",
       "size": 180,
       "sha256": "d9cf390e3ad840dd308c2787e13854f71d8e50320fadd732058f4661e7e6bc94",
       "textSha256": "b0c466c36b87b772fecfecc273f4566e29f7624e78256a273740f530c1d905a3"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/stages/fah-week4.lua",
-      "size": 13013,
-      "sha256": "fe10c7894914bdb03da2402343d0a88b36c97eb6d244d6f6f4fc3c15fb305952",
-      "textSha256": "fe10c7894914bdb03da2402343d0a88b36c97eb6d244d6f6f4fc3c15fb305952"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 5/characters/fahmas-playable.json",
@@ -2124,112 +1755,22 @@
       "textSha256": "5e807ebbc0e31e40be5e6ff438497bf740290196a356a841bc02ce814ffe3d29"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/01-logo.lua",
-      "size": 907,
-      "sha256": "29a2eca6052da4989e5d57ef5b5eee9a3db0723278159fe1a47e3c6d7b7df0f6",
-      "textSha256": "29a2eca6052da4989e5d57ef5b5eee9a3db0723278159fe1a47e3c6d7b7df0f6"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/02-hud-fade.lua",
-      "size": 153,
-      "sha256": "2d5381370636ca0e88a855af6ec2ad947d71a6e49996207987ff693c5b8aa8cc",
-      "textSha256": "2d5381370636ca0e88a855af6ec2ad947d71a6e49996207987ff693c5b8aa8cc"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/03-note-bounce.lua",
-      "size": 734,
-      "sha256": "d84ad3be23410e6ac2d54203252f1da12b8dbb322d58d99fa30a37e9f4b73d7f",
-      "textSha256": "d84ad3be23410e6ac2d54203252f1da12b8dbb322d58d99fa30a37e9f4b73d7f"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/cocoa.json",
-      "size": 41523,
-      "sha256": "3f320cfe7a3c17d0d2185c955b8a0f4cbf5cfb27e5107e029e18409a6e787c56",
-      "textSha256": "3f320cfe7a3c17d0d2185c955b8a0f4cbf5cfb27e5107e029e18409a6e787c56"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/credits.txt",
-      "size": 193,
-      "sha256": "dc0a1ffd84618d79158de4d4ff05a28bb5b6736cfba4a75f29ce46dc36033d66",
-      "textSha256": "dc0a1ffd84618d79158de4d4ff05a28bb5b6736cfba4a75f29ce46dc36033d66"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/mechanics.txt",
-      "size": 40,
-      "sha256": "a19b9c0ad70e96f4179590f2242b7beb18a9a0faa9e96ed6d8f1615a432ce1f1",
-      "textSha256": "a19b9c0ad70e96f4179590f2242b7beb18a9a0faa9e96ed6d8f1615a432ce1f1"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/pause.txt",
-      "size": 155,
-      "sha256": "40d024d95c046c590c13e34857c1f814445b4cc64da9a0b03014e9a0b9601ad6",
-      "textSha256": "1f2bb54db03338a1cfd7c9e56a141b9b98b42539dc142e67a6b1143dc364dca4"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/01-camera.lua",
-      "size": 308,
-      "sha256": "86d0ff8244dd83039aad4e3445c5ba67e4493542dc14ce0e5d316fa0861a5afe",
-      "textSha256": "d9eed1793daa9cb540646102b781715135ef313359311291aec85112311855c6"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/02-gameover.lua",
-      "size": 1929,
-      "sha256": "856fb87c6178314f66bbe6a34929a761f99362993fe60c2146f3ac4f593b0677",
-      "textSha256": "65494cb63d4d60099d90f61c38928bb723a7cc684207b4df3e70524d9c8b12f8"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/03-lights.lua",
-      "size": 3007,
-      "sha256": "ee99cefa0deabe95a3fe887b5f9018340572dc819d60a3c922fdf47cc6fdf582",
-      "textSha256": "ee99cefa0deabe95a3fe887b5f9018340572dc819d60a3c922fdf47cc6fdf582"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/04-biter.lua",
-      "size": 9426,
-      "sha256": "930d68e9b4944828c8bf8abd923cc1cb863c136f6b9b5fade18a8a54476ba980",
-      "textSha256": "930d68e9b4944828c8bf8abd923cc1cb863c136f6b9b5fade18a8a54476ba980"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/05-receptors.lua",
-      "size": 2623,
-      "sha256": "57d9debfad3af162c9154224e78f86e4ca3d7ad6806cd2b693af2579a8788c96",
-      "textSha256": "57d9debfad3af162c9154224e78f86e4ca3d7ad6806cd2b693af2579a8788c96"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/06-hud.lua",
-      "size": 4420,
-      "sha256": "d7e2af0f5f807dab340bcb3e26b11f8e76da578326dd5540b5f67cdfba68148f",
-      "textSha256": "d7e2af0f5f807dab340bcb3e26b11f8e76da578326dd5540b5f67cdfba68148f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/credits.txt",
-      "size": 189,
-      "sha256": "7606070ec4e3f2f171e14e241c7dcdab10967a4abbb92f8daf731936fa71183f",
-      "textSha256": "7606070ec4e3f2f171e14e241c7dcdab10967a4abbb92f8daf731936fa71183f"
+      "size": 40995,
+      "sha256": "b1e2c37ce16341483122da639113f693d80f0d2fe7d0bcb2bda25472302a312b",
+      "textSha256": "b1e2c37ce16341483122da639113f693d80f0d2fe7d0bcb2bda25472302a312b"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/eggnog.json",
-      "size": 39565,
-      "sha256": "bb02fb2fa4cd3fa55e8b5f69b7fa4bd3fc504a625059d32c9c27d01772835626",
-      "textSha256": "bb02fb2fa4cd3fa55e8b5f69b7fa4bd3fc504a625059d32c9c27d01772835626"
+      "size": 39386,
+      "sha256": "5052d42ee16e4bfd58cdee5938463f2431fd1b0b973c28d87490ed08d73d81bd",
+      "textSha256": "5052d42ee16e4bfd58cdee5938463f2431fd1b0b973c28d87490ed08d73d81bd"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/events.json",
       "size": 331,
       "sha256": "fc78d65d30b83fa52c55f2c273945d6821aacf6366975f234ecce51db8c112eb",
       "textSha256": "fc78d65d30b83fa52c55f2c273945d6821aacf6366975f234ecce51db8c112eb"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/mechanics.txt",
-      "size": 42,
-      "sha256": "bea7d9c6ac8f7c40113fd32996d346a6305ed3d3fa8f55153ffe77819a17b346",
-      "textSha256": "bea7d9c6ac8f7c40113fd32996d346a6305ed3d3fa8f55153ffe77819a17b346"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/pause.txt",
-      "size": 130,
-      "sha256": "f7fdaf8e30a016e40c11f640115ceb01d546ac19fc4d77348d9ab350286c6b42",
-      "textSha256": "fbab97d5ba37866b3a40389be05a002ba44bae48bc356ec1c1f992c2b5940d77"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 5/images/Characters/merrydad-fah-nopop.png",
@@ -2584,12 +2125,6 @@
       "textSha256": "e20abccde1b4b676b29a96816cdce7ee1e0ca105f018f319f3eb7212ebcf9d0d"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 5/stages/fah-week5.lua",
-      "size": 8309,
-      "sha256": "7383f5c97a17d7d91b7a268cf5c2df3943007939c7cc78ab5f0f9bf0717d9f27",
-      "textSha256": "1b37974c9814e810873f430c35746fb778de10fa25ddb44ba7a3dfc9e2b67e42"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 6/characters/fahms-playable-gameover.json",
       "size": 786,
       "sha256": "c1b237e9beb1799fa00fa2a129279a81dddfaa17ad1818fd101692cc2733815e",
@@ -2597,9 +2132,9 @@
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/characters/msfah-playable-dark.json",
-      "size": 4215,
-      "sha256": "abfedf7a1bd90cef284c7950397bd15ba9b444266d4f6e71dd311c7ea48c9a0b",
-      "textSha256": "abfedf7a1bd90cef284c7950397bd15ba9b444266d4f6e71dd311c7ea48c9a0b"
+      "size": 4221,
+      "sha256": "b091a1b3c2cd38a6ddac752d884cbda2bbdde6096fb7f032e21a11c0cf0f8860",
+      "textSha256": "b091a1b3c2cd38a6ddac752d884cbda2bbdde6096fb7f032e21a11c0cf0f8860"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/characters/msfah-playable.json",
@@ -2610,14 +2145,14 @@
     {
       "path": "assets/Fah Mix/Basegame/Week 6/characters/pisspai-fah.json",
       "size": 3290,
-      "sha256": "796a243aa669b177c6ddd28bac1968d73dba96c0b860feda76f8f5a69e7791a3",
-      "textSha256": "796a243aa669b177c6ddd28bac1968d73dba96c0b860feda76f8f5a69e7791a3"
+      "sha256": "eb8947c7b419a1edf8ab340a378d679bc72a69408d9f97b309c23d632e1b3eb1",
+      "textSha256": "eb8947c7b419a1edf8ab340a378d679bc72a69408d9f97b309c23d632e1b3eb1"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/characters/senpai-fah.json",
       "size": 3677,
-      "sha256": "be5e07250dbf6edbb7d56aeb5ef234de860be9d4819290fe153814fb3d8ef0dd",
-      "textSha256": "be5e07250dbf6edbb7d56aeb5ef234de860be9d4819290fe153814fb3d8ef0dd"
+      "sha256": "12bc76fd72cdc19df64aa731eae42e2d166dbc25eed11ce500d127e645f1a84d",
+      "textSha256": "12bc76fd72cdc19df64aa731eae42e2d166dbc25eed11ce500d127e645f1a84d"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/characters/spirit-fah.json",
@@ -2626,124 +2161,22 @@
       "textSha256": "9599838874cf2bd1caccbaf6f016b7027a70ee66d94583fa360ce316ec2e1ccd"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 6/custom_events/Thorns Background.lua",
-      "size": 190,
-      "sha256": "bd147257540b76f03f8a4309b59d2a98f7506d628628f756a06c38646dd4e30d",
-      "textSha256": "bd147257540b76f03f8a4309b59d2a98f7506d628628f756a06c38646dd4e30d"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/custom_events/Thorns Background.txt",
-      "size": 1516,
-      "sha256": "521429164fc10457724cc50cf982ab8442e0869f0b80390971409af98b08021d",
-      "textSha256": "521429164fc10457724cc50cf982ab8442e0869f0b80390971409af98b08021d"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/02-dialogue.lua",
-      "size": 361,
-      "sha256": "b03d677ad501f84604dc8fb77fe943280d17ec5f7a7cd11861c6cf3ad85e7cc9",
-      "textSha256": "638d2c0c91c8e754d091e72394f1aac58637833ddb2b9f36a20bf2b7170ba9a5"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/05-receptors.lua",
-      "size": 2445,
-      "sha256": "f7a60c01a405b0ce13c1908e34d2a1998fe26b2b3cff8eed32cfdc97971bca9a",
-      "textSha256": "f2e3afbe525275f43653f86b2261c6d177c53959c8a8fa159f13ea22f0eb014f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/06-hud.lua",
-      "size": 5831,
-      "sha256": "4408642543bb7d59e6a3968c094c91948faebb93d00d065a862d475674df3096",
-      "textSha256": "4408642543bb7d59e6a3968c094c91948faebb93d00d065a862d475674df3096"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/credits.txt",
-      "size": 186,
-      "sha256": "0d4cfefc883b31437b3072f4a7eaf6051fcafe20c96d4487a23ba38448fd1190",
-      "textSha256": "0d4cfefc883b31437b3072f4a7eaf6051fcafe20c96d4487a23ba38448fd1190"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 6/data/roses/events.json",
       "size": 466,
       "sha256": "74d69a629ba416a7580bf7e26c76c1b14b47c1025efffc622cf45c50386f2a6e",
       "textSha256": "74d69a629ba416a7580bf7e26c76c1b14b47c1025efffc622cf45c50386f2a6e"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/mechanics.txt",
-      "size": 333,
-      "sha256": "4dc65508ce76f338abfacb3eb3ed601be30919c526bd3c39bf084de97bbb45f7",
-      "textSha256": "4dc65508ce76f338abfacb3eb3ed601be30919c526bd3c39bf084de97bbb45f7"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/pause.txt",
-      "size": 357,
-      "sha256": "9f4fa01288f86abc08921d8a64b37d5815b30db9fb748594d38c069c7bd36859",
-      "textSha256": "df9aeb436c78893bd0541677dbc76142f4fa081f43fd1b68ef02faa6bfa5e1f0"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 6/data/roses/roses.json",
-      "size": 65459,
-      "sha256": "4896d98a1ff72b06a78f8f39ec194dd4d0594f27f63989ce2d61a2d03eac2d05",
-      "textSha256": "4896d98a1ff72b06a78f8f39ec194dd4d0594f27f63989ce2d61a2d03eac2d05"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/rosesDialogue.txt",
-      "size": 145,
-      "sha256": "17f7f516240958f236adbf0062a34443b1ccc70689534cb3a4ef4bd2ce264a3a",
-      "textSha256": "17f7f516240958f236adbf0062a34443b1ccc70689534cb3a4ef4bd2ce264a3a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/00-shared.lua",
-      "size": 166,
-      "sha256": "ea7c1bd613dc35ddad4068afe31469b741105830857c5e965d21fa1c3f073429",
-      "textSha256": "ea7c1bd613dc35ddad4068afe31469b741105830857c5e965d21fa1c3f073429"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/01-beats.lua",
-      "size": 6393,
-      "sha256": "27c5ad4b80dd91b6b22c2c7d9586a95256340c88a4acaa0e0d3bf0cf0f27016e",
-      "textSha256": "27c5ad4b80dd91b6b22c2c7d9586a95256340c88a4acaa0e0d3bf0cf0f27016e"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/credits.txt",
-      "size": 196,
-      "sha256": "5672d96dbd1f3d581c9d2c5c3753e415a3b9f98404348c74b334fcbb2b53eef6",
-      "textSha256": "5672d96dbd1f3d581c9d2c5c3753e415a3b9f98404348c74b334fcbb2b53eef6"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/mechanics.txt",
-      "size": 347,
-      "sha256": "27d22448e142bae8a87e758be26f7a4abddb72b002f94760248803946879379a",
-      "textSha256": "27d22448e142bae8a87e758be26f7a4abddb72b002f94760248803946879379a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/pause.txt",
-      "size": 374,
-      "sha256": "2e4681f54c75268eac8e9e313914e30f7aa968f347275c16087fb3d3b3620956",
-      "textSha256": "24fe2aeffb60e974dbd26962d2a31dc81448df648394dc5791e27fee361b9c1f"
+      "size": 65351,
+      "sha256": "2aa895e1a8544de0b7c370a62b7f71b5086d3e1a26e5e373b45b3c198c6626f2",
+      "textSha256": "2aa895e1a8544de0b7c370a62b7f71b5086d3e1a26e5e373b45b3c198c6626f2"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/senpai.json",
-      "size": 65579,
-      "sha256": "69e85830a767f3bc3e5a53b27242b1fb7b10b6f0d31effc9f124a7494346ebbd",
-      "textSha256": "69e85830a767f3bc3e5a53b27242b1fb7b10b6f0d31effc9f124a7494346ebbd"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/senpaiDialogue.txt",
-      "size": 444,
-      "sha256": "610434799ccbbbb06e9b1427f689fef0cbde687c8a28cc6de093d2217988c146",
-      "textSha256": "610434799ccbbbb06e9b1427f689fef0cbde687c8a28cc6de093d2217988c146"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/01-logo.lua",
-      "size": 1392,
-      "sha256": "07755d49b00775bb5e0a02a724fb9386a1e4aa8551a5744b8d5165c75ae2934d",
-      "textSha256": "07755d49b00775bb5e0a02a724fb9386a1e4aa8551a5744b8d5165c75ae2934d"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/credits.txt",
-      "size": 298,
-      "sha256": "26fbda693435b6bf2e0cff0997f2e7af01700782f7b8d89119b99e141a73a6c2",
-      "textSha256": "26fbda693435b6bf2e0cff0997f2e7af01700782f7b8d89119b99e141a73a6c2"
+      "size": 42522,
+      "sha256": "0212e0cd628ada8fc80faa4dfde001c32b95da9b9fc2aaefc610e93310ee0955",
+      "textSha256": "0212e0cd628ada8fc80faa4dfde001c32b95da9b9fc2aaefc610e93310ee0955"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/events.json",
@@ -2752,40 +2185,16 @@
       "textSha256": "74d69a629ba416a7580bf7e26c76c1b14b47c1025efffc622cf45c50386f2a6e"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/mechanics.txt",
-      "size": 361,
-      "sha256": "cdb944c3f5449a918cebd693254b0ab52c0fd3c351fcf70975bfcbda19e38306",
-      "textSha256": "297e089096cbaa3ae13780d18fdeb3430e4dc4233b0d65092181f45946f62d1b"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/modchart.xml",
       "size": 12695,
       "sha256": "a016134ed691ad353d25bbc6db814237fbc59e5011f32db5c08ccca0ee7334a0",
       "textSha256": "a016134ed691ad353d25bbc6db814237fbc59e5011f32db5c08ccca0ee7334a0"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/pause.txt",
-      "size": 566,
-      "sha256": "07f6f6c7d5281a8a5316b7a09a1824e84d97a76656f9354969748741697cc8e2",
-      "textSha256": "143601e8aefd79fe64dd60897eec1cc6ab4269b2dae116dad274624a0ce46eed"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/rosesDialogue.txt",
-      "size": 145,
-      "sha256": "17f7f516240958f236adbf0062a34443b1ccc70689534cb3a4ef4bd2ce264a3a",
-      "textSha256": "17f7f516240958f236adbf0062a34443b1ccc70689534cb3a4ef4bd2ce264a3a"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/thorns.json",
-      "size": 191091,
-      "sha256": "62e4c90a8b8644074c463d05e57b20a08afa854d69370f437eccadb3c719cc52",
-      "textSha256": "62e4c90a8b8644074c463d05e57b20a08afa854d69370f437eccadb3c719cc52"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/thornsDialogue.txt",
-      "size": 385,
-      "sha256": "59de582d99ae726e6fa86ec83997ef0282e60420da2cf9ffdb3c3fa2d007e9fa",
-      "textSha256": "ba36dd369102e4b06b208707fbe170068bb565c51dce7664c6456ada284f883b"
+      "size": 190574,
+      "sha256": "0fb1134ab9d23678f97899d91c75023d73a30299762654896ad06f801e868e18",
+      "textSha256": "0fb1134ab9d23678f97899d91c75023d73a30299762654896ad06f801e868e18"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/images/Characters/ms-fah-playable-dark.png",
@@ -3472,8 +2881,8 @@
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/sounds/failSenpai.ogg",
-      "size": 37223,
-      "sha256": "46a028dc3d88a28743f9e60869056c86080df97f988e4ca1f0fad1edd14f2934"
+      "size": 20473,
+      "sha256": "72043cc34ae2a7746a29ea750b5085d907dd798bedc28c4309f1da07604da4a2"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/sounds/hitsoundfahpixel.ogg",
@@ -3494,6 +2903,11 @@
       "path": "assets/Fah Mix/Basegame/Week 6/sounds/missfahpixel3.ogg",
       "size": 23203,
       "sha256": "0f4aef32d21f943ec5a827f90be70c856d4ee128983a69dbbbc3681965dfa610"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 6/sounds/raven talk sepia.ogg",
+      "size": 8571,
+      "sha256": "782e9a7e018da8d6c2202328aa0793118a2eb8f2ffaade7719800b48b6d385a0"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/sounds/senpai talk.ogg",
@@ -3521,28 +2935,21 @@
       "sha256": "f5489b17fba198738ff74df6b0071ef0c1c4078722b2d0e3d6c55be956b3eae5"
     },
     {
+      "path": "assets/Fah Mix/Basegame/Week 6/sounds/week6bargood.ogg",
+      "size": 13795,
+      "sha256": "94a9b9eeea5bb1a4356234839e5e7d1027a3808992288c93ee49571b8e892008"
+    },
+    {
       "path": "assets/Fah Mix/Basegame/Week 6/stages/fah-week6-b.json",
       "size": 181,
       "sha256": "37d4ad24832f8e44cfe99bd4b871f5f4d867bd8b7fd3b8139fb94e8d4eeecee0",
       "textSha256": "58d66bdf37c3fccaa732f08b77bc58c1ec05aaab5bbf2e7a1d363e0b8b5a2709"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 6/stages/fah-week6-b.lua",
-      "size": 6040,
-      "sha256": "0625bb447e28209a84694be19823ac826ee3d017357d1aae88a9199b5d9ecb00",
-      "textSha256": "deff87fabb5e2f9432d5f7f5492380dba8fd9cbb94175b6319173ba8f22e1a45"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 6/stages/fah-week6-c.json",
       "size": 181,
       "sha256": "37d4ad24832f8e44cfe99bd4b871f5f4d867bd8b7fd3b8139fb94e8d4eeecee0",
       "textSha256": "58d66bdf37c3fccaa732f08b77bc58c1ec05aaab5bbf2e7a1d363e0b8b5a2709"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/stages/fah-week6-c.lua",
-      "size": 1847,
-      "sha256": "1e2921d279b9b81c9e24a4104d828e21e836506c854aad55b2d8dbaa1e7ed7b7",
-      "textSha256": "1e2921d279b9b81c9e24a4104d828e21e836506c854aad55b2d8dbaa1e7ed7b7"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 7/characters/fahtank-playable.json",
@@ -3581,64 +2988,10 @@
       "textSha256": "52de06d752aef1bde38ce9f2b9fccb094f489ad3d4809695b9ec0eb4752ddd72"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/00-shared.lua",
-      "size": 211,
-      "sha256": "eeb5c9d2c2ff917addbdc0f928f68c7a7beca6345c97d466971cd80a43e6124f",
-      "textSha256": "eeb5c9d2c2ff917addbdc0f928f68c7a7beca6345c97d466971cd80a43e6124f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/01-receptors.lua",
-      "size": 5448,
-      "sha256": "cbcefb12b6b25eca6e6113277fa5e4b1d9b3dc0a42cfc7d61390cb0d7cb4b3ee",
-      "textSha256": "cbcefb12b6b25eca6e6113277fa5e4b1d9b3dc0a42cfc7d61390cb0d7cb4b3ee"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/02-intro.lua",
-      "size": 3896,
-      "sha256": "292b9d2854202babbda788f608d030b7e069097e21c2484c574798e8a95eb354",
-      "textSha256": "292b9d2854202babbda788f608d030b7e069097e21c2484c574798e8a95eb354"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/bleh.json",
       "size": 42765,
       "sha256": "4b1fa23b483d2ed7158ad6e058e346a43f7db1d85c51ce96274d7c37f3677d2c",
       "textSha256": "4b1fa23b483d2ed7158ad6e058e346a43f7db1d85c51ce96274d7c37f3677d2c"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/credits.txt",
-      "size": 206,
-      "sha256": "d29ea01dd7294bb6a1cf33c64e50a1a4885bee7b8f780d4d82e4423f5f0168ca",
-      "textSha256": "d29ea01dd7294bb6a1cf33c64e50a1a4885bee7b8f780d4d82e4423f5f0168ca"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/mechanics.txt",
-      "size": 173,
-      "sha256": "1f980dd1200fe5f9f3420f7ff1754bc9ada9b076da97bc24f4828d3a418f8578",
-      "textSha256": "1f980dd1200fe5f9f3420f7ff1754bc9ada9b076da97bc24f4828d3a418f8578"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/pause.txt",
-      "size": 384,
-      "sha256": "05ed9990d477f8562f54655f37081c24804d3577a29bd8fe17ee5f5b6894cc50",
-      "textSha256": "dc6bf1155532853786c56f98394192095a0e40522a9fd732c9bff10178728529"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/pews/04-gameover.lua",
-      "size": 703,
-      "sha256": "a7155c59808e1722bc3f5ba5ec087c095f0c1bf4dc8be48b546eb8cb510b68c8",
-      "textSha256": "a7155c59808e1722bc3f5ba5ec087c095f0c1bf4dc8be48b546eb8cb510b68c8"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/pews/05-hud.lua",
-      "size": 7642,
-      "sha256": "a58ec3bdd69833b68dc352746f3e768773ce0d9bcd08a1cfd917cfbca09b559c",
-      "textSha256": "a58ec3bdd69833b68dc352746f3e768773ce0d9bcd08a1cfd917cfbca09b559c"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/pews/credits.txt",
-      "size": 209,
-      "sha256": "6e694fb087995542f2d102652f266b49d06e138f75a017825f43036cd152b52c",
-      "textSha256": "6e694fb087995542f2d102652f266b49d06e138f75a017825f43036cd152b52c"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 7/data/pews/events.json",
@@ -3647,46 +3000,10 @@
       "textSha256": "9f69f6bd9557d317961b37b2bd25ce2802bed1f7059bb9306e6cb065bb254c37"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/pews/mechanics.txt",
-      "size": 173,
-      "sha256": "1f980dd1200fe5f9f3420f7ff1754bc9ada9b076da97bc24f4828d3a418f8578",
-      "textSha256": "1f980dd1200fe5f9f3420f7ff1754bc9ada9b076da97bc24f4828d3a418f8578"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/pews/pause.txt",
-      "size": 239,
-      "sha256": "173e5153ebdabdd0d19310e642f58185b30d5e3087b7db2caf248f911e7db397",
-      "textSha256": "c15999693a447626ed1bcd69ca1194382842857e031c49ff8b45d5e8dd0f577d"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 7/data/pews/pews.json",
       "size": 95844,
       "sha256": "64c056fc7d9372f933eae7b1c2e20770676b3f9fe15f2db3f59499989a9cd746",
       "textSha256": "64c056fc7d9372f933eae7b1c2e20770676b3f9fe15f2db3f59499989a9cd746"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/stress/02-intro.lua",
-      "size": 18962,
-      "sha256": "90fa661e2c29289d637a1c64c3e8cd2a8b7acb8edccc20278d2877844e060dc4",
-      "textSha256": "90fa661e2c29289d637a1c64c3e8cd2a8b7acb8edccc20278d2877844e060dc4"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/stress/credits.txt",
-      "size": 226,
-      "sha256": "449f0a5a59062f4c553baece6fc6a03dfdb9cb2ba75139fdbfd73bfc07bb7672",
-      "textSha256": "449f0a5a59062f4c553baece6fc6a03dfdb9cb2ba75139fdbfd73bfc07bb7672"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/stress/mechanics.txt",
-      "size": 589,
-      "sha256": "f75b63029c4e7a31bd54bca0e2a051d7a330296cffdc8f35304f63ebdfb6af1f",
-      "textSha256": "f75b63029c4e7a31bd54bca0e2a051d7a330296cffdc8f35304f63ebdfb6af1f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/stress/pause.txt",
-      "size": 296,
-      "sha256": "6ce406d0269b76e49b2ac07a9fb5a13734504c372bdd30d5ce0288e5cfc0a5b4",
-      "textSha256": "2f7da26206d711582d59ece8b173c30a3271c8d5d7bd2bd83cce19a45a09bed5"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 7/data/stress/phoenix-blow.json",
@@ -4267,9 +3584,34 @@
       "sha256": "63ffbc141a2d0ff0b7105af02b92b181efa7c57ba044da971eb41f7f30b765f7"
     },
     {
+      "path": "assets/Fah Mix/Basegame/Week 7/sounds/gunmiss1.ogg",
+      "size": 32299,
+      "sha256": "10603d99cfe56055861902b760dbb86dca7d30a44e023f618ac7fbe2cf4e1c13"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 7/sounds/gunmiss2.ogg",
+      "size": 25536,
+      "sha256": "53fed293f9563b3c54d10a072230b3f6e5fffc1ce0d2e4856863ed162ed95eca"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 7/sounds/gunmiss3.ogg",
+      "size": 22621,
+      "sha256": "4aa3edb68439765e614bb771b3d0280f9d41619cf3d9da63bb073b1ffe1bf865"
+    },
+    {
       "path": "assets/Fah Mix/Basegame/Week 7/sounds/Stress Intro/klaski-rompe-fah-mix.ogg",
       "size": 486636,
       "sha256": "7ed8daff279f4871bf4498c88768e4c0bc60b5351be105eec0dfd54053ae4f0e"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 7/sounds/Stress Intro/ravenstep1.ogg",
+      "size": 22470,
+      "sha256": "410a8355f87ad0e9df5b6e2774fe89f5475170ed435203cee897903c507fc537"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 7/sounds/Stress Intro/ravenstep2.ogg",
+      "size": 27416,
+      "sha256": "3f185d674a1f139a05533de3614a6186d38570393c2c48d2f9e2e3008aef99e7"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 7/sounds/Stress Intro/stress-besties.ogg",
@@ -4288,8 +3630,13 @@
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 7/sounds/Stress Intro/stress-snap.ogg",
-      "size": 10863,
-      "sha256": "aa14dcd58fdd3e26f25b112c423a48f4660b4f964fe63a1c74747b19fd7c5ce5"
+      "size": 24606,
+      "sha256": "912ce22764982bd4fcc8ae354bc1fada7b0d9a5c88668dfdf09ed80f4afa6232"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 7/sounds/week7sticker.ogg",
+      "size": 22147,
+      "sha256": "bab26c7e3550d6fd0b28e265ef3461c6544320376b340ff7bdcb31d2bc9ae305"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 7/stages/fah-week7-b.json",
@@ -4298,46 +3645,16 @@
       "textSha256": "91bda2f077079467ac63dd2c903078f2143023fed323c75666fe7e90698789ef"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 7/stages/fah-week7-b.lua",
-      "size": 24243,
-      "sha256": "346c09ae3dc664102808f7fa1a776b22d8d8d1a9fb1557a06e1f90e57e75ede8",
-      "textSha256": "346c09ae3dc664102808f7fa1a776b22d8d8d1a9fb1557a06e1f90e57e75ede8"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 7/stages/fah-week7.json",
       "size": 181,
       "sha256": "bb2d340566becfa8dbd2a7a5845ac02acc8c9da7fa1c1861c3b9fe375907293a",
       "textSha256": "91bda2f077079467ac63dd2c903078f2143023fed323c75666fe7e90698789ef"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 7/stages/fah-week7.lua",
-      "size": 5401,
-      "sha256": "bd849e76f2e241005e7ad4327dd9b21302c5f552508c18642bf4486fede14590",
-      "textSha256": "bd849e76f2e241005e7ad4327dd9b21302c5f552508c18642bf4486fede14590"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Weekend 1/characters/darnell-fah.json",
       "size": 3258,
       "sha256": "b4a87b8310249734fc1863925ad7e50dd0ef48b28baeae19a1a884e13c50624f",
       "textSha256": "b4a87b8310249734fc1863925ad7e50dd0ef48b28baeae19a1a884e13c50624f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/darnell/01-hud.lua",
-      "size": 7994,
-      "sha256": "a2a46f448362441d109466c6d9a416c19cc68daf483aae3c6a348f3794d5b8fe",
-      "textSha256": "a2a46f448362441d109466c6d9a416c19cc68daf483aae3c6a348f3794d5b8fe"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/darnell/02-bear.lua",
-      "size": 6875,
-      "sha256": "e89247a7ed3db141605ee27251dc3d654825808e84856ea35f342b45f88de1ea",
-      "textSha256": "e89247a7ed3db141605ee27251dc3d654825808e84856ea35f342b45f88de1ea"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/darnell/credits.txt",
-      "size": 187,
-      "sha256": "dfc8899e6b1496027a3f4de425110181382bacdcaa1dfb6f64113c99813b3801",
-      "textSha256": "dfc8899e6b1496027a3f4de425110181382bacdcaa1dfb6f64113c99813b3801"
     },
     {
       "path": "assets/Fah Mix/Basegame/Weekend 1/data/darnell/darnell.json",
@@ -4352,64 +3669,10 @@
       "textSha256": "51c465233a3fb37c6a88088e891c645699959e399b334241bdad56198e04edc9"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/darnell/mechanics.txt",
-      "size": 54,
-      "sha256": "2076c37bdb0b319b52599d301544b0add2e8930e587539bce28fcc52366e8ff6",
-      "textSha256": "2076c37bdb0b319b52599d301544b0add2e8930e587539bce28fcc52366e8ff6"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/darnell/pause.txt",
-      "size": 277,
-      "sha256": "b31ffcf1577e5d59f18155c41ec6e7d3dd1badef2e053e7635e91763b1bc135d",
-      "textSha256": "8aae689abb4c4cec9b018fe406d7b0513fd59f5a3c89a458eaf1cdac8e2c8262"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/01-ending.lua",
-      "size": 822,
-      "sha256": "ca6bca2fc4adb6f63f80549e95bd8fe39cd7b29cbf359913485857d1b1939743",
-      "textSha256": "ca6bca2fc4adb6f63f80549e95bd8fe39cd7b29cbf359913485857d1b1939743"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/02-logo.lua",
-      "size": 1093,
-      "sha256": "ec5af706d3a3fc6ef666d198a3eb7b88bacfc60fce1dc0ae384ad72d79ab6977",
-      "textSha256": "ec5af706d3a3fc6ef666d198a3eb7b88bacfc60fce1dc0ae384ad72d79ab6977"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/03-cinematics.lua",
-      "size": 828,
-      "sha256": "6dcfffe5ac51972892eefb784de1fea08d78940783118d3efe500aa57d2ea0c5",
-      "textSha256": "6dcfffe5ac51972892eefb784de1fea08d78940783118d3efe500aa57d2ea0c5"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/04-actors.lua",
-      "size": 12324,
-      "sha256": "c28ebd424d19cbb296ab946bccb678412d3e6412ee8324d08f2025bbd499ac14",
-      "textSha256": "e68cded3573df6038a1f23d274e2830fdde7bcb2813fbdf522496c478aa4e775"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/credits.txt",
-      "size": 184,
-      "sha256": "6894514617317a825772617035795a4db8616914056c18e6c4fccf3dc9c56eb6",
-      "textSha256": "6894514617317a825772617035795a4db8616914056c18e6c4fccf3dc9c56eb6"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/lit-up.json",
       "size": 60369,
       "sha256": "6b72680660f917ef272ecea8a1d7ec186ace07f3087368499531045281cd2b4e",
       "textSha256": "6b72680660f917ef272ecea8a1d7ec186ace07f3087368499531045281cd2b4e"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/mechanics.txt",
-      "size": 36,
-      "sha256": "56ff3475ac71e380933c650e2fab457121033d4b4d5b4574b6e21f410e276f3a",
-      "textSha256": "56ff3475ac71e380933c650e2fab457121033d4b4d5b4574b6e21f410e276f3a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/pause.txt",
-      "size": 210,
-      "sha256": "f3957f993f4e117e4614bae266c617bd5b20f3e33bbd8ee9654828c2d62675c7",
-      "textSha256": "cf980f6a1e0a68c044185d18f5a48708599c56c18c923b1b3cd415195952346b"
     },
     {
       "path": "assets/Fah Mix/Basegame/Weekend 1/images/Characters/darnell.png",
@@ -4782,34 +4045,34 @@
       "textSha256": "6eae9ec1f65192a2f2d1b073758afebfed6e155db7bfec7cbbe7bb3d97ca5dc5"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/stages/fah-weekend1.lua",
-      "size": 3308,
-      "sha256": "bf7a1d6a80353b0792be334bbf642599ecef3e6f8410fd923ccf23e9b1d8757f",
-      "textSha256": "bf7a1d6a80353b0792be334bbf642599ecef3e6f8410fd923ccf23e9b1d8757f"
-    },
-    {
       "path": "assets/Fah Mix/Beta Bundle/characters/botfah.json",
-      "size": 1829,
-      "sha256": "2fb78db9e2e231631f4b8bad1185f5c2c5e9272d80d8552b1b1f12f4ef154c07",
-      "textSha256": "2fb78db9e2e231631f4b8bad1185f5c2c5e9272d80d8552b1b1f12f4ef154c07"
+      "size": 1735,
+      "sha256": "31e72f7d33cc24686d510d3ba695b42ed784c9b536910046b040a0ebd0af808b",
+      "textSha256": "31e72f7d33cc24686d510d3ba695b42ed784c9b536910046b040a0ebd0af808b"
     },
     {
-      "path": "assets/Fah Mix/Beta Bundle/data/credits.txt",
-      "size": 306,
-      "sha256": "1817afa7add59b5a0d3bc55e1c55623c44fe1ddbc1cf02181de74a4838f4e24f",
-      "textSha256": "acf7276498de05c4ca98bb406386715e2a139824dba51e2b0455181be4a9e5f3"
+      "path": "assets/Fah Mix/Beta Bundle/characters/robot-fahger.json",
+      "size": 1874,
+      "sha256": "051caccfd2df8ae8bf27964b2eb6fc1d4afdeaf22c514238adcd733fbd4e3b2c",
+      "textSha256": "051caccfd2df8ae8bf27964b2eb6fc1d4afdeaf22c514238adcd733fbd4e3b2c"
     },
     {
-      "path": "assets/Fah Mix/Beta Bundle/data/pause.txt",
-      "size": 235,
-      "sha256": "befa37c548d4b8114d3ac146770212ba413be9961edb5903f27c4868f15aa6db",
-      "textSha256": "befa37c548d4b8114d3ac146770212ba413be9961edb5903f27c4868f15aa6db"
+      "path": "assets/Fah Mix/Beta Bundle/data/ridge/ridge.json",
+      "size": 36357,
+      "sha256": "d85f26063b9ab8125f27b9b5ec7541e4617867a135b422f26f8bb763bb2cd576",
+      "textSha256": "d85f26063b9ab8125f27b9b5ec7541e4617867a135b422f26f8bb763bb2cd576"
     },
     {
-      "path": "assets/Fah Mix/Beta Bundle/data/test.json",
-      "size": 96070,
-      "sha256": "5fa5b83fb1ed8bb27e984bcec6545780c88a1bb6e40a1b08bb75a8193b0390cd",
-      "textSha256": "5fa5b83fb1ed8bb27e984bcec6545780c88a1bb6e40a1b08bb75a8193b0390cd"
+      "path": "assets/Fah Mix/Beta Bundle/data/smash/smash.json",
+      "size": 52505,
+      "sha256": "0679cec3560844c79892ea0c4646bd052e4fbe5ef8bc501c899330673d4a8488",
+      "textSha256": "4d7f5bfc914d97ecd18b7760d430e666b7e4a7fced496a572dc29bc40615dc66"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/data/test/test.json",
+      "size": 96334,
+      "sha256": "97e3efbe9d6db9c87bc689eba4d2fded47b4f98c5173f51bb3a56e4cef2fe39f",
+      "textSha256": "97e3efbe9d6db9c87bc689eba4d2fded47b4f98c5173f51bb3a56e4cef2fe39f"
     },
     {
       "path": "assets/Fah Mix/Beta Bundle/images/Characters/botfah.png",
@@ -4832,6 +4095,39 @@
       "size": 2331,
       "sha256": "414157b21b640715cf8308599aa12ea61ee79d58c6b015427eb3e02a4af7fa7a",
       "textSha256": "49f6f3b4c469d88e901336601eae7a52f7ca5c5ba390ef1b0b7b17ee73393607"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Distractions/ridge main.png",
+      "size": 1153499,
+      "sha256": "91fcbffcb4facde995890b88f5058abca6c9f84648a92b81adcdade5f6220552"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Distractions/ridge main.xml",
+      "size": 675,
+      "sha256": "608482f091d47eeaf9d2598341aa8aa2714f3142660cc37ac234545fedc335bb",
+      "textSha256": "7078e945fae74bdc205f8fc0eef5c844643ec79f2865a355540751f79e11a659"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Distractions/ridge second.png",
+      "size": 1471126,
+      "sha256": "c45c10a0f6f648ea8d73f8b62922c79526e975a5a473543d60ac713d51b60bc1"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Distractions/ridge second.xml",
+      "size": 677,
+      "sha256": "6bdcfec48d85480b88388df6e6505d439f27f08261d1bed240e2c78c7f7cd993",
+      "textSha256": "edc948088bc2014458c8d4be85e48827a673067d2de1baac983ee1a32118d8b3"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Distractions/smash.png",
+      "size": 3450498,
+      "sha256": "5a09a9c3a12cdac55def42723ecd9bd3e190f7e1b6081f7c6b71eeb99e48dfab"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Distractions/smash.xml",
+      "size": 2932,
+      "sha256": "c28259a2a46c5c61681de27d49893bf6f74bf7d286ed8607cad2813313b40f3f",
+      "textSha256": "79f74266effdb14130ad1c0503d9bb0b245d7c802349840ea9107ef7f48e3f5a"
     },
     {
       "path": "assets/Fah Mix/Beta Bundle/images/Hud/metal-notes.png",
@@ -4872,22 +4168,194 @@
       "textSha256": "a8bb13c8ad7a93a922120447c9d290bfe1cd30fa665f5d37cf75a88a5aedab0e"
     },
     {
-      "path": "assets/Fah Mix/Beta Bundle/songs/BF.ogg",
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/fahlowers robor.png",
+      "size": 643289,
+      "sha256": "9bd1bc434e8a4dd8ef75fc43624aa4c4eb6161b899d8a897d33c70e8a1f5f460"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/fahlowers robor.xml",
+      "size": 2033,
+      "sha256": "5dc8af4ace477f37ebc40ac83078a11e7c0954681ce02c4f8fcbf24d85e75075",
+      "textSha256": "8ef796b9af92a1b75e0c7bc9d714d34b767bb6a4b359b2d841e838eac77a838f"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/fog overlay.png",
+      "size": 596153,
+      "sha256": "5dff0eeaef1906fc70a44942415b982364b911b83b2006d71bc08a9646d4a8b2"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/fog overlay.xml",
+      "size": 953,
+      "sha256": "a806b4e9a4897b0c3812beaff321730fe7b539b2a3450bf34dbf801ee536a728",
+      "textSha256": "5e18e49578989e1e993d3f8b3c5b70872943b5cf92b3dc995d2777f8dfe157e9"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/front-grass.png",
+      "size": 644561,
+      "sha256": "c582918b73e0760e3683e54832a879c71996fd2b3026282ccb69c74e16585f54"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/front-grass.xml",
+      "size": 960,
+      "sha256": "a3c8318ea40add935f62f1376da300c68825869a8d541111d453491ff813c9d3",
+      "textSha256": "2c526155c09031e922860dde2049e52c345395a54c84e2f84ec03fca1d788765"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/hang people.png",
+      "size": 478095,
+      "sha256": "b2f6ee5edb55a0925ff3b8d41450588e5f69cc17dec9326f899fab280f4c277b"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/hang people.xml",
+      "size": 521,
+      "sha256": "4a4eb770d5ac186c06b50804b04a1565f4dad79503c9fdf46487a4a0cec8212b",
+      "textSha256": "2ac9c77099f48da79089e3c00e62fba9297b2dd293e000478dc7cd24b57224fb"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/long-floor.png",
+      "size": 1807185,
+      "sha256": "400426cdd79608ed18639d3e07b6788b242e8bc406d856e93fdad8f0f59da13e"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/long-floor.xml",
+      "size": 1104,
+      "sha256": "7c8209ca1f960f442ec5cb7e8488aea7c3b75c9bc3b171019eee9491464a2973",
+      "textSha256": "dbb9e51f1f2a6e60f24e2811f55d2166579d4183ec8f2e7912f62fff888cb0c1"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/mamas.png",
+      "size": 1881528,
+      "sha256": "13f99d201c08518ab8235f9492cc92e7842dd118bc30147eeab23ab55d1686d3"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/mamas.xml",
+      "size": 1838,
+      "sha256": "f43fdc27a75fcb5eda83796c80cf5c79536800a31cc0c4e76b7f4b2fc5dcb95c",
+      "textSha256": "6c1e6a88202d7a3265ca6266549a3312544e76464622872f82b78c6baa9418c5"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/middle sun.png",
+      "size": 532754,
+      "sha256": "89cc968ad61ed563529d23bdeadcbe6fc4dd1cdfeaf81c6b3eab30bf72ddc338"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/middle sun.xml",
+      "size": 828,
+      "sha256": "7ba426590fed8117ecf99d952cadb9589cba7b2d202e5529b41fefff6f7ca8ec",
+      "textSha256": "c8c82363715ece5ee400c60333589cc6edc8b79967bfc0eabe1ac96706234dc0"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/norm floor.png",
+      "size": 810507,
+      "sha256": "4d7c3cc0d977c51067cbc2d0fb123f0d1136233937135c9d274459b7ef4a2c3a"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/norm floor.xml",
+      "size": 528,
+      "sha256": "60cd767005d276ec6d3d07d85f38d950796cc361a681025d2a273788cbe28562",
+      "textSha256": "23067adf716e3a728917eb9adcd0b85412165cba7e1946d4668a18e65bb62ce0"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/pipe.png",
+      "size": 950452,
+      "sha256": "bbfb6e412ccf164d4f741059042c8d27a5269e0351fe21a59bb057532904ec09"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/pipe.xml",
+      "size": 1365,
+      "sha256": "522ada972491111bc6421da9db2ab1d01b4f32f03549e07cb0464637d51c4aa9",
+      "textSha256": "ca22dc9f78d6863d2fcbd07b80b60ee23cffc2b09f5286e23847f05d0bb4cdc0"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/ridge-logo.png",
+      "size": 78021,
+      "sha256": "68ae86783e3348113776c9d8c20a1d40c213f5122b4bf3589e594e6fcfd5d3dc"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/robot-fahger.png",
+      "size": 2601738,
+      "sha256": "68d7f4c9dd88ac14688a59117a02d3d6c05826471f7f70bd90b89f895866832c"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/robot-fahger.xml",
+      "size": 3063,
+      "sha256": "e125da74ec011032e99ea493375e10e8f714a94240bbdbd59f9171f1c3baa59c",
+      "textSha256": "cc598946f3e8335bd126831ff3ca98e0ec970a0184de0a3da030662ca16387f3"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/robotlower-short.png",
+      "size": 233046,
+      "sha256": "b900274a4b46f741c25fb77bb39537d15c7a7cb21d3dba7bfec3607b4c238970"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/robotlower-short.xml",
+      "size": 998,
+      "sha256": "179fb46905522f9d7e70768c8081a2e158439e611a276935534d9fb896449696",
+      "textSha256": "10f17bfe9a936915c926896bd85e8aea48e22098931a1f085adc660cb9a4939a"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/smash-logo.png",
+      "size": 77171,
+      "sha256": "11ec13e3e87aa38b8809201ea6b39039a4355847122a8b2371fbc6737a652866"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/tall flower.png",
+      "size": 362318,
+      "sha256": "7b7685b1a1610072bfd7c233bcf34345a8ba9af7422d62d626ed79d02bde9681"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/images/Stage/tall flower.xml",
+      "size": 961,
+      "sha256": "be062ee61436c77b6ec58c9c498dc697c50b44ae948ad2a9a02f794bcd270dfd",
+      "textSha256": "f1d3607088733a9f48d2aae14c7e5efc5bdba44ceb994436da286ca5beaf6431"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/songs/ridge/BF.ogg",
+      "size": 2245172,
+      "sha256": "1b3743efadd4fd7038734ea4743a61b9cb448fe27a672ea4bbaede510b74b473"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/songs/ridge/Dad.ogg",
+      "size": 2047415,
+      "sha256": "dade02dcc8ffc851dd85d28dace4970772df45836554f0cc7a3a758e7fbe4ba0"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/songs/ridge/Inst.ogg",
+      "size": 2684805,
+      "sha256": "6d1f1cac4d961b7b6cf808ab4d9b9b2b4715b89ff9d171d718c2fe767a4d8c75"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/songs/smash/BF.ogg",
+      "size": 2359498,
+      "sha256": "a674ce59c5139f02d0b9d26046674e84e01e6e21c604b7e6a4725eaecf6b54b0"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/songs/smash/Dad.ogg",
+      "size": 1965299,
+      "sha256": "004585116375459beec186a1054b1a68b3207bee7a62317c4bf5b04637efc719"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/songs/smash/Inst.ogg",
+      "size": 3255835,
+      "sha256": "1a8619606f824e5a5578a09fadee79997f4f16c4eb5bcc267b36f9d683620e9f"
+    },
+    {
+      "path": "assets/Fah Mix/Beta Bundle/songs/test/BF.ogg",
       "size": 3105150,
       "sha256": "1600fa462699f5da7bace9d13963b5b9944381bf8ce800dc8dd889f898769843"
     },
     {
-      "path": "assets/Fah Mix/Beta Bundle/songs/Dad.ogg",
+      "path": "assets/Fah Mix/Beta Bundle/songs/test/Dad.ogg",
       "size": 3582315,
       "sha256": "bf25ac538ca1e2be395dcb2dc5e729118d5eec83c93cb4bfb17199be49f781a8"
     },
     {
-      "path": "assets/Fah Mix/Beta Bundle/songs/Inst.ogg",
-      "size": 4165805,
-      "sha256": "09c7e59e5374ec0c6fa9d9e14080507aa04026c85d26978d1d6f4a31c4079fe8"
+      "path": "assets/Fah Mix/Beta Bundle/songs/test/Inst.ogg",
+      "size": 4162578,
+      "sha256": "038f4fa1d5a28aeeb83ae91b615d94e9e0ac2ba662e190a3b1b90394bf0bca71"
     },
     {
-      "path": "assets/Fah Mix/Beta Bundle/songs/Voices.ogg",
+      "path": "assets/Fah Mix/Beta Bundle/songs/test/Voices.ogg",
       "size": 4733618,
       "sha256": "0c2386faefde4deb11303d61728205623311e888bd3d67fc8cf4860f8f37dde2"
     },
@@ -4902,16 +4370,15 @@
       "sha256": "bd1fd95ac2c12dfcd4e85f196315006a4999f5a67d661e07b3113201e2f19dfe"
     },
     {
+      "path": "assets/Fah Mix/Beta Bundle/sounds/metalnote.ogg",
+      "size": 52554,
+      "sha256": "1d9b0aedafd6a9cfcac137600fbd7fdf5f2e6ad5d259168587aa72f3b72afdf6"
+    },
+    {
       "path": "assets/Fah Mix/Beta Bundle/stages/test.json",
       "size": 170,
       "sha256": "8c20ee92afac77dcef2a9fc50a28823ea97488bbb113ecb7dfb856430772aa4a",
       "textSha256": "8c20ee92afac77dcef2a9fc50a28823ea97488bbb113ecb7dfb856430772aa4a"
-    },
-    {
-      "path": "assets/Fah Mix/Beta Bundle/stages/test.lua",
-      "size": 3562,
-      "sha256": "6b0a00bc7502fc13d7d02ba7a6b820710a91a90a6c43425956e76c8a6e824a5c",
-      "textSha256": "a97a89cf87659f6fb42ba1ef5072253570b65d0c383b217dc5c8affbcf43e883"
     },
     {
       "path": "assets/Freeplay/Common/characters/aom-bf-gameover.json",
@@ -4930,258 +4397,6 @@
       "size": 2543,
       "sha256": "5f128f9dce7f70ead29dc189537906eacd0717429c395e81eba7b4de7c814e11",
       "textSha256": "95165d7745426892d11385b6e2e3057c2a497b55f476be8a911f8b0a66a74468"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Biter.lua",
-      "size": 7075,
-      "sha256": "83519bbeaec3ccd8c039151e4239cf4b6a36c5ad152b22064501d5685d41fcd1",
-      "textSha256": "83519bbeaec3ccd8c039151e4239cf4b6a36c5ad152b22064501d5685d41fcd1"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Biter.txt",
-      "size": 87,
-      "sha256": "919d13f752769ef17f7f424b10cd846805a98fe0acb295033acc60672dd7a42b",
-      "textSha256": "919d13f752769ef17f7f424b10cd846805a98fe0acb295033acc60672dd7a42b"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Camera Beat.lua",
-      "size": 1506,
-      "sha256": "daa4877da91f52a295c90903b109dd2ad092d9f3000f0e919e7dabafd4327bdb",
-      "textSha256": "d505332a3438dfe00bb549e193562997aae32fe636307af872d8d31042c405de"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Camera Beat.txt",
-      "size": 46,
-      "sha256": "b23337789be36ff30fc3c0c0e10c493a0c98b8243e62832a8fa8032eede658ec",
-      "textSha256": "b23337789be36ff30fc3c0c0e10c493a0c98b8243e62832a8fa8032eede658ec"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Camera Set Target.lua",
-      "size": 650,
-      "sha256": "cb49c4575473fc479d91b3d00e9ec84c776d337a47eee3af6b1c7917d5fce9f7",
-      "textSha256": "cb49c4575473fc479d91b3d00e9ec84c776d337a47eee3af6b1c7917d5fce9f7"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/CameraControl.lua",
-      "size": 3368,
-      "sha256": "7bdc72de3a013bb7f2fe81bb30f5ad157c52557edf265d0fb8a44c87afad7c79",
-      "textSha256": "3eecae64c19d58a55f7f739ac99cf81e26b45942c3fa2508773b9aca832446f4"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/CameraControl.txt",
-      "size": 324,
-      "sha256": "9c03517b9ee34e7d13770c2503bde27dc6137fe3d4fcd032ff7a562174fb4ca5",
-      "textSha256": "45a3abc43e7e1afa315bb0d7585a17e27996465680d678bacd503f2f18100c19"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/cameraZoomerios.lua",
-      "size": 481,
-      "sha256": "996000324525293483a0a2e07b5cbcfbc8405a4d39d75ef78ab5b3732e5bb746",
-      "textSha256": "83f79ecd230fee9ecbbb23fa21b06054fd8b91c92a6cc128bb35228dc97c84db"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/cameraZoomerios.txt",
-      "size": 108,
-      "sha256": "4581f6348f37469bb86c22602717ed6d2f2734bbcee3177006d61fa9221d5677",
-      "textSha256": "fb04640379771dd07a056e734db3ae8e40c10aad1a9afb75e4ffa234a69b02ca"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Cinematics (Fah).lua",
-      "size": 3960,
-      "sha256": "daa027036701253d5401d224728ac7bc484955fc4cdb0109e460d6a626f0d1a4",
-      "textSha256": "cc472b1c540d8838ee5679040f5a5e483bb4c6886482dafc50dc701e0b432629"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Cinematics (Fah).txt",
-      "size": 295,
-      "sha256": "1084899fe46843b4534dd2174178f716c38a32e12039364cfb97efb1b4fe4867",
-      "textSha256": "1c45ebda189fd5bcc24014f0c897a54a54cd52fe4d23ed85a0e195d6a90f4db2"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Cinematics (Still Strum).lua",
-      "size": 4947,
-      "sha256": "101562b0127daf622edc2176ceab10c7ebd680639a40deda7ad0e252dc986e43",
-      "textSha256": "a612210260644c7083d5af0cebfb4d46c9c8933931d3aca20975031eaf488c95"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Cinematics (Still Strum).txt",
-      "size": 295,
-      "sha256": "1084899fe46843b4534dd2174178f716c38a32e12039364cfb97efb1b4fe4867",
-      "textSha256": "1c45ebda189fd5bcc24014f0c897a54a54cd52fe4d23ed85a0e195d6a90f4db2"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/fahbattle-spotlight.lua",
-      "size": 3986,
-      "sha256": "00b51093a007dafa30a5a53884a2b65598f1905d946603e71d7b46d4610adc5d",
-      "textSha256": "1785747c8724ab316776129434c8062908c0886e69a8e67eb32a5bddc6073127"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/fahbattle-spotlight.txt",
-      "size": 32,
-      "sha256": "f85623e25490c28a9855dfdc35f9b842f8e53d4ea3ce35c6230c3239d7f5ae21",
-      "textSha256": "f85623e25490c28a9855dfdc35f9b842f8e53d4ea3ce35c6230c3239d7f5ae21"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Flash.lua",
-      "size": 951,
-      "sha256": "aeec06cd1a05d8de99bf16ad85113cf30c2f46fe0b27bd4a5349c6ec6bd9b12a",
-      "textSha256": "09dd1120ca093b4476bd124c4c9e155c8e97fad2e2290718ace59114078f0c6c"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Flash.txt",
-      "size": 156,
-      "sha256": "05da8d5c64b848d000fb93048f75a92db9c60b7d49cc416700735300013def69",
-      "textSha256": "53089bad8e4c517f3f89fa760b2ec96931e3886283ab4e2677b3da5c0d18358a"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Hud Fade.lua",
-      "size": 1027,
-      "sha256": "ffd5f54064d75c1b638ff4b88a109b82f2d9032c92aa3e53d52b7732866268b8",
-      "textSha256": "770fb4f8d21dfb74ab2217d7b7002c0d82a19117b7edb2bc2712993d5e43bd2f"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Hud Fade.txt",
-      "size": 110,
-      "sha256": "1394ebce5472ee70f4b31d6751247a5f717d9675580cde514023c6bc7f8e789a",
-      "textSha256": "43a99dd223c33759404ff5ec8bab017d6e351a3830d56b17979b28e5fb808eb3"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/HUD Zoom.lua",
-      "size": 310,
-      "sha256": "4d2b74ca5825655080e531077d21f490f67150ca100fab91a8a70c8692d29754",
-      "textSha256": "47595184dabda65f9ca76353ec6dd4958fdb170d51700ced938bcb25c511a7e3"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/HUD Zoom.txt",
-      "size": 205,
-      "sha256": "4700163fd9c01a33452c8333f6033364ee6c46181b1907fb7e4f0d7ab64ce012",
-      "textSha256": "01e3e13c3031a7d270ab63a4ad0f9014cb94b1535e70d4c0b52474816583c110"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Kaboom.lua",
-      "size": 1586,
-      "sha256": "0b043cb543aadabd17eec45301e96313ea82b88058092cc1d3f16a3778c1352f",
-      "textSha256": "51a62300fdca6eaa6606ab6287df96b201bdeba9dee4356bcf81dd306ab20028"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Kaboom.txt",
-      "size": 32,
-      "sha256": "b837b89fd4ce5ec9850d6a31cf581ec3aa1d3850864a76c8eb783363a24afca0",
-      "textSha256": "c75468251b71ae7d9671c326ee5f120cf618f3a6cd4208473fb04b2ceefe0bf8"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Lyrics.lua",
-      "size": 612,
-      "sha256": "8eead7d668aa58d57fdf7bc9948888f4bbf2c0c7a13c8b9d15dc9bdbeb34abf5",
-      "textSha256": "8eead7d668aa58d57fdf7bc9948888f4bbf2c0c7a13c8b9d15dc9bdbeb34abf5"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Lyrics.txt",
-      "size": 132,
-      "sha256": "6e5a2937ecaac94aea27bac869f56c23ee2c099995d6b044f5eca91b2162741f",
-      "textSha256": "6e5a2937ecaac94aea27bac869f56c23ee2c099995d6b044f5eca91b2162741f"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/NoteSprites.lua",
-      "size": 3078,
-      "sha256": "41ce781b976523d6a1412dbc3c293acd91b3ba75af5543896d959a9cd91df00e",
-      "textSha256": "5d9d9a672e59559c8735ddbf6a50ddb3d4ded86355cada68ce50bcb0679b3437"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/NoteSprites.txt",
-      "size": 37,
-      "sha256": "f63f1d9239f2bc93df84e7a68a748218d329bba9024bd3e4646aef0a15210190",
-      "textSha256": "27c79010cf47a08f7b16f49a5930876fd1365317093802b42b0f4ed064b86efa"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/pop-ups.lua",
-      "size": 11125,
-      "sha256": "b8e199d0bd7905dad98d3b424a0941dbf14c0e73134365256cd5c7c46a78be26",
-      "textSha256": "b8e199d0bd7905dad98d3b424a0941dbf14c0e73134365256cd5c7c46a78be26"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/pop-ups.txt",
-      "size": 90,
-      "sha256": "34a272e24eac0a16eeef18526beec02f5c71e4bd65e090d186ce782f6dcee7b8",
-      "textSha256": "34a272e24eac0a16eeef18526beec02f5c71e4bd65e090d186ce782f6dcee7b8"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/ScreenRotCam.lua",
-      "size": 198,
-      "sha256": "f986e3e9947c1f3f59b270850e499033c2884683ec9768aa90164439dd8153d8",
-      "textSha256": "394cfec2c0a98c94e9bc101c49febcd4dce610967da7ff80e4c395a8fe7d50a8"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/ScreenRotCam.txt",
-      "size": 29,
-      "sha256": "892f9e78c880f6a22a1421d3f4215273c6e12a6c839c9a9d883904e30bb3ef64",
-      "textSha256": "03503e63998d4fdf3b53ecf1058e9e3f74074e1e6db349a06536cad6c01cdd8e"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/strumbounces.lua",
-      "size": 7532,
-      "sha256": "3d937581466d2e5d7d43e21a76323b38a3bad34a5a97b2391a397b6355c66409",
-      "textSha256": "3d937581466d2e5d7d43e21a76323b38a3bad34a5a97b2391a397b6355c66409"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/strumbounces.txt",
-      "size": 49,
-      "sha256": "8a015fd421690290286d35ef01a31e939a251fdb833765cd12196bd28d0b7f67",
-      "textSha256": "430a7de697cc729762c2ecbcec2577376f9c0d1f98b9c788d20ac38037d6ca68"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Subtitle.lua",
-      "size": 6412,
-      "sha256": "8fc28d45ec3a7c9e396845e27feacedbaa7126a9c15dc78304344627eac264d2",
-      "textSha256": "086a3a2e940197f74117d08cfba56670e79d1e96dfdc9b42481b3cf57b63f0a6"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Subtitle.txt",
-      "size": 47,
-      "sha256": "971c76e409d0ba0e7be1fc035c2afa6c62138d48345e951a4fd84c4ffcb6d6ee",
-      "textSha256": "63a6e86dd408c09a7301a760dc08335cec8326c1f56e0dcfae470acd090e8925"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Toggle Trail.lua",
-      "size": 3429,
-      "sha256": "0cf56a5f0af583e9254a00cd122478b5acfb2fbb36c6e72c68a1b7e37487807b",
-      "textSha256": "0cf56a5f0af583e9254a00cd122478b5acfb2fbb36c6e72c68a1b7e37487807b"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Toggle Trail.txt",
-      "size": 144,
-      "sha256": "c23382d9392121b297d72ea2c378fbf775d733102a1e6609b8582ed4bc72f4c5",
-      "textSha256": "c23382d9392121b297d72ea2c378fbf775d733102a1e6609b8582ed4bc72f4c5"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_notetypes/Camera Zoom Alt Animation Note.lua",
-      "size": 24,
-      "sha256": "12fc80b51dbd9596b16e4afe5d075f3699f0f2d9e25b64fbf523bec836be4498",
-      "textSha256": "12fc80b51dbd9596b16e4afe5d075f3699f0f2d9e25b64fbf523bec836be4498"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_notetypes/Camera Zoom Note.lua",
-      "size": 24,
-      "sha256": "12fc80b51dbd9596b16e4afe5d075f3699f0f2d9e25b64fbf523bec836be4498",
-      "textSha256": "12fc80b51dbd9596b16e4afe5d075f3699f0f2d9e25b64fbf523bec836be4498"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_notetypes/dropNote.lua",
-      "size": 750,
-      "sha256": "0c59fc241c108c3200fd25a979ca50c1b1ee2fb456037e1be78850a8bb89f30d",
-      "textSha256": "0c59fc241c108c3200fd25a979ca50c1b1ee2fb456037e1be78850a8bb89f30d"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_notetypes/MicNote.lua",
-      "size": 1374,
-      "sha256": "a513644be95ad82433fab11dd3951a39387f2ae38bbad3bac0d5eec71d022984",
-      "textSha256": "a513644be95ad82433fab11dd3951a39387f2ae38bbad3bac0d5eec71d022984"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_notetypes/Miss Pose Note.lua",
-      "size": 2490,
-      "sha256": "f93a2c2ef5cb40cdd6fcc7999ae0653542a1f9796914ad0486e8b01f79c2c046",
-      "textSha256": "f93a2c2ef5cb40cdd6fcc7999ae0653542a1f9796914ad0486e8b01f79c2c046"
     },
     {
       "path": "assets/Freeplay/Common/images/Characters/aom-bf.png",
@@ -5232,6 +4447,11 @@
       "sha256": "da8ad4995c395b82d76326d91dd48a8419194595ed37971f5818d03183a96be9"
     },
     {
+      "path": "assets/Freeplay/Common/images/Effects/ground-floor.png",
+      "size": 2996,
+      "sha256": "0e0a5317a6bb83f891fce7733555a08e276f684b8bc6cedf07b77d86f42bb761"
+    },
+    {
       "path": "assets/Freeplay/Common/images/Effects/particle.png",
       "size": 700,
       "sha256": "88ef5a4ceb3c6b6e3799b150ad61294113400ea4718cd3f3cf1cdc7ce754ebd6"
@@ -5249,14 +4469,14 @@
     },
     {
       "path": "assets/Freeplay/Common/images/Hud/aom-noteskin.png",
-      "size": 1569185,
-      "sha256": "eaaa7293b0c031b892a80c1d08b10d69ae6669f4eb17ec9bc0eb64f91c50ea2c"
+      "size": 1511127,
+      "sha256": "4f52d56154e1d0e6b1cf42c679308d285e870b71bcbcd2ba33502595a814e1ef"
     },
     {
       "path": "assets/Freeplay/Common/images/Hud/aom-noteskin.xml",
       "size": 5093,
-      "sha256": "e0bdbf4b77a30fc9020640ab5dfc22c638ebd205712e3ef1e27427353d07d4f0",
-      "textSha256": "5c96a4a9e6f1d7a14fca96bb8360c7af5e7a7ada8dee91ae08d8af001b6d3b4c"
+      "sha256": "ff20ad2aca51927339e250bf72a6d244cafecda3c07ab671d91ec14f02fd2055",
+      "textSha256": "d675c55ce8b667a657e8e60f87aa4efda103b948ee3f4da0634e705fd8e262a9"
     },
     {
       "path": "assets/Freeplay/Common/images/Hud/aom-notesplash.png",
@@ -5377,6 +4597,12 @@
       "textSha256": "3376a11d200d92b316851e278b08e039fc329394d9369a7931c1725f089ae940"
     },
     {
+      "path": "assets/Freeplay/Common/shaders/Gay.frag",
+      "size": 996,
+      "sha256": "e34d0f060245541d09788094b216c56cb0e164c744858282f99b18170aa4cdf5",
+      "textSha256": "e34d0f060245541d09788094b216c56cb0e164c744858282f99b18170aa4cdf5"
+    },
+    {
       "path": "assets/Freeplay/Common/shaders/ntsc.frag",
       "size": 3842,
       "sha256": "7e0c14e9af7dd0c74af151adc569c6041d9de20abcc3089d46c60efc21f78d37",
@@ -5384,15 +4610,21 @@
     },
     {
       "path": "assets/Freeplay/Common/shaders/uh.frag",
-      "size": 3111,
-      "sha256": "2a8a36dbbd1f03706d78a4a4ada3ce698350ca1fc3d60d9e8c28c16126c39213",
-      "textSha256": "2a8a36dbbd1f03706d78a4a4ada3ce698350ca1fc3d60d9e8c28c16126c39213"
+      "size": 3519,
+      "sha256": "9bee37b2d2acf92002d097383fd0e8560eb955993e4588b906f1789823e3ca91",
+      "textSha256": "9bee37b2d2acf92002d097383fd0e8560eb955993e4588b906f1789823e3ca91"
     },
     {
       "path": "assets/Freeplay/Common/shaders/void.frag",
-      "size": 1543,
-      "sha256": "4a5b517c3a442e51bfd1ddd3ac5f3544c7f6c2138452f85d9500de721b4bba42",
-      "textSha256": "99b2525c52a20877d7a7774a67ee0562a1cb4bb6aebcb570fd3ef56492459d80"
+      "size": 1588,
+      "sha256": "0b4c4ddada6065c09fdae59dbebb9ad8f383b08f9e04b03b1eb0b6755eb5f1a0",
+      "textSha256": "c04f4f927b1a7b017fcb406c78d07cc48f795904b885167ca3b7c9f7d5188f1e"
+    },
+    {
+      "path": "assets/Freeplay/Common/shaders/wavyDistortion.frag",
+      "size": 607,
+      "sha256": "7479b9bf7acf946ea369cc04751f6bbc7980f7bd08b78075ad76e6735cf5f7c4",
+      "textSha256": "7479b9bf7acf946ea369cc04751f6bbc7980f7bd08b78075ad76e6735cf5f7c4"
     },
     {
       "path": "assets/Freeplay/Common/sounds/cartoon_bite_sound_effect.ogg",
@@ -5416,8 +4648,8 @@
     },
     {
       "path": "assets/Freeplay/Common/sounds/lightning.ogg",
-      "size": 173504,
-      "sha256": "1bfd73ad2c78813d22fbde586cc86c90c2ce9b875c12ca597fff6abdebe80412"
+      "size": 159919,
+      "sha256": "c10f8eaafbd931b8194c972907c803ff31f72bed7adc4382c4c66eb6cd7a24d5"
     },
     {
       "path": "assets/Freeplay/Common/sounds/miss1.ogg",
@@ -5464,64 +4696,16 @@
       "textSha256": "629761174e514c62a2d7d610a2e492d3876046987141a96f000832eaad987158"
     },
     {
-      "path": "assets/Freeplay/Fah/data/02-ending.lua",
-      "size": 457,
-      "sha256": "32f8810b3f03b436de55e2aad5c0226eef606b52d0a0916d8ee21f9e9bd5691a",
-      "textSha256": "32f8810b3f03b436de55e2aad5c0226eef606b52d0a0916d8ee21f9e9bd5691a"
-    },
-    {
-      "path": "assets/Freeplay/Fah/data/03-botplay.lua",
-      "size": 245,
-      "sha256": "ec485ec6d19ea9692fc6da12e839bd053d2b8f6971a6a374f88da989d1b57d34",
-      "textSha256": "0860c8618c012d7c2e5b2abd293736c6590d23f3786884d979aa478b25b74f72"
-    },
-    {
-      "path": "assets/Freeplay/Fah/data/04-hud.lua",
-      "size": 14961,
-      "sha256": "29cd613f8bb98c24e70326bc4938f398cb8632ab6da6ec5d117e5adaae05c949",
-      "textSha256": "29cd613f8bb98c24e70326bc4938f398cb8632ab6da6ec5d117e5adaae05c949"
-    },
-    {
-      "path": "assets/Freeplay/Fah/data/05-props.lua",
-      "size": 5359,
-      "sha256": "5703bd9cf1b107dd5bccac501fd1104b100863c3e9d3b711694ebe48f23a7eb9",
-      "textSha256": "4603b7309afdf42c3420a1eafcd28a8f76927b9ffcca3a9de5f5304256ae24b5"
-    },
-    {
-      "path": "assets/Freeplay/Fah/data/06-popups.lua",
-      "size": 9148,
-      "sha256": "a5498559dc5e82befa40728eb0e33ec7de861c0cf4680e935760004087e1fc6a",
-      "textSha256": "e3c5cd7e3770cd1b533d166b5ca5ce2bef1240311b905f51d7b3ecd1089f1e34"
-    },
-    {
-      "path": "assets/Freeplay/Fah/data/07-distractions.lua",
-      "size": 13238,
-      "sha256": "ce626f83a8cf6b829e89e987539f8bc9286a5a69847f7466a942cbad881e4b1b",
-      "textSha256": "e2ef1f243aa6db38553d71775a4c244d7c541afd2852559e55ebf67673987a52"
-    },
-    {
-      "path": "assets/Freeplay/Fah/data/credits.txt",
-      "size": 216,
-      "sha256": "b68616e51bb7763dcf012a54025fbbb6d54625ed29328f373c5ab363fec0b164",
-      "textSha256": "b68616e51bb7763dcf012a54025fbbb6d54625ed29328f373c5ab363fec0b164"
-    },
-    {
       "path": "assets/Freeplay/Fah/data/events.json",
       "size": 4167,
       "sha256": "3fc13f6bce3d00da59c0f96b47b2f805ccef95168a8937ddc9c04417fe90e898",
       "textSha256": "3fc13f6bce3d00da59c0f96b47b2f805ccef95168a8937ddc9c04417fe90e898"
     },
     {
-      "path": "assets/Freeplay/Fah/data/pause.txt",
-      "size": 313,
-      "sha256": "2f0d30269a15e88208fad85f7707bbe82101922dc291c429abd7475323b4dc68",
-      "textSha256": "1d2f9af6700f48a71babc3476316ab4eae3a1df4d3b9a3d4da4cccb5eb3e86d4"
-    },
-    {
       "path": "assets/Freeplay/Fah/data/what-the-fah.json",
-      "size": 127271,
-      "sha256": "9fac948f3ffd741455996c5b60ac843a90a00a5d254cadb3330586137c506fc6",
-      "textSha256": "9fac948f3ffd741455996c5b60ac843a90a00a5d254cadb3330586137c506fc6"
+      "size": 127270,
+      "sha256": "8afa605ae0f03b0587fb1fba615355817e4b0f8f4b50da512538b6f0097a3f0f",
+      "textSha256": "8afa605ae0f03b0587fb1fba615355817e4b0f8f4b50da512538b6f0097a3f0f"
     },
     {
       "path": "assets/Freeplay/Fah/images/Characters/bf.png",
@@ -6216,8 +5400,8 @@
     },
     {
       "path": "assets/Freeplay/Fah/images/Menu/fah.png",
-      "size": 33287,
-      "sha256": "044aed4c58275f1a11bbefbba0738d5bc5ab8b8373185226a0a194c846a1f288"
+      "size": 21889,
+      "sha256": "e60a07f8d56fe893e08b6c7fec0b0a9aec25ec0a54f5c9be073542cd0b4ba1fb"
     },
     {
       "path": "assets/Freeplay/Fah/images/Presentation/fah.png",
@@ -6427,12 +5611,6 @@
       "textSha256": "c184b42da583dc8a14d33dbaa57e1f14b28c9d5eb1184e84a102fafffe1116c5"
     },
     {
-      "path": "assets/Freeplay/Fah/stages/fah.lua",
-      "size": 28168,
-      "sha256": "d1767bbaefb6622476c5a17bd34a9ece9717b2e9a70e13c4e44d87a12c119cc5",
-      "textSha256": "ad85deb34888f8b1a1376311896fb70685b6ab40db9d83442499c8b18a156340"
-    },
-    {
       "path": "assets/Freeplay/Fah/videos/fahscene.mp4",
       "size": 1462529,
       "sha256": "5430a15db64cd7173c0e9edd4f0390a10fc8bd5af9d444d173d835bcd234294e"
@@ -6450,46 +5628,16 @@
       "textSha256": "9333ddf94e2f12a9cc98eb800c2316c7ab48f2d56717f31681b3788caa348319"
     },
     {
-      "path": "assets/Freeplay/Gabriella/data/01-checkerboard.lua",
-      "size": 1967,
-      "sha256": "c992223e522d7bff6cca239ed58fb47ecc68296c5745dcce908581854cce7171",
-      "textSha256": "c992223e522d7bff6cca239ed58fb47ecc68296c5745dcce908581854cce7171"
-    },
-    {
-      "path": "assets/Freeplay/Gabriella/data/02-guitars.lua",
-      "size": 3491,
-      "sha256": "ff85125242f8a394ea56b6dff0942e50164fb7c2773de7288c4218873e61acb8",
-      "textSha256": "ff85125242f8a394ea56b6dff0942e50164fb7c2773de7288c4218873e61acb8"
-    },
-    {
-      "path": "assets/Freeplay/Gabriella/data/03-overlay.lua",
-      "size": 722,
-      "sha256": "b0c4cbcf3114b6f04e3e37b7dce271c0d71e20ff1eb32a3fec193273360d9357",
-      "textSha256": "b0c4cbcf3114b6f04e3e37b7dce271c0d71e20ff1eb32a3fec193273360d9357"
-    },
-    {
-      "path": "assets/Freeplay/Gabriella/data/credits.txt",
-      "size": 189,
-      "sha256": "42df322ee960aa66a841c9601a53f938ce02fc37db46a1573019273b4e3770c4",
-      "textSha256": "42df322ee960aa66a841c9601a53f938ce02fc37db46a1573019273b4e3770c4"
-    },
-    {
-      "path": "assets/Freeplay/Gabriella/data/pause.txt",
-      "size": 457,
-      "sha256": "9aba60bf92d7c0c15071e4ab3f9b29d95c75395c357b007bb7f07a3aee158235",
-      "textSha256": "42815a553cbf7ca5619454a0225dbe06360a9bad2fb3e8dfdb1c7cae55cee961"
-    },
-    {
       "path": "assets/Freeplay/Gabriella/data/shiftr.camera.json",
-      "size": 17910,
-      "sha256": "b9a327e6f640383c731ba1551a5e6c7aabbf25d158179893f042a01f81e19799",
-      "textSha256": "b9a327e6f640383c731ba1551a5e6c7aabbf25d158179893f042a01f81e19799"
+      "size": 46987,
+      "sha256": "bd310e3dfd83e2cf9c324bfc80ae3bd346d848c173dd29dff39d27704b0aa080",
+      "textSha256": "bd310e3dfd83e2cf9c324bfc80ae3bd346d848c173dd29dff39d27704b0aa080"
     },
     {
       "path": "assets/Freeplay/Gabriella/data/shiftr.json",
-      "size": 140850,
-      "sha256": "baa2efe48aef3844b7a8c0d28e9bf3365c381c52cf632048e981c3d2a716578b",
-      "textSha256": "baa2efe48aef3844b7a8c0d28e9bf3365c381c52cf632048e981c3d2a716578b"
+      "size": 142540,
+      "sha256": "5fb4ca5f6a2bfba0d2be458e5e937d6f0a08468fc50921da20dedda1a63a3dc7",
+      "textSha256": "5fb4ca5f6a2bfba0d2be458e5e937d6f0a08468fc50921da20dedda1a63a3dc7"
     },
     {
       "path": "assets/Freeplay/Gabriella/images/Characters/gabby.png",
@@ -6525,13 +5673,13 @@
     },
     {
       "path": "assets/Freeplay/Gabriella/images/Menu/gabby-text.png",
-      "size": 6526,
-      "sha256": "7442ec95a427de340b8084588c20b2cdcaf23b9477da5c26afdfae8f5e99d4e5"
+      "size": 3838,
+      "sha256": "37a040e8edb99e96540de37659f428860694fa12b8e0222a850f63f3356f030f"
     },
     {
       "path": "assets/Freeplay/Gabriella/images/Menu/gabby.png",
-      "size": 43254,
-      "sha256": "95e10480fd26d3d1b4e5e905c1f3cf4698da4c8963ad941bebcc58a0e560e486"
+      "size": 23542,
+      "sha256": "26849d998b267ca2a8a37197b556f1f36648108d11d16539377611eca007ec5a"
     },
     {
       "path": "assets/Freeplay/Gabriella/images/Presentation/logo.png",
@@ -6575,12 +5723,6 @@
       "textSha256": "767bb55c94d6e573ba370d26848f7e86d4800c6481e4793b195cc4a2224872cb"
     },
     {
-      "path": "assets/Freeplay/Gabriella/stages/gabby.lua",
-      "size": 17668,
-      "sha256": "50ffbf2c16c75c67f740b771ded172566a368090fdb6109116de4a491e76574d",
-      "textSha256": "37e3bec9cc815ca5e610d1cd0e2cafa094cca6f0fcee44b2f4913788c4f776f0"
-    },
-    {
       "path": "assets/Freeplay/Nola/characters/moth.json",
       "size": 1221,
       "sha256": "a09f5aeccbb17e531f0b2296a235d3ff53b6c17a7b77a9ca980124c55ad1178c",
@@ -6593,64 +5735,16 @@
       "textSha256": "0a0ee546a7f6aa01ab7b20fcbd1306af6e0b18f05032c850df5b117cf812c67c"
     },
     {
-      "path": "assets/Freeplay/Nola/data/03-overlay.lua",
-      "size": 1739,
-      "sha256": "7ae7153490a22cdc1e0719832f8df37424ebde5f1d8d9e55299cd8da8aa78263",
-      "textSha256": "518ac39061b5667fca9369737cc29bae41743a0c36f455cf24573bfd70912b15"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/background-layer-fade.lua",
-      "size": 1759,
-      "sha256": "c6c663f7b1ecf8db515d53cc782ef699738969238c96b30f6e47358abfa0c88d",
-      "textSha256": "c6c663f7b1ecf8db515d53cc782ef699738969238c96b30f6e47358abfa0c88d"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/early-camera-turn.lua",
-      "size": 4866,
-      "sha256": "ed9e5451c22efaa4b1dc73ac27b07a96f8bc0f27d14afaafb8ceb4ff4e74e909",
-      "textSha256": "ed9e5451c22efaa4b1dc73ac27b07a96f8bc0f27d14afaafb8ceb4ff4e74e909"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/late-blackout.lua",
-      "size": 900,
-      "sha256": "54bb23c226ab2518838378145ddd2bd4b444aeed235c1f1320775bf0b9c9b909",
-      "textSha256": "54bb23c226ab2518838378145ddd2bd4b444aeed235c1f1320775bf0b9c9b909"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/midlay-subtitles.lua",
-      "size": 6189,
-      "sha256": "69535d7a0e61415c58e092fc9b0f87e61c37baefdee10f6a241585e65f322d81",
-      "textSha256": "69535d7a0e61415c58e092fc9b0f87e61c37baefdee10f6a241585e65f322d81"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/ntsc-transition.lua",
-      "size": 5422,
-      "sha256": "4605f1feda104f50c5d0cadf29c89e519b8f0e9e999409fb93943a4e95c6b60c",
-      "textSha256": "fbc514dd6e4e3f0e314a1d0b0078caea4b4285f66d7600e98149f47cd9ba53ac"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/pause.txt",
-      "size": 709,
-      "sha256": "08ea33ac0d97c988b96fd67c47d1fff18cb3b4de02c1165f62217f0fe394f739",
-      "textSha256": "a1df50b0bf72d9e57200ec868b07c6cd2c2dee0d94dcce1e4a661372acb15520"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/scrolling.lua",
-      "size": 8170,
-      "sha256": "e9c635d0acc15f0bf4ede529076764546527a46b05cc3654cd8c421d535f8b16",
-      "textSha256": "94a5c8124df3b0f0fb8393ff96c9694f742971da15af569fdbe65cc2eebb2c67"
-    },
-    {
       "path": "assets/Freeplay/Nola/data/skyline.camera.json",
-      "size": 4057,
-      "sha256": "ff9087b5071d6044ba9bea813292ce7c5661ad99fdba43111f3ccfa03b0edbbf",
-      "textSha256": "8e9b728a260df3d76cf8bd720aef43d4fd5561297bcfa30b3edeaed92d444580"
+      "size": 29412,
+      "sha256": "d96c7eee280bc1501592fb1775b17d4125f60214c216ee1b9c5f274bd98ecfad",
+      "textSha256": "d96c7eee280bc1501592fb1775b17d4125f60214c216ee1b9c5f274bd98ecfad"
     },
     {
       "path": "assets/Freeplay/Nola/data/skyline.json",
-      "size": 97762,
-      "sha256": "ce45d48dd9a2c73cc5a47782814f7dec8a82a101a46166dd03ce3a0d6b7a5660",
-      "textSha256": "843609d455c834601fbc573391a56e21581d872c9cbd85a0d4d7ad77c718e45b"
+      "size": 96877,
+      "sha256": "a23c21607f891c97f1d840d1c861e880ad1dc25f846e7b3d280da32bc8a90e5a",
+      "textSha256": "a816f31ac1531157d916e6d2e118cb52c6d308885ca48a4a546a92a3c9655c87"
     },
     {
       "path": "assets/Freeplay/Nola/images/Characters/moth.png",
@@ -6686,13 +5780,13 @@
     },
     {
       "path": "assets/Freeplay/Nola/images/Menu/moth.png",
-      "size": 46689,
-      "sha256": "2ddd1798bf20c3596eddb98e9e843e27a1800dd2f6f30b33740379d2a7568fb1"
+      "size": 28411,
+      "sha256": "8e06e922a89a583cbfdc15a8faab850712ff4a15381dccd664577664c0b4d95a"
     },
     {
       "path": "assets/Freeplay/Nola/images/Menu/nola.png",
-      "size": 42090,
-      "sha256": "1d9e491f84b5fa1f71175621291ae7153621cd6cb69aa09ca38d09108301bffa"
+      "size": 17949,
+      "sha256": "51a440ef3ec6ebcee59e25bdc90767dbad07e2edec500619f57094d363f525d6"
     },
     {
       "path": "assets/Freeplay/Nola/images/Menu/nolamoth-text.png",
@@ -6741,12 +5835,6 @@
       "textSha256": "e76c8c4644f01f25647358afb7fb5c5b2f890de3405a6aeb6495f864c9a74b39"
     },
     {
-      "path": "assets/Freeplay/Nola/stages/nola.lua",
-      "size": 4919,
-      "sha256": "ba5b1ee86a7114c399f95c5b29b16ab70fc88d3bd2f37c63cd7b1ded6211a860",
-      "textSha256": "ba5b1ee86a7114c399f95c5b29b16ab70fc88d3bd2f37c63cd7b1ded6211a860"
-    },
-    {
       "path": "assets/Freeplay/Phoenix/characters/phoenix-gf.json",
       "size": 1820,
       "sha256": "689bcea6abaf6f008911a63de47419443dd168058fddbd4bd325785f96632eac",
@@ -6759,46 +5847,16 @@
       "textSha256": "d7b942ed65019fc7a2d14ff3184d74aec47d9b0a23a0b9a825dd14c658f2e569"
     },
     {
-      "path": "assets/Freeplay/Phoenix/data/01-checkerboard.lua",
-      "size": 3821,
-      "sha256": "09cd05cce43d0d53ecd96e77d61bbcd92f01d956fc7e36422335d5e4daad851e",
-      "textSha256": "67f34a32b39780979ab9a66009a4c7b4950fb9da15c498c9b7e414f7eb89d237"
-    },
-    {
-      "path": "assets/Freeplay/Phoenix/data/02-gameover.lua",
-      "size": 3293,
-      "sha256": "0b04f11bfd0fd23fad77a0c46cd0ca7ae1b2a726e6be13b2887848f378ecc248",
-      "textSha256": "0b04f11bfd0fd23fad77a0c46cd0ca7ae1b2a726e6be13b2887848f378ecc248"
-    },
-    {
-      "path": "assets/Freeplay/Phoenix/data/03-overlay.lua",
-      "size": 1160,
-      "sha256": "fe85cbcaa2f44afa26afba715bac194b002d3d88fcf206e08baeba203af9a01e",
-      "textSha256": "fe85cbcaa2f44afa26afba715bac194b002d3d88fcf206e08baeba203af9a01e"
-    },
-    {
-      "path": "assets/Freeplay/Phoenix/data/credits.txt",
-      "size": 225,
-      "sha256": "c0480bfc2539fe158a85cebe1f5a6afafc2ef4678edffccda4222955353b42d4",
-      "textSha256": "c0480bfc2539fe158a85cebe1f5a6afafc2ef4678edffccda4222955353b42d4"
-    },
-    {
-      "path": "assets/Freeplay/Phoenix/data/pause.txt",
-      "size": 522,
-      "sha256": "82b70619681f44ef88b1d7a8c40478c45899e6692173db21dcbf4acdbddd64fd",
-      "textSha256": "da78f385710d5a9597ff1bf0a210ac37aab848004e99f42cf622df61d7f913ea"
-    },
-    {
       "path": "assets/Freeplay/Phoenix/data/sunburnt.camera.json",
-      "size": 14288,
-      "sha256": "7c07a793bfe9d8c36d1803d8c32d85d8c8871b2c704b72e6dc4171211669ad61",
-      "textSha256": "7c07a793bfe9d8c36d1803d8c32d85d8c8871b2c704b72e6dc4171211669ad61"
+      "size": 33705,
+      "sha256": "62a23e306b4e315fe70a4b7c68f2e216bd7aa105e98c1e1ddaa5b5d0d67c1ff7",
+      "textSha256": "62a23e306b4e315fe70a4b7c68f2e216bd7aa105e98c1e1ddaa5b5d0d67c1ff7"
     },
     {
       "path": "assets/Freeplay/Phoenix/data/sunburnt.json",
-      "size": 88496,
-      "sha256": "c4c1e291d8269d189b9514e707e1f045ef66bb907d161d2612a482b94c3f7096",
-      "textSha256": "c4c1e291d8269d189b9514e707e1f045ef66bb907d161d2612a482b94c3f7096"
+      "size": 88559,
+      "sha256": "38e323a9c619406fea50b2768c40b0eb6aae627ad164a0a6de3af4f9ee41a620",
+      "textSha256": "38e323a9c619406fea50b2768c40b0eb6aae627ad164a0a6de3af4f9ee41a620"
     },
     {
       "path": "assets/Freeplay/Phoenix/images/Characters/phoenix-bopper.png",
@@ -6916,13 +5974,13 @@
     },
     {
       "path": "assets/Freeplay/Phoenix/images/Menu/phoenix-post.png",
-      "size": 39120,
-      "sha256": "dea8f84d8090de95f8710a137d609d1211a8d5b435cfb130748dca14e96b386a"
+      "size": 25963,
+      "sha256": "ad9ab7c7aaf842ede1d6d90cf1fd5fe6a9ef6791994d0f33069adc04f66459f2"
     },
     {
       "path": "assets/Freeplay/Phoenix/images/Menu/phoenix-pre.png",
-      "size": 28108,
-      "sha256": "5b6f54bfdb1cc635b73d8c94c48a9e371135007d80aaf442772ff5c76d07a9f3"
+      "size": 659,
+      "sha256": "998c243975416dc5e7be5d3fc640a463973b26bd7527568c589136af38221bca"
     },
     {
       "path": "assets/Freeplay/Phoenix/images/Menu/phoenix-text.png",
@@ -6972,14 +6030,8 @@
     {
       "path": "assets/Freeplay/Phoenix/stages/phoenix.json",
       "size": 305,
-      "sha256": "ece782a5f3d8871f53cdf02fee39683bcb9fa16ae1e1eaef1e67e73b740b97cf",
-      "textSha256": "3b02c97ab031a0aea3d39e208072f26556e2a471f2a23b9973d1614adb2980ef"
-    },
-    {
-      "path": "assets/Freeplay/Phoenix/stages/phoenix.lua",
-      "size": 13241,
-      "sha256": "88ec8c32dad05f2fa7a3de52780332b5242b974cbfaeb3b5d269652f0f4727c5",
-      "textSha256": "88ec8c32dad05f2fa7a3de52780332b5242b974cbfaeb3b5d269652f0f4727c5"
+      "sha256": "cfd31aae1030d05fd34605de9485449705889216a964c2c59fc9cb33463d1ff8",
+      "textSha256": "61600f56adbf141b8e0d0846853ca74fe62924152da1bf059a278b22b4e30018"
     },
     {
       "path": "assets/Freeplay/Raven/characters/raven-active-annoyed.json",
@@ -7014,62 +6066,26 @@
     {
       "path": "assets/Freeplay/Raven/characters/ravenanim1.json",
       "size": 1531,
-      "sha256": "ba7e23b36b1b83d5411156d83c0ea0540d58a15168df9ca2dba5830678ccce50",
-      "textSha256": "ba7e23b36b1b83d5411156d83c0ea0540d58a15168df9ca2dba5830678ccce50"
+      "sha256": "7f8d34ade4253170403266bd55dfc8583f89becb595fc146a924b51530252536",
+      "textSha256": "7f8d34ade4253170403266bd55dfc8583f89becb595fc146a924b51530252536"
     },
     {
       "path": "assets/Freeplay/Raven/characters/ravenanim2.json",
       "size": 1125,
-      "sha256": "14e0be9ef5ea76a83239aac87ff523931db301ade32191fb5d3f292d4cdb1591",
-      "textSha256": "14e0be9ef5ea76a83239aac87ff523931db301ade32191fb5d3f292d4cdb1591"
-    },
-    {
-      "path": "assets/Freeplay/Raven/data/01-icons.lua",
-      "size": 3308,
-      "sha256": "b824b99e94d00b0411868e50281022b47775aacaaa7c566393f2c64a4b00411a",
-      "textSha256": "fa70c727c158125c413de2504b8ecc9569f68221833a6743aee029660ceee4b3"
-    },
-    {
-      "path": "assets/Freeplay/Raven/data/02-paws.lua",
-      "size": 4061,
-      "sha256": "28a45ce6f1d425fc5dd72b6d6271fdcadccb5dceadf4164d90c02ef3fa21aa58",
-      "textSha256": "28a45ce6f1d425fc5dd72b6d6271fdcadccb5dceadf4164d90c02ef3fa21aa58"
-    },
-    {
-      "path": "assets/Freeplay/Raven/data/03-overlay.lua",
-      "size": 1553,
-      "sha256": "0305a3c4c85872238896c14cd9985df01e45a6d9f7eb7e8db3e5dfc67adb9ae7",
-      "textSha256": "0305a3c4c85872238896c14cd9985df01e45a6d9f7eb7e8db3e5dfc67adb9ae7"
-    },
-    {
-      "path": "assets/Freeplay/Raven/data/04-camera.lua",
-      "size": 5184,
-      "sha256": "787769e20e110246d8e012b557da29dbcae1b0579b8dda324c5ad3094610f19d",
-      "textSha256": "c7bfe5d58f7417ae7618aebe85e7db2167aa74519801b02d09588c8b46367f3c"
-    },
-    {
-      "path": "assets/Freeplay/Raven/data/credits.txt",
-      "size": 209,
-      "sha256": "5411454a461aceddde22d5ae046e2e12ec78c6df0d62e652709f5649b6c09b83",
-      "textSha256": "5411454a461aceddde22d5ae046e2e12ec78c6df0d62e652709f5649b6c09b83"
+      "sha256": "db1a13396876549ded0bf7685cb594eb1ffe37fb67b425c142588f0cd9b65941",
+      "textSha256": "db1a13396876549ded0bf7685cb594eb1ffe37fb67b425c142588f0cd9b65941"
     },
     {
       "path": "assets/Freeplay/Raven/data/hodgepodge.camera.json",
-      "size": 32531,
-      "sha256": "eaa9f21e7eeee62ced2f344d6846f7e0d822cffb911648c56dea28b21c0108db",
-      "textSha256": "eaa9f21e7eeee62ced2f344d6846f7e0d822cffb911648c56dea28b21c0108db"
+      "size": 49153,
+      "sha256": "50fac21e3ebb1c22cdac62244b72f6dff3c75b5bbd6612a1806ea2a0f36bb91b",
+      "textSha256": "50fac21e3ebb1c22cdac62244b72f6dff3c75b5bbd6612a1806ea2a0f36bb91b"
     },
     {
       "path": "assets/Freeplay/Raven/data/hodgepodge.json",
-      "size": 131568,
-      "sha256": "357e076c6e8de577e2a36052f90f5181c685fec1c7511c5bfdd1708fb1ee6738",
-      "textSha256": "357e076c6e8de577e2a36052f90f5181c685fec1c7511c5bfdd1708fb1ee6738"
-    },
-    {
-      "path": "assets/Freeplay/Raven/data/pause.txt",
-      "size": 666,
-      "sha256": "097a8caf1c8f0f32be6478c602a85357372cadbdb360b720867b012ce19b766f",
-      "textSha256": "f5a002884d52bf675f677209d9ba988f3eb96dca79e93dd4db5cdb0fac7cd3ad"
+      "size": 134135,
+      "sha256": "6377bf0f14c9c0c5067cde26aae40f41a4573553d13f2d53e1b29c22c5e85982",
+      "textSha256": "6377bf0f14c9c0c5067cde26aae40f41a4573553d13f2d53e1b29c22c5e85982"
     },
     {
       "path": "assets/Freeplay/Raven/images/Characters/raven-active-annoyed.png",
@@ -7360,8 +6376,8 @@
     },
     {
       "path": "assets/Freeplay/Raven/images/Menu/raven.png",
-      "size": 47786,
-      "sha256": "7c27132611b3f3c8a5c82e4ad8f1228de257fdb3540ac578cef1dff66ad65016"
+      "size": 27803,
+      "sha256": "aae6b45765fcbee32e0fc0d9898fdf1f992b779d931f881f993c65c58aaeab39"
     },
     {
       "path": "assets/Freeplay/Raven/images/Presentation/logo.png",
@@ -7403,12 +6419,6 @@
       "size": 207,
       "sha256": "22aed7ef627040c47cdf3dad252d1dee4136ca51aeca53c5a06dc98098b06766",
       "textSha256": "cae8883bf3ff356c2dce625bab5dd157f736528fe16d13e000e495837c8350b0"
-    },
-    {
-      "path": "assets/Freeplay/Raven/stages/raven.lua",
-      "size": 33816,
-      "sha256": "208cdabc16f28c8a70d1370d27558f65808a235cd8d3e1e31ccb1d0278cda3f1",
-      "textSha256": "a902217c9f0a66b8377449dbf2cdf63466db52911dc08d8f63be193980d8ff3b"
     },
     {
       "path": "assets/Freeplay/Raven/videos/angel.mp4",
@@ -7501,6 +6511,139 @@
       "sha256": "266f68755c6808e34e0b07abdc8c7cb1c663e4951617173436158e76ab83f93f"
     },
     {
+      "path": "assets/Freeplay/Yoyai/characters/blanket-speaker.json",
+      "size": 518,
+      "sha256": "5ebcaef022bbd82e0a5d65090d4c8906314c72430211f7e1cccf2b7c6d030eea",
+      "textSha256": "0b7dc4ccbd6885353dd9738655df77d2abe0e4252635f869a71850ca59af39a5"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/characters/yoyai-happy.json",
+      "size": 2158,
+      "sha256": "d9f0e82e8dc65acf1468848574f33bccb5b9a635f5b4b16349b164af736d3c99",
+      "textSha256": "3750867ad5b5747bb7297c91f313e5910c157e97fe6ce560c27e2c9b4f7fc2e4"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/characters/yoyai.json",
+      "size": 3215,
+      "sha256": "4dcd27973cbeaa3c2c501970e371bc10886a1bb8a094b9f0755d4f32b0bd0df4",
+      "textSha256": "16d382cb9640e6c90d63306de7be87bbeec9ee9f7f3697b69460084ea78e03b1"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/data/hush-up/hush-up.camera.json",
+      "size": 13204,
+      "sha256": "8d589e3041db129f4aa5ff98783d6480d6d9f6c7396f80ee5a7dafeb0e6bfad7",
+      "textSha256": "8d589e3041db129f4aa5ff98783d6480d6d9f6c7396f80ee5a7dafeb0e6bfad7"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/data/hush-up/hush-up.json",
+      "size": 37311,
+      "sha256": "a9b4ff07c4285ad5eb157778e99d140b97a4f1e172d671cb9492b22cbc03fdb1",
+      "textSha256": "6f876ef9c0c484a81213657a165ab0c4ee0a911e35cf2b62128e39cf4e16accb"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/data/hush-up/pose-anchors.json",
+      "size": 17518,
+      "sha256": "3ffa9db685a6ab035bb4dbe7373939dd5c5c1defa1b397482bbdbd5418c9ddb2",
+      "textSha256": "1051d99ab37469aa30ede30003b86e9175b5769b8339702b3c9e1ff1a64cb989"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/images/characters/blanket-speaker.png",
+      "size": 165078,
+      "sha256": "da90b07b280599ae783335aa9d4bcdeb4a0f20818e8ec6e9af569c5f58e58287"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/images/characters/blanket-speaker.xml",
+      "size": 698,
+      "sha256": "85dce9b8f187e1fdddb3c56b0e204abd6d35eeab107827e82b47b0f2cc24fc12",
+      "textSha256": "72814a20929a03922435e5334c451b4262c032048ce5947a6b45348c72678da6"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/images/characters/yoyai-book.png",
+      "size": 73308,
+      "sha256": "e774082696255141ad51663d5de21e161b07b9e2742444536d596b5b9cb0ea08"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/images/characters/yoyai-book.xml",
+      "size": 510,
+      "sha256": "f5da760d8a5053b63f4790e16d72a781c62ce1fa4f485ff8c022945c1e4a483e",
+      "textSha256": "4308dff69498eded75b18cbf6fcf6dc32de7474156dab41bd2ce82a66cd39762"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/images/characters/YoyaiHap.png",
+      "size": 2119152,
+      "sha256": "9d8d1e6358fa50b75771d2acc1c913086855c69d2752df06df6ae31416d4f76c"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/images/characters/YoyaiHap.xml",
+      "size": 1988,
+      "sha256": "1476820935ba8b2e4b86687387cfc816234ca00c871275d745882f3815b1792f",
+      "textSha256": "cf4f3ba8a0d65f38bec3664bcf30a286a9b6f22696b93d61d3805c022113dcdd"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/images/characters/YoyaiNorm.png",
+      "size": 2479606,
+      "sha256": "4894477575ef31a4bb64e9dc2d714865c857d348ae92ac847f4f87f7a3e299d9"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/images/characters/YoyaiNorm.xml",
+      "size": 3611,
+      "sha256": "05f44c91718cc11b621e00c73981bdf549ef141ef947e5f87bdfc78d12658849",
+      "textSha256": "af61ca4bb504ae8dc86e469556b882b845f9195b94b6e42553d7ce852cc77a66"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/images/icons/yoyai.png",
+      "size": 169522,
+      "sha256": "88f506e9cda92b17d966adc25ac93476cb597930b5dd6dbd00f3f2a16f250c4e"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/images/icons/yoyai.xml",
+      "size": 312,
+      "sha256": "d2527083fd366c5d3adab263ad7a46259e9faf59db6bc332d329bd0e4c122325",
+      "textSha256": "d2527083fd366c5d3adab263ad7a46259e9faf59db6bc332d329bd0e4c122325"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/images/Menu/yoyai-text.png",
+      "size": 4508,
+      "sha256": "bed0951e16d812ff12b8bae53a29ec65e54ec149e31dc0579e72fd3ed878d706"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/images/Menu/yoyai.png",
+      "size": 23893,
+      "sha256": "442737771a523482ac9bc80fda4dbb781d41cce6e4e175feffbab3e89ec704bf"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/images/Presentation/logo.png",
+      "size": 185290,
+      "sha256": "4cae9f031a411a8115af30f043066a79bd678b4240b305e065b58749c2948ce8"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/menu.json",
+      "size": 70,
+      "sha256": "12973ccc0edcb605e7482c8b2ffc8e8119e9f770262543054d6f2a95b6bc5de1",
+      "textSha256": "12973ccc0edcb605e7482c8b2ffc8e8119e9f770262543054d6f2a95b6bc5de1"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/songs/BF.ogg",
+      "size": 3700334,
+      "sha256": "3db4305cb991d0899dfa5ae2b18acdaf0b38ddd4285f045c75d22f3d5c6c620a"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/songs/Dad.ogg",
+      "size": 3039262,
+      "sha256": "7e2ad091b3652b6812b08f5012f0021ba8ef77e3827a847047319ec3282251ea"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/songs/Inst.ogg",
+      "size": 2926124,
+      "sha256": "d47688fe400a11fcfac5e6971930774448d8b15252867bc9487ca22489df0d8a"
+    },
+    {
+      "path": "assets/Freeplay/Yoyai/stages/yoyai.json",
+      "size": 259,
+      "sha256": "bde200d9a023d992ea1151810b75b54ab4d7bebc4d5c6a6a7fa346c2ccdd4701",
+      "textSha256": "c839dd09cabf0ed6153ae556486c0eef73a41c13ae1b5e5704427c80b296aa21"
+    },
+    {
       "path": "assets/Menus/Common/Backgrounds/checkerboard.png",
       "size": 281,
       "sha256": "44cd0305dedd75c7239a3299c6bd3a85e7ef6f2d6287a01951ed2d74c56b4fff"
@@ -7591,6 +6734,12 @@
       "sha256": "dc89405944fa9827e5914b92babffc94ef5004a25fec2c1d7c847286dd203986"
     },
     {
+      "path": "assets/Menus/Common/shaders/blackwhite.frag",
+      "size": 676,
+      "sha256": "41142a5cb931a479572adbca4a1da18c4343a38157cad6f6f44deefb42acf03b",
+      "textSha256": "41142a5cb931a479572adbca4a1da18c4343a38157cad6f6f44deefb42acf03b"
+    },
+    {
       "path": "assets/Menus/Common/shaders/checkerboard.frag",
       "size": 525,
       "sha256": "9353ac6f01c3e23529762c199b2dab31849db627bb9e1ea0ba3c1ba50902271c",
@@ -7615,6 +6764,11 @@
       "path": "assets/Menus/Common/sounds/confirmMenuSmall.ogg",
       "size": 26680,
       "sha256": "6183cca131d33cf34f725440ef3683b0b4a192d13936569c09de3d0b8f103e5a"
+    },
+    {
+      "path": "assets/Menus/Common/sounds/locked.ogg",
+      "size": 14012,
+      "sha256": "e0eda4c8b5c6927afbec4d28107dfae63757aa53f0ba594c473fa1a33b0db1f0"
     },
     {
       "path": "assets/Menus/Common/sounds/mouseScroll.ogg",
@@ -8336,9 +7490,19 @@
       "sha256": "3c1221a8d36fbe0d5a9119fb47475a27e42756a378b4349d017e5b02e36d4468"
     },
     {
+      "path": "assets/Menus/Extras/Achievements/DevoteeDiscount.png",
+      "size": 14884,
+      "sha256": "827ed600af4114155a784b55ec25ea01476e07f5f7fe4cdc20da738982970e36"
+    },
+    {
       "path": "assets/Menus/Extras/Achievements/Die.png",
       "size": 13992,
       "sha256": "f234fe4ed4341e0c41472b61180dd2ccf95699d6613f2c6d28ce9abc467da0be"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/distractable.png",
+      "size": 12210,
+      "sha256": "04bed6556fdfe85463a2ce5eb4fb4fbf6906507030aa6bf8f09be14580e2e95f"
     },
     {
       "path": "assets/Menus/Extras/Achievements/Distracted.png",
@@ -8656,6 +7820,11 @@
       "sha256": "b3fb9ab735e7c8d44890b74aceb55c9c9ce8e9e072d0901945d0ca6cf2245a7a"
     },
     {
+      "path": "assets/Menus/Extras/Achievements/quick-draw.png",
+      "size": 14958,
+      "sha256": "7c768da360995c0bad667d345479e4f80c83b25234c818ac70014adb1d5e402a"
+    },
+    {
       "path": "assets/Menus/Extras/Achievements/Quickscope.png",
       "size": 13704,
       "sha256": "c512eb5ba9b8cf0cff748640b0b20fb58f886962de6b7f14d9071d95ac39839c"
@@ -8681,9 +7850,34 @@
       "sha256": "df069cf4495dd21e63d6bda0c936d821ee737c7c9dfb9d5704e57d563dd451a0"
     },
     {
+      "path": "assets/Menus/Extras/Achievements/ReadStory.png",
+      "size": 19054,
+      "sha256": "d04b1b106b94e516ce3c8bf7159d4d8f14b1041f1128bd620c9e59c6af1b900f"
+    },
+    {
       "path": "assets/Menus/Extras/Achievements/scrolling-border.png",
       "size": 22827,
       "sha256": "cdf8e4e1d8b0dffbe825b52e11538d23d3001c3a5407e9fb3029d7417879c88a"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/secret/Anniversary.png",
+      "size": 11435,
+      "sha256": "0aa5e90dc332292435fce02c493866968631a25dc5a07936e82d75d35f5779c9"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/secret/BinCollector.png",
+      "size": 12643,
+      "sha256": "ab021a7d2f2f91a7fe8ea75161f5d16f04aeccecaf8ff640bb0e4526548f84e3"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/secret/BinExchange.png",
+      "size": 21352,
+      "sha256": "b051f64b0dbef2bc86990034d4a8bc85d4d37b68e93f32951ec10970881996a2"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/secret/BinOpen.png",
+      "size": 16653,
+      "sha256": "7f10de81f92fe6e54912b61e519649ab181d834c77d7eaad1c11ea09b0bd530d"
     },
     {
       "path": "assets/Menus/Extras/Achievements/secret/birthdays/FahBirth.png",
@@ -8719,6 +7913,11 @@
       "path": "assets/Menus/Extras/Achievements/secret/birthdays/RavenBirth.png",
       "size": 24034,
       "sha256": "e68812df303c3d84092986886482f3ca131410db919cec2e8aea1b10d8327863"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/secret/birthdays/YoyaiBirth.png",
+      "size": 16427,
+      "sha256": "c5cec6fa58c0b1fc840b20e672901f07901257b5f14a5b20e6ca8536c8d4de88"
     },
     {
       "path": "assets/Menus/Extras/Achievements/secret/Hints.png",
@@ -8791,6 +7990,11 @@
       "sha256": "f366397e57e7ccd5aa3aa1fb4f0399405e04e74fe645bdcbb539a63428e69a90"
     },
     {
+      "path": "assets/Menus/Extras/Achievements/TeamNotes.png",
+      "size": 15489,
+      "sha256": "8b2719a66648503644a863d4ef31d57f58ebdfe17e5dcdaa314652ebe31d79b1"
+    },
+    {
       "path": "assets/Menus/Extras/Achievements/Theme.png",
       "size": 14269,
       "sha256": "149d08247f489903b64e85cb455aa0f6cb69ad1c71383e6e9b00cb91c190a308"
@@ -8804,6 +8008,46 @@
       "path": "assets/Menus/Extras/Achievements/two of them.png",
       "size": 17400,
       "sha256": "a9616057481a33dbfac9e0f62b7189c43462f2b9bf3aa32617140500e36de64d"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/VoidEveryone.png",
+      "size": 10902,
+      "sha256": "cda70d883039bbb119f8991bebb9e816b8dd43604b3683604d5474b93ad3a641"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/VoidEverything.png",
+      "size": 19966,
+      "sha256": "6b237d3b5417441d176bb2f1562947c3c59a1d7bb3b57005ca52b08db8663199"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/VoidFar.png",
+      "size": 14843,
+      "sha256": "f950d646cea0ef048abf83ff33e2074e63794a7f7829d60f92103538675a2503"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/VoidPages.png",
+      "size": 15394,
+      "sha256": "82bf970271a9dd3d3f9a2214884f7b046b812823574918856925cdd656ee1e2e"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/VoidPet.png",
+      "size": 17637,
+      "sha256": "c3f9b9c36ab849b5016e4bc3f4cd59a830013cfbabbd0c949dcf954464058a69"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/VoidPhoenix.png",
+      "size": 20783,
+      "sha256": "64dd3d8b0080eba3038854c5bb58b1e7122355ff1c38da42e116755e36222493"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/VoidRaven.png",
+      "size": 11314,
+      "sha256": "7122676797e0b5fcf9be96d8bc28cf62e69677be646a01df377744a31b1f52b2"
+    },
+    {
+      "path": "assets/Menus/Extras/Achievements/VoidRunner.png",
+      "size": 11081,
+      "sha256": "4f2e457d0b92cd46345df18d6038d4678f73c6c55d62b6cae7e006b1d7804bf3"
     },
     {
       "path": "assets/Menus/Extras/Achievements/waste of time.png",
@@ -8826,9 +8070,55 @@
       "sha256": "0a565c100a56af31044ff153b58b7fb7b9c157c4d22861fdb63c6a67cb124c3b"
     },
     {
+      "path": "assets/Menus/Extras/Achievements/well-you-listened.png",
+      "size": 14481,
+      "sha256": "91f66a2d6f2c3ea8a04cbbea9073bf7793ba2d32c29820735cab0d91a697ac9f"
+    },
+    {
       "path": "assets/Menus/Extras/Achievements/WHOREYOU.png",
       "size": 8956,
       "sha256": "5c6c4453996bdb9bbe49955ac3c85d3223e9c3b49bc856bab44e0c82f2b42d95"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-attendant.png",
+      "size": 982187,
+      "sha256": "0c4ede4f639382f993b8a4c48736b9be56805b78f2d5bd003f2127edeb01a24a"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-attendant.xml",
+      "size": 1199,
+      "sha256": "addc08148f3f9684cd0658765b9aaa72e9ef4bbda2bca94b1e1bd6b13df7d6ec",
+      "textSha256": "06eeb188adc828ecaad67a5d18feaf9468c04238f844448298142490a8657a1d"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-capsules.png",
+      "size": 34206,
+      "sha256": "b11da72e37a5d18a3d04172aa9251addf1352b41c24cc88e5a0b33617cc3ca1b"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-crane.png",
+      "size": 51834,
+      "sha256": "8aa8fef7f15d1251653e7486ce8c09bd9b3ee40fbc89e315bb98112a310b3664"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-filled.png",
+      "size": 1883769,
+      "sha256": "38317709f6d5594ce9ae697b52d11485800f0ed0d403428c5b6d92ebf1e65e34"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-parts.png",
+      "size": 804238,
+      "sha256": "7f04ca91cccaac75fe9e1b11b3942b885b8270eb3acdee0ac7ec2351e55d7192"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-pay.png",
+      "size": 13173,
+      "sha256": "e5d10cdb94678c429740cf43d0d3adcd5494db627a7999fe1d6286a79fae1abf"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-turn.png",
+      "size": 6949,
+      "sha256": "2aa91e4abe9c8fec23f1694d6c7aea36e9851381a3d3c1995cc54ad4e1ddd4ad"
     },
     {
       "path": "assets/Menus/Extras/Character Bios/concepts/Fah/Old-Style.png",
@@ -8861,9 +8151,54 @@
       "sha256": "792d1b2ee46fe32ad775976706ff4180ec27fa03d9810435d058f9a5f0c923e2"
     },
     {
+      "path": "assets/Menus/Extras/Character Bios/music/biosbf.ogg",
+      "size": 5130684,
+      "sha256": "eab59f48d78d9a47b1a23d7eea5185dd91d74041546a33267bb585bee32d6924"
+    },
+    {
+      "path": "assets/Menus/Extras/Character Bios/music/biosfah.ogg",
+      "size": 5615114,
+      "sha256": "2e7f84183a6c1b88d7656e5b3747d23f71e3ecc43b8899fc7a2f3a64ee67d9bd"
+    },
+    {
+      "path": "assets/Menus/Extras/Character Bios/music/biosgabby.ogg",
+      "size": 4899262,
+      "sha256": "9735c72c78cde6479d59593bb8831dc4acb9c7a63597236091e822a8633ae6b6"
+    },
+    {
+      "path": "assets/Menus/Extras/Character Bios/music/biosmilitus.ogg",
+      "size": 2609137,
+      "sha256": "59eb8d390050bacce6b76db8f6c3133cc84bafc315f682f0edbdee888411bed0"
+    },
+    {
+      "path": "assets/Menus/Extras/Character Bios/music/biosmoth.ogg",
+      "size": 4158154,
+      "sha256": "211038c99d1384f4ba2bc8bd1c120cd80e587aa6562dffca396a1e1ab27374d3"
+    },
+    {
+      "path": "assets/Menus/Extras/Character Bios/music/biosnola.ogg",
+      "size": 3826143,
+      "sha256": "a385718b0020d3d9921d744bcc18c980ae75838f3ed3d02aa9b04ed59b85fc7d"
+    },
+    {
+      "path": "assets/Menus/Extras/Character Bios/music/biosphoenix.ogg",
+      "size": 5734117,
+      "sha256": "191701d44135df3278d6f65dc5c4b2f1bde4abf372f167699eeabe1eef0de223"
+    },
+    {
+      "path": "assets/Menus/Extras/Character Bios/music/biosraven.ogg",
+      "size": 4481682,
+      "sha256": "5f9a4143ffa18b9aa1382c10999b510f1e0767e8fd777374174cd59a9556cac3"
+    },
+    {
+      "path": "assets/Menus/Extras/Character Bios/music/biosyoyai.ogg",
+      "size": 3538678,
+      "sha256": "cfb12552b523340053c1ec28fc9718306a4745458cca8061f89540545a59f407"
+    },
+    {
       "path": "assets/Menus/Extras/Character Bios/music/FreakyMenu-Port.ogg",
-      "size": 2557954,
-      "sha256": "4894b54ef3bace16176b5309de645837b8c0b722e5fbb7040b7049ab06f49c18"
+      "size": 5939303,
+      "sha256": "e2c7b8a44529155e4282e26d55755a1857b7a07397934e911a7f33f01616fc39"
     },
     {
       "path": "assets/Menus/Extras/Character Bios/portraits/Blake.png",
@@ -8877,13 +8212,18 @@
     },
     {
       "path": "assets/Menus/Extras/Character Bios/portraits/Gabby.png",
-      "size": 51769,
-      "sha256": "8ba225bf40ace4b2b4cc3677f621320912cfdb91da12c8feb447b2c3b2281692"
+      "size": 43154,
+      "sha256": "cbff309d1647364f89717254386e6adcf460e00f355bf9ff710c781ec2c9e551"
     },
     {
       "path": "assets/Menus/Extras/Character Bios/portraits/Grase.png",
       "size": 56315,
       "sha256": "9d96840a6b4389c7523d43b094490267b18ef146278ecfb30f389eaccb6a3aa2"
+    },
+    {
+      "path": "assets/Menus/Extras/Character Bios/portraits/legacy-gabby.png",
+      "size": 62135,
+      "sha256": "935d8d0e795f3a31d376d53b62c4b1a9095087832381629b08e5ac7f979e6e33"
     },
     {
       "path": "assets/Menus/Extras/Character Bios/portraits/Militus.png",
@@ -8916,6 +8256,11 @@
       "sha256": "f29450f869f9ef6bdc27b3a2e2519310efc6c5ce2185b6da2069fe1b817a9144"
     },
     {
+      "path": "assets/Menus/Extras/Character Bios/portraits/Yoyai.png",
+      "size": 46645,
+      "sha256": "c07440edd50574ac2e0f71622b03eddf19d06affb790c13f8641540a2566902e"
+    },
+    {
       "path": "assets/Menus/Extras/Character Bios/refs/Blake.png",
       "size": 1307963,
       "sha256": "46e77721031f105d6934a843573b3a1bcfc6865f3d0eb531b4ce3fb0fea67411"
@@ -8927,8 +8272,13 @@
     },
     {
       "path": "assets/Menus/Extras/Character Bios/refs/Gabby.png",
-      "size": 1885490,
-      "sha256": "be7313995f156b021991f64f54707f84ee19bc5b91ef30383d53835feb95f6ba"
+      "size": 1885738,
+      "sha256": "a610fe89f40492e6a3ac60c1ad2ae57b215571f37901d17dbf4ad67c246069d3"
+    },
+    {
+      "path": "assets/Menus/Extras/Character Bios/refs/legacy-gabby.png",
+      "size": 1522128,
+      "sha256": "047af5607da8f51f892a12622cda015b0a31b6ea05dd69a7ffc35e8f2763214f"
     },
     {
       "path": "assets/Menus/Extras/Character Bios/refs/Militus.png",
@@ -8956,6 +8306,11 @@
       "sha256": "0f308d7784e9f18f6da627b3c3669e91b3736014587456f49687a06bd0cdc3ea"
     },
     {
+      "path": "assets/Menus/Extras/Character Bios/refs/Yoyai.png",
+      "size": 2581261,
+      "sha256": "92b82a86223e55fab0cfbd3f3b9d0a0cef47e888567bd6edc984512addd68383"
+    },
+    {
       "path": "assets/Menus/Extras/Credits/menuCredits.png",
       "size": 258749,
       "sha256": "ba3382dc69f1559b3b74dc28fd7a6bb659b0c4c9a369f2bf7613cfff46b7e380"
@@ -8974,6 +8329,11 @@
       "path": "assets/Menus/Extras/Credits/Portraits/portrait-bip.png",
       "size": 42487,
       "sha256": "0af75ba9809dca0adfcb9f7c86d1f87b22f7d27b7f169ef9dd07e0b3178514b1"
+    },
+    {
+      "path": "assets/Menus/Extras/Credits/Portraits/portrait-cookie.png",
+      "size": 52611,
+      "sha256": "f47813a56f5ff7d2023adf0b68b153d4f2cda15e0ea63bd1377b014eaf19ad01"
     },
     {
       "path": "assets/Menus/Extras/Credits/Portraits/portrait-gas.png",
@@ -9044,11 +8404,6 @@
       "path": "assets/Menus/Extras/Gallery/Achievements Pulltab/taddernocolor.png",
       "size": 15520,
       "sha256": "8a74f704eca26c7238f5446d7318fd59ecf09499291da5d9987d9b16e003208a"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Art/.gitkeep",
-      "size": 1,
-      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
     },
     {
       "path": "assets/Menus/Extras/Gallery/Art/1.0 Thumbnail.png",
@@ -9166,6 +8521,11 @@
       "sha256": "ec5de093e7abf1582634dcaacbf731802d2ffdaa656fe5792148394856c1bda1"
     },
     {
+      "path": "assets/Menus/Extras/Gallery/Art/2.5 (Side C) Thumbnail.png",
+      "size": 1668190,
+      "sha256": "af84589f715428d518498eaf394df80c75877a0244ea62f6aab5e70a47c6dc72"
+    },
+    {
       "path": "assets/Menus/Extras/Gallery/Art/Fah Mix Portraits/fah.png",
       "size": 35903,
       "sha256": "3e6befdaa79b0098844f63b465515fbeacacb717667d51088c75329591f7f05d"
@@ -9221,15 +8581,14 @@
       "sha256": "0c8a932d26451d52d4d798bdaec86eb9ab4581bcd5ef1cd8449bd89e45a9cb3e"
     },
     {
+      "path": "assets/Menus/Extras/Gallery/Art/Legacy Gamebanana sidebars.png",
+      "size": 6390627,
+      "sha256": "ef64db11703fee7cf9548e79600d385237bd63c302038dd85e9edf4dc74596b4"
+    },
+    {
       "path": "assets/Menus/Extras/Gallery/Art/Main Menu Concept.png",
       "size": 33057,
       "sha256": "edf2a0d2e1b1c9f5cfba986b14e7c5716fa866239de4b879cd47117f551093cf"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/descriptions.txt",
-      "size": 526,
-      "sha256": "548a82977657c5820a293ff8aad8e59ecbc3dd6212301105d972033e464a1a7a",
-      "textSha256": "548a82977657c5820a293ff8aad8e59ecbc3dd6212301105d972033e464a1a7a"
     },
     {
       "path": "assets/Menus/Extras/Gallery/music/FreakyMenu-Gal.ogg",
@@ -9312,6 +8671,16 @@
       "sha256": "e2bd34b2ff7d697833e49a5db526f0d665f1fda772f2a8d2a14772be35b54a31"
     },
     {
+      "path": "assets/Menus/Extras/music/FreakyMenu-Extras.ogg",
+      "size": 5946857,
+      "sha256": "756bae3fbc1882f7836c5a7b7c99cae9cc60ef59556edddce7fe1edbf4a8f9c5"
+    },
+    {
+      "path": "assets/Menus/Extras/music/FreakyMenu-songplayer.ogg",
+      "size": 5058896,
+      "sha256": "572d7b4cc9fe27e90680113e7e55dc2538ebb6ed32c799f94b4d75752f6836a2"
+    },
+    {
       "path": "assets/Menus/Extras/Preview Art/achievements.png",
       "size": 67967,
       "sha256": "e3e9523bf274f7350cc27b4a55e3633b684c10576e799074c90553a9b10787ea"
@@ -9340,6 +8709,16 @@
       "path": "assets/Menus/Extras/Preview Art/shop.png",
       "size": 87507,
       "sha256": "40ffd330825c444d5df3ad7c25fb334bca5083725bfd09311b770cd8169b7f15"
+    },
+    {
+      "path": "assets/Menus/Extras/Preview Art/the-bin.png",
+      "size": 86967,
+      "sha256": "5976edabe884ef7cb8a7dc302a293837d4c653746dcbff4f47bb576c14f55db9"
+    },
+    {
+      "path": "assets/Menus/Extras/Preview Art/the-void.png",
+      "size": 79593,
+      "sha256": "6492baa52219a76ba463ebb99d829a82542311dfbf1b85d8bc315994e5a8e2c2"
     },
     {
       "path": "assets/Menus/Extras/Shop/images/Bundles/bag.png",
@@ -9811,6 +9190,21 @@
       "sha256": "483bea3e69df37b43d58ed49c21a3cf44f20274a6fb1100e234065d82e42ee80"
     },
     {
+      "path": "assets/Menus/Extras/Shop/images/games/sketch/frame.png",
+      "size": 318087,
+      "sha256": "2350186757fda20ece5fd0ae7ae8783da0ce3c4967597f154e6b4e9d9a06ac00"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/images/games/sketch/sketch-art.png",
+      "size": 65493,
+      "sha256": "d5b8b4393af0cc0bef37c0913aaf95570a570e4ab94dfad7d5c167c09cd6de2c"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/images/games/sketch/sketch.png",
+      "size": 12697,
+      "sha256": "9fc86eb08b5fbe193c96a5fef28c1b28993525da7cafb8c915b49654e5a35688"
+    },
+    {
       "path": "assets/Menus/Extras/Shop/images/games/snake/clam.png",
       "size": 38455,
       "sha256": "ee39a1b27e9da7af6890497a2d484995479bf0d0c76c179df11a032a3d537404"
@@ -10013,14 +9407,29 @@
       "textSha256": "925fe959ea9dfd4036cd2df4a452ecdaa9063d0cdafed76707c11a388cd53ad5"
     },
     {
+      "path": "assets/Menus/Extras/Shop/images/Militus/shop-idle-layers.png",
+      "size": 415407,
+      "sha256": "ab8e73255047eb09970deb76fae2a88d06d98dbb97fef0875ccfb9c12d45b3d9"
+    },
+    {
       "path": "assets/Menus/Extras/Shop/images/modifiers/awesome.png",
       "size": 16474,
       "sha256": "0e42bdc3a78f82f180887242dc54b350e24490eca94f1e01eb0d38f3ea70f85c"
     },
     {
+      "path": "assets/Menus/Extras/Shop/images/modifiers/colors.png",
+      "size": 27781,
+      "sha256": "8c58eac903ce96dc8d299581e52d7d7c3f1821f865aefd8626602f1aec8a6b50"
+    },
+    {
       "path": "assets/Menus/Extras/Shop/images/modifiers/devotion.png",
       "size": 12457,
       "sha256": "6b88f00a121889e429b69c775f2e4a0dab313d7588ccccf4b0a3f54d2f7d133f"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/images/modifiers/distractable.png",
+      "size": 15835,
+      "sha256": "ce2bc82f586c233ca9b882a960802e45290ca8dbb5f4a96343a6a14f54df87a4"
     },
     {
       "path": "assets/Menus/Extras/Shop/images/modifiers/hell.png",
@@ -10051,6 +9460,11 @@
       "path": "assets/Menus/Extras/Shop/images/modifiers/strum-randomizer.png",
       "size": 15718,
       "sha256": "dfcce371dc6fa7196f3a13c1804f125392eb2e2d226ef30f3ca676d3ea18dfd7"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/images/modifiers/woozy.png",
+      "size": 20552,
+      "sha256": "2057e7cae2402964cd52a6dc4885507a3b91b29254bce3f8911bb5bc58a5a7d7"
     },
     {
       "path": "assets/Menus/Extras/Shop/images/powerups/box.png",
@@ -10116,6 +9530,51 @@
       "path": "assets/Menus/Extras/Shop/images/powerups/lifecoin.png",
       "size": 12944,
       "sha256": "d470813ff7c3e257c97f548de8a8b597643d6f99c6c3e29d336f54da682e750c"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/images/powerups/militus-keys/DARROW.png",
+      "size": 8278,
+      "sha256": "b40eaed2b72eb196874b48bf304ebc457dbba73f01517b72ac70bda9e3945e38"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/images/powerups/militus-keys/hand.png",
+      "size": 9303,
+      "sha256": "29e43a9425df29cd552af6efffa1e28b31d4b73574fb7b2dca332bc38d999c7d"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/images/powerups/militus-keys/handarm.png",
+      "size": 7342,
+      "sha256": "ab6530042536938058349f204f952f59abacdaf980b723da7a13e9f938aeba0f"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/images/powerups/militus-keys/Larrow.png",
+      "size": 7397,
+      "sha256": "97c920320cc0ea1aeeb22a43130f9ba21c5ac0e63e1030aa7c065ccd36fffdc8"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/images/powerups/militus-keys/MILARROWBG.png",
+      "size": 15547,
+      "sha256": "1b48594fda954b108b156b3d98ae66d51aa82659f3d34a2b2ad1c4d220f4c8e0"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/images/powerups/militus-keys/MILITUS.png",
+      "size": 27840,
+      "sha256": "44366c380be1a6413a8a78977e6600313d999760e038f3cd081072e340d0b6e4"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/images/powerups/militus-keys/RARROW.png",
+      "size": 6605,
+      "sha256": "b9dedd68008c9c492153c815428a18b4c0b933f0d282de3da2179e716dfa749b"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/images/powerups/militus-keys/TABLE.png",
+      "size": 5941,
+      "sha256": "866577c9631b746d7cfdc94a4b2d13a5d00097514758bae2dd359b4e62cdd329"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/images/powerups/militus-keys/UPARROW.png",
+      "size": 8047,
+      "sha256": "ffacbe72c3c524093d8373fc62f51bc06b0819d388b1700db456d4869485f17a"
     },
     {
       "path": "assets/Menus/Extras/Shop/images/powerups/muffcoin.png",
@@ -10244,9 +9703,9 @@
     },
     {
       "path": "assets/Menus/Extras/Shop/shaders/shopShader.frag",
-      "size": 4352,
-      "sha256": "5e06c44bef5a97d8739718a67abe08a5453e069e79bf46a0c2e8e2d223b63435",
-      "textSha256": "5e06c44bef5a97d8739718a67abe08a5453e069e79bf46a0c2e8e2d223b63435"
+      "size": 5125,
+      "sha256": "5ddcff700906c2b289debc81ab857ef8f57b2c85e61e91971c09dd4480d0fa76",
+      "textSha256": "5ddcff700906c2b289debc81ab857ef8f57b2c85e61e91971c09dd4480d0fa76"
     },
     {
       "path": "assets/Menus/Extras/Shop/sounds/blips/default.ogg",
@@ -10264,9 +9723,19 @@
       "sha256": "005c13c5c29092ccc522bff5e87a977569a6969ea0e36f9552fd4c5ca4d7b7de"
     },
     {
+      "path": "assets/Menus/Extras/Shop/sounds/games/coin.ogg",
+      "size": 44766,
+      "sha256": "3c55511e2a22ee78de5c74622b9afb8fc553a56c7b20d96575f88a01dd695b75"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/cookie/acceptfahrebirth.ogg",
+      "size": 30878,
+      "sha256": "3bfdf505bab7b1b1c5e59e32784a623f1636a318483c3c6e01ccd971b06f1993"
+    },
+    {
       "path": "assets/Menus/Extras/Shop/sounds/games/cookie/cash-register.ogg",
-      "size": 9634,
-      "sha256": "92b19907deb91869fddb826e5ebaa0bd14bd972d948e20e848c1fcefe33435b0"
+      "size": 31510,
+      "sha256": "e0c6959accdd84bbebcddc972c27b1e8755933068ca5addde9e2386edfc9081d"
     },
     {
       "path": "assets/Menus/Extras/Shop/sounds/games/cookie/fahcky-clicker.ogg",
@@ -10280,8 +9749,13 @@
     },
     {
       "path": "assets/Menus/Extras/Shop/sounds/games/cookie/squish.ogg",
-      "size": 8716,
-      "sha256": "0db6e12c35531fb746d59760306796035d8c7c00da17595df446e28ea1cc7a67"
+      "size": 10174,
+      "sha256": "1ec8ccab4c2e48f7c5662db2204f4586b01299a2b990186c4350c0e6a606c3d0"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/dinosaur/bikewheelturning.ogg",
+      "size": 7334,
+      "sha256": "db8e9886a38f6d690cadcceba702b7d8f39b18756e149fccde1fd5b88336b3b7"
     },
     {
       "path": "assets/Menus/Extras/Shop/sounds/games/dinosaur/dino-runner-gabby.ogg",
@@ -10290,13 +9764,13 @@
     },
     {
       "path": "assets/Menus/Extras/Shop/sounds/games/dinosaur/gabby-explosion.ogg",
-      "size": 15912,
-      "sha256": "9aab036a6d7a81c30b729e083dda61a1ee5b524b84787b97bd3cb15623093459"
+      "size": 90869,
+      "sha256": "e9a83ba0d794794fbd7a69c2e293f7a1aab115a7d9b2232dce8189055b02c726"
     },
     {
       "path": "assets/Menus/Extras/Shop/sounds/games/dinosaur/gabby-jump.ogg",
-      "size": 6552,
-      "sha256": "24fc2e5fa166e62c85f1d698fcc22b761a4daae09f43242c08630be9ee47abaa"
+      "size": 55380,
+      "sha256": "1cffa95668ea6a567b204d045f4f48c781946c52107df91f79b3853d04ed2da4"
     },
     {
       "path": "assets/Menus/Extras/Shop/sounds/games/dinosaur/gabby-squish.ogg",
@@ -10310,8 +9784,8 @@
     },
     {
       "path": "assets/Menus/Extras/Shop/sounds/games/flappy/raven-flap.ogg",
-      "size": 7168,
-      "sha256": "8777465403fdb37316564abe62fb9e2508ab5f423b02bc6e14a35b8e5a387d8c"
+      "size": 13770,
+      "sha256": "48bd31aa59d96e48b65ce38f1e51e19016be212ebb739bb23d50468c3df68350"
     },
     {
       "path": "assets/Menus/Extras/Shop/sounds/games/minesweeper/militusweeper.ogg",
@@ -10319,9 +9793,104 @@
       "sha256": "ef0c74179710e1584971551a0004737c404c889a70ad83b4b683d115cabedaf6"
     },
     {
+      "path": "assets/Menus/Extras/Shop/sounds/games/minesweeper/ON.ogg",
+      "size": 18763,
+      "sha256": "7404d0ebdb7fe2d7a8ca006ae3b56add9831a41db88161847bcdde3c2bebbfa0"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/minesweeper/place_emblem.ogg",
+      "size": 16987,
+      "sha256": "2291079f4ab1085fafe75146ef3e33859beab473644aee94670d80ccd54ae39d"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/minesweeper/step1.ogg",
+      "size": 14482,
+      "sha256": "ea00f9a5d979e382be2e88f7abbafa022b309f703a117cdef09b1f220a82c095"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/minesweeper/step2.ogg",
+      "size": 14517,
+      "sha256": "b6739e9bf36aaef282eb62728439a24b71e0f6797caf6cd492451f202ed54b7e"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/minesweeper/tilereveal.ogg",
+      "size": 9577,
+      "sha256": "20c3040bd3675e743dfcf171c75892e8994b48ebd82c7fb34f4543cc23bb4b93"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/pong/ballbounce.ogg",
+      "size": 15526,
+      "sha256": "b9adab74c26237ceea8d8035426dd575481efcf04b5b48acdefec75c8a082c5c"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/pong/ballbouncefast.ogg",
+      "size": 42586,
+      "sha256": "d87f1870663d84abb041dd02b80162d5d1681a87a2d9ac71eeb4ea3254ff6c38"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/pong/ballbouncespike.ogg",
+      "size": 16352,
+      "sha256": "fc55b8e1fd386042b89f0640e0aa368e85da618926df4c02ede42da3ce12b2a5"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/pong/ballcrack.ogg",
+      "size": 22532,
+      "sha256": "441b567cca62a0556df58a2544274a9a07c8a0794a87a8b5b585d1f7a99f81a2"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/pong/enemymiss.ogg",
+      "size": 14485,
+      "sha256": "335f02457e15e3f707c36ba26b6ae3239c78b74add8412634ac9e92c5fdca1fd"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/pong/miss.ogg",
+      "size": 23516,
+      "sha256": "bcb087bd3cc6bfa4575c992f3cec93e9ef3f0682c98dbab22d17e048c45d6119"
+    },
+    {
       "path": "assets/Menus/Extras/Shop/sounds/games/pong/mothnola-pong.ogg",
       "size": 458097,
       "sha256": "df56377d5d9bd93ad862c575d25b643a4691c5d32725ee3135fd5e352729c0ec"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/pong/pongloss.ogg",
+      "size": 128502,
+      "sha256": "46a74c1a0c493972f0c125fcd8f975b2993431436cb7c17741d0e753d0398d20"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/pong/pongwin.ogg",
+      "size": 125403,
+      "sha256": "04a89f86fa55d12e279168f6a1188d506affe85b1501d9b0621b51f29a5177e0"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/sketch/countingupratingyoyai.ogg",
+      "size": 7048,
+      "sha256": "fe63d6b1c4409d36126a7857a694bd49eb9461f7548e19b6e96b1d12e9079644"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/sketch/selectcolor.ogg",
+      "size": 33772,
+      "sha256": "78b96ecf166f663ce89e00f138a413b3811744e6f94c863cba9380f758d00e57"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/sketch/yoyai-game.ogg",
+      "size": 202628,
+      "sha256": "bf92c295ce42155cee5f319d948851d3a5ccfcfbd2d24b2c1b5c02e1d5618f85"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/sketch/yoyaigooddrawing.ogg",
+      "size": 65788,
+      "sha256": "6ee9dac69cd1a38777677799060fee856528f9d01966454298b05ba7ae5de94c"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/sketch/yoyaipaintloop.ogg",
+      "size": 145706,
+      "sha256": "306637ef44bb90265e648650f21ba51e6316455597fd0743bbefe4f8f5220c27"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/games/snake/nixrebirth.ogg",
+      "size": 204862,
+      "sha256": "0c9d1fd97fe009284a77523691d7d647a4765b48328045b2e844b3ccb01d429a"
     },
     {
       "path": "assets/Menus/Extras/Shop/sounds/games/snake/scissors.ogg",
@@ -10330,8 +9899,8 @@
     },
     {
       "path": "assets/Menus/Extras/Shop/sounds/games/snake/shrimp-bite.ogg",
-      "size": 8192,
-      "sha256": "7997e303cf9aeb44d50ab3fa3f71c13dc776732d3e727c66375bc22faa323724"
+      "size": 39148,
+      "sha256": "51db288e6c0d56b6cb6be7c7d035f093304bc240dc77f85594b6b759726b8141"
     },
     {
       "path": "assets/Menus/Extras/Shop/sounds/games/snake/snake.ogg",
@@ -10339,14 +9908,448 @@
       "sha256": "2925caf1bec335f4fb00c0eb9951552d5f5e828d4290e266e9f705d4382dc750"
     },
     {
+      "path": "assets/Menus/Extras/Shop/sounds/militusshophover.ogg",
+      "size": 25122,
+      "sha256": "7fafda4baec271cf3d5bd5f08fdd2d3bd65715e4fc807b248e0f210879ba7e54"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/powerupselect.ogg",
+      "size": 14380,
+      "sha256": "9020f7904cdafbb9e6f0c9ef256439f7979232b57d6fd38bfed74bb6a43d988b"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/powerupuse.ogg",
+      "size": 68893,
+      "sha256": "9b66a584ed55db4f0cf8f09fb6dd647cce52b281a77067a0c39549808327a4c1"
+    },
+    {
       "path": "assets/Menus/Extras/Shop/sounds/purchase.ogg",
-      "size": 18689,
-      "sha256": "337f32dfea159cc5be548674a8656f20ec9414401eeb2984ebe3192a66626e80"
+      "size": 48905,
+      "sha256": "48ed3e3877105aa47db60ea8dcb65746fd4ecc86ca85b06db80ab1cb8ea401f7"
     },
     {
       "path": "assets/Menus/Extras/Shop/sounds/raven-walk-squeak.ogg",
       "size": 7348,
       "sha256": "fbfe5b27da9c148ac95f7a807287dc52406799fb8f38ec5ffa2ef17fccc12bfa"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/selectgame.ogg",
+      "size": 46930,
+      "sha256": "23d60e24c1694785df4ac0b54aac249a96dc164e1a29567509e9dc996f809c46"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/ticketdispense.ogg",
+      "size": 126619,
+      "sha256": "90bff825fb2d4b3f4b6601c1e446ed6c57da63445d298109ab8fc3b0556f3980"
+    },
+    {
+      "path": "assets/Menus/Extras/Shop/sounds/trophydink.ogg",
+      "size": 18111,
+      "sha256": "597fd0f5a4109b2dac28c47c9760ad0a716f5906736cbe35cf649aa1175440d5"
+    },
+    {
+      "path": "assets/Menus/Extras/The Bin/music/gabcade.ogg",
+      "size": 2048963,
+      "sha256": "0018f107738c5597d423c4141153a4de7dacf08d8bfe70345c3c3b89a14cb932"
+    },
+    {
+      "path": "assets/Menus/Extras/The Bin/sounds/camerawoosh.ogg",
+      "size": 15102,
+      "sha256": "ae8de40c71c29b16626db58bd41204963c2d1d303ce780e67b5d183aafb6bff4"
+    },
+    {
+      "path": "assets/Menus/Extras/The Bin/sounds/clawdrop.ogg",
+      "size": 86772,
+      "sha256": "1de32eaf39799a049f0054e0f183096b99addadc4c62489547b919e584dc6020"
+    },
+    {
+      "path": "assets/Menus/Extras/The Bin/sounds/clawgrab.ogg",
+      "size": 29729,
+      "sha256": "6af7bf754474092e43fb9680ee1ba9012d3b35c4790fd49f01179733040e59d0"
+    },
+    {
+      "path": "assets/Menus/Extras/The Bin/sounds/clawmoving.ogg",
+      "size": 124694,
+      "sha256": "1a606d457efc43f903ab394026b7e65938c2df4dd87e00ba4d07c4e0a070515a"
+    },
+    {
+      "path": "assets/Menus/Extras/The Bin/sounds/clawopen.ogg",
+      "size": 28718,
+      "sha256": "4994296907b6cbe75cd34a2471bf51eb5e03060fc5f6feb421cb1fad7f70573c"
+    },
+    {
+      "path": "assets/Menus/Extras/The Bin/sounds/gabby-talk.ogg",
+      "size": 8209,
+      "sha256": "8b062cdc9a14c1e8f99faa2ad4aa35a3e41565a9545e54d96d0fdbc793e50ee8"
+    },
+    {
+      "path": "assets/Menus/Extras/The Bin/sounds/plasticdrag.ogg",
+      "size": 127199,
+      "sha256": "660334f19be76a9ede9dfbab79f25ddeec3db73ca072201b74596b31badede50"
+    },
+    {
+      "path": "assets/Menus/Extras/The Bin/sounds/prizefall.ogg",
+      "size": 8847,
+      "sha256": "ccb1d5397d609092158c35432d87fe7dc3233834b845bf88bf904e234caa9e1e"
+    },
+    {
+      "path": "assets/Menus/Extras/The Bin/sounds/prizeopen.ogg",
+      "size": 202300,
+      "sha256": "8acf97fb36fd78d3b368da3f565813908ecc49985cfb0cbfd04246b5973ccb6e"
+    },
+    {
+      "path": "assets/Menus/Extras/The Bin/sounds/prizethunk.ogg",
+      "size": 31937,
+      "sha256": "cf5a089b5f4f982c083b0a2f7c799b37797af9aae95db4623f5415126711e494"
+    },
+    {
+      "path": "assets/Menus/Extras/The Bin/sounds/tokeninsert.ogg",
+      "size": 103122,
+      "sha256": "3f46396b156aa7f7d7287e5fa8d145448cfe877f249a11fb10390448224105df"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/bf/bf.png",
+      "size": 1711430,
+      "sha256": "0f12394064520329d7ed88a096e79ee3737685f4f7243bed00fc045471121585"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/bf/bf.xml",
+      "size": 3200,
+      "sha256": "e7c11270355a896cbaab81265cbcccb60ef49e5c3884915fd3071891b7302882",
+      "textSha256": "0c2697b7a066c283d33b3cafda2902f949c87e0c40cbbc4321684efea9889e62"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/fah.png",
+      "size": 843216,
+      "sha256": "b72c768e428b97af327da69c2925b4d8219118c9f4f571a38873d63d6f9213fd"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/fah.xml",
+      "size": 4411,
+      "sha256": "b0b7433bc3663af5cf279baa4dcb411b1d456b710281e7f436639031e1699628",
+      "textSha256": "c69c210d3397473c24b185ee5f3fc28bd452318c292a1f0704e30affa664e7c0"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/gabby-mask.png",
+      "size": 111639,
+      "sha256": "f3494c58b3e3671a2a0f6d6eac032e1a108f78dcd5bbd41876558f14b8763717"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/gabby-mask.xml",
+      "size": 2094,
+      "sha256": "1d5f3bc15b51e164863c107fe90a0bffc62a25de4634d0e0a9f6186eb17a40ba",
+      "textSha256": "7a2019663c8eb6c515aa3c02c5f6188321eb5586b69c37da5511bc93ca09f186"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/gabby.png",
+      "size": 759666,
+      "sha256": "ae4983736371107ea5e6283c53662de784d93b43e820a6b115030e0cd5721bf2"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/gabby.xml",
+      "size": 2041,
+      "sha256": "6badaeb58b9e3310ca670089a308bea1f32d20aa4448506a86f7512c8bf5674d",
+      "textSha256": "c768cffa29481943e14de0e38119472709ab22497258014b1abbaafe639792b3"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/garfield.png",
+      "size": 384996,
+      "sha256": "64da80131100663ab639d0b0238145438cf20ba182f6cd8a18f9545ddf53c443"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/garfield.xml",
+      "size": 2483,
+      "sha256": "997a592a9794c3b7f732ef3e3d834e483cd41eae525204c6b141c1538748663c",
+      "textSha256": "1ebdfa2a0e40837a95ac5f6ca92a4fca6904626e287c0eaf99742b284afbd189"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/moth.png",
+      "size": 387154,
+      "sha256": "6b649a29bfe3a5ad63d694c44cb3851c5d56548eebc828dd2627865e3142bf88"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/moth.xml",
+      "size": 1190,
+      "sha256": "01460aa07514ae1b52b2027bc9e653f0d44b210e8133fb066c2a0b4d7c898a9f",
+      "textSha256": "a1e9c90b214977f85ea619397b47443d17f0294016a8b6eabc4e7950c59d9fae"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/nola.png",
+      "size": 493000,
+      "sha256": "dfeee545bbd8301a80589d6e735445bb6fa36a74243294352a5acd6b786ecba9"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/nola.xml",
+      "size": 1186,
+      "sha256": "be3d58f8cf99306e9875304f3629ecf46842f73908a33ca4e170b11debae4c8e",
+      "textSha256": "5dff8c8d802283d5a18a44391ce1294c69c0a839d73f9f5f694f6b9d5795c47c"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/phoenix-mask.png",
+      "size": 84907,
+      "sha256": "41ceafc3dd7ce963db8fd2c2e528b39e713d8b4c365cf339556e17861e60c7b8"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/phoenix-mask.xml",
+      "size": 1537,
+      "sha256": "b8813e7d8bc445425db31e87e2be5631e8f1615e3dd9d3fecf0036ecbd6e3718",
+      "textSha256": "38b2c2c77ab145cbf86ed40b6e9a570530dbe36693d3479103de0f1b28da8fa5"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/phoenix.png",
+      "size": 528876,
+      "sha256": "a6acd1cc7adba44be71f5b9bdaaeb81fb2f6f9bc2e6649ee26e5b44e19012387"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/phoenix.xml",
+      "size": 1500,
+      "sha256": "00a99733c944297606d1ca4b056dd0121b824694975a4c5447c314fe226f0fae",
+      "textSha256": "e5c56640666a5d1babcfbbaef5016144449c8142d0da81f016654aa594d13f5d"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/raven.png",
+      "size": 821750,
+      "sha256": "067a65b165b5f86053ec33631ccef288cdd6cf50b7ab2bfe89e7ef8ac0613f0c"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/raven.xml",
+      "size": 2914,
+      "sha256": "45ac836faf6ef32f8b3a1c9a5ccacce0e58c349bf9069ace27913596fea34011",
+      "textSha256": "f2d0834b189ba0f4745c6aa4981b1fc97c0f5e98b87830ca9a14ae2983869eea"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/yoyai-idle-first.png",
+      "size": 187346,
+      "sha256": "daa629764b7db4c997d622c97fd5091bfd1ac1dceb1cebdfc1a3c159f01543c0"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/yoyai-idle-first.xml",
+      "size": 240,
+      "sha256": "619a9898638c7c481c6cbc87867fa98d8496a875849faa8adfda50d17379ac67",
+      "textSha256": "619a9898638c7c481c6cbc87867fa98d8496a875849faa8adfda50d17379ac67"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/yoyai.png",
+      "size": 1069007,
+      "sha256": "1b30e554dbb52a5c83e1c13cf694a8e01e7260f1967f16ca2a805cc72f24b3ee"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/characters/yoyai.xml",
+      "size": 2495,
+      "sha256": "5ee3e43f5ad8dcff1303540e94ef75e88a6feba769dc5d6183971eca6adf3dbe",
+      "textSha256": "b66becf6c526f6baa1f3cf2f295363183934e0f3b2b93fe14f2a87ce3a1868bd"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/garfpet.png",
+      "size": 1151286,
+      "sha256": "cf9dc49ea41d2aa189925618b263579e1c5674a23781a2119f09d786628a0d2a"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/garfpet.xml",
+      "size": 2789,
+      "sha256": "46f5b8912cd311df9b89913824e224ff2425e921823f69dd9572e4a31f1d4834",
+      "textSha256": "bc13ab6e0cefa093277534f684ae7776badff2c2dd8f9de31497c163352ad951"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/icons/fah.png",
+      "size": 15382,
+      "sha256": "93a458aab9882eb6b687c5af6505662abb237475bd898c8e03b4c661db776300"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/icons/garfield.png",
+      "size": 32228,
+      "sha256": "fd0cf4c0ed44651eeee6cc2a4b36e62ab5c746f4cb8900615184fd0ed770a8aa"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/items/bigfloordolar.png",
+      "size": 48987,
+      "sha256": "61ba7c2ea8ea10441134006305180b6a799140f94f3ab6418da24569520b8333"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/items/coin.png",
+      "size": 28529,
+      "sha256": "51f45c7a9916d49dc7b29de1429d4e6e6825a02c677220067e0436cb5e7420fc"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/items/lint.png",
+      "size": 24452,
+      "sha256": "28d65f1ebf2c36d46f89edd848d229f29cf84d81c200d4c8104dad7954e967ee"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/items/paper.png",
+      "size": 64742,
+      "sha256": "2750eb48e5e44e8275c6d23b7398ca92b706f9e4cd8a1007218befac7f1b3dc0"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/objects.png",
+      "size": 373826,
+      "sha256": "9082b07a674d5b9c54e1320d32442d612a0f59e703df3bfd3613a09080d568be"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/objects.xml",
+      "size": 3535,
+      "sha256": "13334c1ec19beccbe09787fae1fe1a7e02490ac1b33e173cdc60ab162ccfaf8e",
+      "textSha256": "c3f473743017a1e06702808aabbc3f179bd9f1c3165539fb4cd19d0964f9e599"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/papers/week0.png",
+      "size": 53534,
+      "sha256": "1aa53998f7ccdaa431b3ebb9a8908de68ab401646fed8ad390b2d7372686b465"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/papers/week1.png",
+      "size": 44184,
+      "sha256": "0026a1346d5c859f1a36d4ec09c1a5eb2cb725accbbf9977556076974e6969d4"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/papers/week2.png",
+      "size": 62180,
+      "sha256": "8bcb27d7b6b343e6686c3d2082d83946222502361462613a94b53b3dd35de51c"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/papers/week3.png",
+      "size": 48868,
+      "sha256": "d98bf97e7f990b5464d217b296f4949858d225a6d18e0b7ddbbbf7c1d93bb952"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/papers/week4.png",
+      "size": 49998,
+      "sha256": "06854d2cd0d8e6f63b0fdcaba88e500a425e257c344c3ca7725fd17b3cdc0436"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/papers/week5.png",
+      "size": 50145,
+      "sha256": "6f3facfb5d72658beaeaf42a82c9b3777c69dc83477fb43d95494b58b65cd1bc"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/papers/week6.png",
+      "size": 51280,
+      "sha256": "60631d62ec1571d6f081feaa8310c49e21108db1c88476959f952382665e3b79"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/papers/week7.png",
+      "size": 56382,
+      "sha256": "20e971f7dfbe483354bb70acef6d749a51c7c06093adfc9f0c3e0f3bbaed52e5"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/images/void/papers/weekend1.png",
+      "size": 48617,
+      "sha256": "67c98ba225159571294ced48801d0a5c58e0501a5680c116f8e11e94b0bd5d0d"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/music/void/aom.ogg",
+      "size": 3021729,
+      "sha256": "bfb5c3fb4ba74f606b401d3dad6bf7dc9414aa506b318904c569a674e855726e"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/music/void/blake.ogg",
+      "size": 876442,
+      "sha256": "0d089c8ed8ce152a0b0953791123d09ddd87c3377ceb1ea14039a92228c7d14e"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/music/void/fah.ogg",
+      "size": 1016510,
+      "sha256": "aabceeb92ec394f7f7ffe6521b7e6c3472607f152bf8c73f5019a22f24bdebab"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/music/void/gabby.ogg",
+      "size": 2233654,
+      "sha256": "a0e09c732ec607cc20a6a5e07dd4919748b04eb899555a10b6928752ba533051"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/music/void/garfield.ogg",
+      "size": 777439,
+      "sha256": "829de70d67c82ecd2f264b046633f577f1908dc3e0b3004e0c8fe9fedb01e567"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/music/void/moth.ogg",
+      "size": 1081196,
+      "sha256": "cd2e1e5689e58fe16a685cf7fa7b4d04c53c8a5a9bed34576cd214b4e522980a"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/music/void/nola.ogg",
+      "size": 1021191,
+      "sha256": "caa9ae9640ee8cf94343368729d28c57a8ce367e88044db03d0d3a2a4f98db13"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/music/void/phoenix.ogg",
+      "size": 1709950,
+      "sha256": "f294ea5ca4fd754bf7ca04ea2b3ca8f338dea2d4a3d15d861b42ff29403146b7"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/music/void/raven.ogg",
+      "size": 2128178,
+      "sha256": "8886cf8ad47866d0e03d8d5da1dfe30f07cadfcd1a8815ab4c1fe21e1aa3a83c"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/music/void/yoyai.ogg",
+      "size": 1811867,
+      "sha256": "0715bbc908dacb3164f08f7623437033d22e6ab9bb28205e86f28a5ffcb0d150"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/sounds/void/fahobtainpaper.ogg",
+      "size": 28972,
+      "sha256": "482c6e1207ac24cd2fb1dcd448fe4b80a99ae8147e17c4490d77c9dd87eacf0b"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/sounds/void/garfield-purr.ogg",
+      "size": 362130,
+      "sha256": "f693513e1237238ebef5867eb14b1b9484a897bd8f2e72a82817a343738cc843"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/sounds/void/printcoin.ogg",
+      "size": 52342,
+      "sha256": "8c12f32175fa7ef5d043e093f98da8bd6ff4c0119c1f483302ed2a88fdc78b56"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/sounds/void/printerloop.ogg",
+      "size": 108291,
+      "sha256": "1def8197e09c5095a884b32cbed4b0c94a5a24f44eca5be2d73c20a7d32d5eb8"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/sounds/void/talk/fah.ogg",
+      "size": 8019,
+      "sha256": "11301d5c68ab28bc8b8ac1a132044b59e4cbca30a561f249b092d441a1f890d0"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/sounds/void/talk/gabby.ogg",
+      "size": 7718,
+      "sha256": "e1b36235a8a6243d8867a134f83ee9c84e7e83ce35803bfcf9621f50b8a3b473"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/sounds/void/talk/moth.ogg",
+      "size": 7600,
+      "sha256": "b9d0bbd4eb9c545c3231e04bf2c58accfbbaa53f11ee099a532fc1d517f77b52"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/sounds/void/talk/nola.ogg",
+      "size": 7764,
+      "sha256": "36ea5d2a885a4a4a3785a58efd2a11af6afd32fc1586854dc547bafba6d1eb28"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/sounds/void/talk/phoenix.ogg",
+      "size": 7508,
+      "sha256": "44b012d0f827badf5c9fcbc01512439230f9120a7080baa0f678bb437859985b"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/sounds/void/talk/raven.ogg",
+      "size": 7773,
+      "sha256": "8c441080322d4d71b20dcf1637f3d4aad0a42cfbf976a0636f63aa48d0983b38"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/sounds/void/voidstep1.ogg",
+      "size": 134377,
+      "sha256": "6aae8669b70681cf03442dfdb8761832c524b00e2017c55a7d6fc0e0c0d15de9"
+    },
+    {
+      "path": "assets/Menus/Extras/The Void/sounds/void/voidstep2.ogg",
+      "size": 129377,
+      "sha256": "976118660457866ac24dd0bb3ee3fd054f88e84714e2b2404d635fd01bfb8aea"
+    },
+    {
+      "path": "assets/Menus/FahMix-transition/sounds/fahhead.ogg",
+      "size": 41972,
+      "sha256": "e6041aa8e2fe2d6e0696e5d41dd2c6736a36b2e065a471ca08384b549b21c479"
     },
     {
       "path": "assets/Menus/Gameplay HUD/Countdown/images/Classic/ready.png",
@@ -10559,6 +10562,11 @@
       "sha256": "ee89cc33700b4f0de8c420f39cef8769565f84d63a1e8c316df0bd23b0fdab44"
     },
     {
+      "path": "assets/Menus/Gameplay HUD/Song Credits/chibis/yoyai.png",
+      "size": 164814,
+      "sha256": "2e4b7bea925a28466a45d2fd86553414fe9779bb85693f6c5e207c2960bcfb88"
+    },
+    {
       "path": "assets/Menus/Gameplay HUD/Song Credits/composer-panel.png",
       "size": 24029,
       "sha256": "56895349e044e8803327b29590cee481fe157de0e73e9dd98ad6afb123a29c65"
@@ -10765,13 +10773,13 @@
     },
     {
       "path": "assets/Menus/Gameplay Menus/Pause/music/pause-music.ogg",
-      "size": 10947548,
-      "sha256": "5612cb558e3f9e7234bdc40d5070ea342454b4ee20145672d6772535a2d7f917"
+      "size": 10935810,
+      "sha256": "7dc90190ade3c5feca4f2772acd4fd3efa1afbb0dda4f993be4e4330ef1fb979"
     },
     {
       "path": "assets/Menus/Gameplay Menus/Pause/sounds/Effects/pause-music.ogg",
-      "size": 10819363,
-      "sha256": "78e75eb548eaaa2c0496302ce9ddedbfaff506b6c5b789f0fabf9ca4ff697ac6"
+      "size": 10935810,
+      "sha256": "7dc90190ade3c5feca4f2772acd4fd3efa1afbb0dda4f993be4e4330ef1fb979"
     },
     {
       "path": "assets/Menus/Gameplay Menus/Pause/sounds/Effects/pause.ogg",
@@ -10883,12 +10891,6 @@
       "sha256": "690c44d8f1fe50afdcc5fdc5ee3ccecf9be3a9466100e3fc064092f484b2452c"
     },
     {
-      "path": "assets/Menus/Main Menu/News/Song Icons/new-song.txt",
-      "size": 5,
-      "sha256": "5c7cb47333721ebb548f8c04ca18153dc73ab8705ea26c074ddbd82d67ad1a8d",
-      "textSha256": "5c7cb47333721ebb548f8c04ca18153dc73ab8705ea26c074ddbd82d67ad1a8d"
-    },
-    {
       "path": "assets/Menus/Main Menu/News/Song Icons/nola.png",
       "size": 51637,
       "sha256": "16bd88d679384dbdfa4b1b6322ca5cfc23fb7df3dbab2eb9eb67c55e5f6d4af5"
@@ -10925,6 +10927,11 @@
       "sha256": "68eaa3d975d5b10bb31e44b015ff6bf733bcf79723268ec5d29f1386d0e6cb12"
     },
     {
+      "path": "assets/Menus/Main Menu/plushies/bf.png",
+      "size": 69227,
+      "sha256": "d845584f734950451b5d4800c6bfe5804096775d5fb84b606e1b7a5a8c857c90"
+    },
+    {
       "path": "assets/Menus/Main Menu/plushies/fah.png",
       "size": 75847,
       "sha256": "a91757121d9908c0f1ccce5bbbda5a82c9dd6ca3fb3485c212670f3e01a1cacc"
@@ -10958,6 +10965,16 @@
       "path": "assets/Menus/Main Menu/plushies/raven.png",
       "size": 93376,
       "sha256": "e327a61c530ced844f6e3db89af891b49d5861862178916ba947d9a3bcb01583"
+    },
+    {
+      "path": "assets/Menus/Main Menu/plushies/retrogabby.png",
+      "size": 142087,
+      "sha256": "2a5e745d51eaecca278f4e879611824acff7a2c75d4572b6f6f21e34519bf681"
+    },
+    {
+      "path": "assets/Menus/Main Menu/plushies/yoyai.png",
+      "size": 95985,
+      "sha256": "92f75921b15c42a95da65e668aec92440bf19991a894ea76b8d6357c3a69e549"
     },
     {
       "path": "assets/Menus/Main Menu/Portraits/art1.png",
@@ -11005,14 +11022,64 @@
       "sha256": "814a17ed2f6d621786957f8c5df1ac713891c31bcf008f47c20a86543feccd89"
     },
     {
+      "path": "assets/Menus/Main Menu/Portraits/art18.png",
+      "size": 216294,
+      "sha256": "92922b28693a5d1a7c7bf6a1a5aa6cae223333579b456166ea128e5d709506de"
+    },
+    {
+      "path": "assets/Menus/Main Menu/Portraits/art19.png",
+      "size": 243153,
+      "sha256": "a20cdc8d4d5fb8486faaecca7fc3c345e81e5a6e3928cc409329d55b0b459e3c"
+    },
+    {
       "path": "assets/Menus/Main Menu/Portraits/art2.png",
-      "size": 171272,
-      "sha256": "80f882533320e73aa0d184bda748012ffdbec66703d8534b2ac20ca6c469b9bf"
+      "size": 196156,
+      "sha256": "36036b53ca335aa3b5d24276c099195d62559f3259b107ca071e82faa0f02bbf"
+    },
+    {
+      "path": "assets/Menus/Main Menu/Portraits/art20.png",
+      "size": 167568,
+      "sha256": "04e5798af5345e32ab53a6d2e3812e8a410a31ec6943b58ffa85622e5d110f72"
+    },
+    {
+      "path": "assets/Menus/Main Menu/Portraits/art21.png",
+      "size": 281029,
+      "sha256": "3c509febdc6f8bfb5bc16a1e9e279646684f4284d713d2e2c3e9f22927eb579e"
+    },
+    {
+      "path": "assets/Menus/Main Menu/Portraits/art22.png",
+      "size": 143874,
+      "sha256": "a85702d6527b5286f4e3b53c567692cbaa3541f8dd50cf09f8b39f9f5b7f92dc"
+    },
+    {
+      "path": "assets/Menus/Main Menu/Portraits/art23.png",
+      "size": 301705,
+      "sha256": "d7b8d617fec86e179985989b46d4a6502de13e56333a116edd677749c1f38176"
+    },
+    {
+      "path": "assets/Menus/Main Menu/Portraits/art24.png",
+      "size": 204673,
+      "sha256": "71c5bf61d6da7ea3fcd64723dde3ab1e1e179846979902fa4f06ca71bf1180ca"
+    },
+    {
+      "path": "assets/Menus/Main Menu/Portraits/art24t.png",
+      "size": 204611,
+      "sha256": "9c2a381007c0b2afc9bf8710bd6187843692080bbe8dc9bdf8a906669ac6de73"
+    },
+    {
+      "path": "assets/Menus/Main Menu/Portraits/art25.png",
+      "size": 198002,
+      "sha256": "8c9aa8a9620784376cb721255f5042f2b600e8bf31f93847e06c41d9ca0464f2"
+    },
+    {
+      "path": "assets/Menus/Main Menu/Portraits/art26.png",
+      "size": 678021,
+      "sha256": "3856f9887ebde429df2f70e552929917d9185c7c4380014a1ad0d89943b4bf5c"
     },
     {
       "path": "assets/Menus/Main Menu/Portraits/art3.png",
-      "size": 219638,
-      "sha256": "2d37348b4717a5910a685e587de30c137d0945e34a6709cd1f2ae5e1fbc1bde5"
+      "size": 279132,
+      "sha256": "98dd45399b294e6a724510d05d4baa3b4de701601db6422ba8b1faaadd006d1f"
     },
     {
       "path": "assets/Menus/Main Menu/Portraits/art4.png",
@@ -11045,12 +11112,6 @@
       "sha256": "9dd94a0321cb0d26a98595a90be168efa52f69177f956c1f407025d88e4a090b"
     },
     {
-      "path": "assets/Menus/Main Menu/Portraits/colors.txt",
-      "size": 367,
-      "sha256": "64f431fa62fd9e7d101610ad5156f70d7017793e30e453fe08c3e0cfeeb9836b",
-      "textSha256": "ebee8261ce3cc5244e83f214ba5d59d0ba5915a1ceff84919e7ee69e95df16ad"
-    },
-    {
       "path": "assets/Menus/Main Menu/Sidebar/averageocmodText.png",
       "size": 3519,
       "sha256": "b40b5fb93bd8d55decf33b47e9f5d8a9f052bcad4b3989507e7654fb2c27e54c"
@@ -11069,6 +11130,12 @@
       "path": "assets/Menus/Main Menu/Sidebar/sidebarfah2.png",
       "size": 33499,
       "sha256": "319a1ceb5196280df107a55a54a67eebf6be62f7f710ee4ad624f6c31ac54c54"
+    },
+    {
+      "path": "assets/Menus/Options/changelog.txt",
+      "size": 3102,
+      "sha256": "e2f869fadcf27335f5e7296e99b96f595f0c186edb8459d568a1889b894c1d3b",
+      "textSha256": "e2f869fadcf27335f5e7296e99b96f595f0c186edb8459d568a1889b894c1d3b"
     },
     {
       "path": "assets/Menus/Options/images/checkboxanim.png",
@@ -11277,6 +11344,11 @@
       "sha256": "b45a77a13ef16cfbd1faecfce3565e655788aaccfa8eeae2a1bff3207a506de4"
     },
     {
+      "path": "assets/Menus/Song Selection/Fah Mix/Song Names/ridge.png",
+      "size": 64077,
+      "sha256": "2554d32f6731464930f02a9cef93c7d6bda1b55c1f58b93be8225367e1ada092"
+    },
+    {
       "path": "assets/Menus/Song Selection/Fah Mix/Song Names/roses.png",
       "size": 42486,
       "sha256": "1d6bffa4d9a474b983ee3899e73179e4ed001215308709a8895bca5aa13f27b2"
@@ -11285,6 +11357,11 @@
       "path": "assets/Menus/Song Selection/Fah Mix/Song Names/senpai.png",
       "size": 46617,
       "sha256": "5faf1fd127671333db1b791b8efa451e7c1779dd7450004632dd59a71e4670d8"
+    },
+    {
+      "path": "assets/Menus/Song Selection/Fah Mix/Song Names/smash.png",
+      "size": 62199,
+      "sha256": "cd33c00c12efc5bc0800b78365caa541844b6c1bccc2b36ee02af048ff996600"
     },
     {
       "path": "assets/Menus/Song Selection/Fah Mix/Song Names/south.png",
@@ -11412,6 +11489,11 @@
       "sha256": "1057f50c8e6381a1dee08e93d4a4670c3a9516db0914de9b5df11f7d2ab79095"
     },
     {
+      "path": "assets/Menus/Song Selection/Fah Mix/Song Portraits/ridge.png",
+      "size": 140265,
+      "sha256": "1ba6f7626466f69880b75127fcd698f9568136f124d8cf7e5575f6f726e9f6c4"
+    },
+    {
       "path": "assets/Menus/Song Selection/Fah Mix/Song Portraits/roses.png",
       "size": 160246,
       "sha256": "c1ec3457f9bd29c01b7674b420d543ebfeb3220515a525e011b0147008ac84c8"
@@ -11420,6 +11502,11 @@
       "path": "assets/Menus/Song Selection/Fah Mix/Song Portraits/senpai.png",
       "size": 178700,
       "sha256": "81c4c559d4ef703a33c133817d75d5866a91ebc82a408373852aa9672aa8f7e5"
+    },
+    {
+      "path": "assets/Menus/Song Selection/Fah Mix/Song Portraits/smash.png",
+      "size": 145080,
+      "sha256": "525f6596883f933b5c66bcf86a6225b707d477deaa31fcfc04f9a5096aaaa5ea"
     },
     {
       "path": "assets/Menus/Song Selection/Fah Mix/Song Portraits/south.png",
@@ -11588,6 +11675,17 @@
       "textSha256": "ab3525e291248b3d0eadd8a5fe7ec743bca6c2282bf65578f3eae2d105339809"
     },
     {
+      "path": "assets/Menus/Startup/Intro/images/Chibis/Bf.png",
+      "size": 146202,
+      "sha256": "8a2f7394821b60854176be231caf48bb0498e6b4c38b416bf66103793492375a"
+    },
+    {
+      "path": "assets/Menus/Startup/Intro/images/Chibis/Bf.xml",
+      "size": 929,
+      "sha256": "925a7b0b1b6af23e415bbfdc461a480e586bf4964c5bf416516b58ad31c9c0e7",
+      "textSha256": "404a314a37e6e39f5e7697e09d327a9ecc04006fc71bc6f2ba5e9f08c9dfff9f"
+    },
+    {
       "path": "assets/Menus/Startup/Intro/images/Chibis/Fah.png",
       "size": 131309,
       "sha256": "bef1dab01cd88b4bfe2dc00eacaf8129622cfe095ccc44044bb3ad6726d2c7c6"
@@ -11663,6 +11761,28 @@
       "size": 919,
       "sha256": "f45aab0431fde68e3271c7c440497a09f59c9202a954d6e0b648e07dbbede25e",
       "textSha256": "bb4c5973fe0ab98c8c437980f08b78be7501d44e63deff58a07197e6778623c1"
+    },
+    {
+      "path": "assets/Menus/Startup/Intro/images/Chibis/Retrogabby.png",
+      "size": 386806,
+      "sha256": "fdc332d4b0552ce58a5bcd8eb962e169b7a64dd2967f964c1f29124226f832fb"
+    },
+    {
+      "path": "assets/Menus/Startup/Intro/images/Chibis/Retrogabby.xml",
+      "size": 994,
+      "sha256": "2893c286c39bae3cc0f1ba9501b3ce71e2bbb2c9f5ad24c854b2544dd60a9fb6",
+      "textSha256": "aa80554f02c0535ab721168d2e209d1f2f4578d4fbe2bae46db720654d73f3cc"
+    },
+    {
+      "path": "assets/Menus/Startup/Intro/images/Chibis/yoyai.png",
+      "size": 170471,
+      "sha256": "9c8fbbd1d3537e5ccddd33077be03535494d129d1b2506b5156af2c9b2c95745"
+    },
+    {
+      "path": "assets/Menus/Startup/Intro/images/Chibis/yoyai.xml",
+      "size": 910,
+      "sha256": "b9b1b058728b8ab0998800c86c97e89b25fca3d345e168a509204750eaa83b20",
+      "textSha256": "2b9fe23a48f40c0f731e40c1edbf100ea94986d58d03c1a9f78f7416db46a3b3"
     },
     {
       "path": "assets/Menus/Startup/Intro/images/enginestuff/cog.png",
@@ -11836,9 +11956,64 @@
       "sha256": "c0196115e049f94a35744cdeb98fed02bc387b7f31e8221548bb6b37ae1d8548"
     },
     {
+      "path": "assets/Menus/Startup/Loading/bg29.png",
+      "size": 305454,
+      "sha256": "336703cf5e883f5d17c3573848e915772ce5cbf41daa188fabdbcb481c3c5100"
+    },
+    {
       "path": "assets/Menus/Startup/Loading/bg3.png",
       "size": 296800,
       "sha256": "d784107c594234c52bdcce559c5f608a11f6b35faf64d90b29e573c59f21b469"
+    },
+    {
+      "path": "assets/Menus/Startup/Loading/bg30.png",
+      "size": 164229,
+      "sha256": "327524eb32f9bb5e9cc74dd713294d261ee2fa141d85b0381ef31b40246c5fe0"
+    },
+    {
+      "path": "assets/Menus/Startup/Loading/bg31.png",
+      "size": 192390,
+      "sha256": "fef4b0f7cc4eb84d4c3b4b6ff7b9d7e7bb497196ced9d89990b42f399f143fbd"
+    },
+    {
+      "path": "assets/Menus/Startup/Loading/bg32.png",
+      "size": 113313,
+      "sha256": "d3abb0ccd69f0d0066f869520a38976c308eae966c3601e4f96c9570b59e0511"
+    },
+    {
+      "path": "assets/Menus/Startup/Loading/bg33.png",
+      "size": 130116,
+      "sha256": "891c5a1d51fcde2a188e0490e7126aacf42ca2f11fb8d1677be03754218ffbb7"
+    },
+    {
+      "path": "assets/Menus/Startup/Loading/bg34.png",
+      "size": 336930,
+      "sha256": "d0db3ff76d748eae15cfea481d1a70e91eb6164b0126e2d83d6d7dd39111733c"
+    },
+    {
+      "path": "assets/Menus/Startup/Loading/bg35.png",
+      "size": 134157,
+      "sha256": "9f7bfc21fd6afa991ad88a7958ab62c626d39d6d32ce2084dfd1858b2ea78686"
+    },
+    {
+      "path": "assets/Menus/Startup/Loading/bg36.png",
+      "size": 122596,
+      "sha256": "1fdf269fa4bf11c7869218aee9ac6a9b4bd4c432da670975b8186280e897a5fd"
+    },
+    {
+      "path": "assets/Menus/Startup/Loading/bg37.png",
+      "size": 321656,
+      "sha256": "3646a4fc282444cf76bd245dfdf4d942118d06318f68056c2fe8325861b78c0c"
+    },
+    {
+      "path": "assets/Menus/Startup/Loading/bg38.png",
+      "size": 152537,
+      "sha256": "1bda7c8f7ecb8a8e24503327212e9051af9744c19c2e30c09f2b9f4e793af2a4"
+    },
+    {
+      "path": "assets/Menus/Startup/Loading/bg39.png",
+      "size": 407439,
+      "sha256": "5afeb3e1074ada3caf349c8bed2397bc23042de65f510d4f297e773fc218135e"
     },
     {
       "path": "assets/Menus/Startup/Loading/bg4.png",
@@ -11871,12 +12046,6 @@
       "sha256": "a38e2e114eed801a60af66f2f78ccdf5a9a61a65e755294573c3d080f92eb757"
     },
     {
-      "path": "assets/Menus/Startup/Loading/fahmix.txt",
-      "size": 432,
-      "sha256": "30c9a8e362fbd1bb7f79fd8354c6ab925051d41dd015f92826d9663a8a4c27d6",
-      "textSha256": "6d521088f13035af075fb355df943c16af6fa9ea8fb7e43ac3368e9f8c43f3c8"
-    },
-    {
       "path": "assets/Menus/Startup/Loading/LoadingTip.png",
       "size": 8045,
       "sha256": "c3e7e9b8c7791f60b6c39e1e5fed2672394ad228d4724b00a346d3770429f4ba"
@@ -11904,30 +12073,6 @@
       "size": 2538,
       "sha256": "3471b6ffd19b860cd8bc7c610c0fd1ebeb3be576c3ff20cf0dc5012083c44137",
       "textSha256": "b0c730f7f7430513ea3486217b875661d96d930d1d100b257926ce395ee955a7"
-    },
-    {
-      "path": "assets/Retro/data/checkerboard-legacy.lua",
-      "size": 1060,
-      "sha256": "79d892b49a7ae1557ef3c701083f38f959682ce6b0a4dfb7e1d65f4ad383fedb",
-      "textSha256": "495c62d8dc33c81b41287060860d49c250a8a89eea4f26da00bacfdaafa391df"
-    },
-    {
-      "path": "assets/Retro/data/legacy-customScoreTxt.lua",
-      "size": 1193,
-      "sha256": "e273aea39f3a58a17b20a70f3b4ef52500784f3c37a4eb5e2a9f3dea5015fbdc",
-      "textSha256": "7a8b69f31da698ba63419e037b5eee023f6a811a34bbcc3d94a17ca649f39485"
-    },
-    {
-      "path": "assets/Retro/data/legacy-scroll.lua",
-      "size": 237,
-      "sha256": "19328f189dd31c98572de5d25fcea0cb0eab59c60fa686e1c215c2c4c2489b51",
-      "textSha256": "f0d6068de73074b29ea35f86ccbdceec3903b483b0cfee027519bd0c74b799b8"
-    },
-    {
-      "path": "assets/Retro/data/legacy-trailDoubleNote.lua",
-      "size": 2150,
-      "sha256": "e3e64551522e9a428a8081298ae95a7e38a14a3e575f00262663c98e08074bdd",
-      "textSha256": "d0f176a0d9fb018ed1dc2c6e0b1ab0569f44dcc831ac8c79794e468620d58036"
     },
     {
       "path": "assets/Retro/data/shiftr-legacy.json",
@@ -12165,6 +12310,11 @@
       "sha256": "90360c3494dcaa23489abbc9857dda194a7b61a83b64ae12151670f5e13fb510"
     },
     {
+      "path": "assets/Retro/images/Menu/gabby-legacy.png",
+      "size": 23782,
+      "sha256": "a9e5aa246b5021a45d8408b9329020a8fdba3b99b723893cdbb1a21866b9b6cd"
+    },
+    {
       "path": "assets/Retro/images/Stage/black.png",
       "size": 316172,
       "sha256": "60b4ccdcd175fdd83ce7a178abf6dee88b7746f804f28c0aad8f1405a6b533c8"
@@ -12267,15 +12417,9 @@
       "textSha256": "5df4da35f1ace345736eedac7bd5501b6309d0cf59f82d43aab693a2588c6aaf"
     },
     {
-      "path": "assets/Retro/stages/gabby-legacy.lua",
-      "size": 14388,
-      "sha256": "21bb7829cd523f7b2ee1b154c060c7a12a4fe6557d57264eabb109813624fb2d",
-      "textSha256": "e95c6a7e0ae5b82fb3c8d438063e16324193daf43827dbf09aed864d37e0aa51"
-    },
-    {
       "path": "Average OC Mod.exe",
-      "size": 47501824,
-      "sha256": "a5ca20d7c7898400597ec1ad867e591121af16ad1d96ab8790b886fae39180cc"
+      "size": 60187648,
+      "sha256": "3bdb820514df1ad162a8ca2058651f79e1806bd3ea905819d815682e75eeb695"
     },
     {
       "path": "icon.ico",
@@ -12299,9 +12443,9 @@
     },
     {
       "path": "manifest/default.json",
-      "size": 253440,
-      "sha256": "f2b47d32fd2ae5743b2a83d3693a4e3b34b69d0ecc191c25d3386e0d32568433",
-      "textSha256": "f2b47d32fd2ae5743b2a83d3693a4e3b34b69d0ecc191c25d3386e0d32568433"
+      "size": 260506,
+      "sha256": "8f8dfb3b0dd3cf637bde6a0b599ad78f332f01aa45ef60e4f87a88f55523d40c",
+      "textSha256": "8f8dfb3b0dd3cf637bde6a0b599ad78f332f01aa45ef60e4f87a88f55523d40c"
     },
     {
       "path": "plugins/access/libaccess_attachment_plugin.dll",
@@ -13109,11 +13253,6 @@
       "sha256": "43d7bc7dc4e068da2afc1bb2ff0f65bcea2ce2841f2a443cb6306f03bdd7f5cf"
     },
     {
-      "path": "plugins/lua/liblua_plugin.dll",
-      "size": 312339,
-      "sha256": "50b53e5de635e016e31ed99992c43f290272974d88dfbd78d17e52259c64b29f"
-    },
-    {
       "path": "plugins/meta_engine/libfolder_plugin.dll",
       "size": 39955,
       "sha256": "e5ed61eec67ae469c85b67b16b99375ab583bd97c73c4e9cfbfe213f4be86961"
@@ -13265,8 +13404,8 @@
     },
     {
       "path": "plugins/plugins.dat",
-      "size": 256718,
-      "sha256": "6192fb0bf71c6dbeaa6bb60d34572e3e1b866c814384ee4efbe3ede4aa30848a"
+      "size": 254197,
+      "sha256": "69b343467e2cc68793028819ad2d4c799e94538117e17b199a9389b6352e565b"
     },
     {
       "path": "plugins/services_discovery/libmediadirs_plugin.dll",
