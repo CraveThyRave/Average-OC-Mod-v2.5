@@ -1,5 +1,5 @@
 {
-  "version": "2.5.44",
+  "version": "2.5.45",
   "files": [
     {
       "path": ".gitattributes",
@@ -289,40 +289,10 @@
       "sha256": "ab074d90a60f68ad04738591664b43a2559cc508285d1808274b0e5ed77258cb"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 0/data/01-visibility.lua",
-      "size": 819,
-      "sha256": "5ebeb9b2ee7dc7c5f00eab395dbf875aab5222ff041ae8d05aeb4f6b0c1376c5",
-      "textSha256": "243b1c35ea9e0a15dbe2e8253e114fd28184debf1a4dea0c2392c27ace490c81"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 0/data/02-hud.lua",
-      "size": 4342,
-      "sha256": "74bddfa90f26e461a77401f42066338c9731801e08f163530c426a1d896274ca",
-      "textSha256": "74bddfa90f26e461a77401f42066338c9731801e08f163530c426a1d896274ca"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 0/data/03-prompts.lua",
-      "size": 4197,
-      "sha256": "c5ec4a57d11bbf65bbb630898ed28e46d4fe00b9fce4fb39b593a3d7d122a4d2",
-      "textSha256": "c5ec4a57d11bbf65bbb630898ed28e46d4fe00b9fce4fb39b593a3d7d122a4d2"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 0/data/credits.txt",
-      "size": 190,
-      "sha256": "7b7ac40a33c9e1625fc4d686c0a7368fd11a1a5dc8cd22ccf23f56fa36bfc833",
-      "textSha256": "7b7ac40a33c9e1625fc4d686c0a7368fd11a1a5dc8cd22ccf23f56fa36bfc833"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 0/data/events.json",
       "size": 32,
       "sha256": "c82ad606fe38868990f4b4d6ddc4f38825299ab9d95ecde244f3602c53da5b70",
       "textSha256": "c82ad606fe38868990f4b4d6ddc4f38825299ab9d95ecde244f3602c53da5b70"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 0/data/pause.txt",
-      "size": 1249,
-      "sha256": "6cdfb4fc27e1583d4186aef28c55324ff349dcb65d7eba7763153261fcb6616c",
-      "textSha256": "0ce1032811b198859855d938d22d41681f461c5b5262c16ba7cca29991ed4bd1"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 0/data/tutorial.json",
@@ -396,22 +366,10 @@
       "textSha256": "018ea97142150ce7db3c37ff9b10681b01eee73a40f7a78ecec4b909021551dc"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 0/stages/week0.lua",
-      "size": 1105,
-      "sha256": "3935723162d90a08687ef249d34759b5bacfcd1f8707adca514be6360afb7c1c",
-      "textSha256": "998e7ddace15c74f64667b6118334455de4a12c292c1f2054e4748761b72a660"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 1/characters/dad-fah.json",
       "size": 3514,
       "sha256": "98497efe9a5144d817e3b609e805fd165251c2f39d7c612f95233f379285f495",
       "textSha256": "98497efe9a5144d817e3b609e805fd165251c2f39d7c612f95233f379285f495"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/bopeebo/01-hud.lua",
-      "size": 4632,
-      "sha256": "74da5577b1b44dc182eea20a9d4722f77cff58f72f4d1544090464b5c53714d5",
-      "textSha256": "74da5577b1b44dc182eea20a9d4722f77cff58f72f4d1544090464b5c53714d5"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 1/data/bopeebo/bopeebo.json",
@@ -420,40 +378,10 @@
       "textSha256": "64308b60a1e793d60025125c29b96b76cec27c229caea1224e8d73e8572b289f"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/bopeebo/credits.txt",
-      "size": 174,
-      "sha256": "db93285eda5b203c4d7f79cd9aaa0d9f26cd8033ba0fa7e9983a4b43cf4d0058",
-      "textSha256": "db93285eda5b203c4d7f79cd9aaa0d9f26cd8033ba0fa7e9983a4b43cf4d0058"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 1/data/bopeebo/events.json",
       "size": 1760,
       "sha256": "ef4529a887a98e28e3a0e54321609cdeab625b263ec0654c091ae2962b34fa39",
       "textSha256": "ef4529a887a98e28e3a0e54321609cdeab625b263ec0654c091ae2962b34fa39"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/bopeebo/pause.txt",
-      "size": 483,
-      "sha256": "deb60b1e018de7ab0dba95a2f8770aef28e41652e420bcafd823c20338642604",
-      "textSha256": "ec277f19838b47e16fec3a21bfdff911947688ce6b05419643bcb8c880ae5149"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/dadbattle/01-zoom.lua",
-      "size": 426,
-      "sha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02",
-      "textSha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/dadbattle/03-hud.lua",
-      "size": 4693,
-      "sha256": "92d2c87aaf51b85f124e5dc7e8d2c96f23a5bf25262a255ec9754cd54a5f327c",
-      "textSha256": "92d2c87aaf51b85f124e5dc7e8d2c96f23a5bf25262a255ec9754cd54a5f327c"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/dadbattle/credits.txt",
-      "size": 180,
-      "sha256": "f2f8673cabe9c72bd50dfcb6268ab2c096bfafe3de8fa5e259fe477c53a5dc7a",
-      "textSha256": "f2f8673cabe9c72bd50dfcb6268ab2c096bfafe3de8fa5e259fe477c53a5dc7a"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 1/data/dadbattle/dadbattle.json",
@@ -468,36 +396,6 @@
       "textSha256": "ca333fdf15b02895411b6cccf6b5bc330c97f3f6e042b0b002bdb37fd257e9f5"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/dadbattle/pause.txt",
-      "size": 744,
-      "sha256": "c71c7867ff81827d6bb89073914af01f621d4863ca9d556f9f7fd9a0eda2359e",
-      "textSha256": "ef1280e252f99266a239c6c845ecc78f10a539a310c209d05b6313cb0c06ba13"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/fresh/01-zoom.lua",
-      "size": 426,
-      "sha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02",
-      "textSha256": "cfd324e9cd86ed665e13984dae02b63f8b5a300fd06a67ec4fc12cc0abb3fe02"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/fresh/03-hud.lua",
-      "size": 4686,
-      "sha256": "1b691665744408d7355826d4a8b5749bdd41e059bb8945ebaa235ea50de58978",
-      "textSha256": "1b691665744408d7355826d4a8b5749bdd41e059bb8945ebaa235ea50de58978"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/fresh/04-receptors.lua",
-      "size": 3229,
-      "sha256": "51c104512c3023a792b30ca7ff238a6aa87a8a32560d2f3f561890d1d41f471a",
-      "textSha256": "51c104512c3023a792b30ca7ff238a6aa87a8a32560d2f3f561890d1d41f471a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/fresh/credits.txt",
-      "size": 185,
-      "sha256": "1d887e44fb507bee687d92dfab592187cd9464b107b416d43a327fe2775caf7e",
-      "textSha256": "1d887e44fb507bee687d92dfab592187cd9464b107b416d43a327fe2775caf7e"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 1/data/fresh/events.json",
       "size": 252,
       "sha256": "a9faed214c380a760a1b6db7b9e0eef0f9d102336df45d69fd214bc9cfa609b4",
@@ -508,12 +406,6 @@
       "size": 52538,
       "sha256": "ec3a22034030dc0ca2004e709342cc3a1cf40844dd42a599c9d9c81884f7e109",
       "textSha256": "ec3a22034030dc0ca2004e709342cc3a1cf40844dd42a599c9d9c81884f7e109"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 1/data/fresh/pause.txt",
-      "size": 635,
-      "sha256": "43ef0d2591a7337f9ef1d28f78da2ea2008ff5a8e4d822d212de7de3d5d339dc",
-      "textSha256": "e669164bff74f374afd2071a678414716d6f4546f6e68241e1fac312c09e15ad"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 1/images/Characters/dad-fah.png",
@@ -681,12 +573,6 @@
       "textSha256": "8eadfdaa5c6a9a4cea5a431f36ce3c17f9f8655dc923925f93d389f86826de89"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 1/stages/fah-week1.lua",
-      "size": 2307,
-      "sha256": "80c0b242c0ab986c7dcbdac5dd5831f143a9d8f754e46dd7facd17281149ebb9",
-      "textSha256": "6f8d55636b1c332439d2a2feae41cabc9f2cc9cba3b8e72c1ffe93ef5b6e518b"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-playable-gameover.json",
       "size": 807,
       "sha256": "3e4d553c74a686448226fd50f3ee256b4dcce853baa79e267ef02b7f355990d0",
@@ -705,100 +591,10 @@
       "textSha256": "e1e5d45e1dcbbccb395b2c55fc61c34ad2e8c8227d790e4f384a58ace960f794"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/02-lightning.lua",
-      "size": 7044,
-      "sha256": "d7391d1f806d5e0d23dbf0fff6acc33b13ed0b69760db0f9fd354d6015d7cdb6",
-      "textSha256": "fe73ad823dcd316cbc810f55d8cf6ceef52e584c7a815958c1ba533add9349e2"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/05-hud.lua",
-      "size": 2957,
-      "sha256": "9bfb4c7dd596a75d6e247644fccd85518d03090010e0b8e8a0b9aa1b01c20531",
-      "textSha256": "9bfb4c7dd596a75d6e247644fccd85518d03090010e0b8e8a0b9aa1b01c20531"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/06-lighting.lua",
-      "size": 3871,
-      "sha256": "dcb6665f9d6948dc2cdc39ce7f9a0c6c7945a850ab14717062626c1b54d448ec",
-      "textSha256": "dcb6665f9d6948dc2cdc39ce7f9a0c6c7945a850ab14717062626c1b54d448ec"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/07-popups.lua",
-      "size": 5270,
-      "sha256": "1a49a976f341da6c92b2d7cc13a453b0fa695e217e928a037c6cc9dafc86d690",
-      "textSha256": "1a49a976f341da6c92b2d7cc13a453b0fa695e217e928a037c6cc9dafc86d690"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/08-ending-teeth.lua",
-      "size": 4289,
-      "sha256": "ec635beda1318a6532ff60eea33c6f14f44edeb20925444ad3530cbf0bb6e573",
-      "textSha256": "ec635beda1318a6532ff60eea33c6f14f44edeb20925444ad3530cbf0bb6e573"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/credits.txt",
-      "size": 192,
-      "sha256": "c3e07816661cffb04b5023b3feb7e7bdb69d8e3fe1cbcc8b97b943f254bf6343",
-      "textSha256": "c3e07816661cffb04b5023b3feb7e7bdb69d8e3fe1cbcc8b97b943f254bf6343"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/mechanics.txt",
-      "size": 74,
-      "sha256": "63461771f57e01db398091d07bc1d8001927eca7b058a267d60aa452f4c6cef2",
-      "textSha256": "63461771f57e01db398091d07bc1d8001927eca7b058a267d60aa452f4c6cef2"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/south/pause.txt",
-      "size": 703,
-      "sha256": "77fd121138c065c30edf08cff86fa2e89c0ede3496f23859850b9b9820102351",
-      "textSha256": "05693dc9b9fef3f738a1a219310579b2fa4bd33ab1cdc6f1f96b8f5128f258d9"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 2/data/south/south.json",
       "size": 102276,
       "sha256": "e69ba6b8ae7479e5d273142a80939addba96819085832bd9f9e802ce3ce09a17",
       "textSha256": "e69ba6b8ae7479e5d273142a80939addba96819085832bd9f9e802ce3ce09a17"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/02-lightning.lua",
-      "size": 7044,
-      "sha256": "d7391d1f806d5e0d23dbf0fff6acc33b13ed0b69760db0f9fd354d6015d7cdb6",
-      "textSha256": "fe73ad823dcd316cbc810f55d8cf6ceef52e584c7a815958c1ba533add9349e2"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/04-bounce.lua",
-      "size": 2211,
-      "sha256": "d1f8f0b8ccc6f9fa9ba5b9dd26bfc751eb6dbbd5ec14dc0ca45bd9569fffd4f5",
-      "textSha256": "1acda7f68625100019c917ce17024b9fccae61f01a01623cc10224569b89abde"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/05-hud.lua",
-      "size": 10655,
-      "sha256": "bb88fa1b95eda73e0d4253d2355740e437462e146fbc1850961fd8536853d09b",
-      "textSha256": "bb88fa1b95eda73e0d4253d2355740e437462e146fbc1850961fd8536853d09b"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/06-lila.lua",
-      "size": 3309,
-      "sha256": "8319ac460dd1355effe2d8da1f7167e84dc53a1b2bf5c4e979183f3bf0ad0100",
-      "textSha256": "8319ac460dd1355effe2d8da1f7167e84dc53a1b2bf5c4e979183f3bf0ad0100"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/credits.txt",
-      "size": 187,
-      "sha256": "989816b7b29dbeb88d5fa4fdd84e0686cf87071f0d78565b23d51ff2eb204049",
-      "textSha256": "989816b7b29dbeb88d5fa4fdd84e0686cf87071f0d78565b23d51ff2eb204049"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/mechanics.txt",
-      "size": 55,
-      "sha256": "ea4d63fea9c55f6d0ddbb4a58567405e8ad7ba646d9d09a626a09ae6cb13fa6e",
-      "textSha256": "ea4d63fea9c55f6d0ddbb4a58567405e8ad7ba646d9d09a626a09ae6cb13fa6e"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/pause.txt",
-      "size": 859,
-      "sha256": "433a686db1c9c80fa8394faa08403609c0b1f8e0892df6851678a718586d5593",
-      "textSha256": "52ef3c0992bb1eecbb16b1f41dc4882df400035e743753bfbc86baf229517b9d"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 2/data/spookeez/spookeez.json",
@@ -1219,12 +1015,6 @@
       "textSha256": "023f1de03d599397d25af1ff2c0e37b1bb81bb2a39003c8e7892cc82922ab622"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 2/stages/fah-week2.lua",
-      "size": 7010,
-      "sha256": "5467a20b304de27c750198cf8ba545ae8e6a0eb651930aa9c10dde63ef7205a3",
-      "textSha256": "5467a20b304de27c750198cf8ba545ae8e6a0eb651930aa9c10dde63ef7205a3"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 3/characters/fah-playable-blammed.json",
       "size": 5310,
       "sha256": "2a232a43fabe67ef5d5bdc15ce9307e9771e2228504260eed9822e6e718ea82e",
@@ -1243,34 +1033,10 @@
       "textSha256": "3a6837e38df5ed8cf01a19c7ce58f6e435d59a01b736c5211e8404ffea6c1586"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 3/custom_events/blammed_colors.lua",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "textSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/custom_events/blammed_colors.txt",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "textSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/blammed/01-hud.lua",
-      "size": 4644,
-      "sha256": "a113b05a88a6e195e4e1d3a6e374666476f978b44fdb1c9612865c82fba2565d",
-      "textSha256": "a113b05a88a6e195e4e1d3a6e374666476f978b44fdb1c9612865c82fba2565d"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 3/data/blammed/blammed.json",
       "size": 71622,
       "sha256": "bf22d386a3422c9faed6b52d6f8a16d9a3953e6ac88589a37c043a90a59318f2",
       "textSha256": "bf22d386a3422c9faed6b52d6f8a16d9a3953e6ac88589a37c043a90a59318f2"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/blammed/credits.txt",
-      "size": 184,
-      "sha256": "abc58603ae327d18f086abec0e8a66fd9606f26a6e96ebbcb3faeab1d82dc6f9",
-      "textSha256": "abc58603ae327d18f086abec0e8a66fd9606f26a6e96ebbcb3faeab1d82dc6f9"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 3/data/blammed/events.json",
@@ -1279,94 +1045,10 @@
       "textSha256": "ecad581cde5ce1d1d4d17948b531a9774482e40db2f9719ed4369e045b1ba057"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/blammed/pause.txt",
-      "size": 681,
-      "sha256": "6270186dfb75d52063b8442eeef07f736e36ca5c78bad5ddcda563d1fb3072d5",
-      "textSha256": "9f002685cc89f9ef08f005a3ad88407516811843f3003fdf952cf1e150d6b91f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/01-presentation.lua",
-      "size": 2769,
-      "sha256": "be27f9d83aaefff0c4ead8222d117fbee688c5e84e1a6f5cf9bed49200c71cfa",
-      "textSha256": "be27f9d83aaefff0c4ead8222d117fbee688c5e84e1a6f5cf9bed49200c71cfa"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/02-parvin.lua",
-      "size": 2473,
-      "sha256": "51f19bddbed0e744f45099d81d99d1570b9ea0dc4f983546870c5044337ba5f5",
-      "textSha256": "51f19bddbed0e744f45099d81d99d1570b9ea0dc4f983546870c5044337ba5f5"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/03-foo.lua",
-      "size": 2176,
-      "sha256": "23ab2a0b991b29e8efff11c2bbf4e29e1a08164b3b7b5167c1cb407acd90b827",
-      "textSha256": "23ab2a0b991b29e8efff11c2bbf4e29e1a08164b3b7b5167c1cb407acd90b827"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/04-fahreddy.lua",
-      "size": 2238,
-      "sha256": "0c31b4fd55c16a4c85ae27752aeced9f874380e81642f3c71cbe0abb30c3f75d",
-      "textSha256": "0c31b4fd55c16a4c85ae27752aeced9f874380e81642f3c71cbe0abb30c3f75d"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/05-mad.lua",
-      "size": 1684,
-      "sha256": "248bc3cf968434e2d0e65517f7860fc65cb483ed426b663fa278fafd26788c6f",
-      "textSha256": "248bc3cf968434e2d0e65517f7860fc65cb483ed426b663fa278fafd26788c6f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/06-morticco.lua",
-      "size": 3084,
-      "sha256": "4069a19d3694cd9db821351d95c4114f931a54813bc62194b179a4a017eeb3b9",
-      "textSha256": "4069a19d3694cd9db821351d95c4114f931a54813bc62194b179a4a017eeb3b9"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/credits.txt",
-      "size": 189,
-      "sha256": "2bd5e99951fc893f92635379660deec9b4a35d39689e78356d499759f2feb682",
-      "textSha256": "2bd5e99951fc893f92635379660deec9b4a35d39689e78356d499759f2feb682"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/pause.txt",
-      "size": 287,
-      "sha256": "09118bccf8cf23167858bb208970a8a12e8cd258937b540875cbbf1b1e588082",
-      "textSha256": "f8c035ed94b4973b241ed15ec4d7b152342378505f0831b6627ad7a7698a1958"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 3/data/philly-nice/philly-nice.json",
       "size": 58452,
       "sha256": "5bf3ffa40a18ee46cc5e8eb8ad21cb82d6b07736960822f8caf64cbb261ee0d1",
       "textSha256": "5bf3ffa40a18ee46cc5e8eb8ad21cb82d6b07736960822f8caf64cbb261ee0d1"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/pico/01-presentation.lua",
-      "size": 1926,
-      "sha256": "f11a0a9b8bfabc0b050d0a95ba6413723d27be5bd4491045e7bf280584b9af85",
-      "textSha256": "f11a0a9b8bfabc0b050d0a95ba6413723d27be5bd4491045e7bf280584b9af85"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/pico/06-ending.lua",
-      "size": 842,
-      "sha256": "5bc60380908e5099104159c2d8a91a179cdd6e647df4842b8a74c31c98964f67",
-      "textSha256": "5bc60380908e5099104159c2d8a91a179cdd6e647df4842b8a74c31c98964f67"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/pico/07-requital.lua",
-      "size": 4886,
-      "sha256": "9d0b59baa2c667479396029e9f74eb624ebeb611126711f4e01772280fe1e0c7",
-      "textSha256": "9d0b59baa2c667479396029e9f74eb624ebeb611126711f4e01772280fe1e0c7"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/pico/credits.txt",
-      "size": 220,
-      "sha256": "c4af678d3d7711717aad6ed4722535ee324ff2573cd69263a86c893bc90aac6b",
-      "textSha256": "c4af678d3d7711717aad6ed4722535ee324ff2573cd69263a86c893bc90aac6b"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 3/data/pico/pause.txt",
-      "size": 827,
-      "sha256": "65e892ae484e38affc2cb0490d13c26dfccb8358b8de7d28f380d28507000887",
-      "textSha256": "1b3474f0107b005d05ded241505586e3e5e6060d89287125c74159623018e105"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 3/data/pico/pico.json",
@@ -1745,40 +1427,10 @@
       "textSha256": "20a778581a4c63dbba8bd91de54f08adc9dd3ceaf87d0d2874cc511cc0a792c6"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 3/stages/fah-week3.lua",
-      "size": 10684,
-      "sha256": "0e52a66b2122e56ada71abfdbd5709dfc020a13e20d60848aaf5afcfe766f80a",
-      "textSha256": "0e52a66b2122e56ada71abfdbd5709dfc020a13e20d60848aaf5afcfe766f80a"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 4/characters/mom-fah.json",
       "size": 2979,
       "sha256": "8675bf0c164d78f309edadd919ffd0f9e4805770d7725114207d2a0f7aed173a",
       "textSha256": "8675bf0c164d78f309edadd919ffd0f9e4805770d7725114207d2a0f7aed173a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/high/01-zoom.lua",
-      "size": 41,
-      "sha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a",
-      "textSha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/high/03-hud.lua",
-      "size": 4556,
-      "sha256": "d967b75d804258520fc5d80890c6bd01f49c3e23d2e151e430669a1ad88cb961",
-      "textSha256": "d967b75d804258520fc5d80890c6bd01f49c3e23d2e151e430669a1ad88cb961"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/high/04-sway.lua",
-      "size": 305,
-      "sha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679",
-      "textSha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/high/credits.txt",
-      "size": 185,
-      "sha256": "5ea6532ef7ddb929dcbf4b63a350f8edd61bac1d4a17a754270d4aea424b6432",
-      "textSha256": "5ea6532ef7ddb929dcbf4b63a350f8edd61bac1d4a17a754270d4aea424b6432"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 4/data/high/events.json",
@@ -1793,48 +1445,6 @@
       "textSha256": "0c5bb9164b5e7e030c4411ac83f1039b30aceaf4ff885daec619e6e1e2a82617"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/high/mechanics.txt",
-      "size": 25,
-      "sha256": "8c6b77a9b8dd0128bb82971192221527a9c866496f1c16941c3d0c95184fa314",
-      "textSha256": "8c6b77a9b8dd0128bb82971192221527a9c866496f1c16941c3d0c95184fa314"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/high/pause.txt",
-      "size": 1093,
-      "sha256": "da450dd21380ffc8219377862fb79e5fdc58d727a4da904f91f37214790da575",
-      "textSha256": "be9e7434b76ef83acd7e94fdb9e50317f4f4753627c64fc8392aae4467ae20fa"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/01-zoom.lua",
-      "size": 41,
-      "sha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a",
-      "textSha256": "21035914634931299b12c319cdfe5d4b0276929031f1822329555cd6314a6a0a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/03-hud.lua",
-      "size": 4591,
-      "sha256": "1abb2d9363aac2dde08406293c9a9104cea2c0fe5af30d098b68a3dcdba33f40",
-      "textSha256": "1abb2d9363aac2dde08406293c9a9104cea2c0fe5af30d098b68a3dcdba33f40"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/04-sway.lua",
-      "size": 305,
-      "sha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679",
-      "textSha256": "0cdb641de2fd2b3db518a73ea3f7b18df575e4f958adefe27876dbda06475679"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/05-bounce.lua",
-      "size": 1557,
-      "sha256": "f72d97984654b67432404a21aa724c463503668d65074ac5e66dd1adfd7bed27",
-      "textSha256": "f72d97984654b67432404a21aa724c463503668d65074ac5e66dd1adfd7bed27"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/credits.txt",
-      "size": 179,
-      "sha256": "a14af96e544b7f5e2ca339f71ec8a6d3baf3592044b134f54f355fb7a7f86d5d",
-      "textSha256": "a14af96e544b7f5e2ca339f71ec8a6d3baf3592044b134f54f355fb7a7f86d5d"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 4/data/mama/events.json",
       "size": 677,
       "sha256": "4a6bec299aea6892a970582f5af2625ec10c508a671fa033f8ab718a51081c15",
@@ -1847,58 +1457,10 @@
       "textSha256": "28ed2fcac8d8b82e16f87acbf80df8c9a0cd18b31ecacecf012f43196c373f52"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/mechanics.txt",
-      "size": 33,
-      "sha256": "687bf8217ba0eab9c0904f9af29da012bbd7ef7cb6a84ae06ab6c4a6d02ffbcb",
-      "textSha256": "687bf8217ba0eab9c0904f9af29da012bbd7ef7cb6a84ae06ab6c4a6d02ffbcb"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/mama/pause.txt",
-      "size": 372,
-      "sha256": "d8e7a81229502abbccbdb7275e46d9f2563be33cb10efb55e8c259ec87766c14",
-      "textSha256": "67de9235e7816c4555b7ca9fab631a31e40939925911df51bab8ea41a1fdf411"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/undies/01-zoom.lua",
-      "size": 40,
-      "sha256": "aa542a79a62fc3b752f3135240d8f164991210a5962e0bf8b3e4c7e97600e040",
-      "textSha256": "aa542a79a62fc3b752f3135240d8f164991210a5962e0bf8b3e4c7e97600e040"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/undies/03-hud.lua",
-      "size": 3295,
-      "sha256": "60b494373037b04ab5a12a679f0cfb921a39f0873abb4bffe02214356b0eff59",
-      "textSha256": "60b494373037b04ab5a12a679f0cfb921a39f0873abb4bffe02214356b0eff59"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/undies/04-sway.lua",
-      "size": 303,
-      "sha256": "02e1add7cd399bdfecc14efd014b3f25e14ab1a4d2aa2f0fee3838d5b61fb650",
-      "textSha256": "02e1add7cd399bdfecc14efd014b3f25e14ab1a4d2aa2f0fee3838d5b61fb650"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/undies/05-runner.lua",
-      "size": 5201,
-      "sha256": "cfed9bb8c64ee57fe399733be439d2fe392b6dc7679c0b5b70a7b0ce9f3978b8",
-      "textSha256": "cfed9bb8c64ee57fe399733be439d2fe392b6dc7679c0b5b70a7b0ce9f3978b8"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/undies/credits.txt",
-      "size": 190,
-      "sha256": "119bcb99f1f903a02fa8eacd9e3f9f8eb74fa91ca36d6f125f482b6763ef4637",
-      "textSha256": "119bcb99f1f903a02fa8eacd9e3f9f8eb74fa91ca36d6f125f482b6763ef4637"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 4/data/undies/events.json",
       "size": 134,
       "sha256": "9826d66f2a12acdfbd038d36c1174187d9b5a948b2bc1fe83ce38c0a0afa7cab",
       "textSha256": "9826d66f2a12acdfbd038d36c1174187d9b5a948b2bc1fe83ce38c0a0afa7cab"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 4/data/undies/pause.txt",
-      "size": 349,
-      "sha256": "9461c556351311d1a2f342433048f9acdea831377f3b696780fd02f49afa665a",
-      "textSha256": "9461c556351311d1a2f342433048f9acdea831377f3b696780fd02f49afa665a"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 4/data/undies/undies.json",
@@ -2169,12 +1731,6 @@
       "textSha256": "b0c466c36b87b772fecfecc273f4566e29f7624e78256a273740f530c1d905a3"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 4/stages/fah-week4.lua",
-      "size": 11873,
-      "sha256": "7123e26e3e571b3863765c2c52d5443b334e164ef6c1dc75199b560ff90713ab",
-      "textSha256": "7123e26e3e571b3863765c2c52d5443b334e164ef6c1dc75199b560ff90713ab"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 5/characters/fahmas-playable.json",
       "size": 4496,
       "sha256": "f8c1e69713d19587b80d75bb87cc41bd51d782e5901d239fb02ccd27043d9b90",
@@ -2199,88 +1755,10 @@
       "textSha256": "5e807ebbc0e31e40be5e6ff438497bf740290196a356a841bc02ce814ffe3d29"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/01-logo.lua",
-      "size": 907,
-      "sha256": "29a2eca6052da4989e5d57ef5b5eee9a3db0723278159fe1a47e3c6d7b7df0f6",
-      "textSha256": "29a2eca6052da4989e5d57ef5b5eee9a3db0723278159fe1a47e3c6d7b7df0f6"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/02-hud-fade.lua",
-      "size": 153,
-      "sha256": "2d5381370636ca0e88a855af6ec2ad947d71a6e49996207987ff693c5b8aa8cc",
-      "textSha256": "2d5381370636ca0e88a855af6ec2ad947d71a6e49996207987ff693c5b8aa8cc"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/03-note-bounce.lua",
-      "size": 734,
-      "sha256": "d84ad3be23410e6ac2d54203252f1da12b8dbb322d58d99fa30a37e9f4b73d7f",
-      "textSha256": "d84ad3be23410e6ac2d54203252f1da12b8dbb322d58d99fa30a37e9f4b73d7f"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/cocoa.json",
       "size": 40995,
       "sha256": "b1e2c37ce16341483122da639113f693d80f0d2fe7d0bcb2bda25472302a312b",
       "textSha256": "b1e2c37ce16341483122da639113f693d80f0d2fe7d0bcb2bda25472302a312b"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/credits.txt",
-      "size": 193,
-      "sha256": "dc0a1ffd84618d79158de4d4ff05a28bb5b6736cfba4a75f29ce46dc36033d66",
-      "textSha256": "dc0a1ffd84618d79158de4d4ff05a28bb5b6736cfba4a75f29ce46dc36033d66"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/mechanics.txt",
-      "size": 40,
-      "sha256": "a19b9c0ad70e96f4179590f2242b7beb18a9a0faa9e96ed6d8f1615a432ce1f1",
-      "textSha256": "a19b9c0ad70e96f4179590f2242b7beb18a9a0faa9e96ed6d8f1615a432ce1f1"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/cocoa/pause.txt",
-      "size": 972,
-      "sha256": "65c903014f65fddeae3ebab7cdd7012ec8831fa9dd28597e29e949ba24c18d9e",
-      "textSha256": "cef08c862aacb39a97e7a0e68eddb75df9b54c4a6b0d010ae74373d858d296e2"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/01-camera.lua",
-      "size": 308,
-      "sha256": "86d0ff8244dd83039aad4e3445c5ba67e4493542dc14ce0e5d316fa0861a5afe",
-      "textSha256": "d9eed1793daa9cb540646102b781715135ef313359311291aec85112311855c6"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/02-gameover.lua",
-      "size": 1929,
-      "sha256": "856fb87c6178314f66bbe6a34929a761f99362993fe60c2146f3ac4f593b0677",
-      "textSha256": "65494cb63d4d60099d90f61c38928bb723a7cc684207b4df3e70524d9c8b12f8"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/03-lights.lua",
-      "size": 3007,
-      "sha256": "ee99cefa0deabe95a3fe887b5f9018340572dc819d60a3c922fdf47cc6fdf582",
-      "textSha256": "ee99cefa0deabe95a3fe887b5f9018340572dc819d60a3c922fdf47cc6fdf582"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/04-biter.lua",
-      "size": 9426,
-      "sha256": "930d68e9b4944828c8bf8abd923cc1cb863c136f6b9b5fade18a8a54476ba980",
-      "textSha256": "930d68e9b4944828c8bf8abd923cc1cb863c136f6b9b5fade18a8a54476ba980"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/05-receptors.lua",
-      "size": 2623,
-      "sha256": "57d9debfad3af162c9154224e78f86e4ca3d7ad6806cd2b693af2579a8788c96",
-      "textSha256": "57d9debfad3af162c9154224e78f86e4ca3d7ad6806cd2b693af2579a8788c96"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/06-hud.lua",
-      "size": 4420,
-      "sha256": "d7e2af0f5f807dab340bcb3e26b11f8e76da578326dd5540b5f67cdfba68148f",
-      "textSha256": "d7e2af0f5f807dab340bcb3e26b11f8e76da578326dd5540b5f67cdfba68148f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/credits.txt",
-      "size": 189,
-      "sha256": "7606070ec4e3f2f171e14e241c7dcdab10967a4abbb92f8daf731936fa71183f",
-      "textSha256": "7606070ec4e3f2f171e14e241c7dcdab10967a4abbb92f8daf731936fa71183f"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/eggnog.json",
@@ -2293,18 +1771,6 @@
       "size": 331,
       "sha256": "fc78d65d30b83fa52c55f2c273945d6821aacf6366975f234ecce51db8c112eb",
       "textSha256": "fc78d65d30b83fa52c55f2c273945d6821aacf6366975f234ecce51db8c112eb"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/mechanics.txt",
-      "size": 42,
-      "sha256": "bea7d9c6ac8f7c40113fd32996d346a6305ed3d3fa8f55153ffe77819a17b346",
-      "textSha256": "bea7d9c6ac8f7c40113fd32996d346a6305ed3d3fa8f55153ffe77819a17b346"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 5/data/eggnog/pause.txt",
-      "size": 332,
-      "sha256": "946dad44f2f42fb35a013d7cab2b0425e1762837c9bdf319f72d38e4bbe50e1c",
-      "textSha256": "d3e0f26de5347424e2ea8351e92ad1402ff749814b43e49456a8af95973923b5"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 5/images/Characters/merrydad-fah-nopop.png",
@@ -2659,12 +2125,6 @@
       "textSha256": "e20abccde1b4b676b29a96816cdce7ee1e0ca105f018f319f3eb7212ebcf9d0d"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 5/stages/fah-week5.lua",
-      "size": 8309,
-      "sha256": "7383f5c97a17d7d91b7a268cf5c2df3943007939c7cc78ab5f0f9bf0717d9f27",
-      "textSha256": "1b37974c9814e810873f430c35746fb778de10fa25ddb44ba7a3dfc9e2b67e42"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 6/characters/fahms-playable-gameover.json",
       "size": 786,
       "sha256": "c1b237e9beb1799fa00fa2a129279a81dddfaa17ad1818fd101692cc2733815e",
@@ -2701,58 +2161,10 @@
       "textSha256": "9599838874cf2bd1caccbaf6f016b7027a70ee66d94583fa360ce316ec2e1ccd"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 6/custom_events/Thorns Background.lua",
-      "size": 190,
-      "sha256": "bd147257540b76f03f8a4309b59d2a98f7506d628628f756a06c38646dd4e30d",
-      "textSha256": "bd147257540b76f03f8a4309b59d2a98f7506d628628f756a06c38646dd4e30d"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/custom_events/Thorns Background.txt",
-      "size": 1516,
-      "sha256": "521429164fc10457724cc50cf982ab8442e0869f0b80390971409af98b08021d",
-      "textSha256": "521429164fc10457724cc50cf982ab8442e0869f0b80390971409af98b08021d"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/02-dialogue.lua",
-      "size": 361,
-      "sha256": "b03d677ad501f84604dc8fb77fe943280d17ec5f7a7cd11861c6cf3ad85e7cc9",
-      "textSha256": "638d2c0c91c8e754d091e72394f1aac58637833ddb2b9f36a20bf2b7170ba9a5"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/05-receptors.lua",
-      "size": 2445,
-      "sha256": "f7a60c01a405b0ce13c1908e34d2a1998fe26b2b3cff8eed32cfdc97971bca9a",
-      "textSha256": "f2e3afbe525275f43653f86b2261c6d177c53959c8a8fa159f13ea22f0eb014f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/06-hud.lua",
-      "size": 5831,
-      "sha256": "4408642543bb7d59e6a3968c094c91948faebb93d00d065a862d475674df3096",
-      "textSha256": "4408642543bb7d59e6a3968c094c91948faebb93d00d065a862d475674df3096"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/credits.txt",
-      "size": 186,
-      "sha256": "0d4cfefc883b31437b3072f4a7eaf6051fcafe20c96d4487a23ba38448fd1190",
-      "textSha256": "0d4cfefc883b31437b3072f4a7eaf6051fcafe20c96d4487a23ba38448fd1190"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 6/data/roses/events.json",
       "size": 466,
       "sha256": "74d69a629ba416a7580bf7e26c76c1b14b47c1025efffc622cf45c50386f2a6e",
       "textSha256": "74d69a629ba416a7580bf7e26c76c1b14b47c1025efffc622cf45c50386f2a6e"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/mechanics.txt",
-      "size": 333,
-      "sha256": "4dc65508ce76f338abfacb3eb3ed601be30919c526bd3c39bf084de97bbb45f7",
-      "textSha256": "4dc65508ce76f338abfacb3eb3ed601be30919c526bd3c39bf084de97bbb45f7"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/pause.txt",
-      "size": 549,
-      "sha256": "5d5f4a6097e88df7cb02e961f240e78a51ce516228422cf81a1756b637801cf1",
-      "textSha256": "57526fe18b1d45d34264d53c86f361c8a5d83c4d39cb38f55ef77100093c5ab7"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/data/roses/roses.json",
@@ -2761,64 +2173,10 @@
       "textSha256": "2aa895e1a8544de0b7c370a62b7f71b5086d3e1a26e5e373b45b3c198c6626f2"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/roses/rosesDialogue.txt",
-      "size": 145,
-      "sha256": "17f7f516240958f236adbf0062a34443b1ccc70689534cb3a4ef4bd2ce264a3a",
-      "textSha256": "17f7f516240958f236adbf0062a34443b1ccc70689534cb3a4ef4bd2ce264a3a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/00-shared.lua",
-      "size": 166,
-      "sha256": "ea7c1bd613dc35ddad4068afe31469b741105830857c5e965d21fa1c3f073429",
-      "textSha256": "ea7c1bd613dc35ddad4068afe31469b741105830857c5e965d21fa1c3f073429"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/01-beats.lua",
-      "size": 6393,
-      "sha256": "27c5ad4b80dd91b6b22c2c7d9586a95256340c88a4acaa0e0d3bf0cf0f27016e",
-      "textSha256": "27c5ad4b80dd91b6b22c2c7d9586a95256340c88a4acaa0e0d3bf0cf0f27016e"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/credits.txt",
-      "size": 196,
-      "sha256": "5672d96dbd1f3d581c9d2c5c3753e415a3b9f98404348c74b334fcbb2b53eef6",
-      "textSha256": "5672d96dbd1f3d581c9d2c5c3753e415a3b9f98404348c74b334fcbb2b53eef6"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/mechanics.txt",
-      "size": 347,
-      "sha256": "27d22448e142bae8a87e758be26f7a4abddb72b002f94760248803946879379a",
-      "textSha256": "27d22448e142bae8a87e758be26f7a4abddb72b002f94760248803946879379a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/pause.txt",
-      "size": 1166,
-      "sha256": "089a3de3082dd5df5d4fa77e22251efcf6eb15e8585ec7a8e7bf203d84f9bfcd",
-      "textSha256": "61d0ad1df78d9f089dd8baf4821ecb9046acca69aee6cea31b464b5d57fe8787"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/senpai.json",
       "size": 42522,
       "sha256": "0212e0cd628ada8fc80faa4dfde001c32b95da9b9fc2aaefc610e93310ee0955",
       "textSha256": "0212e0cd628ada8fc80faa4dfde001c32b95da9b9fc2aaefc610e93310ee0955"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/senpai/senpaiDialogue.txt",
-      "size": 444,
-      "sha256": "610434799ccbbbb06e9b1427f689fef0cbde687c8a28cc6de093d2217988c146",
-      "textSha256": "610434799ccbbbb06e9b1427f689fef0cbde687c8a28cc6de093d2217988c146"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/01-logo.lua",
-      "size": 1392,
-      "sha256": "07755d49b00775bb5e0a02a724fb9386a1e4aa8551a5744b8d5165c75ae2934d",
-      "textSha256": "07755d49b00775bb5e0a02a724fb9386a1e4aa8551a5744b8d5165c75ae2934d"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/credits.txt",
-      "size": 298,
-      "sha256": "26fbda693435b6bf2e0cff0997f2e7af01700782f7b8d89119b99e141a73a6c2",
-      "textSha256": "26fbda693435b6bf2e0cff0997f2e7af01700782f7b8d89119b99e141a73a6c2"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/events.json",
@@ -2827,40 +2185,16 @@
       "textSha256": "74d69a629ba416a7580bf7e26c76c1b14b47c1025efffc622cf45c50386f2a6e"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/mechanics.txt",
-      "size": 361,
-      "sha256": "cdb944c3f5449a918cebd693254b0ab52c0fd3c351fcf70975bfcbda19e38306",
-      "textSha256": "297e089096cbaa3ae13780d18fdeb3430e4dc4233b0d65092181f45946f62d1b"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/modchart.xml",
       "size": 12695,
       "sha256": "a016134ed691ad353d25bbc6db814237fbc59e5011f32db5c08ccca0ee7334a0",
       "textSha256": "a016134ed691ad353d25bbc6db814237fbc59e5011f32db5c08ccca0ee7334a0"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/pause.txt",
-      "size": 1634,
-      "sha256": "aba8e4382123de94fe629a430bd6461533e65802c342b8e7b8bb053a69e68d1c",
-      "textSha256": "157bc3ab2d1603ae2a7503d20ce3568712e8aebf96fa3b5a71fa89fecf21c349"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/rosesDialogue.txt",
-      "size": 145,
-      "sha256": "17f7f516240958f236adbf0062a34443b1ccc70689534cb3a4ef4bd2ce264a3a",
-      "textSha256": "17f7f516240958f236adbf0062a34443b1ccc70689534cb3a4ef4bd2ce264a3a"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/thorns.json",
       "size": 190574,
       "sha256": "0fb1134ab9d23678f97899d91c75023d73a30299762654896ad06f801e868e18",
       "textSha256": "0fb1134ab9d23678f97899d91c75023d73a30299762654896ad06f801e868e18"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/data/thorns/thornsDialogue.txt",
-      "size": 386,
-      "sha256": "35636efc1e56e679537226fd30c04cc8ebe8c4531a6554970c358b33d65c8dfe",
-      "textSha256": "e2cb7860e77b25f7091e85bd44c3f79428e1c6fae59669724414aceee7baaf57"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 6/images/Characters/ms-fah-playable-dark.png",
@@ -3612,22 +2946,10 @@
       "textSha256": "58d66bdf37c3fccaa732f08b77bc58c1ec05aaab5bbf2e7a1d363e0b8b5a2709"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 6/stages/fah-week6-b.lua",
-      "size": 6040,
-      "sha256": "0625bb447e28209a84694be19823ac826ee3d017357d1aae88a9199b5d9ecb00",
-      "textSha256": "deff87fabb5e2f9432d5f7f5492380dba8fd9cbb94175b6319173ba8f22e1a45"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 6/stages/fah-week6-c.json",
       "size": 181,
       "sha256": "37d4ad24832f8e44cfe99bd4b871f5f4d867bd8b7fd3b8139fb94e8d4eeecee0",
       "textSha256": "58d66bdf37c3fccaa732f08b77bc58c1ec05aaab5bbf2e7a1d363e0b8b5a2709"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 6/stages/fah-week6-c.lua",
-      "size": 1847,
-      "sha256": "1e2921d279b9b81c9e24a4104d828e21e836506c854aad55b2d8dbaa1e7ed7b7",
-      "textSha256": "1e2921d279b9b81c9e24a4104d828e21e836506c854aad55b2d8dbaa1e7ed7b7"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 7/characters/fahtank-playable.json",
@@ -3666,64 +2988,10 @@
       "textSha256": "52de06d752aef1bde38ce9f2b9fccb094f489ad3d4809695b9ec0eb4752ddd72"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/00-shared.lua",
-      "size": 211,
-      "sha256": "eeb5c9d2c2ff917addbdc0f928f68c7a7beca6345c97d466971cd80a43e6124f",
-      "textSha256": "eeb5c9d2c2ff917addbdc0f928f68c7a7beca6345c97d466971cd80a43e6124f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/01-receptors.lua",
-      "size": 5448,
-      "sha256": "cbcefb12b6b25eca6e6113277fa5e4b1d9b3dc0a42cfc7d61390cb0d7cb4b3ee",
-      "textSha256": "cbcefb12b6b25eca6e6113277fa5e4b1d9b3dc0a42cfc7d61390cb0d7cb4b3ee"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/02-intro.lua",
-      "size": 3896,
-      "sha256": "292b9d2854202babbda788f608d030b7e069097e21c2484c574798e8a95eb354",
-      "textSha256": "292b9d2854202babbda788f608d030b7e069097e21c2484c574798e8a95eb354"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/bleh.json",
       "size": 42765,
       "sha256": "4b1fa23b483d2ed7158ad6e058e346a43f7db1d85c51ce96274d7c37f3677d2c",
       "textSha256": "4b1fa23b483d2ed7158ad6e058e346a43f7db1d85c51ce96274d7c37f3677d2c"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/credits.txt",
-      "size": 206,
-      "sha256": "d29ea01dd7294bb6a1cf33c64e50a1a4885bee7b8f780d4d82e4423f5f0168ca",
-      "textSha256": "d29ea01dd7294bb6a1cf33c64e50a1a4885bee7b8f780d4d82e4423f5f0168ca"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/mechanics.txt",
-      "size": 173,
-      "sha256": "1f980dd1200fe5f9f3420f7ff1754bc9ada9b076da97bc24f4828d3a418f8578",
-      "textSha256": "1f980dd1200fe5f9f3420f7ff1754bc9ada9b076da97bc24f4828d3a418f8578"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/bleh/pause.txt",
-      "size": 816,
-      "sha256": "9fbc2946baa0647a5eeb1e2af8f7d82cb4dcf66560b081d43889c1cf04b668f2",
-      "textSha256": "d2b88735a55d68ffc0f0c6bfe66e35eae32310ba8f9fffc1114d28c5a5c6e597"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/pews/04-gameover.lua",
-      "size": 703,
-      "sha256": "a7155c59808e1722bc3f5ba5ec087c095f0c1bf4dc8be48b546eb8cb510b68c8",
-      "textSha256": "a7155c59808e1722bc3f5ba5ec087c095f0c1bf4dc8be48b546eb8cb510b68c8"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/pews/05-hud.lua",
-      "size": 7642,
-      "sha256": "a58ec3bdd69833b68dc352746f3e768773ce0d9bcd08a1cfd917cfbca09b559c",
-      "textSha256": "a58ec3bdd69833b68dc352746f3e768773ce0d9bcd08a1cfd917cfbca09b559c"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/pews/credits.txt",
-      "size": 209,
-      "sha256": "6e694fb087995542f2d102652f266b49d06e138f75a017825f43036cd152b52c",
-      "textSha256": "6e694fb087995542f2d102652f266b49d06e138f75a017825f43036cd152b52c"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 7/data/pews/events.json",
@@ -3732,46 +3000,10 @@
       "textSha256": "9f69f6bd9557d317961b37b2bd25ce2802bed1f7059bb9306e6cb065bb254c37"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/pews/mechanics.txt",
-      "size": 173,
-      "sha256": "1f980dd1200fe5f9f3420f7ff1754bc9ada9b076da97bc24f4828d3a418f8578",
-      "textSha256": "1f980dd1200fe5f9f3420f7ff1754bc9ada9b076da97bc24f4828d3a418f8578"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/pews/pause.txt",
-      "size": 348,
-      "sha256": "1d177e6883524af4873dcd0bf7db319a88e1734f9059176739e13529b95425a4",
-      "textSha256": "7fa7e28d6fbe03e446286a97652a7b0bce68f894f510024d12f5cca33024c916"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 7/data/pews/pews.json",
       "size": 95844,
       "sha256": "64c056fc7d9372f933eae7b1c2e20770676b3f9fe15f2db3f59499989a9cd746",
       "textSha256": "64c056fc7d9372f933eae7b1c2e20770676b3f9fe15f2db3f59499989a9cd746"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/stress/02-intro.lua",
-      "size": 19577,
-      "sha256": "21e947e990ca44d30f202a81de7ed80f7b371b05cfdce08936c88be12f0ab147",
-      "textSha256": "271d74f0f42c70456619bf8c193c4f65365f4124fb4523916b566f183fed9c11"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/stress/credits.txt",
-      "size": 226,
-      "sha256": "449f0a5a59062f4c553baece6fc6a03dfdb9cb2ba75139fdbfd73bfc07bb7672",
-      "textSha256": "449f0a5a59062f4c553baece6fc6a03dfdb9cb2ba75139fdbfd73bfc07bb7672"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/stress/mechanics.txt",
-      "size": 589,
-      "sha256": "f75b63029c4e7a31bd54bca0e2a051d7a330296cffdc8f35304f63ebdfb6af1f",
-      "textSha256": "f75b63029c4e7a31bd54bca0e2a051d7a330296cffdc8f35304f63ebdfb6af1f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Week 7/data/stress/pause.txt",
-      "size": 1008,
-      "sha256": "1fb6085bd9a2e7639953e7bf90bf72262175b67000d1754b7d58eb9d32844f10",
-      "textSha256": "0fab66ef77e9fc25bbec92f3856c84cd8edb1e167315a15f04f7301e9ffa65ad"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 7/data/stress/phoenix-blow.json",
@@ -4413,46 +3645,16 @@
       "textSha256": "91bda2f077079467ac63dd2c903078f2143023fed323c75666fe7e90698789ef"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 7/stages/fah-week7-b.lua",
-      "size": 24243,
-      "sha256": "346c09ae3dc664102808f7fa1a776b22d8d8d1a9fb1557a06e1f90e57e75ede8",
-      "textSha256": "346c09ae3dc664102808f7fa1a776b22d8d8d1a9fb1557a06e1f90e57e75ede8"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Week 7/stages/fah-week7.json",
       "size": 181,
       "sha256": "bb2d340566becfa8dbd2a7a5845ac02acc8c9da7fa1c1861c3b9fe375907293a",
       "textSha256": "91bda2f077079467ac63dd2c903078f2143023fed323c75666fe7e90698789ef"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Week 7/stages/fah-week7.lua",
-      "size": 5422,
-      "sha256": "270be289db152dd66377e7edecf86376b57ebb46184b0b8cf860f2c4c3240b92",
-      "textSha256": "270be289db152dd66377e7edecf86376b57ebb46184b0b8cf860f2c4c3240b92"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Weekend 1/characters/darnell-fah.json",
       "size": 3258,
       "sha256": "b4a87b8310249734fc1863925ad7e50dd0ef48b28baeae19a1a884e13c50624f",
       "textSha256": "b4a87b8310249734fc1863925ad7e50dd0ef48b28baeae19a1a884e13c50624f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/darnell/01-hud.lua",
-      "size": 7994,
-      "sha256": "a2a46f448362441d109466c6d9a416c19cc68daf483aae3c6a348f3794d5b8fe",
-      "textSha256": "a2a46f448362441d109466c6d9a416c19cc68daf483aae3c6a348f3794d5b8fe"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/darnell/02-bear.lua",
-      "size": 6875,
-      "sha256": "e89247a7ed3db141605ee27251dc3d654825808e84856ea35f342b45f88de1ea",
-      "textSha256": "e89247a7ed3db141605ee27251dc3d654825808e84856ea35f342b45f88de1ea"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/darnell/credits.txt",
-      "size": 187,
-      "sha256": "dfc8899e6b1496027a3f4de425110181382bacdcaa1dfb6f64113c99813b3801",
-      "textSha256": "dfc8899e6b1496027a3f4de425110181382bacdcaa1dfb6f64113c99813b3801"
     },
     {
       "path": "assets/Fah Mix/Basegame/Weekend 1/data/darnell/darnell.json",
@@ -4467,64 +3669,10 @@
       "textSha256": "51c465233a3fb37c6a88088e891c645699959e399b334241bdad56198e04edc9"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/darnell/mechanics.txt",
-      "size": 54,
-      "sha256": "2076c37bdb0b319b52599d301544b0add2e8930e587539bce28fcc52366e8ff6",
-      "textSha256": "2076c37bdb0b319b52599d301544b0add2e8930e587539bce28fcc52366e8ff6"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/darnell/pause.txt",
-      "size": 1068,
-      "sha256": "9afb62a404aa55f508656614263149ded359c6a3c058d9d352b9dca9152fe4d8",
-      "textSha256": "f757d3f42f78bf7615316e0048ce58bf4ab37a071462f9695ab2d426ceca085f"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/01-ending.lua",
-      "size": 822,
-      "sha256": "ca6bca2fc4adb6f63f80549e95bd8fe39cd7b29cbf359913485857d1b1939743",
-      "textSha256": "ca6bca2fc4adb6f63f80549e95bd8fe39cd7b29cbf359913485857d1b1939743"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/02-logo.lua",
-      "size": 1093,
-      "sha256": "ec5af706d3a3fc6ef666d198a3eb7b88bacfc60fce1dc0ae384ad72d79ab6977",
-      "textSha256": "ec5af706d3a3fc6ef666d198a3eb7b88bacfc60fce1dc0ae384ad72d79ab6977"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/03-cinematics.lua",
-      "size": 828,
-      "sha256": "6dcfffe5ac51972892eefb784de1fea08d78940783118d3efe500aa57d2ea0c5",
-      "textSha256": "6dcfffe5ac51972892eefb784de1fea08d78940783118d3efe500aa57d2ea0c5"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/04-actors.lua",
-      "size": 12324,
-      "sha256": "c28ebd424d19cbb296ab946bccb678412d3e6412ee8324d08f2025bbd499ac14",
-      "textSha256": "e68cded3573df6038a1f23d274e2830fdde7bcb2813fbdf522496c478aa4e775"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/credits.txt",
-      "size": 184,
-      "sha256": "6894514617317a825772617035795a4db8616914056c18e6c4fccf3dc9c56eb6",
-      "textSha256": "6894514617317a825772617035795a4db8616914056c18e6c4fccf3dc9c56eb6"
-    },
-    {
       "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/lit-up.json",
       "size": 60369,
       "sha256": "6b72680660f917ef272ecea8a1d7ec186ace07f3087368499531045281cd2b4e",
       "textSha256": "6b72680660f917ef272ecea8a1d7ec186ace07f3087368499531045281cd2b4e"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/mechanics.txt",
-      "size": 36,
-      "sha256": "56ff3475ac71e380933c650e2fab457121033d4b4d5b4574b6e21f410e276f3a",
-      "textSha256": "56ff3475ac71e380933c650e2fab457121033d4b4d5b4574b6e21f410e276f3a"
-    },
-    {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/data/lit-up/pause.txt",
-      "size": 389,
-      "sha256": "b33ae5e0f842ad100d24eafe069bb087a9a7c2d9c3ee058f37e147517e7e90fe",
-      "textSha256": "00df72c19e52d7780341ab34af571f273563994c7ab6eee7c55673f7968f7c3d"
     },
     {
       "path": "assets/Fah Mix/Basegame/Weekend 1/images/Characters/darnell.png",
@@ -4897,12 +4045,6 @@
       "textSha256": "6eae9ec1f65192a2f2d1b073758afebfed6e155db7bfec7cbbe7bb3d97ca5dc5"
     },
     {
-      "path": "assets/Fah Mix/Basegame/Weekend 1/stages/fah-weekend1.lua",
-      "size": 3308,
-      "sha256": "bf7a1d6a80353b0792be334bbf642599ecef3e6f8410fd923ccf23e9b1d8757f",
-      "textSha256": "bf7a1d6a80353b0792be334bbf642599ecef3e6f8410fd923ccf23e9b1d8757f"
-    },
-    {
       "path": "assets/Fah Mix/Beta Bundle/characters/botfah.json",
       "size": 1735,
       "sha256": "31e72f7d33cc24686d510d3ba695b42ed784c9b536910046b040a0ebd0af808b",
@@ -4915,58 +4057,16 @@
       "textSha256": "051caccfd2df8ae8bf27964b2eb6fc1d4afdeaf22c514238adcd733fbd4e3b2c"
     },
     {
-      "path": "assets/Fah Mix/Beta Bundle/data/ridge/credits.txt",
-      "size": 222,
-      "sha256": "16dd61c906bb9fecc1651d0a292e9776eafb8498184b9ac772d2d8ca93204e46",
-      "textSha256": "6bd0d6c878ddd65d0cdfb9b9587c76f6716a60bee8f02128b25224d334c2456e"
-    },
-    {
-      "path": "assets/Fah Mix/Beta Bundle/data/ridge/pause.txt",
-      "size": 679,
-      "sha256": "48752b223d9fff955ae236e438c30ecb689ba6ed69213e84ec56e3a31bfc5b6c",
-      "textSha256": "5848a4f01aa2abcfb66e5bd2b44e2c4fcffbd497d2cc1c34aa88360c256a8116"
-    },
-    {
       "path": "assets/Fah Mix/Beta Bundle/data/ridge/ridge.json",
       "size": 36357,
       "sha256": "d85f26063b9ab8125f27b9b5ec7541e4617867a135b422f26f8bb763bb2cd576",
       "textSha256": "d85f26063b9ab8125f27b9b5ec7541e4617867a135b422f26f8bb763bb2cd576"
     },
     {
-      "path": "assets/Fah Mix/Beta Bundle/data/smash/credits.txt",
-      "size": 222,
-      "sha256": "f4eadd4ea2662742a4d9e260c43cfa2a815d4e63b4f0fd11e03a7f4f655165f9",
-      "textSha256": "1a3dfc2027704992a3761f7e5ffc6d361635415d852f605524d3d5868dca3a2f"
-    },
-    {
-      "path": "assets/Fah Mix/Beta Bundle/data/smash/pause.txt",
-      "size": 486,
-      "sha256": "7a0eb4b727edca4b24e67d8299ec169e5e10aa1ed22adc538f3a9fc59e509fd0",
-      "textSha256": "ff10e9246a50595ae1d855e3df0f55cae8c1b241ec2a3750f88364eadd9dfa35"
-    },
-    {
-      "path": "assets/Fah Mix/Beta Bundle/data/smash/presentation.lua",
-      "size": 5114,
-      "sha256": "b5d25087748813410c3328e866145de72e957b78207f14a772960da5147df486",
-      "textSha256": "b5d25087748813410c3328e866145de72e957b78207f14a772960da5147df486"
-    },
-    {
       "path": "assets/Fah Mix/Beta Bundle/data/smash/smash.json",
       "size": 52505,
       "sha256": "0679cec3560844c79892ea0c4646bd052e4fbe5ef8bc501c899330673d4a8488",
       "textSha256": "4d7f5bfc914d97ecd18b7760d430e666b7e4a7fced496a572dc29bc40615dc66"
-    },
-    {
-      "path": "assets/Fah Mix/Beta Bundle/data/test/credits.txt",
-      "size": 303,
-      "sha256": "020910819b0fe33cca0e1966aef1afc6bdbf6660749933a9eeed3a65b61ebe8d",
-      "textSha256": "13ad03eeee7a940b8499bf94734e94113b1fa4aa1e055312fb74a5d3a8d520b9"
-    },
-    {
-      "path": "assets/Fah Mix/Beta Bundle/data/test/pause.txt",
-      "size": 558,
-      "sha256": "147298135fb2e821d17fd5e62e2f31d69df02f7ef9abe44f79c3cb21d2431144",
-      "textSha256": "147298135fb2e821d17fd5e62e2f31d69df02f7ef9abe44f79c3cb21d2431144"
     },
     {
       "path": "assets/Fah Mix/Beta Bundle/data/test/test.json",
@@ -5281,12 +4381,6 @@
       "textSha256": "8c20ee92afac77dcef2a9fc50a28823ea97488bbb113ecb7dfb856430772aa4a"
     },
     {
-      "path": "assets/Fah Mix/Beta Bundle/stages/test.lua",
-      "size": 16964,
-      "sha256": "1e8ee13b350d50befe9391fed6aa72c9647a86280298502eba9335ccb0f375fc",
-      "textSha256": "b721c4d08ee4a8403591b18f5abc05bd710f8fa7402913052830312a0ae0d246"
-    },
-    {
       "path": "assets/Freeplay/Common/characters/aom-bf-gameover.json",
       "size": 743,
       "sha256": "503e9eff304988deac2a2e592b8de4c47c8d245117955d6b064ca31d2c7eb93c",
@@ -5303,246 +4397,6 @@
       "size": 2543,
       "sha256": "5f128f9dce7f70ead29dc189537906eacd0717429c395e81eba7b4de7c814e11",
       "textSha256": "95165d7745426892d11385b6e2e3057c2a497b55f476be8a911f8b0a66a74468"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Biter.lua",
-      "size": 7075,
-      "sha256": "83519bbeaec3ccd8c039151e4239cf4b6a36c5ad152b22064501d5685d41fcd1",
-      "textSha256": "83519bbeaec3ccd8c039151e4239cf4b6a36c5ad152b22064501d5685d41fcd1"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Biter.txt",
-      "size": 87,
-      "sha256": "919d13f752769ef17f7f424b10cd846805a98fe0acb295033acc60672dd7a42b",
-      "textSha256": "919d13f752769ef17f7f424b10cd846805a98fe0acb295033acc60672dd7a42b"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Camera Beat.lua",
-      "size": 1506,
-      "sha256": "daa4877da91f52a295c90903b109dd2ad092d9f3000f0e919e7dabafd4327bdb",
-      "textSha256": "d505332a3438dfe00bb549e193562997aae32fe636307af872d8d31042c405de"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Camera Beat.txt",
-      "size": 46,
-      "sha256": "b23337789be36ff30fc3c0c0e10c493a0c98b8243e62832a8fa8032eede658ec",
-      "textSha256": "b23337789be36ff30fc3c0c0e10c493a0c98b8243e62832a8fa8032eede658ec"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Camera Set Target.lua",
-      "size": 650,
-      "sha256": "cb49c4575473fc479d91b3d00e9ec84c776d337a47eee3af6b1c7917d5fce9f7",
-      "textSha256": "cb49c4575473fc479d91b3d00e9ec84c776d337a47eee3af6b1c7917d5fce9f7"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/CameraControl.lua",
-      "size": 4026,
-      "sha256": "fa54a3f0161ef630dc1646e8d18a299f7219ae56b35362f99a8f998aa4635107",
-      "textSha256": "3a8979d45fa33c8a64caebd420348730cec56d00c5632e3a85a1bc32513c1817"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/CameraControl.txt",
-      "size": 494,
-      "sha256": "2bbb32611e841f6d0568456fe157cc70f0e8f9f06dfb3b5542bd464c575f1f39",
-      "textSha256": "77be0fdf1a7cfd07a48f9d6484b713a0e6c46ee4ac454ea3542a509a65b609e0"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/cameraZoomerios.lua",
-      "size": 481,
-      "sha256": "996000324525293483a0a2e07b5cbcfbc8405a4d39d75ef78ab5b3732e5bb746",
-      "textSha256": "83f79ecd230fee9ecbbb23fa21b06054fd8b91c92a6cc128bb35228dc97c84db"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/cameraZoomerios.txt",
-      "size": 108,
-      "sha256": "4581f6348f37469bb86c22602717ed6d2f2734bbcee3177006d61fa9221d5677",
-      "textSha256": "fb04640379771dd07a056e734db3ae8e40c10aad1a9afb75e4ffa234a69b02ca"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Cinematics (Fah).lua",
-      "size": 3960,
-      "sha256": "daa027036701253d5401d224728ac7bc484955fc4cdb0109e460d6a626f0d1a4",
-      "textSha256": "cc472b1c540d8838ee5679040f5a5e483bb4c6886482dafc50dc701e0b432629"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Cinematics (Fah).txt",
-      "size": 295,
-      "sha256": "1084899fe46843b4534dd2174178f716c38a32e12039364cfb97efb1b4fe4867",
-      "textSha256": "1c45ebda189fd5bcc24014f0c897a54a54cd52fe4d23ed85a0e195d6a90f4db2"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Cinematics (Still Strum).lua",
-      "size": 4947,
-      "sha256": "101562b0127daf622edc2176ceab10c7ebd680639a40deda7ad0e252dc986e43",
-      "textSha256": "a612210260644c7083d5af0cebfb4d46c9c8933931d3aca20975031eaf488c95"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Cinematics (Still Strum).txt",
-      "size": 295,
-      "sha256": "1084899fe46843b4534dd2174178f716c38a32e12039364cfb97efb1b4fe4867",
-      "textSha256": "1c45ebda189fd5bcc24014f0c897a54a54cd52fe4d23ed85a0e195d6a90f4db2"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/fahbattle-spotlight.lua",
-      "size": 3986,
-      "sha256": "00b51093a007dafa30a5a53884a2b65598f1905d946603e71d7b46d4610adc5d",
-      "textSha256": "1785747c8724ab316776129434c8062908c0886e69a8e67eb32a5bddc6073127"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/fahbattle-spotlight.txt",
-      "size": 32,
-      "sha256": "f85623e25490c28a9855dfdc35f9b842f8e53d4ea3ce35c6230c3239d7f5ae21",
-      "textSha256": "f85623e25490c28a9855dfdc35f9b842f8e53d4ea3ce35c6230c3239d7f5ae21"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Flash.lua",
-      "size": 951,
-      "sha256": "aeec06cd1a05d8de99bf16ad85113cf30c2f46fe0b27bd4a5349c6ec6bd9b12a",
-      "textSha256": "09dd1120ca093b4476bd124c4c9e155c8e97fad2e2290718ace59114078f0c6c"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Flash.txt",
-      "size": 156,
-      "sha256": "05da8d5c64b848d000fb93048f75a92db9c60b7d49cc416700735300013def69",
-      "textSha256": "53089bad8e4c517f3f89fa760b2ec96931e3886283ab4e2677b3da5c0d18358a"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Hud Fade.lua",
-      "size": 1027,
-      "sha256": "ffd5f54064d75c1b638ff4b88a109b82f2d9032c92aa3e53d52b7732866268b8",
-      "textSha256": "770fb4f8d21dfb74ab2217d7b7002c0d82a19117b7edb2bc2712993d5e43bd2f"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Hud Fade.txt",
-      "size": 110,
-      "sha256": "1394ebce5472ee70f4b31d6751247a5f717d9675580cde514023c6bc7f8e789a",
-      "textSha256": "43a99dd223c33759404ff5ec8bab017d6e351a3830d56b17979b28e5fb808eb3"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/HUD Zoom.lua",
-      "size": 310,
-      "sha256": "4d2b74ca5825655080e531077d21f490f67150ca100fab91a8a70c8692d29754",
-      "textSha256": "47595184dabda65f9ca76353ec6dd4958fdb170d51700ced938bcb25c511a7e3"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/HUD Zoom.txt",
-      "size": 205,
-      "sha256": "4700163fd9c01a33452c8333f6033364ee6c46181b1907fb7e4f0d7ab64ce012",
-      "textSha256": "01e3e13c3031a7d270ab63a4ad0f9014cb94b1535e70d4c0b52474816583c110"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Kaboom.lua",
-      "size": 1586,
-      "sha256": "0b043cb543aadabd17eec45301e96313ea82b88058092cc1d3f16a3778c1352f",
-      "textSha256": "51a62300fdca6eaa6606ab6287df96b201bdeba9dee4356bcf81dd306ab20028"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Kaboom.txt",
-      "size": 32,
-      "sha256": "b837b89fd4ce5ec9850d6a31cf581ec3aa1d3850864a76c8eb783363a24afca0",
-      "textSha256": "c75468251b71ae7d9671c326ee5f120cf618f3a6cd4208473fb04b2ceefe0bf8"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Lyrics.lua",
-      "size": 612,
-      "sha256": "8eead7d668aa58d57fdf7bc9948888f4bbf2c0c7a13c8b9d15dc9bdbeb34abf5",
-      "textSha256": "8eead7d668aa58d57fdf7bc9948888f4bbf2c0c7a13c8b9d15dc9bdbeb34abf5"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Lyrics.txt",
-      "size": 132,
-      "sha256": "6e5a2937ecaac94aea27bac869f56c23ee2c099995d6b044f5eca91b2162741f",
-      "textSha256": "6e5a2937ecaac94aea27bac869f56c23ee2c099995d6b044f5eca91b2162741f"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/NoteSprites.lua",
-      "size": 3078,
-      "sha256": "41ce781b976523d6a1412dbc3c293acd91b3ba75af5543896d959a9cd91df00e",
-      "textSha256": "5d9d9a672e59559c8735ddbf6a50ddb3d4ded86355cada68ce50bcb0679b3437"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/NoteSprites.txt",
-      "size": 37,
-      "sha256": "f63f1d9239f2bc93df84e7a68a748218d329bba9024bd3e4646aef0a15210190",
-      "textSha256": "27c79010cf47a08f7b16f49a5930876fd1365317093802b42b0f4ed064b86efa"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/pop-ups.lua",
-      "size": 11125,
-      "sha256": "b8e199d0bd7905dad98d3b424a0941dbf14c0e73134365256cd5c7c46a78be26",
-      "textSha256": "b8e199d0bd7905dad98d3b424a0941dbf14c0e73134365256cd5c7c46a78be26"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/pop-ups.txt",
-      "size": 90,
-      "sha256": "34a272e24eac0a16eeef18526beec02f5c71e4bd65e090d186ce782f6dcee7b8",
-      "textSha256": "34a272e24eac0a16eeef18526beec02f5c71e4bd65e090d186ce782f6dcee7b8"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/ScreenRotCam.lua",
-      "size": 198,
-      "sha256": "f986e3e9947c1f3f59b270850e499033c2884683ec9768aa90164439dd8153d8",
-      "textSha256": "394cfec2c0a98c94e9bc101c49febcd4dce610967da7ff80e4c395a8fe7d50a8"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/ScreenRotCam.txt",
-      "size": 29,
-      "sha256": "892f9e78c880f6a22a1421d3f4215273c6e12a6c839c9a9d883904e30bb3ef64",
-      "textSha256": "03503e63998d4fdf3b53ecf1058e9e3f74074e1e6db349a06536cad6c01cdd8e"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/strumbounces.lua",
-      "size": 7532,
-      "sha256": "3d937581466d2e5d7d43e21a76323b38a3bad34a5a97b2391a397b6355c66409",
-      "textSha256": "3d937581466d2e5d7d43e21a76323b38a3bad34a5a97b2391a397b6355c66409"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/strumbounces.txt",
-      "size": 49,
-      "sha256": "8a015fd421690290286d35ef01a31e939a251fdb833765cd12196bd28d0b7f67",
-      "textSha256": "430a7de697cc729762c2ecbcec2577376f9c0d1f98b9c788d20ac38037d6ca68"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Subtitle.lua",
-      "size": 6412,
-      "sha256": "8fc28d45ec3a7c9e396845e27feacedbaa7126a9c15dc78304344627eac264d2",
-      "textSha256": "086a3a2e940197f74117d08cfba56670e79d1e96dfdc9b42481b3cf57b63f0a6"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Subtitle.txt",
-      "size": 47,
-      "sha256": "971c76e409d0ba0e7be1fc035c2afa6c62138d48345e951a4fd84c4ffcb6d6ee",
-      "textSha256": "63a6e86dd408c09a7301a760dc08335cec8326c1f56e0dcfae470acd090e8925"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Toggle Trail.lua",
-      "size": 3429,
-      "sha256": "0cf56a5f0af583e9254a00cd122478b5acfb2fbb36c6e72c68a1b7e37487807b",
-      "textSha256": "0cf56a5f0af583e9254a00cd122478b5acfb2fbb36c6e72c68a1b7e37487807b"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_events/Toggle Trail.txt",
-      "size": 144,
-      "sha256": "c23382d9392121b297d72ea2c378fbf775d733102a1e6609b8582ed4bc72f4c5",
-      "textSha256": "c23382d9392121b297d72ea2c378fbf775d733102a1e6609b8582ed4bc72f4c5"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_notetypes/dropNote.lua",
-      "size": 750,
-      "sha256": "0c59fc241c108c3200fd25a979ca50c1b1ee2fb456037e1be78850a8bb89f30d",
-      "textSha256": "0c59fc241c108c3200fd25a979ca50c1b1ee2fb456037e1be78850a8bb89f30d"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_notetypes/MicNote.lua",
-      "size": 1374,
-      "sha256": "a513644be95ad82433fab11dd3951a39387f2ae38bbad3bac0d5eec71d022984",
-      "textSha256": "a513644be95ad82433fab11dd3951a39387f2ae38bbad3bac0d5eec71d022984"
-    },
-    {
-      "path": "assets/Freeplay/Common/custom_notetypes/Miss Pose Note.lua",
-      "size": 2490,
-      "sha256": "f93a2c2ef5cb40cdd6fcc7999ae0653542a1f9796914ad0486e8b01f79c2c046",
-      "textSha256": "f93a2c2ef5cb40cdd6fcc7999ae0653542a1f9796914ad0486e8b01f79c2c046"
     },
     {
       "path": "assets/Freeplay/Common/images/Characters/aom-bf.png",
@@ -5842,58 +4696,10 @@
       "textSha256": "629761174e514c62a2d7d610a2e492d3876046987141a96f000832eaad987158"
     },
     {
-      "path": "assets/Freeplay/Fah/data/02-ending.lua",
-      "size": 457,
-      "sha256": "32f8810b3f03b436de55e2aad5c0226eef606b52d0a0916d8ee21f9e9bd5691a",
-      "textSha256": "32f8810b3f03b436de55e2aad5c0226eef606b52d0a0916d8ee21f9e9bd5691a"
-    },
-    {
-      "path": "assets/Freeplay/Fah/data/03-botplay.lua",
-      "size": 245,
-      "sha256": "ec485ec6d19ea9692fc6da12e839bd053d2b8f6971a6a374f88da989d1b57d34",
-      "textSha256": "0860c8618c012d7c2e5b2abd293736c6590d23f3786884d979aa478b25b74f72"
-    },
-    {
-      "path": "assets/Freeplay/Fah/data/04-hud.lua",
-      "size": 14905,
-      "sha256": "2dba3b7eaf6ab91c70a7564a07f95b21423d579d3db1e2443aea262c09a0a12c",
-      "textSha256": "2dba3b7eaf6ab91c70a7564a07f95b21423d579d3db1e2443aea262c09a0a12c"
-    },
-    {
-      "path": "assets/Freeplay/Fah/data/05-props.lua",
-      "size": 5359,
-      "sha256": "5703bd9cf1b107dd5bccac501fd1104b100863c3e9d3b711694ebe48f23a7eb9",
-      "textSha256": "4603b7309afdf42c3420a1eafcd28a8f76927b9ffcca3a9de5f5304256ae24b5"
-    },
-    {
-      "path": "assets/Freeplay/Fah/data/06-popups.lua",
-      "size": 9437,
-      "sha256": "e333d6db261f4a0a09027196727212b89163054faac4d078cd14d8be3fbd2ca1",
-      "textSha256": "6020ab8e74c5efc15ed03fb8127a46b34a992346481307f71d13390c767ad249"
-    },
-    {
-      "path": "assets/Freeplay/Fah/data/07-distractions.lua",
-      "size": 13713,
-      "sha256": "b7b57e7b889a40fd7d02eabb303db32fc9e00309370568b72cae87eeb49adcd3",
-      "textSha256": "24f96438b156abac8f9c8a036038e37f95cacda9291bf8009317709e217aebe8"
-    },
-    {
-      "path": "assets/Freeplay/Fah/data/credits.txt",
-      "size": 216,
-      "sha256": "b68616e51bb7763dcf012a54025fbbb6d54625ed29328f373c5ab363fec0b164",
-      "textSha256": "b68616e51bb7763dcf012a54025fbbb6d54625ed29328f373c5ab363fec0b164"
-    },
-    {
       "path": "assets/Freeplay/Fah/data/events.json",
       "size": 4167,
       "sha256": "3fc13f6bce3d00da59c0f96b47b2f805ccef95168a8937ddc9c04417fe90e898",
       "textSha256": "3fc13f6bce3d00da59c0f96b47b2f805ccef95168a8937ddc9c04417fe90e898"
-    },
-    {
-      "path": "assets/Freeplay/Fah/data/pause.txt",
-      "size": 1570,
-      "sha256": "ab2e4e9b58342ca176257974ae29a642953a58fbd88473c2684217390b4468bb",
-      "textSha256": "19c62f3b0d6fa823842f89f28a983c5f33ade4f709bcea03f6cff3daab90279a"
     },
     {
       "path": "assets/Freeplay/Fah/data/what-the-fah.json",
@@ -6805,12 +5611,6 @@
       "textSha256": "c184b42da583dc8a14d33dbaa57e1f14b28c9d5eb1184e84a102fafffe1116c5"
     },
     {
-      "path": "assets/Freeplay/Fah/stages/fah.lua",
-      "size": 28168,
-      "sha256": "d1767bbaefb6622476c5a17bd34a9ece9717b2e9a70e13c4e44d87a12c119cc5",
-      "textSha256": "ad85deb34888f8b1a1376311896fb70685b6ab40db9d83442499c8b18a156340"
-    },
-    {
       "path": "assets/Freeplay/Fah/videos/fahscene.mp4",
       "size": 1462529,
       "sha256": "5430a15db64cd7173c0e9edd4f0390a10fc8bd5af9d444d173d835bcd234294e"
@@ -6826,36 +5626,6 @@
       "size": 428,
       "sha256": "9333ddf94e2f12a9cc98eb800c2316c7ab48f2d56717f31681b3788caa348319",
       "textSha256": "9333ddf94e2f12a9cc98eb800c2316c7ab48f2d56717f31681b3788caa348319"
-    },
-    {
-      "path": "assets/Freeplay/Gabriella/data/01-checkerboard.lua",
-      "size": 3128,
-      "sha256": "97bb33687f324080d0ac4fdb28a1b2c93e23d4ab6329cb25b3c31935011c3561",
-      "textSha256": "97bb33687f324080d0ac4fdb28a1b2c93e23d4ab6329cb25b3c31935011c3561"
-    },
-    {
-      "path": "assets/Freeplay/Gabriella/data/02-guitars.lua",
-      "size": 3491,
-      "sha256": "ff85125242f8a394ea56b6dff0942e50164fb7c2773de7288c4218873e61acb8",
-      "textSha256": "ff85125242f8a394ea56b6dff0942e50164fb7c2773de7288c4218873e61acb8"
-    },
-    {
-      "path": "assets/Freeplay/Gabriella/data/03-overlay.lua",
-      "size": 722,
-      "sha256": "b0c4cbcf3114b6f04e3e37b7dce271c0d71e20ff1eb32a3fec193273360d9357",
-      "textSha256": "b0c4cbcf3114b6f04e3e37b7dce271c0d71e20ff1eb32a3fec193273360d9357"
-    },
-    {
-      "path": "assets/Freeplay/Gabriella/data/credits.txt",
-      "size": 189,
-      "sha256": "42df322ee960aa66a841c9601a53f938ce02fc37db46a1573019273b4e3770c4",
-      "textSha256": "42df322ee960aa66a841c9601a53f938ce02fc37db46a1573019273b4e3770c4"
-    },
-    {
-      "path": "assets/Freeplay/Gabriella/data/pause.txt",
-      "size": 1217,
-      "sha256": "b25adb49c74af3e5625a87102d9ef9e35ab6fb7a0e24e21f10845fabbf6aa756",
-      "textSha256": "eaea32a9d807e7cf91cc419042fd347ef96e44428bd3a6ef61d1e38b36c6ce1a"
     },
     {
       "path": "assets/Freeplay/Gabriella/data/shiftr.camera.json",
@@ -6953,12 +5723,6 @@
       "textSha256": "767bb55c94d6e573ba370d26848f7e86d4800c6481e4793b195cc4a2224872cb"
     },
     {
-      "path": "assets/Freeplay/Gabriella/stages/gabby.lua",
-      "size": 18708,
-      "sha256": "c2fe50a402d25cdb9de8a93a4f0d5932767651bfc7294168540e5b99a62d2f13",
-      "textSha256": "d0cb980403d5cd837d51985fb1bf54dc38462157c94d80a16b18f2f068d1c212"
-    },
-    {
       "path": "assets/Freeplay/Nola/characters/moth.json",
       "size": 1221,
       "sha256": "a09f5aeccbb17e531f0b2296a235d3ff53b6c17a7b77a9ca980124c55ad1178c",
@@ -6969,54 +5733,6 @@
       "size": 1225,
       "sha256": "0a0ee546a7f6aa01ab7b20fcbd1306af6e0b18f05032c850df5b117cf812c67c",
       "textSha256": "0a0ee546a7f6aa01ab7b20fcbd1306af6e0b18f05032c850df5b117cf812c67c"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/03-overlay.lua",
-      "size": 1739,
-      "sha256": "7ae7153490a22cdc1e0719832f8df37424ebde5f1d8d9e55299cd8da8aa78263",
-      "textSha256": "518ac39061b5667fca9369737cc29bae41743a0c36f455cf24573bfd70912b15"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/background-layer-fade.lua",
-      "size": 1759,
-      "sha256": "c6c663f7b1ecf8db515d53cc782ef699738969238c96b30f6e47358abfa0c88d",
-      "textSha256": "c6c663f7b1ecf8db515d53cc782ef699738969238c96b30f6e47358abfa0c88d"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/early-camera-turn.lua",
-      "size": 4866,
-      "sha256": "ed9e5451c22efaa4b1dc73ac27b07a96f8bc0f27d14afaafb8ceb4ff4e74e909",
-      "textSha256": "ed9e5451c22efaa4b1dc73ac27b07a96f8bc0f27d14afaafb8ceb4ff4e74e909"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/late-blackout.lua",
-      "size": 900,
-      "sha256": "54bb23c226ab2518838378145ddd2bd4b444aeed235c1f1320775bf0b9c9b909",
-      "textSha256": "54bb23c226ab2518838378145ddd2bd4b444aeed235c1f1320775bf0b9c9b909"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/midlay-subtitles.lua",
-      "size": 6155,
-      "sha256": "4b1a2edaa14086c43faaf00af4f7a733cf282c3def901be0e23dcd0875eff007",
-      "textSha256": "4b1a2edaa14086c43faaf00af4f7a733cf282c3def901be0e23dcd0875eff007"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/ntsc-transition.lua",
-      "size": 5821,
-      "sha256": "6ff30d3409faefcb3121906695c31e30fcede9ee55624d7407802cb2981ec76c",
-      "textSha256": "c2507cca14b5e66ddad357958ad70793574b5fba68461f623797e81bc173eab1"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/pause.txt",
-      "size": 1756,
-      "sha256": "16a8353d9a315f0aa552a91c791d8c75ef793b23fab7c37e119513065a718f0f",
-      "textSha256": "7f9f2f1ed97123cc36fdba336f12138eba34d29a0f6eee30346f4a094547b7d6"
-    },
-    {
-      "path": "assets/Freeplay/Nola/data/scrolling.lua",
-      "size": 8170,
-      "sha256": "e9c635d0acc15f0bf4ede529076764546527a46b05cc3654cd8c421d535f8b16",
-      "textSha256": "94a5c8124df3b0f0fb8393ff96c9694f742971da15af569fdbe65cc2eebb2c67"
     },
     {
       "path": "assets/Freeplay/Nola/data/skyline.camera.json",
@@ -7119,12 +5835,6 @@
       "textSha256": "e76c8c4644f01f25647358afb7fb5c5b2f890de3405a6aeb6495f864c9a74b39"
     },
     {
-      "path": "assets/Freeplay/Nola/stages/nola.lua",
-      "size": 4919,
-      "sha256": "ba5b1ee86a7114c399f95c5b29b16ab70fc88d3bd2f37c63cd7b1ded6211a860",
-      "textSha256": "ba5b1ee86a7114c399f95c5b29b16ab70fc88d3bd2f37c63cd7b1ded6211a860"
-    },
-    {
       "path": "assets/Freeplay/Phoenix/characters/phoenix-gf.json",
       "size": 1820,
       "sha256": "689bcea6abaf6f008911a63de47419443dd168058fddbd4bd325785f96632eac",
@@ -7135,36 +5845,6 @@
       "size": 2822,
       "sha256": "d7b942ed65019fc7a2d14ff3184d74aec47d9b0a23a0b9a825dd14c658f2e569",
       "textSha256": "d7b942ed65019fc7a2d14ff3184d74aec47d9b0a23a0b9a825dd14c658f2e569"
-    },
-    {
-      "path": "assets/Freeplay/Phoenix/data/01-checkerboard.lua",
-      "size": 3821,
-      "sha256": "09cd05cce43d0d53ecd96e77d61bbcd92f01d956fc7e36422335d5e4daad851e",
-      "textSha256": "67f34a32b39780979ab9a66009a4c7b4950fb9da15c498c9b7e414f7eb89d237"
-    },
-    {
-      "path": "assets/Freeplay/Phoenix/data/02-gameover.lua",
-      "size": 3293,
-      "sha256": "0b04f11bfd0fd23fad77a0c46cd0ca7ae1b2a726e6be13b2887848f378ecc248",
-      "textSha256": "0b04f11bfd0fd23fad77a0c46cd0ca7ae1b2a726e6be13b2887848f378ecc248"
-    },
-    {
-      "path": "assets/Freeplay/Phoenix/data/03-overlay.lua",
-      "size": 1160,
-      "sha256": "fe85cbcaa2f44afa26afba715bac194b002d3d88fcf206e08baeba203af9a01e",
-      "textSha256": "fe85cbcaa2f44afa26afba715bac194b002d3d88fcf206e08baeba203af9a01e"
-    },
-    {
-      "path": "assets/Freeplay/Phoenix/data/credits.txt",
-      "size": 225,
-      "sha256": "c0480bfc2539fe158a85cebe1f5a6afafc2ef4678edffccda4222955353b42d4",
-      "textSha256": "c0480bfc2539fe158a85cebe1f5a6afafc2ef4678edffccda4222955353b42d4"
-    },
-    {
-      "path": "assets/Freeplay/Phoenix/data/pause.txt",
-      "size": 1199,
-      "sha256": "8f2f7320e6d11f0062f134d27ca97b1021cda32cd53c0f72773b3130166cc980",
-      "textSha256": "5b65d9498e6fcb700d0aab21ff0152cfbc17261c77c92667e9dbdc5520353f04"
     },
     {
       "path": "assets/Freeplay/Phoenix/data/sunburnt.camera.json",
@@ -7354,12 +6034,6 @@
       "textSha256": "61600f56adbf141b8e0d0846853ca74fe62924152da1bf059a278b22b4e30018"
     },
     {
-      "path": "assets/Freeplay/Phoenix/stages/phoenix.lua",
-      "size": 13285,
-      "sha256": "7f695ed0ac4a8200322ee6fd5363c2a585add4d30bf539c2a61845fc2a5a207c",
-      "textSha256": "7f695ed0ac4a8200322ee6fd5363c2a585add4d30bf539c2a61845fc2a5a207c"
-    },
-    {
       "path": "assets/Freeplay/Raven/characters/raven-active-annoyed.json",
       "size": 1497,
       "sha256": "575fcaf694ec9fdb6b47c54563410cf22b0831373c5d9840d5587cf27ad9f6c5",
@@ -7402,36 +6076,6 @@
       "textSha256": "db1a13396876549ded0bf7685cb594eb1ffe37fb67b425c142588f0cd9b65941"
     },
     {
-      "path": "assets/Freeplay/Raven/data/01-icons.lua",
-      "size": 3308,
-      "sha256": "b824b99e94d00b0411868e50281022b47775aacaaa7c566393f2c64a4b00411a",
-      "textSha256": "fa70c727c158125c413de2504b8ecc9569f68221833a6743aee029660ceee4b3"
-    },
-    {
-      "path": "assets/Freeplay/Raven/data/02-paws.lua",
-      "size": 4061,
-      "sha256": "28a45ce6f1d425fc5dd72b6d6271fdcadccb5dceadf4164d90c02ef3fa21aa58",
-      "textSha256": "28a45ce6f1d425fc5dd72b6d6271fdcadccb5dceadf4164d90c02ef3fa21aa58"
-    },
-    {
-      "path": "assets/Freeplay/Raven/data/03-overlay.lua",
-      "size": 1552,
-      "sha256": "0068ee35c971b4a758aa8e6ee95ccad6368355f39fdb2e71c7f885b5dfe18544",
-      "textSha256": "0068ee35c971b4a758aa8e6ee95ccad6368355f39fdb2e71c7f885b5dfe18544"
-    },
-    {
-      "path": "assets/Freeplay/Raven/data/04-camera.lua",
-      "size": 5184,
-      "sha256": "787769e20e110246d8e012b557da29dbcae1b0579b8dda324c5ad3094610f19d",
-      "textSha256": "c7bfe5d58f7417ae7618aebe85e7db2167aa74519801b02d09588c8b46367f3c"
-    },
-    {
-      "path": "assets/Freeplay/Raven/data/credits.txt",
-      "size": 209,
-      "sha256": "5411454a461aceddde22d5ae046e2e12ec78c6df0d62e652709f5649b6c09b83",
-      "textSha256": "5411454a461aceddde22d5ae046e2e12ec78c6df0d62e652709f5649b6c09b83"
-    },
-    {
       "path": "assets/Freeplay/Raven/data/hodgepodge.camera.json",
       "size": 49153,
       "sha256": "50fac21e3ebb1c22cdac62244b72f6dff3c75b5bbd6612a1806ea2a0f36bb91b",
@@ -7442,12 +6086,6 @@
       "size": 134135,
       "sha256": "6377bf0f14c9c0c5067cde26aae40f41a4573553d13f2d53e1b29c22c5e85982",
       "textSha256": "6377bf0f14c9c0c5067cde26aae40f41a4573553d13f2d53e1b29c22c5e85982"
-    },
-    {
-      "path": "assets/Freeplay/Raven/data/pause.txt",
-      "size": 1454,
-      "sha256": "e784c3462af70813706eafe18da10eb9650c89e0541c4226b9cb549c5d456922",
-      "textSha256": "184fa07274cfb8bbb27d889ea8a5e24ddfbcab84acca3fc19f1ba028960ffdd4"
     },
     {
       "path": "assets/Freeplay/Raven/images/Characters/raven-active-annoyed.png",
@@ -7783,12 +6421,6 @@
       "textSha256": "cae8883bf3ff356c2dce625bab5dd157f736528fe16d13e000e495837c8350b0"
     },
     {
-      "path": "assets/Freeplay/Raven/stages/raven.lua",
-      "size": 34177,
-      "sha256": "5efb76534bad0fdeb9b9128324ac6000ad7c6fc630af5d18f75ab97673d274d5",
-      "textSha256": "6684ba89cfe29831b03c7323cec2d79819651a6c35e60adbd69e3fad977a994f"
-    },
-    {
       "path": "assets/Freeplay/Raven/videos/angel.mp4",
       "size": 978500,
       "sha256": "bc79910f933d06036f1eb1acfc704f0589a1db80b56ede9371f1cc2549e8d1ba"
@@ -7897,12 +6529,6 @@
       "textSha256": "16d382cb9640e6c90d63306de7be87bbeec9ee9f7f3697b69460084ea78e03b1"
     },
     {
-      "path": "assets/Freeplay/Yoyai/data/hush-up/credits.txt",
-      "size": 223,
-      "sha256": "4b331015ed5b4864e4a9ad126b98ecfd56bfca083dd23b9b0e369e90fdefb9d6",
-      "textSha256": "4b331015ed5b4864e4a9ad126b98ecfd56bfca083dd23b9b0e369e90fdefb9d6"
-    },
-    {
       "path": "assets/Freeplay/Yoyai/data/hush-up/hush-up.camera.json",
       "size": 13204,
       "sha256": "8d589e3041db129f4aa5ff98783d6480d6d9f6c7396f80ee5a7dafeb0e6bfad7",
@@ -7915,22 +6541,10 @@
       "textSha256": "6f876ef9c0c484a81213657a165ab0c4ee0a911e35cf2b62128e39cf4e16accb"
     },
     {
-      "path": "assets/Freeplay/Yoyai/data/hush-up/pause.txt",
-      "size": 1136,
-      "sha256": "8c67484907fdd39ad94013ed3e077cc77499cd34c80c6277ced600be5b87a39b",
-      "textSha256": "8c67484907fdd39ad94013ed3e077cc77499cd34c80c6277ced600be5b87a39b"
-    },
-    {
       "path": "assets/Freeplay/Yoyai/data/hush-up/pose-anchors.json",
       "size": 17518,
       "sha256": "3ffa9db685a6ab035bb4dbe7373939dd5c5c1defa1b397482bbdbd5418c9ddb2",
       "textSha256": "1051d99ab37469aa30ede30003b86e9175b5769b8339702b3c9e1ff1a64cb989"
-    },
-    {
-      "path": "assets/Freeplay/Yoyai/data/hush-up/song-logo.lua",
-      "size": 1053,
-      "sha256": "4380dceafb5cd908e62181f41013d1c649f57d34316680e48cf81b90e1988c1a",
-      "textSha256": "4380dceafb5cd908e62181f41013d1c649f57d34316680e48cf81b90e1988c1a"
     },
     {
       "path": "assets/Freeplay/Yoyai/images/characters/blanket-speaker.png",
@@ -8028,12 +6642,6 @@
       "size": 259,
       "sha256": "bde200d9a023d992ea1151810b75b54ab4d7bebc4d5c6a6a7fa346c2ccdd4701",
       "textSha256": "c839dd09cabf0ed6153ae556486c0eef73a41c13ae1b5e5704427c80b296aa21"
-    },
-    {
-      "path": "assets/Freeplay/Yoyai/stages/yoyai.lua",
-      "size": 6521,
-      "sha256": "3433b29f23fae50eb633340bcb00603da1141b13db25d5e1236b819b4405faad",
-      "textSha256": "3433b29f23fae50eb633340bcb00603da1141b13db25d5e1236b819b4405faad"
     },
     {
       "path": "assets/Menus/Common/Backgrounds/checkerboard.png",
@@ -9472,6 +8080,47 @@
       "sha256": "5c6c4453996bdb9bbe49955ac3c85d3223e9c3b49bc856bab44e0c82f2b42d95"
     },
     {
+      "path": "assets/Menus/Extras/bin-attendant.png",
+      "size": 982187,
+      "sha256": "0c4ede4f639382f993b8a4c48736b9be56805b78f2d5bd003f2127edeb01a24a"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-attendant.xml",
+      "size": 1199,
+      "sha256": "addc08148f3f9684cd0658765b9aaa72e9ef4bbda2bca94b1e1bd6b13df7d6ec",
+      "textSha256": "06eeb188adc828ecaad67a5d18feaf9468c04238f844448298142490a8657a1d"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-capsules.png",
+      "size": 34206,
+      "sha256": "b11da72e37a5d18a3d04172aa9251addf1352b41c24cc88e5a0b33617cc3ca1b"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-crane.png",
+      "size": 51834,
+      "sha256": "8aa8fef7f15d1251653e7486ce8c09bd9b3ee40fbc89e315bb98112a310b3664"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-filled.png",
+      "size": 1883769,
+      "sha256": "38317709f6d5594ce9ae697b52d11485800f0ed0d403428c5b6d92ebf1e65e34"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-parts.png",
+      "size": 804238,
+      "sha256": "7f04ca91cccaac75fe9e1b11b3942b885b8270eb3acdee0ac7ec2351e55d7192"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-pay.png",
+      "size": 13173,
+      "sha256": "e5d10cdb94678c429740cf43d0d3adcd5494db627a7999fe1d6286a79fae1abf"
+    },
+    {
+      "path": "assets/Menus/Extras/bin-turn.png",
+      "size": 6949,
+      "sha256": "2aa91e4abe9c8fec23f1694d6c7aea36e9851381a3d3c1995cc54ad4e1ddd4ad"
+    },
+    {
       "path": "assets/Menus/Extras/Character Bios/concepts/Fah/Old-Style.png",
       "size": 1688350,
       "sha256": "8c8131dd5e1b787ea2aca3ea95358cc207c8475717f1c900fe0ece5e8ef2e064"
@@ -9867,6 +8516,11 @@
       "sha256": "7cccef5c9e84a356937e05d08eea94341781db94cd840c87b0e886c67a1ef203"
     },
     {
+      "path": "assets/Menus/Extras/Gallery/Art/2.5 (Side C) Thumbnail.jpg",
+      "size": 428841,
+      "sha256": "ec5de093e7abf1582634dcaacbf731802d2ffdaa656fe5792148394856c1bda1"
+    },
+    {
       "path": "assets/Menus/Extras/Gallery/Art/2.5 (Side C) Thumbnail.png",
       "size": 1668190,
       "sha256": "af84589f715428d518498eaf394df80c75877a0244ea62f6aab5e70a47c6dc72"
@@ -9935,12 +8589,6 @@
       "path": "assets/Menus/Extras/Gallery/Art/Main Menu Concept.png",
       "size": 33057,
       "sha256": "edf2a0d2e1b1c9f5cfba986b14e7c5716fa866239de4b879cd47117f551093cf"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/descriptions.txt",
-      "size": 611,
-      "sha256": "e7514fb363df67a4941b32258cf1e7b91fbfc7b28fdb626038920072437330a7",
-      "textSha256": "e7514fb363df67a4941b32258cf1e7b91fbfc7b28fdb626038920072437330a7"
     },
     {
       "path": "assets/Menus/Extras/Gallery/music/FreakyMenu-Gal.ogg",
@@ -12243,12 +10891,6 @@
       "sha256": "690c44d8f1fe50afdcc5fdc5ee3ccecf9be3a9466100e3fc064092f484b2452c"
     },
     {
-      "path": "assets/Menus/Main Menu/News/Song Icons/new-song.txt",
-      "size": 8,
-      "sha256": "0380346e1fde023705c941fa0aacaf72822ba94941110e53b6c424ccadd30cce",
-      "textSha256": "0380346e1fde023705c941fa0aacaf72822ba94941110e53b6c424ccadd30cce"
-    },
-    {
       "path": "assets/Menus/Main Menu/News/Song Icons/nola.png",
       "size": 51637,
       "sha256": "16bd88d679384dbdfa4b1b6322ca5cfc23fb7df3dbab2eb9eb67c55e5f6d4af5"
@@ -12415,6 +11057,11 @@
       "sha256": "d7b8d617fec86e179985989b46d4a6502de13e56333a116edd677749c1f38176"
     },
     {
+      "path": "assets/Menus/Main Menu/Portraits/art24.png",
+      "size": 204673,
+      "sha256": "71c5bf61d6da7ea3fcd64723dde3ab1e1e179846979902fa4f06ca71bf1180ca"
+    },
+    {
       "path": "assets/Menus/Main Menu/Portraits/art24t.png",
       "size": 204611,
       "sha256": "9c2a381007c0b2afc9bf8710bd6187843692080bbe8dc9bdf8a906669ac6de73"
@@ -12463,12 +11110,6 @@
       "path": "assets/Menus/Main Menu/Portraits/art9.png",
       "size": 267344,
       "sha256": "9dd94a0321cb0d26a98595a90be168efa52f69177f956c1f407025d88e4a090b"
-    },
-    {
-      "path": "assets/Menus/Main Menu/Portraits/colors.txt",
-      "size": 589,
-      "sha256": "307752e630a6e3659cffaa61c0cb340679b004906cef3079966358ff27f030e9",
-      "textSha256": "1d9025ebe84c5cbc837324b2520817c37b0c4b0ccd3fa4152031aa1d9a893ad7"
     },
     {
       "path": "assets/Menus/Main Menu/Sidebar/averageocmodText.png",
@@ -13411,12 +12052,6 @@
       "sha256": "a38e2e114eed801a60af66f2f78ccdf5a9a61a65e755294573c3d080f92eb757"
     },
     {
-      "path": "assets/Menus/Startup/Loading/fahmix.txt",
-      "size": 594,
-      "sha256": "7252ab430913312bc6b6efef6009084b6f9815dea9d63ebae3ab032634ce5813",
-      "textSha256": "21fc89024a68d9d3bc64dc1ce406eba5c28b7ed07fae09940649f95542c3d886"
-    },
-    {
       "path": "assets/Menus/Startup/Loading/LoadingTip.png",
       "size": 8045,
       "sha256": "c3e7e9b8c7791f60b6c39e1e5fed2672394ad228d4724b00a346d3770429f4ba"
@@ -13444,30 +12079,6 @@
       "size": 2538,
       "sha256": "3471b6ffd19b860cd8bc7c610c0fd1ebeb3be576c3ff20cf0dc5012083c44137",
       "textSha256": "b0c730f7f7430513ea3486217b875661d96d930d1d100b257926ce395ee955a7"
-    },
-    {
-      "path": "assets/Retro/data/checkerboard-legacy.lua",
-      "size": 1060,
-      "sha256": "79d892b49a7ae1557ef3c701083f38f959682ce6b0a4dfb7e1d65f4ad383fedb",
-      "textSha256": "495c62d8dc33c81b41287060860d49c250a8a89eea4f26da00bacfdaafa391df"
-    },
-    {
-      "path": "assets/Retro/data/legacy-customScoreTxt.lua",
-      "size": 1193,
-      "sha256": "e273aea39f3a58a17b20a70f3b4ef52500784f3c37a4eb5e2a9f3dea5015fbdc",
-      "textSha256": "7a8b69f31da698ba63419e037b5eee023f6a811a34bbcc3d94a17ca649f39485"
-    },
-    {
-      "path": "assets/Retro/data/legacy-scroll.lua",
-      "size": 237,
-      "sha256": "19328f189dd31c98572de5d25fcea0cb0eab59c60fa686e1c215c2c4c2489b51",
-      "textSha256": "f0d6068de73074b29ea35f86ccbdceec3903b483b0cfee027519bd0c74b799b8"
-    },
-    {
-      "path": "assets/Retro/data/legacy-trailDoubleNote.lua",
-      "size": 2150,
-      "sha256": "e3e64551522e9a428a8081298ae95a7e38a14a3e575f00262663c98e08074bdd",
-      "textSha256": "d0f176a0d9fb018ed1dc2c6e0b1ab0569f44dcc831ac8c79794e468620d58036"
     },
     {
       "path": "assets/Retro/data/shiftr-legacy.json",
@@ -13812,15 +12423,9 @@
       "textSha256": "5df4da35f1ace345736eedac7bd5501b6309d0cf59f82d43aab693a2588c6aaf"
     },
     {
-      "path": "assets/Retro/stages/gabby-legacy.lua",
-      "size": 14388,
-      "sha256": "21bb7829cd523f7b2ee1b154c060c7a12a4fe6557d57264eabb109813624fb2d",
-      "textSha256": "e95c6a7e0ae5b82fb3c8d438063e16324193daf43827dbf09aed864d37e0aa51"
-    },
-    {
       "path": "Average OC Mod.exe",
-      "size": 53733888,
-      "sha256": "bac009b075cb4d34617a56c739fcc21c57c9a80c26e202bfc2c913df5575286f"
+      "size": 60187648,
+      "sha256": "3bdb820514df1ad162a8ca2058651f79e1806bd3ea905819d815682e75eeb695"
     },
     {
       "path": "icon.ico",
@@ -13844,9 +12449,9 @@
     },
     {
       "path": "manifest/default.json",
-      "size": 256083,
-      "sha256": "e72ebd9de29255c6e790b949483ba64eb7f92ad104419771ac19ea53ab5f6ed4",
-      "textSha256": "e72ebd9de29255c6e790b949483ba64eb7f92ad104419771ac19ea53ab5f6ed4"
+      "size": 260506,
+      "sha256": "8f8dfb3b0dd3cf637bde6a0b599ad78f332f01aa45ef60e4f87a88f55523d40c",
+      "textSha256": "8f8dfb3b0dd3cf637bde6a0b599ad78f332f01aa45ef60e4f87a88f55523d40c"
     },
     {
       "path": "plugins/access/libaccess_attachment_plugin.dll",
@@ -14654,11 +13259,6 @@
       "sha256": "43d7bc7dc4e068da2afc1bb2ff0f65bcea2ce2841f2a443cb6306f03bdd7f5cf"
     },
     {
-      "path": "plugins/lua/liblua_plugin.dll",
-      "size": 312339,
-      "sha256": "50b53e5de635e016e31ed99992c43f290272974d88dfbd78d17e52259c64b29f"
-    },
-    {
       "path": "plugins/meta_engine/libfolder_plugin.dll",
       "size": 39955,
       "sha256": "e5ed61eec67ae469c85b67b16b99375ab583bd97c73c4e9cfbfe213f4be86961"
@@ -14810,8 +13410,8 @@
     },
     {
       "path": "plugins/plugins.dat",
-      "size": 256718,
-      "sha256": "8b469dab5232898736fc7c40ca2423b4b3da4c9084556bed7c9676e3f87feca2"
+      "size": 254197,
+      "sha256": "69b343467e2cc68793028819ad2d4c799e94538117e17b199a9389b6352e565b"
     },
     {
       "path": "plugins/services_discovery/libmediadirs_plugin.dll",

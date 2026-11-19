@@ -1,7 +1,7 @@
 {
-  "version": "2.5.44",
-  "manifestSize": 621081,
-  "manifestSha256": "7eab03b9f3edee972b7992b3e2a2f0ed8cf9ad8a69b5277d0f50345fd7c73a8f",
-  "releaseRef": "aom-build-44",
-  "sourceCommit": "7865756da3063748fcb692911866eb75aeedc984"
+  "version": "2.5.45",
+  "manifestSize": 556970,
+  "manifestSha256": "4a85dd4291d53ecc89c22124d976e86226161ef0187f54860d2758a5f07aed2a",
+  "releaseRef": "aom-build-45",
+  "sourceCommit": "3ef781851d55438594d54b7c1440498554621fa0"
 }
