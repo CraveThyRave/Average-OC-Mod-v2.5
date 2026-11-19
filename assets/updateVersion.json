@@ -1,8 +1,8 @@
 {
   "format": 2,
   "version": "2.5.5",
-  "manifestSize": 100942,
-  "manifestSha256": "61b75ef06b452b7b8bd0d664f1688451f5fa3e89d852e69d78d40e3fe3c7d33f",
+  "manifestSize": 282,
+  "manifestSha256": "1834c7b0ad1c518355eca85de7f99bf382b5651763833b492016ac81f7c67f9e",
   "inventorySize": 556704,
-  "inventorySha256": "9fbe2f6ea553bfadaa48fa67b82890db5dd4c0b8e91e044bd7bebcf51f9e04b5"
+  "inventorySha256": "524137d953813228c54d6c0eb9b9ca5a9b30f847fb939ead9a1c7dd9a65482f9"
 }
