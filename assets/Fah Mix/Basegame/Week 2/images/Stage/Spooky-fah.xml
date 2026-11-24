@@ -18,7 +18,7 @@
 <SubTexture name="brace0000" x="292" y="1120" width="262" height="349" frameX="-42" frameY="-17" frameWidth="337" frameHeight="369" />
 <SubTexture name="brace0001" x="1787" y="1023" width="235" height="338" frameX="-53" frameY="-30" frameWidth="337" frameHeight="369" />
 <SubTexture name="brace0002" x="1545" y="996" width="241" height="324" frameX="-47" frameY="-31" frameWidth="337" frameHeight="369" />
-<SubTexture name="headshake0000" x="0" y="1469" width="271" height="338" frameX="-49" frameY="-26" frameWidth="337" frameHeight="369" />
+<SubTexture name="headshake0000" x="0" y="1469" width="271" height="328" frameX="-49" frameY="-26" frameWidth="337" frameHeight="369" />
 <SubTexture name="headshake0001" x="1787" y="0" width="270" height="341" frameX="-48" frameY="-22" frameWidth="337" frameHeight="369" />
 <SubTexture name="headshake0002" x="1787" y="341" width="226" height="341" frameX="-109" frameY="-23" frameWidth="337" frameHeight="369" />
 <SubTexture name="d-miss0000" x="1419" y="1469" width="226" height="305" frameX="-81" frameY="-79" frameWidth="376" frameHeight="438" />

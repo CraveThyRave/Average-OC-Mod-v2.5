@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fahger-34-playable-light.png">
+<SubTexture name="fahger-34-playable-light right-alt0000" x="0" y="516" width="414" height="386" frameX="0" frameY="0" frameWidth="414" frameHeight="387" />
+<SubTexture name="fahger-34-playable-light right-alt0001" x="1520" y="0" width="331" height="341" frameX="-39" frameY="-46" frameWidth="414" frameHeight="387" />
+<SubTexture name="fahger-34-playable-light right-alt0002" x="971" y="1277" width="256" height="328" frameX="-30" frameY="-55" frameWidth="414" frameHeight="387" />
+<SubTexture name="fahger-34-playable-light down-miss0000" x="1520" y="1019" width="311" height="234" frameX="0" frameY="-40" frameWidth="329" frameHeight="276" />
+<SubTexture name="fahger-34-playable-light down-miss0001" x="1450" y="1618" width="313" height="276" frameX="-16" frameY="0" frameWidth="329" frameHeight="276" />
+<SubTexture name="fahger-34-playable-light up-miss0000" x="743" y="0" width="284" height="408" frameX="0" frameY="0" frameWidth="284" frameHeight="408" />
+<SubTexture name="fahger-34-playable-light up-miss0001" x="0" y="902" width="278" height="375" frameX="-1" frameY="-31" frameWidth="284" frameHeight="408" />
+<SubTexture name="fahger-34-playable-light left-miss0000" x="0" y="1277" width="333" height="341" frameX="0" frameY="0" frameWidth="333" frameHeight="351" />
+<SubTexture name="fahger-34-playable-light left-miss0001" x="843" y="1618" width="277" height="295" frameX="-38" frameY="-56" frameWidth="333" frameHeight="351" />
+<SubTexture name="fahger-34-playable-light right-miss0000" x="935" y="902" width="328" height="354" frameX="-5" frameY="0" frameWidth="333" frameHeight="354" />
+<SubTexture name="fahger-34-playable-light right-miss0001" x="672" y="1277" width="299" height="334" frameX="0" frameY="-18" frameWidth="333" frameHeight="354" />
+<SubTexture name="fahger-34-playable-light right0000" x="414" y="516" width="284" height="386" frameX="-22" frameY="0" frameWidth="306" frameHeight="387" />
+<SubTexture name="fahger-34-playable-light right0001" x="1520" y="341" width="278" height="341" frameX="-9" frameY="-46" frameWidth="306" frameHeight="387" />
+<SubTexture name="fahger-34-playable-light right0002" x="1227" y="1277" width="256" height="328" frameX="0" frameY="-55" frameWidth="306" frameHeight="387" />
+<SubTexture name="fahger-34-playable-light left-alt0000" x="278" y="902" width="382" height="359" frameX="0" frameY="0" frameWidth="382" frameHeight="365" />
+<SubTexture name="fahger-34-playable-light left-alt0001" x="333" y="1277" width="339" height="337" frameX="-11" frameY="-23" frameWidth="382" frameHeight="365" />
+<SubTexture name="fahger-34-playable-light left-alt0002" x="1851" y="0" width="240" height="312" frameX="-111" frameY="-53" frameWidth="382" frameHeight="365" />
+<SubTexture name="fahger-34-playable-light left0000" x="660" y="902" width="275" height="359" frameX="0" frameY="0" frameWidth="308" frameHeight="365" />
+<SubTexture name="fahger-34-playable-light left0001" x="1520" y="682" width="294" height="337" frameX="-13" frameY="-23" frameWidth="308" frameHeight="365" />
+<SubTexture name="fahger-34-playable-light left0002" x="1851" y="312" width="240" height="312" frameX="-68" frameY="-53" frameWidth="308" frameHeight="365" />
+<SubTexture name="fahger-34-playable-light up-alt0000" x="0" y="0" width="267" height="516" frameX="-16" frameY="0" frameWidth="283" frameHeight="516" />
+<SubTexture name="fahger-34-playable-light up-alt0001" x="267" y="0" width="256" height="450" frameX="0" frameY="-64" frameWidth="283" frameHeight="516" />
+<SubTexture name="fahger-34-playable-light up-alt0002" x="698" y="516" width="233" height="384" frameX="-5" frameY="-128" frameWidth="283" frameHeight="516" />
+<SubTexture name="fahger-34-playable-light up0000" x="523" y="0" width="220" height="427" frameX="-16" frameY="0" frameWidth="256" frameHeight="427" />
+<SubTexture name="fahger-34-playable-light up0001" x="1027" y="0" width="256" height="379" frameX="0" frameY="-46" frameWidth="256" frameHeight="427" />
+<SubTexture name="fahger-34-playable-light up0002" x="1283" y="702" width="233" height="348" frameX="-5" frameY="-75" frameWidth="256" frameHeight="427" />
+<SubTexture name="fahger-34-playable-light down-alt0000" x="1120" y="1618" width="330" height="288" frameX="0" frameY="-22" frameWidth="346" frameHeight="310" />
+<SubTexture name="fahger-34-playable-light down-alt0001" x="0" y="1618" width="305" height="304" frameX="-35" frameY="0" frameWidth="346" frameHeight="310" />
+<SubTexture name="fahger-34-playable-light down-alt0002" x="305" y="1618" width="296" height="301" frameX="-50" frameY="-3" frameWidth="346" frameHeight="310" />
+<SubTexture name="fahger-34-playable-light down0000" x="1851" y="624" width="238" height="259" frameX="0" frameY="-57" frameWidth="250" frameHeight="316" />
+<SubTexture name="fahger-34-playable-light down0001" x="1763" y="1618" width="243" height="268" frameX="-1" frameY="-33" frameWidth="250" frameHeight="316" />
+<SubTexture name="fahger-34-playable-light down0002" x="601" y="1618" width="242" height="301" frameX="-8" frameY="0" frameWidth="250" frameHeight="316" />
+<SubTexture name="fahger-34-playable-light idle0000" x="1283" y="0" width="237" height="353" frameX="0" frameY="-26" frameWidth="237" frameHeight="381" />
+<SubTexture name="fahger-34-playable-light idle0001" x="1483" y="1277" width="229" height="318" frameX="-8" frameY="-63" frameWidth="237" frameHeight="381" />
+<SubTexture name="fahger-34-playable-light idle0002" x="1027" y="379" width="232" height="374" frameX="-5" frameY="0" frameWidth="237" frameHeight="381" />
+<SubTexture name="fahger-34-playable-light idle0003" x="1283" y="353" width="231" height="349" frameX="-1" frameY="-27" frameWidth="237" frameHeight="381" />
+</TextureAtlas>

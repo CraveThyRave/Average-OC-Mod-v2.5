@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="monster-bg.png">
+<SubTexture name="monster-bg idle0000" x="2576" y="1192" width="2428" height="1186" frameX="-24" frameY="-21" frameWidth="2576" frameHeight="1287" />
+<SubTexture name="monster-bg idle0001" x="2576" y="0" width="2438" height="1192" frameX="-27" frameY="-21" frameWidth="2576" frameHeight="1287" />
+<SubTexture name="monster-bg idle0002" x="0" y="1287" width="2544" height="1225" frameX="-4" frameY="-11" frameWidth="2576" frameHeight="1287" />
+<SubTexture name="monster-bg idle0003" x="0" y="0" width="2576" height="1287" frameX="0" frameY="0" frameWidth="2576" frameHeight="1287" />
+</TextureAtlas>

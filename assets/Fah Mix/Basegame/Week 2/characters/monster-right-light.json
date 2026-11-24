@@ -1,0 +1,224 @@
+{
+  "image": "Characters/Monster/monster-right-light",
+  "scale": 0.8,
+  "sing_duration": 4,
+  "healthicon": "monster-fah-animated",
+  "position": [
+    1084.25,
+    -523.4
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "flip_x": false,
+  "no_antialiasing": false,
+  "healthbar_colors": [
+    217,
+    210,
+    116
+  ],
+  "animations": [
+    {
+      "offsets": [
+        -9.41,
+        0.0
+      ],
+      "loop": true,
+      "fps": 8,
+      "anim": "idle",
+      "indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "name": "monster-right-light idle"
+    },
+    {
+      "offsets": [
+        -24.47,
+        -41.41
+      ],
+      "loop": false,
+      "fps": 14,
+      "anim": "singDOWN",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "monster-right-light down"
+    },
+    {
+      "offsets": [
+        9.41,
+        -132.7
+      ],
+      "loop": false,
+      "fps": 14,
+      "anim": "singRIGHT",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "monster-right-light right"
+    },
+    {
+      "offsets": [
+        114.82,
+        -144.0
+      ],
+      "loop": false,
+      "fps": 14,
+      "anim": "singUP",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "monster-right-light up"
+    },
+    {
+      "offsets": [
+        67.77,
+        -161.88
+      ],
+      "loop": false,
+      "fps": 14,
+      "anim": "singLEFT",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "monster-right-light left"
+    },
+    {
+      "offsets": [
+        52.7,
+        -88.47
+      ],
+      "loop": false,
+      "fps": 14,
+      "anim": "singLEFT-alt",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "monster-right-light left-alt"
+    },
+    {
+      "offsets": [
+        31.06,
+        -137.41
+      ],
+      "loop": false,
+      "fps": 14,
+      "anim": "singUP-alt",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "monster-right-light up-alt"
+    },
+    {
+      "offsets": [
+        108.23,
+        -85.65
+      ],
+      "loop": false,
+      "fps": 14,
+      "anim": "singRIGHT-alt",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "monster-right-light right-alt"
+    },
+    {
+      "offsets": [
+        45.18,
+        -64.0
+      ],
+      "loop": false,
+      "fps": 14,
+      "anim": "singDOWN-alt",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "monster-right-light down-alt"
+    },
+    {
+      "offsets": [
+        -122.35,
+        -135.53
+      ],
+      "loop": false,
+      "fps": 12,
+      "anim": "tp",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "name": "monster-right-light tp"
+    },
+    {
+      "offsets": [
+        -127.06,
+        -129.88
+      ],
+      "loop": true,
+      "fps": 8,
+      "anim": "tp-idle",
+      "indices": [
+        0,
+        1,
+        2
+      ],
+      "name": "monster-right-light idle-tp"
+    },
+    {
+      "offsets": [
+        -126.12,
+        -129.88
+      ],
+      "loop": false,
+      "fps": 12,
+      "anim": "tp-in",
+      "indices": [
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "name": "monster-right-light tp"
+    }
+  ]
+}

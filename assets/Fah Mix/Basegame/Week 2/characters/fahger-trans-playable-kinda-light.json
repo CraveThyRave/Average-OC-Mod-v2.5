@@ -1,0 +1,252 @@
+{
+  "image": "Characters/Monster/fahger-trans-playable-kinda-light",
+  "scale": 0.85,
+  "sing_duration": 4,
+  "healthicon": "fahger-playable",
+  "position": [
+    66,
+    440
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "flip_x": true,
+  "no_antialiasing": false,
+  "healthbar_colors": [
+    193,
+    154,
+    72
+  ],
+  "animations": [
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        0,
+        1,
+        2
+      ],
+      "fps": 9,
+      "anim": "idle",
+      "loop": true,
+      "name": "fahger-trans-playable-kinda-light norm-to-34"
+    },
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        0,
+        1,
+        2
+      ],
+      "fps": 8,
+      "anim": "norm-to-34",
+      "loop": false,
+      "name": "fahger-trans-playable-kinda-light norm-to-34"
+    },
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        0,
+        1,
+        2
+      ],
+      "fps": 8,
+      "anim": "34-to-behind",
+      "loop": false,
+      "name": "fahger-trans-playable-kinda-light 34-to-behind"
+    },
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        2,
+        1,
+        0
+      ],
+      "fps": 8,
+      "anim": "34-to-norm",
+      "loop": false,
+      "name": "fahger-trans-playable-kinda-light norm-to-34"
+    },
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        2,
+        1,
+        0
+      ],
+      "fps": 7,
+      "anim": "behind-to-34",
+      "loop": false,
+      "name": "fahger-trans-playable-kinda-light 34-to-behind"
+    },
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        0,
+        1
+      ],
+      "fps": 8,
+      "anim": "norm-to-window",
+      "loop": false,
+      "name": "fahger-trans-playable-kinda-light norm-to-34"
+    },
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        1,
+        0
+      ],
+      "fps": 8,
+      "anim": "window-to-norm",
+      "loop": false,
+      "name": "fahger-trans-playable-kinda-light norm-to-34"
+    }
+  ],
+  "icon_settings": {
+    "preview": {
+      "scale": 1,
+      "layout": "fah",
+      "downscroll": false,
+      "player": true
+    },
+    "offset": {
+      "x": 1,
+      "y": -26
+    },
+    "name": "fahger-playable",
+    "animations": [
+      {
+        "scale": 1,
+        "frames": [
+          {
+            "scale": 1,
+            "index": 0,
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "name": "idle0000"
+          },
+          {
+            "scale": 1,
+            "index": 1,
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "name": "idle0001"
+          },
+          {
+            "scale": 1,
+            "index": 2,
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "name": "idle0002"
+          }
+        ],
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "name": "idle"
+      },
+      {
+        "scale": 1,
+        "frames": [
+          {
+            "scale": 1,
+            "index": 0,
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "name": "win0000"
+          },
+          {
+            "scale": 1,
+            "index": 1,
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "name": "win0001"
+          },
+          {
+            "scale": 1,
+            "index": 2,
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "name": "win0002"
+          }
+        ],
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "name": "win"
+      },
+      {
+        "scale": 1,
+        "frames": [
+          {
+            "scale": 1,
+            "index": 0,
+            "offset": {
+              "x": -1,
+              "y": 0
+            },
+            "name": "lose0000"
+          },
+          {
+            "scale": 1,
+            "index": 1,
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "name": "lose0001"
+          },
+          {
+            "scale": 1,
+            "index": 2,
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "name": "lose0002"
+          }
+        ],
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "name": "lose"
+      }
+    ]
+  }
+}

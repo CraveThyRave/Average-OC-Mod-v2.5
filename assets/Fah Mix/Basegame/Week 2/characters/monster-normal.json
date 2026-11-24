@@ -1,0 +1,243 @@
+{
+	"healthbar_colors": [
+		217,
+		210,
+		116
+	],
+	"icon_settings": {
+		"animations": [],
+		"preview": {
+			"alignToBar": true,
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 0.397350993377483
+		},
+		"name": "monster-fah-animated",
+		"offset": {
+			"x": 0,
+			"y": 0
+		}
+	},
+	"icon_hud": "Auto",
+	"position": [
+		44,
+		-18
+	],
+	"no_antialiasing": false,
+	"scale": 0.85,
+	"camera_position": [
+		0,
+		0
+	],
+	"image": "Characters/Monster/monster-normal",
+	"sing_duration": 4,
+	"healthicon": "monster-fah-animated",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"offsets": [
+				-13,
+				92
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "monster-normal up"
+		},
+		{
+			"offsets": [
+				-80,
+				-80
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "monster-normal down"
+		},
+		{
+			"offsets": [
+				130,
+				-67
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "monster-normal left"
+		},
+		{
+			"offsets": [
+				-171,
+				-94
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "monster-normal right"
+		},
+		{
+			"offsets": [
+				-144,
+				-54
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "monster-normal down-alt"
+		},
+		{
+			"offsets": [
+				-165,
+				-80
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "monster-normal right-alt"
+		},
+		{
+			"offsets": [
+				123,
+				-57
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "monster-normal left-alt"
+		},
+		{
+			"offsets": [
+				-50,
+				78
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "monster-normal up-alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "monster-normal idle"
+		},
+		{
+			"offsets": [
+				-140,
+				-35
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "tp",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "monster-normal tp"
+		},
+		{
+			"offsets": [
+				-150,
+				-35
+			],
+			"loop": true,
+			"fps": 8,
+			"anim": "tp-idle",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "monster-normal tp-idle"
+		},
+		{
+			"offsets": [
+				-150,
+				-35
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "tp-in",
+			"indices": [
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "monster-normal tp"
+		}
+	]
+}
