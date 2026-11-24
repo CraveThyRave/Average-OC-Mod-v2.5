@@ -1,0 +1,30 @@
+<Modchart>
+	<Init>
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Beat" mod="beat" color="#A17B48" name="Beat"/>
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Confusion" mod="confusion" color="#A17B48" name="Confusion"/>
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Wiggle" mod="wiggle" color="#A17B48" name="Wiggle"/>
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="SchmovinTornado" mod="schmovinTornado" color="#A17B48" name="SchmovinTornado"/>
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Tipsy" mod="tipsyX" color="#A17B48" name="Tipsy"/>
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="ZigZag" mod="zigZag" color="#A17B48" name="ZigZag"/>
+	</Init>
+	<Events>
+		<Event value="2.5" DI_startValue="false" type="tweenModPercent" name="Beat" step="188" time="10" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event value="1" DI_startValue="false" type="tweenModPercent" name="Beat" step="312" time="4" ease="cubeInOut" startValue="4" DI_value="false"/>
+		<Event value="4" DI_startValue="false" type="tweenModPercent" name="Beat" step="238" time="4" ease="cubeInOut" startValue="4" DI_value="false"/>
+		<Event DI_startValue="false" value="2.6" type="tweenModPercent" name="Beat" step="320" time="2" ease="cubeInOut" DI_value="false" startValue="1"/>
+		<Event step="320" time="4" value="1" type="tweenModPercent" ease="cubeInOut" name="Beat" startValue="1"/>
+		<Event value="3" DI_startValue="false" type="tweenModPercent" name="Confusion" step="332" time="32" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event DI_startValue="false" value="0" type="tweenModPercent" name="Confusion" step="364" time="4" ease="cubeInOut" DI_value="false" startValue="3"/>
+		<Event value="2" DI_startValue="false" type="tweenModPercent" name="Wiggle" step="389" time="8" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event DI_startValue="false" value="0" type="tweenModPercent" name="Wiggle" step="414" time="10" ease="cubeInOut" DI_value="false" startValue="2"/>
+		<Event value="0.3" DI_startValue="false" type="tweenModPercent" name="SchmovinTornado" step="437" time="11" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event DI_startValue="false" value="0" type="tweenModPercent" name="SchmovinTornado" step="448" time="2" ease="cubeInOut" DI_value="false" startValue="0.35"/>
+		<Event value="0.4" DI_startValue="false" type="tweenModPercent" name="Tipsy" step="464" time="10" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event DI_startValue="false" value="-1" type="tweenModPercent" name="Tipsy" step="480" time="10" ease="cubeInOut" DI_value="false" startValue="1"/>
+		<Event DI_startValue="false" value="0" type="tweenModPercent" name="Tipsy" step="512" time="7" ease="cubeInOut" DI_value="false" startValue="-1"/>
+		<Event value="0.3" DI_startValue="false" type="tweenModPercent" name="ZigZag" step="591" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event value="-0.3" DI_startValue="false" type="tweenModPercent" name="ZigZag" step="656" time="4" ease="cubeInOut" startValue="0.3" DI_value="false"/>
+		<Event DI_startValue="false" value="0.3" type="tweenModPercent" name="ZigZag" step="672" time="4" ease="cubeInOut" DI_value="false" startValue="-0.3"/>
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="ZigZag" step="704" time="4" ease="cubeInOut" startValue="0.3" DI_value="false"/>
+	</Events>
+</Modchart>

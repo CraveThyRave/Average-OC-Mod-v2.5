@@ -1,0 +1,224 @@
+{
+  "image": "Characters/Monster/monster-window-light",
+  "scale": 0.8,
+  "sing_duration": 4,
+  "healthicon": "monster-fah-animated",
+  "position": [
+    184.6,
+    -116.8
+  ],
+  "camera_position": [
+    0,
+    0
+  ],
+  "flip_x": false,
+  "no_antialiasing": false,
+  "healthbar_colors": [
+    217,
+    210,
+    116
+  ],
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        15,
+        -18
+      ],
+      "anim": "singRIGHT",
+      "fps": 14,
+      "name": "monster-window-light right",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        16.4,
+        -12.4
+      ],
+      "anim": "singRIGHT-alt",
+      "fps": 14,
+      "name": "monster-window-light right-alt",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        17.6,
+        -14
+      ],
+      "anim": "singLEFT-alt",
+      "fps": 14,
+      "name": "monster-window-light left-alt",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        21.2,
+        -6.8
+      ],
+      "anim": "singDOWN-alt",
+      "fps": 14,
+      "name": "monster-window-light down-alt",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -0.800000000000001,
+        -6.4
+      ],
+      "anim": "singUP-alt",
+      "fps": 14,
+      "name": "monster-window-light up-alt",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        14.8,
+        11.2
+      ],
+      "anim": "singUP",
+      "fps": 14,
+      "name": "monster-window-light up",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0.800000000000001,
+        -16
+      ],
+      "anim": "singDOWN",
+      "fps": 14,
+      "name": "monster-window-light down",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        18.8,
+        -19
+      ],
+      "anim": "singLEFT",
+      "fps": 14,
+      "name": "monster-window-light left",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "loop": true,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "idle",
+      "fps": 8,
+      "name": "monster-window-light idle",
+      "indices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -35,
+        -83
+      ],
+      "anim": "tp",
+      "fps": 12,
+      "name": "monster-window-light tp",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "loop": true,
+      "offsets": [
+        -35,
+        -83
+      ],
+      "anim": "tp-idle",
+      "fps": 8,
+      "name": "monster-window-light idle-tp",
+      "indices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -42,
+        -76
+      ],
+      "anim": "tp-in",
+      "fps": 12,
+      "name": "monster-window-light tp",
+      "indices": [
+        4,
+        3,
+        2,
+        1,
+        0
+      ]
+    }
+  ]
+}

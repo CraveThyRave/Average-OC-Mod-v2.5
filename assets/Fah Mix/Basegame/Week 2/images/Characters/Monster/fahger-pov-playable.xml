@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fahger-pov-playable.png">
+<SubTexture name="fahger-pov-playable right-miss0000" x="4452" y="0" width="884" height="758" frameX="-43" frameY="-7" frameWidth="1029" frameHeight="790" />
+<SubTexture name="fahger-pov-playable right-miss0001" x="4452" y="2913" width="832" height="671" frameX="-191" frameY="-70" frameWidth="1029" frameHeight="790" />
+<SubTexture name="fahger-pov-playable right-alt0000" x="0" y="3695" width="1147" height="724" frameX="-41" frameY="-106" frameWidth="1222" frameHeight="836" />
+<SubTexture name="fahger-pov-playable right-alt0001" x="0" y="2914" width="1027" height="781" frameX="0" frameY="-37" frameWidth="1222" frameHeight="836" />
+<SubTexture name="fahger-pov-playable right-alt0002" x="2847" y="2914" width="688" height="764" frameX="0" frameY="-51" frameWidth="1222" frameHeight="836" />
+<SubTexture name="fahger-pov-playable right0000" x="4452" y="1504" width="866" height="724" frameX="-223" frameY="-116" frameWidth="1089" frameHeight="842" />
+<SubTexture name="fahger-pov-playable right0001" x="1027" y="2914" width="797" height="781" frameX="-166" frameY="-47" frameWidth="1089" frameHeight="842" />
+<SubTexture name="fahger-pov-playable right0002" x="3535" y="2914" width="693" height="764" frameX="-93" frameY="-59" frameWidth="1089" frameHeight="842" />
+<SubTexture name="fahger-pov-playable left-miss0000" x="4452" y="758" width="716" height="746" frameX="-3" frameY="-96" frameWidth="800" frameHeight="886" />
+<SubTexture name="fahger-pov-playable left-miss0001" x="2939" y="0" width="752" height="829" frameX="-37" frameY="-14" frameWidth="800" frameHeight="886" />
+<SubTexture name="fahger-pov-playable left-alt0000" x="1824" y="2914" width="1023" height="775" frameX="-77" frameY="-102" frameWidth="1261" frameHeight="892" />
+<SubTexture name="fahger-pov-playable left-alt0001" x="713" y="2039" width="937" height="842" frameX="-220" frameY="-50" frameWidth="1261" frameHeight="892" />
+<SubTexture name="fahger-pov-playable left-alt0002" x="2143" y="882" width="713" height="879" frameX="-534" frameY="-7" frameWidth="1261" frameHeight="892" />
+<SubTexture name="fahger-pov-playable left0000" x="3691" y="1611" width="749" height="775" frameX="0" frameY="-110" frameWidth="934" frameHeight="898" />
+<SubTexture name="fahger-pov-playable left0001" x="1650" y="2039" width="709" height="838" frameX="-97" frameY="-58" frameWidth="934" frameHeight="898" />
+<SubTexture name="fahger-pov-playable left0002" x="0" y="2039" width="713" height="875" frameX="-207" frameY="-15" frameWidth="934" frameHeight="898" />
+<SubTexture name="fahger-pov-playable down-miss0000" x="3734" y="3695" width="965" height="588" frameX="-38" frameY="-131" frameWidth="1034" frameHeight="740" />
+<SubTexture name="fahger-pov-playable down-miss0001" x="2960" y="3695" width="774" height="631" frameX="-129" frameY="-77" frameWidth="1034" frameHeight="740" />
+<SubTexture name="fahger-pov-playable down-alt0000" x="0" y="4419" width="1065" height="570" frameX="-42" frameY="-210" frameWidth="1137" frameHeight="780" />
+<SubTexture name="fahger-pov-playable down-alt0001" x="1147" y="3695" width="1011" height="661" frameX="-100" frameY="-85" frameWidth="1137" frameHeight="780" />
+<SubTexture name="fahger-pov-playable down-alt0002" x="4452" y="2228" width="715" height="685" frameX="-143" frameY="-36" frameWidth="1137" frameHeight="780" />
+<SubTexture name="fahger-pov-playable down0000" x="1065" y="4419" width="874" height="570" frameX="-26" frameY="-220" frameWidth="933" frameHeight="790" />
+<SubTexture name="fahger-pov-playable down0001" x="2158" y="3695" width="802" height="661" frameX="-84" frameY="-95" frameWidth="933" frameHeight="790" />
+<SubTexture name="fahger-pov-playable down0002" x="4452" y="2228" width="715" height="685" frameX="-127" frameY="-46" frameWidth="933" frameHeight="790" />
+<SubTexture name="fahger-pov-playable up0000" x="2143" y="0" width="796" height="882" frameX="-14" frameY="-213" frameWidth="818" frameHeight="1115" />
+<SubTexture name="fahger-pov-playable up0001" x="1440" y="0" width="703" height="1033" frameX="-29" frameY="-73" frameWidth="818" frameHeight="1115" />
+<SubTexture name="fahger-pov-playable up-alt0000" x="659" y="0" width="781" height="1088" frameX="-64" frameY="0" frameWidth="877" frameHeight="1088" />
+<SubTexture name="fahger-pov-playable up-alt0001" x="0" y="1105" width="823" height="934" frameX="-39" frameY="-143" frameWidth="877" frameHeight="1088" />
+<SubTexture name="fahger-pov-playable up-alt0002" x="3691" y="807" width="761" height="804" frameX="-20" frameY="-284" frameWidth="877" frameHeight="1088" />
+<SubTexture name="fahger-pov-playable up0002" x="823" y="1105" width="704" height="901" frameX="-41" frameY="-176" frameWidth="805" frameHeight="1138" />
+<SubTexture name="fahger-pov-playable up0003" x="3691" y="0" width="761" height="807" frameX="-22" frameY="-284" frameWidth="805" frameHeight="1138" />
+<SubTexture name="fahger-pov-playable up0004" x="0" y="0" width="659" height="1105" frameX="-66" frameY="0" frameWidth="805" frameHeight="1138" />
+<SubTexture name="fahger-pov-playable idle0000" x="2939" y="1651" width="750" height="821" frameX="-16" frameY="-58" frameWidth="782" frameHeight="888" />
+<SubTexture name="fahger-pov-playable idle0001" x="2939" y="829" width="738" height="822" frameX="-20" frameY="-58" frameWidth="782" frameHeight="888" />
+</TextureAtlas>

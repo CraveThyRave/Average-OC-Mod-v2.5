@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="monster-kind.png">
+<SubTexture name="monster-kind right0000" x="1669" y="771" width="289" height="770" frameX="-62" frameY="-39" frameWidth="351" frameHeight="810" />
+<SubTexture name="monster-kind right0001" x="353" y="861" width="272" height="793" frameX="-43" frameY="-17" frameWidth="351" frameHeight="810" />
+<SubTexture name="monster-kind right0002" x="1018" y="0" width="294" height="810" frameX="0" frameY="0" frameWidth="351" frameHeight="810" />
+<SubTexture name="monster-kind down0000" x="1970" y="0" width="302" height="753" frameX="-57" frameY="-40" frameWidth="359" frameHeight="802" />
+<SubTexture name="monster-kind down0001" x="1669" y="0" width="301" height="771" frameX="-40" frameY="-31" frameWidth="359" frameHeight="802" />
+<SubTexture name="monster-kind down0002" x="625" y="861" width="352" height="786" frameX="0" frameY="0" frameWidth="359" frameHeight="802" />
+<SubTexture name="monster-kind left0000" x="0" y="1663" width="482" height="710" frameX="0" frameY="-25" frameWidth="482" frameHeight="773" />
+<SubTexture name="monster-kind left0001" x="2272" y="0" width="447" height="743" frameX="-23" frameY="-9" frameWidth="482" frameHeight="773" />
+<SubTexture name="monster-kind left0002" x="977" y="861" width="395" height="773" frameX="-68" frameY="0" frameWidth="482" frameHeight="773" />
+<SubTexture name="monster-kind up0000" x="0" y="0" width="345" height="861" frameX="0" frameY="0" frameWidth="360" frameHeight="865" />
+<SubTexture name="monster-kind up0001" x="345" y="0" width="337" height="833" frameX="-18" frameY="-30" frameWidth="360" frameHeight="865" />
+<SubTexture name="monster-kind up0002" x="682" y="0" width="336" height="821" frameX="-24" frameY="-44" frameWidth="360" frameHeight="865" />
+<SubTexture name="monster-kind idle0000" x="1312" y="0" width="357" height="802" frameX="0" frameY="0" frameWidth="357" frameHeight="803" />
+<SubTexture name="monster-kind idle0001" x="0" y="861" width="353" height="802" frameX="0" frameY="-1" frameWidth="357" frameHeight="803" />
+</TextureAtlas>

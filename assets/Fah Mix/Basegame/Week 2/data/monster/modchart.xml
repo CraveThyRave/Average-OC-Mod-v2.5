@@ -1,0 +1,131 @@
+<Modchart>
+	
+	
+	<Init>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Beat" mod="beat" color="#A17B48" name="Beat"/>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Confusion" mod="confusion" color="#A17B48" name="Confusion"/>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Wiggle" mod="wiggle" color="#A17B48" name="Wiggle"/>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="SchmovinTornado" mod="schmovinTornado" color="#A17B48" name="SchmovinTornado"/>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Tipsy" mod="tipsyX" color="#A17B48" name="Tipsy"/>
+		
+		
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="ZigZag" mod="zigZag" color="#A17B48" name="ZigZag"/>
+		
+	
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Accordion" mod="accordion" color="#A17B48" name="Accordion"/>
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="ApproachSpin" mod="approachSpin" color="#A17B48" name="ApproachSpin"/>
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Boost" mod="boost" color="#A17B48" name="Boost"/>
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Snake" mod="snake" color="#A17B48" name="Snake"/>
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Staircase" mod="staircase" color="#A17B48" name="Staircase"/>
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Fan" mod="fan" color="#A17B48" name="Fan"/>
+		<FunkinModifier strumLineID="-1" value="0" playFieldID="-1" modClass="Vibrate" mod="vibrate" color="#A17B48" name="Vibrate"/>
+	</Init>
+	
+	
+	<Events>
+		
+		
+		<Event value="2.5" DI_startValue="false" type="tweenModPercent" name="Beat" step="188" time="10" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="1" DI_startValue="false" type="tweenModPercent" name="Beat" step="312" time="4" ease="cubeInOut" startValue="4" DI_value="false"/>
+		
+		
+		<Event value="4" DI_startValue="false" type="tweenModPercent" name="Beat" step="238" time="4" ease="cubeInOut" startValue="4" DI_value="false"/>
+		
+		
+		<Event DI_startValue="false" value="2.6" type="tweenModPercent" name="Beat" step="320" time="2" ease="cubeInOut" DI_value="false" startValue="1"/>
+		
+		
+		<Event step="320" time="4" value="1" type="tweenModPercent" ease="cubeInOut" name="Beat" startValue="1"/>
+		
+		
+		<Event value="3" DI_startValue="false" type="tweenModPercent" name="Confusion" step="332" time="32" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event DI_startValue="false" value="0" type="tweenModPercent" name="Confusion" step="364" time="4" ease="cubeInOut" DI_value="false" startValue="3"/>
+		
+		
+		<Event value="2" DI_startValue="false" type="tweenModPercent" name="Wiggle" step="389" time="8" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event DI_startValue="false" value="0" type="tweenModPercent" name="Wiggle" step="414" time="10" ease="cubeInOut" DI_value="false" startValue="2"/>
+		
+		
+		<Event value="0.3" DI_startValue="false" type="tweenModPercent" name="SchmovinTornado" step="437" time="11" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event DI_startValue="false" value="0" type="tweenModPercent" name="SchmovinTornado" step="448" time="2" ease="cubeInOut" DI_value="false" startValue="0.35"/>
+		
+		
+		<Event value="0.4" DI_startValue="false" type="tweenModPercent" name="Tipsy" step="464" time="10" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event DI_startValue="false" value="-1" type="tweenModPercent" name="Tipsy" step="480" time="10" ease="cubeInOut" DI_value="false" startValue="1"/>
+		
+		
+		<Event DI_startValue="false" value="0" type="tweenModPercent" name="Tipsy" step="512" time="7" ease="cubeInOut" DI_value="false" startValue="-1"/>
+		
+		
+		<Event value="0.3" DI_startValue="false" type="tweenModPercent" name="ZigZag" step="591" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		
+		
+		<Event value="-0.3" DI_startValue="false" type="tweenModPercent" name="ZigZag" step="656" time="4" ease="cubeInOut" startValue="0.3" DI_value="false"/>
+		
+		
+		<Event DI_startValue="false" value="0.3" type="tweenModPercent" name="ZigZag" step="672" time="4" ease="cubeInOut" DI_value="false" startValue="-0.3"/>
+		
+		
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="ZigZag" step="704" time="4" ease="cubeInOut" startValue="0.3" DI_value="false"/>
+		
+	
+		<Event value="1.2" DI_startValue="false" type="tweenModPercent" name="Beat" step="720" time="4" ease="cubeInOut" startValue="1" DI_value="false"/>
+		<Event DI_startValue="false" value="1.4" type="tweenModPercent" name="Beat" step="736" time="4" ease="cubeInOut" DI_value="false" startValue="1"/>
+		<Event DI_startValue="false" value="1" type="tweenModPercent" name="Beat" step="768" time="4" ease="cubeInOut" DI_value="false" startValue="1"/>
+		<Event value="0.4" DI_startValue="false" type="tweenModPercent" name="Accordion" step="844" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event DI_startValue="false" value="0.05" type="tweenModPercent" name="Accordion" step="864" time="10" ease="cubeInOut" DI_value="false" startValue="0.1"/>
+		<Event value="1" DI_startValue="false" type="tweenModPercent" name="ApproachSpin" step="880" time="8" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event DI_startValue="false" value="0" type="tweenModPercent" name="ApproachSpin" step="912" time="4" ease="cubeInOut" DI_value="false" startValue="0"/>
+		<Event value="0.4" DI_startValue="false" type="tweenModPercent" name="Boost" step="928" time="8" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event DI_startValue="false" value="0" type="tweenModPercent" name="Boost" step="962" time="8" ease="cubeInOut" DI_value="false" startValue="0"/>
+		<Event value="0.4" DI_startValue="false" type="tweenModPercent" name="Snake" step="992" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event value="1.1" DI_startValue="false" type="tweenModPercent" name="Beat" step="992" time="4" ease="cubeInOut" startValue="1" DI_value="false"/>
+		<Event value="0.6" DI_startValue="false" type="tweenModPercent" name="Staircase" step="1003" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event DI_startValue="false" value="-0.6" type="tweenModPercent" name="Staircase" step="1012" time="4" ease="cubeInOut" DI_value="false" startValue="0.6"/>
+		<Event value="0.9" DI_startValue="false" type="tweenModPercent" name="Staircase" step="1024" time="4" ease="cubeInOut" startValue="-0.6" DI_value="false"/>
+		<Event DI_startValue="false" value="-1.1" type="tweenModPercent" name="Staircase" step="1036" time="4" ease="cubeInOut" DI_value="false" startValue="0.9"/>
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Staircase" step="1044" time="8" ease="cubeInOut" startValue="-1.1" DI_value="false"/>
+		<Event value="1.5" DI_startValue="false" type="tweenModPercent" name="Beat" step="1045" time="4" ease="cubeInOut" startValue="1.1" DI_value="false"/>
+		<Event value="0.2" DI_startValue="false" type="tweenModPercent" name="Fan" step="1080" time="4" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event value="0.1" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="1080" time="8" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event DI_startValue="false" value="0.25" type="tweenModPercent" name="Vibrate" step="1088" time="4" ease="cubeInOut" DI_value="false" startValue="0.1"/>
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Vibrate" step="1105" time="4" ease="cubeInOut" startValue="0.25" DI_value="false"/>
+		<Event value="1" DI_startValue="false" type="tweenModPercent" name="Beat" step="1105" time="4" ease="cubeInOut" startValue="1.5" DI_value="false"/>
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Snake" step="1132" time="4" ease="cubeInOut" startValue="0.4" DI_value="false"/>
+		<Event value="0.3" DI_startValue="false" type="tweenModPercent" name="Fan" step="1164" time="4" ease="cubeInOut" startValue="0.2" DI_value="false"/>
+		<Event DI_startValue="false" value="0" type="tweenModPercent" name="Fan" step="1196" time="8" ease="cubeInOut" DI_value="false" startValue="0.3"/>
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Beat" step="1280" time="148" ease="cubeInOut" startValue="1" DI_value="false"/>
+		<Event value="1" DI_startValue="false" type="tweenModPercent" name="Staircase" step="1280" time="2" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event DI_startValue="false" value="-1" type="tweenModPercent" name="Staircase" step="1304" time="2" ease="cubeInOut" DI_value="false" startValue="1"/>
+		<Event DI_startValue="false" value="2" type="tweenModPercent" name="Staircase" step="1312" time="2" ease="cubeInOut" DI_value="false" startValue="-1"/>
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Staircase" step="1328" time="4" ease="cubeInOut" startValue="-1" DI_value="false"/>
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Staircase" step="1328" time="6" ease="cubeInOut" startValue="2" DI_value="false"/>
+		<Event value="0.2" DI_startValue="false" type="tweenModPercent" name="Snake" step="1344" time="10" ease="cubeInOut" startValue="0" DI_value="false"/>
+		<Event DI_startValue="false" value="0.35" type="tweenModPercent" name="Snake" step="1376" time="10" ease="cubeInOut" DI_value="false" startValue="0.2"/>
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Snake" step="1408" time="20" ease="cubeInOut" startValue="0.35" DI_value="false"/>
+		<Event value="0.12" DI_startValue="false" type="tweenModPercent" name="Accordion" step="1344" time="8" ease="cubeInOut" startValue="0.05" DI_value="false"/>
+		<Event value="0" DI_startValue="false" type="tweenModPercent" name="Accordion" step="1419" time="8" ease="cubeInOut" startValue="0.12" DI_value="false"/>
+	</Events>
+	
+
+</Modchart>

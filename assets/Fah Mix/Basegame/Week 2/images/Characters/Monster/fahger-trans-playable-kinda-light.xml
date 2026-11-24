@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fahger-trans-playable-kinda-light.png">
+<SubTexture name="fahger-trans-playable-kinda-light norm-to-340000" x="0" y="0" width="318" height="385" frameX="0" frameY="0" frameWidth="375" frameHeight="385" />
+<SubTexture name="fahger-trans-playable-kinda-light norm-to-340001" x="0" y="385" width="301" height="327" frameX="-30" frameY="-32" frameWidth="375" frameHeight="385" />
+<SubTexture name="fahger-trans-playable-kinda-light norm-to-340002" x="318" y="0" width="237" height="353" frameX="-87" frameY="-3" frameWidth="375" frameHeight="385" />
+<SubTexture name="fahger-trans-playable-kinda-light 34-to-behind0000" x="318" y="0" width="237" height="353" frameX="-87" frameY="-3" frameWidth="375" frameHeight="385" />
+<SubTexture name="fahger-trans-playable-kinda-light 34-to-behind0001" x="301" y="385" width="350" height="290" frameX="-25" frameY="-73" frameWidth="375" frameHeight="385" />
+<SubTexture name="fahger-trans-playable-kinda-light 34-to-behind0002" x="555" y="0" width="270" height="341" frameX="-47" frameY="-25" frameWidth="375" frameHeight="385" />
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="monster-misc.png">
+<SubTexture name="monster-misc start-idle0000" x="1210" y="2396" width="358" height="307" frameX="-6" frameY="0" frameWidth="369" frameHeight="313" />
+<SubTexture name="monster-misc start-idle0001" x="841" y="2396" width="369" height="311" frameX="0" frameY="-2" frameWidth="369" frameHeight="313" />
+<SubTexture name="monster-misc start0000" x="2574" y="1701" width="377" height="321" frameX="-378" frameY="-586" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0001" x="415" y="2396" width="426" height="363" frameX="-367" frameY="-564" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0002" x="0" y="2396" width="415" height="464" frameX="-338" frameY="-472" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0003" x="2218" y="1701" width="356" height="561" frameX="-388" frameY="-375" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0004" x="622" y="1701" width="432" height="683" frameX="-298" frameY="-253" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0005" x="490" y="0" width="363" height="892" frameX="-395" frameY="-5" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0006" x="0" y="0" width="490" height="929" frameX="-282" frameY="0" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0007" x="853" y="0" width="660" height="774" frameX="-249" frameY="-148" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0008" x="0" y="929" width="776" height="772" frameX="-122" frameY="-121" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0009" x="1513" y="0" width="733" height="774" frameX="-212" frameY="-92" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0010" x="1054" y="1701" width="603" height="648" frameX="-310" frameY="-215" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0011" x="1225" y="929" width="769" height="713" frameX="0" frameY="-122" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0012" x="2246" y="0" width="740" height="712" frameX="-5" frameY="-124" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0013" x="1225" y="929" width="769" height="713" frameX="0" frameY="-122" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0014" x="2246" y="0" width="740" height="712" frameX="-5" frameY="-124" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0015" x="1225" y="929" width="769" height="713" frameX="0" frameY="-122" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0016" x="2246" y="0" width="740" height="712" frameX="-5" frameY="-124" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc start0017" x="776" y="929" width="449" height="747" frameX="-268" frameY="-93" frameWidth="945" frameHeight="936" />
+<SubTexture name="monster-misc emote0000" x="1657" y="1701" width="561" height="613" frameX="-148" frameY="-33" frameWidth="709" frameHeight="724" />
+<SubTexture name="monster-misc emote0001" x="0" y="1701" width="622" height="695" frameX="-71" frameY="0" frameWidth="709" frameHeight="724" />
+<SubTexture name="monster-misc emote0002" x="2246" y="712" width="568" height="709" frameX="0" frameY="-15" frameWidth="709" frameHeight="724" />
+</TextureAtlas>

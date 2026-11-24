@@ -1,0 +1,254 @@
+{
+  "healthbar_colors": [
+    193,
+    154,
+    72
+  ],
+  "icon_hud": "Auto",
+  "icon_settings": {
+    "animations": [
+      {
+        "frames": [
+          {
+            "index": 0,
+            "name": "idle0000",
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": 1
+          },
+          {
+            "index": 1,
+            "name": "idle0001",
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": 1
+          },
+          {
+            "index": 2,
+            "name": "idle0002",
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": 1
+          }
+        ],
+        "name": "idle",
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1
+      },
+      {
+        "frames": [
+          {
+            "index": 0,
+            "name": "win0000",
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": 1
+          },
+          {
+            "index": 1,
+            "name": "win0001",
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": 1
+          },
+          {
+            "index": 2,
+            "name": "win0002",
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": 1
+          }
+        ],
+        "name": "win",
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1
+      },
+      {
+        "frames": [
+          {
+            "index": 0,
+            "name": "lose0000",
+            "offset": {
+              "x": -1,
+              "y": 0
+            },
+            "scale": 1
+          },
+          {
+            "index": 1,
+            "name": "lose0001",
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": 1
+          },
+          {
+            "index": 2,
+            "name": "lose0002",
+            "offset": {
+              "x": 0,
+              "y": 0
+            },
+            "scale": 1
+          }
+        ],
+        "name": "lose",
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1
+      }
+    ],
+    "preview": {
+      "player": true,
+      "downscroll": false,
+      "layout": "fah",
+      "scale": 1
+    },
+    "name": "fahger-playable",
+    "offset": {
+      "x": 1,
+      "y": -26
+    }
+  },
+  "position": [
+    66,
+    440
+  ],
+  "no_antialiasing": false,
+  "scale": 0.85,
+  "camera_position": [
+    0,
+    0
+  ],
+  "image": "Characters/Monster/fahger-trans-playable-kinda",
+  "sing_duration": 4,
+  "healthicon": "fahger-playable",
+  "flip_x": true,
+  "extra_images": [],
+  "animations": [
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        0,
+        1,
+        2
+      ],
+      "fps": 9,
+      "anim": "idle",
+      "loop": true,
+      "name": "fahger-trans-playable-kinda norm-to-34"
+    },
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        0,
+        1,
+        2
+      ],
+      "fps": 8,
+      "anim": "norm-to-34",
+      "loop": false,
+      "name": "fahger-trans-playable-kinda norm-to-34"
+    },
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        0,
+        1,
+        2
+      ],
+      "fps": 8,
+      "anim": "34-to-behind",
+      "loop": false,
+      "name": "fahger-trans-playable-kinda 34-to-behind"
+    },
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        2,
+        1,
+        0
+      ],
+      "fps": 8,
+      "anim": "34-to-norm",
+      "loop": false,
+      "name": "fahger-trans-playable-kinda norm-to-34"
+    },
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        2,
+        1,
+        0
+      ],
+      "fps": 7,
+      "anim": "behind-to-34",
+      "loop": false,
+      "name": "fahger-trans-playable-kinda 34-to-behind"
+    },
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        0,
+        1
+      ],
+      "fps": 8,
+      "anim": "norm-to-window",
+      "loop": false,
+      "name": "fahger-trans-playable-kinda norm-to-34"
+    },
+    {
+      "offsets": [
+        0,
+        40
+      ],
+      "indices": [
+        1,
+        0
+      ],
+      "fps": 8,
+      "anim": "window-to-norm",
+      "loop": false,
+      "name": "fahger-trans-playable-kinda norm-to-34"
+    }
+  ]
+}

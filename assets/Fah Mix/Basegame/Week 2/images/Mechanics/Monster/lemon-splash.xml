@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lemon-splash.png">
+<SubTexture name="lemon-splash idle0000" x="218" y="251" width="136" height="131" frameX="-38" frameY="-69" frameWidth="243" frameHeight="251" />
+<SubTexture name="lemon-splash idle0001" x="0" y="251" width="218" height="170" frameX="-1" frameY="-44" frameWidth="243" frameHeight="251" />
+<SubTexture name="lemon-splash idle0002" x="243" y="0" width="232" height="226" frameX="0" frameY="-9" frameWidth="243" frameHeight="251" />
+<SubTexture name="lemon-splash idle0003" x="0" y="0" width="243" height="251" frameX="0" frameY="0" frameWidth="243" frameHeight="251" />
+</TextureAtlas>

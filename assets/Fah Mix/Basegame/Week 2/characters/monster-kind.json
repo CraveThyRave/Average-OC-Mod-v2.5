@@ -1,0 +1,114 @@
+{
+	"healthbar_colors": [
+		217,
+		210,
+		116
+	],
+	"position": [
+		198,
+		6
+	],
+	"icon_hud": "Auto",
+	"icon_settings": {
+		"animations": [],
+		"preview": {
+			"alignToBar": true,
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 0.397350993377483
+		},
+		"name": "monster-fah-animated",
+		"offset": {
+			"x": 0,
+			"y": 0
+		}
+	},
+	"scale": 0.85,
+	"no_antialiasing": false,
+	"image": "Characters/Monster/monster-kind",
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"healthicon": "monster-fah-animated",
+	"flip_x": false,
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "monster-kind right",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "monster-kind down",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				-26
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "monster-kind left",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				63
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "monster-kind up",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "monster-kind idle",
+			"indices": [
+				0,
+				1
+			]
+		}
+	],
+	"extra_images": []
+}
