@@ -1,5 +1,5 @@
 {
-  "version": "2.5.48",
+  "version": "2.5.49",
   "files": [
     {
       "path": ".gitattributes",
@@ -573,10 +573,52 @@
       "textSha256": "8eadfdaa5c6a9a4cea5a431f36ce3c17f9f8655dc923925f93d389f86826de89"
     },
     {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-34-playable-light.json",
+      "size": 4854,
+      "sha256": "72544e49dd1dbde0143214e8f56a16a3692c5aa49727fbd42f63b88475e2bda4",
+      "textSha256": "0e70bd550d09fe3c49d8e4d4c63cf97e9c15a2134acd8387d08ad829a1e2feb6"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-34-playable.json",
+      "size": 4814,
+      "sha256": "105234223597c1fc5a27a07f814218cffa069b59e18b9f09aca4929e6bbba286",
+      "textSha256": "34758c1452cd7a1165e74ac3ef0bcb21bfdad8fdb8100fe7168c890a82c8cf18"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-behind-playable-light.json",
+      "size": 4875,
+      "sha256": "cfa1c8be77b21b7f750316976287c371d8acad59f0048e0330defc44cdf2c416",
+      "textSha256": "3d9984dda51b2084c4ff964f407b0e8e18cddf8c14fb25cd88e39d9d33435302"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-behind-playable.json",
+      "size": 4835,
+      "sha256": "7e2d072913fa8386b6b05029e870692ae6fab1e65f93d2a1f216d0a79217af83",
+      "textSha256": "1490ba2f78db95cdd7f69454abf16407e2ac42f26bb7c171bc70f12378d99e60"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-monster-light.json",
+      "size": 7091,
+      "sha256": "e7c61eeaf7697e3750ba83f35a48add776fd5bb2bf60981a621cb86135448a78",
+      "textSha256": "841a9a12916b821ca3a933dde034f00400dc48b590e8890a0d255efd76d95873"
+    },
+    {
       "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-playable-gameover.json",
       "size": 807,
       "sha256": "3e4d553c74a686448226fd50f3ee256b4dcce853baa79e267ef02b7f355990d0",
       "textSha256": "df89fab7bc187293387cdda3dc3ecd1db5f3fcd739eb3a1ca94d6c9d0859273e"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-playable-window-light.json",
+      "size": 4839,
+      "sha256": "9af2c988f5e9aba025e6b31f4f57a13ffc72b3722c43c6f5d472c9c40defd2a2",
+      "textSha256": "742127e498d9f6e5eee72005e875dde09fbb73c0b739bd94a2976afe7ae80006"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-playable-window.json",
+      "size": 4839,
+      "sha256": "9af2c988f5e9aba025e6b31f4f57a13ffc72b3722c43c6f5d472c9c40defd2a2",
+      "textSha256": "742127e498d9f6e5eee72005e875dde09fbb73c0b739bd94a2976afe7ae80006"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-playable.json",
@@ -585,10 +627,106 @@
       "textSha256": "2a1750a94e88bf3e9a0537410dc3faa1bde8662bf3135fe93db00a7bc903bfa5"
     },
     {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-pov-playable.json",
+      "size": 4802,
+      "sha256": "6ee16c0fce27f0bdd1ca30b02b56c3cc3d88fd314d0156838b9c8bca4db7d319",
+      "textSha256": "8a279c7e5ca69bbfb99d19bf08ae1668d6eb04c1a892bfccfb84455e31341198"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-trans-playable-kinda-light.json",
+      "size": 4712,
+      "sha256": "65e7b0e3043a2a421ec5466a588e597dc4d920df284424ab78f5c0e92782b5db",
+      "textSha256": "c680c7366b0b40ec21d935232fb27fc79db8df23eb7a6cb40f3e404c2776b61c"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/fahger-trans-playable-kinda.json",
+      "size": 4710,
+      "sha256": "be30057589c62f04bd2a5dd1cd8f054fc8441c441c0ca03bdffec920f7d1b034",
+      "textSha256": "466b761c61310b15970b472831308f18ddc6db7a085460b4f80fc903e4fb4fe4"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/monster-hall-light.json",
+      "size": 3625,
+      "sha256": "4ebfcd0e47903a6e8d013f9c5f3f31af26c4f2a68cbb4e3ad27ae5f8686a9969",
+      "textSha256": "6c9a38004d0653bc54cb81ed4fa65036ea4ca888937e2a78e4533aadccc1fb00"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/monster-hall.json",
+      "size": 3897,
+      "sha256": "bf3ef646eaf7a0e4b068a608f24a327137b2efacc118cb64c399c29f0b9dafb0",
+      "textSha256": "dc47bf98e15a4c8883868d95f327ced1e6671e22ed2fbda64488dc29f73956c9"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/monster-kind.json",
+      "size": 1566,
+      "sha256": "48e0b95a478adb1f985b460a7e38c82387f5c6c01278ec45c0a5432b92baf06c",
+      "textSha256": "1f4d894e335ea1d546b5efc6267f5db13babc9a1d0011ea9a95e8976f954bb53"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/monster-misc.json",
+      "size": 1890,
+      "sha256": "aee7145934b29aecf17e356f1e3d556a2f8b4e77d4b650238598f3e436e92ffd",
+      "textSha256": "aee7145934b29aecf17e356f1e3d556a2f8b4e77d4b650238598f3e436e92ffd"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/monster-normal-light.json",
+      "size": 3227,
+      "sha256": "bfc7878054bd43e181722e58d6361dbdb0b556dd7e9dff25bc1297c474b9abd7",
+      "textSha256": "347f6d0f9efd4ca36402cb634af2aed71c3a4030d7bfb912eb84f6d77f4c9c08"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/monster-normal.json",
+      "size": 3149,
+      "sha256": "39b502a8acb8d8824919b4d23fb2599f70c19adc10583ec793c87713c4a62a48",
+      "textSha256": "0ee035ae5fa62195abd1daf37dc4b89f19ca1a38596fb4f2cc733477df1adc97"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/monster-right-light.json",
+      "size": 3648,
+      "sha256": "41bcc5d4802c1ad8b0c780a1efc9ccae9495a211868f40553896c0af20d506ef",
+      "textSha256": "9f123e91a84936fbe2e7137bbb5857bf2c510689d4a85abef577d55317283f05"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/monster-right.json",
+      "size": 3920,
+      "sha256": "44a724b4e34ccafe772565af3f942c37832c73bd3fef644a5d765e23ff25064e",
+      "textSha256": "0eca952c2b3c80ba5fa0e4aa7b242760bf4bc24002736270abe4c673305c77cd"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/monster-window-light.json",
+      "size": 3625,
+      "sha256": "448da53426eff7abef92a3a0712a2e6fc58a374f19d9fd6b5b043631a682b355",
+      "textSha256": "0cd67cd1a0246f96a7153ece3b187012066cea8e04e48a5fbfd8d89ab588174a"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/characters/monster-window.json",
+      "size": 2931,
+      "sha256": "e8383d727280aa1f141536acdeb45da785ae246d2b982517bef3f2863fd31826",
+      "textSha256": "e8383d727280aa1f141536acdeb45da785ae246d2b982517bef3f2863fd31826"
+    },
+    {
       "path": "assets/Fah Mix/Basegame/Week 2/characters/spookykids-fah.json",
       "size": 3338,
       "sha256": "e1e5d45e1dcbbccb395b2c55fc61c34ad2e8c8227d790e4f384a58ace960f794",
       "textSha256": "e1e5d45e1dcbbccb395b2c55fc61c34ad2e8c8227d790e4f384a58ace960f794"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/data/monster/modchart.xml",
+      "size": 10097,
+      "sha256": "374de689c8ba606c60ff48caafbf9249359241c96b83fd4c6d48b0b8af0ad88b",
+      "textSha256": "374de689c8ba606c60ff48caafbf9249359241c96b83fd4c6d48b0b8af0ad88b"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/data/monster/monster-lyrics.json",
+      "size": 2614,
+      "sha256": "869295b66e500bdc97d7a399dadd25ad009f20166793c253ce485dcd32f41dd7",
+      "textSha256": "6e23fdb09f8ee09dc9ff5efc906dddde26bf069a4f1d43e073333a2233c105a8"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/data/monster/monster.json",
+      "size": 49983,
+      "sha256": "fca20998b170132e61071dffb2f1a1df6cbd5337691ba4d5aaaed4abc156f4e6",
+      "textSha256": "fca20998b170132e61071dffb2f1a1df6cbd5337691ba4d5aaaed4abc156f4e6"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 2/data/south/south.json",
@@ -625,15 +763,213 @@
       "textSha256": "e9d88faef452b51517cc4671407635d070e46c2773056880ab3a14dc15adf788"
     },
     {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-34-playable-light.png",
+      "size": 3469534,
+      "sha256": "3a6748d3e9f04f89df46978f979d659396ea8afd5e789a5d6d7b75c7045c43e4"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-34-playable-light.xml",
+      "size": 5860,
+      "sha256": "67f21f74dfc2a033afe22814e3e33692a05bb4a605d4efb58f2a3670d971cabb",
+      "textSha256": "9d922cc1347d40e634c845a2e94994ec43fc716b1a596a4851002095b93ae6ba"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-34-playable.png",
+      "size": 3532721,
+      "sha256": "580b418433c9c1ba8686715e2d51f51571b7f7c9ebbb523e4a4ad213eabf7b2d"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-34-playable.xml",
+      "size": 5638,
+      "sha256": "a26b7f0f70ab888573537239c5176631ccba00381e5345bbb332d5c35a0867db",
+      "textSha256": "c4b3e455837f228c13825585cea03020f970ccb621328901d67bc4c0a75accfe"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-behind-playable-light.png",
+      "size": 3381618,
+      "sha256": "cab2b8dfb0eff0958706d3104567554c57c5b93378b148fdd2bf052a7b5743e3"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-behind-playable-light.xml",
+      "size": 6116,
+      "sha256": "4cbb6665c233766e423492cdd75f7b5bbd76e08e82a82fb1e245ed8465f51efe",
+      "textSha256": "28c6a63d05fc6f9b0057e800a108ecd2ec38876bcbfd460699dbf695f5ee1bcf"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-behind-playable.png",
+      "size": 3436343,
+      "sha256": "822f2d5e09cc9afc1f5d08bd49cd9f0dc729f9d3465718b8ca0cd60bd15da3f7"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-behind-playable.xml",
+      "size": 5892,
+      "sha256": "441c50303ef01d372178d689d8643cf21f204631d31bf6ccfa927417e769bb36",
+      "textSha256": "a604e8cc99fff7a4205d878719dc3fdd8eb0f3ec707ddb23a94fe86493b12f14"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-playable-window.png",
+      "size": 3174287,
+      "sha256": "7d1805d20ece24b53e535a0fdb952b3ba0212bb85701b66c5438039b428ac01d"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-playable-window.xml",
+      "size": 5890,
+      "sha256": "470be83b67fb6afaa279711e9f06505cad0c59a3fca5192602477e558c2635c5",
+      "textSha256": "a28d1ec20049f98f148f21aadcfd5716e0c76a869387e2774663d39a8bed4bf8"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-pov-playable.png",
+      "size": 13275467,
+      "sha256": "9e6890f3bed0bb3e69d45e891f69f28feb695454452e1fe39d351f9d860a650b"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-pov-playable.xml",
+      "size": 5476,
+      "sha256": "64a738483140899fccf6475fc4890817f9effc8c1a23c97d892a3f5cafd0bb8e",
+      "textSha256": "ee0cf14b9940423a78c71171d4c3121cb67c168b4afa0f3d853f3fee9099dab0"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-trans-playable-kinda-light.png",
+      "size": 547120,
+      "sha256": "7a3df4b754cacd86e497853b68fd961b9a94ee1432ad8f11b884f6e409d1fdab"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-trans-playable-kinda-light.xml",
+      "size": 1153,
+      "sha256": "55cca1e87c45a2e3b38fbd74026ae18c112b0724e08d6843d69ffc9a6d9834ed",
+      "textSha256": "8646e01e23e92aaa0ab0afc6750ad34b8b198f9fe02cab9dec2bdfd4a6db7db1"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-trans-playable-kinda.png",
+      "size": 574939,
+      "sha256": "e3d5a3e9872f4f54310fde9abf405aa1fc948cdadfa96a4a2bba40185a03ae57"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/fahger-trans-playable-kinda.xml",
+      "size": 1111,
+      "sha256": "4117fedca71b7c121d913afc17c5863b024e7d562d3e11c9bf20dc0db45cb5dc",
+      "textSha256": "d64ad6f8a34fcdee534e9b7ad768583a329c76db59951fc66c108265273781c3"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-hall-light.png",
+      "size": 6771890,
+      "sha256": "40d1fb1f0c90bbfee0d10e652522bcb6f4dc315b76503d5ff02ffb9f90346389"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-hall-light.xml",
+      "size": 8024,
+      "sha256": "377ab9cd284af0ee6e2462e9dfb7da8ffeccf832923aae6882bef6854435f8f2",
+      "textSha256": "83133764938d75e9d3c0bea5370a1a984d00f5b335387f6073d6d64258a03f80"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-hall.png",
+      "size": 7027925,
+      "sha256": "0613beb1906102264ea827c05c5b44076c5f17cbaadc6e9b77332d1105d88fb1"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-hall.xml",
+      "size": 7812,
+      "sha256": "bc8c5204a32072a37332147d40eca9242c776be3601ca4415da336e02f417aed",
+      "textSha256": "29a7ad0c10a30e78a25fc1a75313ddc7a0c9900a2e1baa30351f8cea274e7162"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-kind.png",
+      "size": 2122008,
+      "sha256": "7cc3a4a6eabce8dc298edb38990510fa8e522ec07cd7b332d482fffd048cdd1e"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-kind.xml",
+      "size": 2116,
+      "sha256": "cc64b05f40f9a93f6d0aaf3f702921c708fcd3d714151788864d56db3503dc8a",
+      "textSha256": "fb7a075e048fd57553170ddfc920871ea6c2e203a1ef5931ef5f8c25bb8aebdf"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-misc.png",
+      "size": 3707869,
+      "sha256": "2cf93f86ff71c18b085aaee4e0dcb252a28b858cdf0d76e4ad1c2f04c5b4969f"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-misc.xml",
+      "size": 3520,
+      "sha256": "14993dcb644d78ac48d796fa7920237225825e2131d8ba552f9b166534a20f24",
+      "textSha256": "03ea91122cf45c36167817f4dc0f383c46d6e4a6423048220ec01b60487a57ae"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-normal-light.png",
+      "size": 8244877,
+      "sha256": "6392c69cf835f213745eb5a3b62f179eb3f65f5e70b4b7cb5046f2b39e9328dc"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-normal-light.xml",
+      "size": 8447,
+      "sha256": "d25ab513f1a87bc2bb94b200c16e20489141b65dc79fa860e1969a13d84ff104",
+      "textSha256": "cc9340444dfc555a604933697dcffa97ee4f8dc19d7a5a9e3d3f405019e1573e"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-normal.png",
+      "size": 8529568,
+      "sha256": "eeb30c8d0d429897d7cde349decb31f7b492ebe35e1e0597ab514a74ad714e47"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-normal.xml",
+      "size": 8227,
+      "sha256": "d648345ba83f7ccc75c04abde61232d980f1d50284733e9a3d2d21f3842a8a01",
+      "textSha256": "0cf9ee07d396aa615aea70eaaf8473faaad6ed2d9ba8e8aea1508d4492fb4567"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-right-light.png",
+      "size": 10043995,
+      "sha256": "2a15a19f3e40c88c238cd5c36e01e9c5a8f84f15c5d63f3dd67dd65048f869d4"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-right-light.xml",
+      "size": 8136,
+      "sha256": "302ae2ea51b671f698f0fbdb9c6440d5aa4e9aa1ee2df8f5b6529cc32a72f0aa",
+      "textSha256": "253a7ae47d864864546fe3ac0557e11d24101de1befe541189fb976ed889f27a"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-right.png",
+      "size": 10419124,
+      "sha256": "d0430d24d874992e8f83538d880218c70879544df4831668371494d86dd43019"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-right.xml",
+      "size": 7926,
+      "sha256": "2fac3d0e3f268d3e23dc3b49d77ec03c6a556a82ad24d607316c3ed45e3ff337",
+      "textSha256": "ff2dd4da35426220e47550923812be40a5f8f6b16602e61628f05fccfc1b062f"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-window-light.png",
+      "size": 6993402,
+      "sha256": "30dd7864e3101a54e6d8e7d2f6bb72e20f9e8f469a62641e8883ba2723b7056b"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-window-light.xml",
+      "size": 8084,
+      "sha256": "01fd73162ef19d655062c9a88c6f54ee808bda12caadadd4bcf629ef2f814c74",
+      "textSha256": "54a5d8786a401a174ea8aea8a2bf98baeadda8ace6ad1f79f55de63f65fe1dd6"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-window.png",
+      "size": 7355155,
+      "sha256": "da701c19e6137f336be2c3b010baaaf589fb62bfc9c11858cf9f8e45eebcc0bb"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Monster/monster-window.xml",
+      "size": 7872,
+      "sha256": "110802b9f3cd508ce443f904fb1aac2d3cd167653d84119411b6746b233af608",
+      "textSha256": "9a246d25515f503ad231b975d63984b40da2081c5a194a55794498b627f9784e"
+    },
+    {
       "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Spooky-fah.png",
       "size": 5202425,
       "sha256": "598e6dad789c4a482787bff346486af8349e5e5d54360998face32e0bdb8e143"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 2/images/Characters/Spooky-fah.xml",
-      "size": 6771,
-      "sha256": "3a8c43e49a0b48e4be868ccd2903ece2f7879077dc3612639f7fd0c0cf5fd546",
-      "textSha256": "cd7c28a1edb69c6262a4b8a16bd5a66173438ecda09128a659338b5aa4699c73"
+      "size": 6770,
+      "sha256": "0c0b05fd28bfad64ef53c2e80f281e237d3234f537291e75a6eafb529870134e",
+      "textSha256": "f4b30311696b76c80f7b106c372ddada694b6ec341b2add50b8bcb4a649abf11"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 2/images/Distractions/break.png",
@@ -772,6 +1108,17 @@
       "textSha256": "f370435f214ffb7b2477f0e1d54bfaff3cda0506c66cc7a128c313b624125916"
     },
     {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/icons/monster-fah-animated.png",
+      "size": 798736,
+      "sha256": "8fbf53235cf930d2e44bc562c49d521c64d53b67eac83f93a62c921bce2940a9"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/icons/monster-fah-animated.xml",
+      "size": 2815,
+      "sha256": "35015007ea51f5129c56f0a60a3c0ba397eeb2d65dc4c8c67aab47fea1ce1ae7",
+      "textSha256": "c0cf2783245c674db1066a584decd62c7fc63013ae78916f715ae33ecd3f8345"
+    },
+    {
       "path": "assets/Fah Mix/Basegame/Week 2/images/icons/spookykids-fah.png",
       "size": 275009,
       "sha256": "01da9af52b1617bff48df7df15052ac71faa022d5407b3054b3f34bd54e07875"
@@ -781,6 +1128,66 @@
       "size": 1283,
       "sha256": "2c56b3752290563b46a45cb77089be492f94a6500d46fc7f8b7909219bba3f93",
       "textSha256": "2c56b3752290563b46a45cb77089be492f94a6500d46fc7f8b7909219bba3f93"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Mechanics/Monster/double.png",
+      "size": 207642,
+      "sha256": "93a1966a6c96366b8484fa0c1b86f7ee0e3d32a63b727078f030ddd8c25b5942"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Mechanics/Monster/double.xml",
+      "size": 1778,
+      "sha256": "a7a80be01b64c2ef59ee76caf240f19509c176ca343a59ee149c9f0d095c3872",
+      "textSha256": "1b065c562fe0685673983f9e6b0bed495322ce8f10cc2982c9fd8d16369ddfb4"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Mechanics/Monster/explode.png",
+      "size": 238215,
+      "sha256": "4cb5d8ec7373f60502158321367ca1e7bef5f9a2b62e8379d1e6698309f29e78"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Mechanics/Monster/explode.xml",
+      "size": 1768,
+      "sha256": "3a3a026b7bb4f0a804c3025957d715b5287fe0c18f123a8740372a9cd25f8d00",
+      "textSha256": "b79021a8cbab099d19d18d8df3160079e191a7964058e38d38b304589fd6fdd7"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Mechanics/Monster/laneswitch.png",
+      "size": 719638,
+      "sha256": "53bbb699cf63ff7212c5b37ecaf6f93b4bfb51f3cc2a66a3d48204d837b113ac"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Mechanics/Monster/laneswitch.xml",
+      "size": 7346,
+      "sha256": "90f0ce7cce3a1c1c7070aecc4e58d17a447195aa0f85c2963701e2d1e4438165",
+      "textSha256": "ebeb99164cc63b60270310133100c35efe2b7640f031f15a92804b779417fe6f"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Mechanics/Monster/lemon-splash.png",
+      "size": 50415,
+      "sha256": "4186df0520b7206f32ef5bee761a0386dde46c24a719f19f6d83e584c19ad194"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Mechanics/Monster/lemon-splash.xml",
+      "size": 672,
+      "sha256": "08e89a7ea77f17e945848b4a9b47000c3522f86da9cfc00093f70df715149ff8",
+      "textSha256": "84def57dd584862185125cb3138a37b69c7036c799883d5c477335f1f4eaec8b"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Mechanics/Monster/normal-monster.png",
+      "size": 200498,
+      "sha256": "2639a40331a543d9dca8f56f04f32745346aaf66162d7e739471991e01bd612a"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Mechanics/Monster/normal-monster.xml",
+      "size": 1858,
+      "sha256": "1e499e54f514903f41f2e857949e90d0d76e8e9097a50f0c6c674fd8b4823b22",
+      "textSha256": "ac895e83418b5c60028f396bba6cf083dc6f5a146ce2f19f7d660a49f8fb20ba"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Presentation/monster-logo.png",
+      "size": 538314,
+      "sha256": "1d33f41712d31ea7869faf128024cbe413fec820d0087b93cfe5a23d5b49d0d0"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 2/images/Presentation/south-logo.png",
@@ -881,6 +1288,17 @@
       "textSha256": "ad51824ffb3473232e8e954a5caf7646bff8228bce618ae856f7fb9372e0a2c5"
     },
     {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/monster-bg.png",
+      "size": 3455688,
+      "sha256": "28136f7f3478519f956596f345696f5255af7e574a4fc1ffc60359e469d406d4"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/monster-bg.xml",
+      "size": 685,
+      "sha256": "40a7c5b44b6a60e8d972784e65cd6705beafb9f9271d3871049c921c50d47b2a",
+      "textSha256": "5553492ef80493a9a16907c25ecfb26cc86c484f65164672341f9254012a609e"
+    },
+    {
       "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/painting-randoms.png",
       "size": 1770722,
       "sha256": "608700648bd7be9dd748c12a4d88ead3b67724628c93341f43b53503c95c724c"
@@ -953,9 +1371,9 @@
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/Spooky-fah.xml",
-      "size": 6772,
-      "sha256": "aea1407c4bd20e3de14832974a439b13f9ad26570bd69b70edb25b746e6cfe96",
-      "textSha256": "d8e5a774514830d5429de60da63cbf9dcb895c803b3e41d1984d1c2e9d2f371b"
+      "size": 6771,
+      "sha256": "72832dace472f60fe3577f35895da9bf96c5bd50432c88613b1aabfe22ac9bca",
+      "textSha256": "a849a00081aa8343808af3936db854caffa1ddb2316991a09d7bbeec773cd775"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 2/images/Stage/window-randoms.png",
@@ -967,6 +1385,26 @@
       "size": 1856,
       "sha256": "7d383fbdb5d0f1818de4893b9d48cd4d27ca5360465a6610137d75721b4d62da",
       "textSha256": "c703ce0c7b042a0fcf4352f2c09ad99acdc87e0e29fb95b40107d879e597ae49"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/songs/monster/BF.ogg",
+      "size": 3311166,
+      "sha256": "a2a185e0755210635260b36a64e5354c10170581cc9151509a26af5d2d16a437"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/songs/monster/Dad.ogg",
+      "size": 2603538,
+      "sha256": "eb4a31bfced59adf46dca645e48a872d938ea1dbf0b329e24e3dde6a3b6f942c"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/songs/monster/Inst.ogg",
+      "size": 3314922,
+      "sha256": "87554bbe25bf07cd80c4807edb5fa361aab5d1c3df23ba8e4179b81cea320f3e"
+    },
+    {
+      "path": "assets/Fah Mix/Basegame/Week 2/songs/monster/Voices.ogg",
+      "size": 3311166,
+      "sha256": "a2a185e0755210635260b36a64e5354c10170581cc9151509a26af5d2d16a437"
     },
     {
       "path": "assets/Fah Mix/Basegame/Week 2/songs/south/BF.ogg",
@@ -5848,9 +6286,9 @@
     },
     {
       "path": "assets/Freeplay/Phoenix/data/sunburnt.camera.json",
-      "size": 33705,
-      "sha256": "62a23e306b4e315fe70a4b7c68f2e216bd7aa105e98c1e1ddaa5b5d0d67c1ff7",
-      "textSha256": "62a23e306b4e315fe70a4b7c68f2e216bd7aa105e98c1e1ddaa5b5d0d67c1ff7"
+      "size": 33699,
+      "sha256": "1363bf8f71ffd1d1fb28320e943df9b3d2e35cb2c756c663ba4fc308463c4081",
+      "textSha256": "1363bf8f71ffd1d1fb28320e943df9b3d2e35cb2c756c663ba4fc308463c4081"
     },
     {
       "path": "assets/Freeplay/Phoenix/data/sunburnt.json",
@@ -7705,6 +8143,11 @@
       "sha256": "dd99f22843814c6f24666fecbfbfb81ef2a77eb9e1159d5b72d1f631a9a325f6"
     },
     {
+      "path": "assets/Menus/Extras/Achievements/MonsterMechanicDeath.png",
+      "size": 18214,
+      "sha256": "22d8885ba182205a8e999f04ad819c5bc8c3d4f2dd8e9289d90c3869ea7199f3"
+    },
+    {
       "path": "assets/Menus/Extras/Achievements/music/FreakyMenu-Achievements.ogg",
       "size": 2556526,
       "sha256": "37964e2b2528558243a98773b4e82f4c8bdb0256b6c05034c39c0133e3299764"
@@ -8341,6 +8784,11 @@
       "sha256": "2fc550d6efd19952ffee077aed6a63a154afade03692689195f9f61c5e040f97"
     },
     {
+      "path": "assets/Menus/Extras/Credits/Portraits/portrait-kira.png",
+      "size": 34032,
+      "sha256": "d0a8fa1b8d4f9bc2215d525eb37f248cbeca4f92c2a068f641c35ba251a3bf00"
+    },
+    {
       "path": "assets/Menus/Extras/Credits/Portraits/portrait-poly.png",
       "size": 47216,
       "sha256": "a603bb1d09c0c5d9c67f00215076b8f825b03e160dbfdf34f93b030c628678b9"
@@ -8599,6 +9047,11 @@
       "path": "assets/Menus/Extras/Gallery/music/galleryMenu.ogg",
       "size": 5944885,
       "sha256": "858804e98a87ad809c1ce859c9c848893e6a07f8ebaa5d001ebd08eb326cd655"
+    },
+    {
+      "path": "assets/Menus/Extras/kiratoy.png",
+      "size": 49791,
+      "sha256": "e624258cf34e02b3afbda481217c91d0251e5b4662e11aa645cae385b35f13d5"
     },
     {
       "path": "assets/Menus/Extras/Music Player/bak.png",
@@ -10527,6 +10980,11 @@
       "sha256": "4df516cbef5408e99dd0eaa3ec38dcb0c764140895b223ddcf02d2f215170a4c"
     },
     {
+      "path": "assets/Menus/Gameplay HUD/Song Credits/chibis/monster.png",
+      "size": 72632,
+      "sha256": "24074e219061c0321aa01deddf9069c7094e8476ff60443cc169d24f1a058215"
+    },
+    {
       "path": "assets/Menus/Gameplay HUD/Song Credits/chibis/phoenix.png",
       "size": 101144,
       "sha256": "6659cf5a56f3bac23066edab36b145401052938b048e634409e89e9973f506c5"
@@ -10889,6 +11347,11 @@
       "path": "assets/Menus/Main Menu/News/Song Icons/mom.png",
       "size": 27499,
       "sha256": "690c44d8f1fe50afdcc5fdc5ee3ccecf9be3a9466100e3fc064092f484b2452c"
+    },
+    {
+      "path": "assets/Menus/Main Menu/News/Song Icons/monster.png",
+      "size": 17878,
+      "sha256": "1cf0c7593cef8af51fb942677e024b8f11a255b7d55c3c1b62fce8ecf47dd8db"
     },
     {
       "path": "assets/Menus/Main Menu/News/Song Icons/nola.png",
@@ -12027,6 +12490,11 @@
       "sha256": "b266bde707fb757ab5a5caa83d1fe8020ef02148edc904ce517cbcc2bac5f4fa"
     },
     {
+      "path": "assets/Menus/Startup/Loading/bg40.png",
+      "size": 250298,
+      "sha256": "e751a34f6e34b721433d0f8876782ed1fcfcd36350b7381a5ce26adbdb53748b"
+    },
+    {
       "path": "assets/Menus/Startup/Loading/bg5.png",
       "size": 95534,
       "sha256": "716e65b83106cba4e69c1fd23427dbd379986d9e585b717b0c7af2b5eb1ad8d7"
@@ -12424,8 +12892,8 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 60192256,
-      "sha256": "26fa0c31ac5ec8eac94df2e0a8f23effa4284efb1667e36a656744c3eb359dd7"
+      "size": 61411328,
+      "sha256": "c68a8e88fb40b53afc1d3425226f628df0cfe9261c9ece5e3dbe135305e3bcbf"
     },
     {
       "path": "icon.ico",
@@ -13411,7 +13879,7 @@
     {
       "path": "plugins/plugins.dat",
       "size": 254197,
-      "sha256": "69b343467e2cc68793028819ad2d4c799e94538117e17b199a9389b6352e565b"
+      "sha256": "e2bbd492605a1105bf55ee0c1b4a4da92bb431b5d44e4dde878c62fd65b384bc"
     },
     {
       "path": "plugins/services_discovery/libmediadirs_plugin.dll",

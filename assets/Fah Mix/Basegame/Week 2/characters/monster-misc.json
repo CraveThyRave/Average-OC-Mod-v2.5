@@ -1,0 +1,175 @@
+{
+	"healthbar_colors": [
+		217,
+		210,
+		116
+	],
+	"icon_settings": {
+		"animations": [],
+		"preview": {
+			"alignToBar": true,
+			"player": false,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 0.56
+		},
+		"name": "monster-fah-animated",
+		"offset": {
+			"x": 0,
+			"y": 0
+		}
+	},
+	"icon_hud": "Auto",
+	"position": [
+		203,
+		494
+	],
+	"no_antialiasing": false,
+	"scale": 0.85,
+	"camera_position": [
+		0,
+		0
+	],
+	"image": "Characters/Monster/monster-misc",
+	"sing_duration": 4,
+	"healthicon": "monster-fah-animated",
+	"flip_x": false,
+	"extra_images": [],
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-70,
+				70
+			],
+			"anim": "idle",
+			"fps": 4,
+			"name": "monster-misc start-idle",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"offsets": [
+				-69,
+				69
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 4,
+			"anim": "start idle",
+			"loop": false,
+			"name": "monster-misc start-idle"
+		},
+		{
+			"offsets": [
+				256,
+				577
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "intro",
+			"frame_offsets": [
+				null,
+				null,
+				null,
+				[
+					-5,
+					-9
+				],
+				null,
+				[
+					0,
+					-15
+				],
+				[
+					35,
+					-14
+				],
+				[
+					48,
+					-34
+				],
+				[
+					47,
+					-48
+				],
+				[
+					65,
+					-76
+				],
+				[
+					47,
+					-92
+				],
+				[
+					52,
+					-102
+				],
+				[
+					58,
+					-95
+				],
+				[
+					53,
+					-101
+				],
+				[
+					56,
+					-97
+				],
+				[
+					54,
+					-96
+				],
+				[
+					58,
+					-91
+				],
+				[
+					52,
+					-96
+				]
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			],
+			"name": "monster-misc start"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				369
+			],
+			"anim": "emote",
+			"fps": 10,
+			"name": "monster-misc emote",
+			"indices": [
+				0,
+				1,
+				2
+			]
+		}
+	]
+}

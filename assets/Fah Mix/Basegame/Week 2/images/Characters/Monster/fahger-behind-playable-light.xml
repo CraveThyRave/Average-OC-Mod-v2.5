@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fahger-behind-playable-light.png">
+<SubTexture name="fahger-behind-playable-light down-miss0000" x="1959" y="504" width="279" height="232" frameX="-132" frameY="-221" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light down-miss0001" x="1146" y="1540" width="278" height="275" frameX="-138" frameY="-176" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light down-alt0000" x="1959" y="0" width="410" height="252" frameX="-82" frameY="-204" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light down-alt0001" x="1424" y="1540" width="340" height="270" frameX="-139" frameY="-184" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light down-alt0002" x="1638" y="632" width="233" height="315" frameX="-143" frameY="-140" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light down0000" x="1959" y="252" width="265" height="252" frameX="-130" frameY="-204" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light down0001" x="1638" y="1262" width="247" height="277" frameX="-139" frameY="-184" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light down0002" x="1638" y="947" width="233" height="315" frameX="-143" frameY="-140" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light left-alt0000" x="247" y="451" width="363" height="383" frameX="-9" frameY="-67" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light left-alt0001" x="0" y="848" width="340" height="365" frameX="-22" frameY="-87" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light left-alt0002" x="1341" y="658" width="284" height="325" frameX="-89" frameY="-127" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light left0000" x="0" y="1213" width="342" height="327" frameX="-26" frameY="-123" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light left0001" x="1221" y="1213" width="305" height="319" frameX="-57" frameY="-133" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light left0002" x="704" y="1213" width="284" height="325" frameX="-89" frameY="-127" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light left-miss0000" x="241" y="1540" width="354" height="299" frameX="0" frameY="-142" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light left-miss0001" x="595" y="1540" width="298" height="292" frameX="-55" frameY="-159" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light right-alt0000" x="342" y="1213" width="362" height="326" frameX="-122" frameY="-125" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light right-alt0001" x="1638" y="0" width="321" height="316" frameX="-116" frameY="-137" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light right-alt0002" x="1075" y="848" width="233" height="324" frameX="-138" frameY="-126" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light right0000" x="1341" y="0" width="297" height="331" frameX="-122" frameY="-125" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light right0001" x="1638" y="316" width="286" height="316" frameX="-116" frameY="-137" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light right0002" x="988" y="1213" width="233" height="324" frameX="-138" frameY="-126" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light right-miss0000" x="1341" y="331" width="285" height="327" frameX="-139" frameY="-126" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light right-miss0001" x="893" y="1540" width="253" height="283" frameX="-131" frameY="-174" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light up-alt0000" x="0" y="0" width="317" height="451" frameX="-109" frameY="0" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light up-alt0001" x="576" y="0" width="247" height="397" frameX="-114" frameY="-60" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light up-alt0002" x="340" y="848" width="248" height="337" frameX="-123" frameY="-119" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light up0000" x="823" y="0" width="237" height="397" frameX="-115" frameY="-54" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light up0001" x="0" y="451" width="247" height="397" frameX="-114" frameY="-60" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light up0002" x="588" y="848" width="249" height="337" frameX="-123" frameY="-119" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light up-miss0000" x="610" y="451" width="265" height="383" frameX="-114" frameY="-65" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light up-miss0001" x="1060" y="0" width="281" height="381" frameX="-112" frameY="-78" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light idle0000" x="1060" y="381" width="270" height="341" frameX="-119" frameY="-116" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light idle0001" x="0" y="1540" width="241" height="311" frameX="-144" frameY="-147" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light idle0002" x="317" y="0" width="259" height="399" frameX="-124" frameY="-64" frameWidth="492" frameHeight="463" />
+<SubTexture name="fahger-behind-playable-light idle0003" x="837" y="848" width="238" height="336" frameX="-138" frameY="-121" frameWidth="492" frameHeight="463" />
+</TextureAtlas>

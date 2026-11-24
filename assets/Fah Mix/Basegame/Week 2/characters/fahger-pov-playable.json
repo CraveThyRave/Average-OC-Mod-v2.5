@@ -1,0 +1,341 @@
+{
+	"healthbar_colors": [
+		193,
+		154,
+		72
+	],
+	"icon_hud": "Auto",
+	"icon_settings": {
+		"animations": [
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "idle0000",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "idle0001",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "idle0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "idle",
+				"offset": {
+					"x": 0,
+					"y": 0
+				},
+				"scale": 1
+			},
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "win0000",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "win0001",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "win0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "win",
+				"offset": {
+					"x": 0,
+					"y": 0
+				},
+				"scale": 1
+			},
+			{
+				"frames": [
+					{
+						"index": 0,
+						"name": "lose0000",
+						"offset": {
+							"x": -1,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 1,
+						"name": "lose0001",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					},
+					{
+						"index": 2,
+						"name": "lose0002",
+						"offset": {
+							"x": 0,
+							"y": 0
+						},
+						"scale": 1
+					}
+				],
+				"name": "lose",
+				"offset": {
+					"x": 0,
+					"y": 0
+				},
+				"scale": 1
+			}
+		],
+		"preview": {
+			"player": true,
+			"downscroll": false,
+			"layout": "fah",
+			"scale": 1
+		},
+		"name": "fahger-playable",
+		"offset": {
+			"x": 1,
+			"y": -26
+		}
+	},
+	"position": [
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"scale": 0.8,
+	"camera_position": [
+		0,
+		0
+	],
+	"image": "Characters/Monster/fahger-pov-playable",
+	"sing_duration": 4,
+	"healthicon": "fahger-playable",
+	"flip_x": true,
+	"extra_images": [],
+	"animations": [
+		{
+			"offsets": [
+				90,
+				-90
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 10,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "fahger-pov-playable down"
+		},
+		{
+			"offsets": [
+				90,
+				-100
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 10,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "fahger-pov-playable down-alt"
+		},
+		{
+			"offsets": [
+				70,
+				-100
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 7,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "fahger-pov-playable down-miss"
+		},
+		{
+			"offsets": [
+				180,
+				30
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 10,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "fahger-pov-playable left"
+		},
+		{
+			"offsets": [
+				440,
+				40
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 10,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "fahger-pov-playable left-alt"
+		},
+		{
+			"offsets": [
+				50,
+				-10
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 7,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "fahger-pov-playable left-miss"
+		},
+		{
+			"offsets": [
+				-10,
+				-30
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 10,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "fahger-pov-playable right-alt"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 10,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "fahger-pov-playable right"
+		},
+		{
+			"offsets": [
+				50,
+				-90
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 7,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "fahger-pov-playable right-miss"
+		},
+		{
+			"offsets": [
+				0,
+				190
+			],
+			"indices": [
+				2,
+				3,
+				4
+			],
+			"fps": 10,
+			"anim": "singUP",
+			"loop": false,
+			"name": "fahger-pov-playable up"
+		},
+		{
+			"offsets": [
+				0,
+				190
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 10,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "fahger-pov-playable up-alt"
+		},
+		{
+			"offsets": [
+				30,
+				160
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 7,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "fahger-pov-playable up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 5,
+			"anim": "idle",
+			"loop": true,
+			"name": "fahger-pov-playable idle"
+		}
+	]
+}

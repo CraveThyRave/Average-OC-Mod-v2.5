@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="explode.png">
+<SubTexture name="explode right0000" x="516" y="0" width="133" height="112" frameX="-8" frameY="-27" frameWidth="150" frameHeight="158" />
+<SubTexture name="explode right0001" x="148" y="287" width="142" height="119" frameX="-6" frameY="-26" frameWidth="150" frameHeight="158" />
+<SubTexture name="explode right0002" x="364" y="125" width="148" height="122" frameX="-2" frameY="-25" frameWidth="150" frameHeight="158" />
+<SubTexture name="explode down0000" x="234" y="145" width="117" height="141" frameX="-11" frameY="-19" frameWidth="136" frameHeight="165" />
+<SubTexture name="explode down0001" x="123" y="0" width="123" height="144" frameX="-7" frameY="-17" frameWidth="136" frameHeight="165" />
+<SubTexture name="explode down0002" x="0" y="0" width="123" height="145" frameX="-7" frameY="-17" frameWidth="136" frameHeight="165" />
+<SubTexture name="explode up0000" x="0" y="145" width="112" height="142" frameX="-8" frameY="-2" frameWidth="128" frameHeight="165" />
+<SubTexture name="explode up0001" x="246" y="0" width="118" height="144" frameX="-4" frameY="0" frameWidth="128" frameHeight="165" />
+<SubTexture name="explode up0002" x="112" y="145" width="122" height="142" frameX="-2" frameY="-2" frameWidth="128" frameHeight="165" />
+<SubTexture name="explode left0000" x="290" y="287" width="145" height="115" frameX="-13" frameY="-36" frameWidth="171" frameHeight="163" />
+<SubTexture name="explode left0001" x="0" y="287" width="148" height="121" frameX="-13" frameY="-32" frameWidth="171" frameHeight="163" />
+<SubTexture name="explode left0002" x="364" y="0" width="152" height="125" frameX="-12" frameY="-29" frameWidth="171" frameHeight="163" />
+</TextureAtlas>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fahger-playable-window.png">
+<SubTexture name="fahger-playable-window down0000" x="1298" y="1610" width="300" height="263" frameX="-253" frameY="-201" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window down0001" x="630" y="1610" width="258" height="304" frameX="-281" frameY="-161" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window down0002" x="762" y="1236" width="261" height="359" frameX="-277" frameY="-101" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window down-alt0000" x="888" y="1610" width="410" height="263" frameX="-143" frameY="-201" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window down-alt0001" x="251" y="1610" width="379" height="304" frameX="-160" frameY="-161" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window down-alt0002" x="501" y="1236" width="261" height="359" frameX="-277" frameY="-101" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window down-miss0000" x="0" y="1919" width="331" height="197" frameX="-219" frameY="-256" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window down-miss0001" x="2150" y="0" width="263" height="235" frameX="-266" frameY="-221" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window idle0000" x="1511" y="376" width="226" height="364" frameX="-284" frameY="-98" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window idle0001" x="0" y="1610" width="251" height="309" frameX="-269" frameY="-147" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window idle0002" x="1755" y="1337" width="275" height="264" frameX="-250" frameY="-196" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window idle0003" x="312" y="0" width="231" height="408" frameX="-269" frameY="-48" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window left0000" x="1024" y="394" width="327" height="394" frameX="-160" frameY="-68" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window left0001" x="404" y="448" width="299" height="397" frameX="-198" frameY="-66" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window left0002" x="0" y="845" width="263" height="391" frameX="-247" frameY="-71" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window left-alt0000" x="1024" y="0" width="487" height="394" frameX="0" frameY="-68" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window left-alt0001" x="0" y="448" width="404" height="397" frameX="-99" frameY="-66" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window left-alt0002" x="703" y="448" width="263" height="391" frameX="-247" frameY="-71" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window left-miss0000" x="1755" y="704" width="360" height="319" frameX="-128" frameY="-127" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window left-miss0001" x="1393" y="1236" width="305" height="309" frameX="-201" frameY="-143" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window right0000" x="1755" y="1023" width="336" height="314" frameX="-325" frameY="-128" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window right0001" x="1755" y="352" width="315" height="352" frameX="-310" frameY="-97" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window right0002" x="880" y="845" width="288" height="376" frameX="-286" frameY="-84" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window right-alt0000" x="1023" y="1236" width="370" height="355" frameX="-291" frameY="-87" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window right-alt0001" x="1755" y="0" width="395" height="352" frameX="-230" frameY="-97" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window right-alt0002" x="592" y="845" width="288" height="376" frameX="-286" frameY="-84" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window right-miss0000" x="1598" y="1610" width="305" height="253" frameX="-351" frameY="-160" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window right-miss0001" x="1511" y="740" width="237" height="252" frameX="-356" frameY="-170" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window up0000" x="762" y="0" width="262" height="398" frameX="-284" frameY="-50" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window up0001" x="0" y="1236" width="246" height="374" frameX="-281" frameY="-77" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window up0002" x="1511" y="0" width="244" height="376" frameX="-286" frameY="-83" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window up-alt0000" x="0" y="0" width="312" height="448" frameX="-234" frameY="0" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window up-alt0001" x="263" y="845" width="329" height="382" frameX="-198" frameY="-69" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window up-alt0002" x="1168" y="845" width="244" height="376" frameX="-286" frameY="-83" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window up-miss0000" x="246" y="1236" width="255" height="363" frameX="-265" frameY="-80" frameWidth="661" frameHeight="465" />
+<SubTexture name="fahger-playable-window up-miss0001" x="543" y="0" width="219" height="402" frameX="-269" frameY="-38" frameWidth="661" frameHeight="465" />
+</TextureAtlas>

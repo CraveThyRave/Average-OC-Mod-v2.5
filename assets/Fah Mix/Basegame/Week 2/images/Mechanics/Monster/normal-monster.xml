@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="normal-monster.png">
+<SubTexture name="normal-monster right0000" x="430" y="111" width="136" height="109" frameX="-9" frameY="-14" frameWidth="155" frameHeight="129" />
+<SubTexture name="normal-monster right0001" x="430" y="0" width="142" height="111" frameX="-8" frameY="-12" frameWidth="155" frameHeight="129" />
+<SubTexture name="normal-monster right0002" x="0" y="285" width="147" height="114" frameX="-5" frameY="-10" frameWidth="155" frameHeight="129" />
+<SubTexture name="normal-monster down0000" x="326" y="0" width="104" height="138" frameX="-22" frameY="-2" frameWidth="140" frameHeight="149" />
+<SubTexture name="normal-monster down0001" x="0" y="0" width="111" height="144" frameX="-17" frameY="-1" frameWidth="140" frameHeight="149" />
+<SubTexture name="normal-monster down0002" x="111" y="0" width="110" height="144" frameX="-18" frameY="-1" frameWidth="140" frameHeight="149" />
+<SubTexture name="normal-monster up0000" x="221" y="0" width="105" height="143" frameX="-15" frameY="-1" frameWidth="140" frameHeight="149" />
+<SubTexture name="normal-monster up0001" x="0" y="144" width="111" height="141" frameX="-14" frameY="0" frameWidth="140" frameHeight="149" />
+<SubTexture name="normal-monster up0002" x="111" y="144" width="113" height="140" frameX="-14" frameY="0" frameWidth="140" frameHeight="149" />
+<SubTexture name="normal-monster left0000" x="430" y="220" width="135" height="106" frameX="-20" frameY="-38" frameWidth="174" frameHeight="161" />
+<SubTexture name="normal-monster left0001" x="0" y="399" width="145" height="111" frameX="-17" frameY="-37" frameWidth="174" frameHeight="161" />
+<SubTexture name="normal-monster left0002" x="147" y="285" width="151" height="113" frameX="-14" frameY="-37" frameWidth="174" frameHeight="161" />
+</TextureAtlas>
