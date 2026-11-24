@@ -1,5 +1,5 @@
 {
-  "version": "2.5.49",
+  "version": "2.5.50",
   "files": [
     {
       "path": ".gitattributes",
@@ -11596,15 +11596,15 @@
     },
     {
       "path": "assets/Menus/Options/changelog-history.json",
-      "size": 3228,
-      "sha256": "bafe8e54eb03f574cdd3f7e14db339e2fcd32946413a77732fd36c36ec08e8aa",
-      "textSha256": "bafe8e54eb03f574cdd3f7e14db339e2fcd32946413a77732fd36c36ec08e8aa"
+      "size": 4389,
+      "sha256": "aefc55131f82b53b6f4954642c0457e88a3ee70ac93d6bfbbaf7d97a9be61695",
+      "textSha256": "aefc55131f82b53b6f4954642c0457e88a3ee70ac93d6bfbbaf7d97a9be61695"
     },
     {
       "path": "assets/Menus/Options/changelog.txt",
-      "size": 3102,
-      "sha256": "e2f869fadcf27335f5e7296e99b96f595f0c186edb8459d568a1889b894c1d3b",
-      "textSha256": "e2f869fadcf27335f5e7296e99b96f595f0c186edb8459d568a1889b894c1d3b"
+      "size": 1089,
+      "sha256": "cd88927723ce5e12881d0e9f2ca98e925af8be01aa436b1ef93daeaebc565af4",
+      "textSha256": "cd88927723ce5e12881d0e9f2ca98e925af8be01aa436b1ef93daeaebc565af4"
     },
     {
       "path": "assets/Menus/Options/images/checkboxanim.png",
