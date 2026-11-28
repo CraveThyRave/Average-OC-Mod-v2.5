@@ -1,24 +1,11 @@
-2.5 - Side D
-Added Monster [FAH MIX], Addition
-Added 1 achievement, Addition
-Added 1 completion achievement, Addition
-Added lyrics to Flowerman's part in Thorns, Addition
-Changed Militus botplay splash color, Adjustment
-Made the Kevin effect in Stress monochrome, Adjustment
-Changed the Sick rating color in the latter half of What the Fah, Adjustment
-Changed Corvus theme colors, Adjustment
-Adjusted HP drain in Thorns, Adjustment
-Added IndeedNoKira to credits, Addition
-Added 1 theme, Addition
-Added 1 toy to the claw machine, Addition
-Replaced all Sunnfe composer notes, Overhaul
-Changed how windowed fullscreen sidebars are colored, Adjustment
-Slightly changed Philly Nice, Adjustment
-Updated many dropdowns, Adjustment
-Fixed main Freeplay Discord RPC, Bugfix
-Changed font spacing on the results screen, Adjustment
-Fixed a few inconsistencies in the credits, Bugfix
-Changed scrolling text on the main menu, Adjustment
-Slightly changed the front screen walkers for Week 3 and Week 5, Adjustment
-Slightly adjusted the turn timer, Adjustment
-Fixed game overs using the wrong song, Bugfix
+2.5 - Funkin' Fest Hotfix
+added A LOT of things to the gallery, Addition
+Migrated a lot of things from the character bios to the gallery, Adjustment
+fixed a lot of issues with the gallery, Bugfix
+changed out all fah mix discord rpc artwork, Bugfix
+fixed lemon demon note toggle option, Bugfix
+made adjustments to monster lyrics in downscroll, Adjustment
+moved bf icon down in downscroll, Adjustment
+fixed frame drops on pausing in certain songs, Bugfix
+fixed week6 achievement overlay, Adjustment
+fixed an issue with militus shop quests, Bugfix

@@ -6,5 +6,9 @@
   {
     "version": "2.5.50",
     "notes": "2.5 - Side D\nAdded Monster [FAH MIX], Addition\nAdded 1 achievement, Addition\nAdded 1 completion achievement, Addition\nAdded lyrics to Flowerman's part in Thorns, Addition\nChanged Militus botplay splash color, Adjustment\nMade the Kevin effect in Stress monochrome, Adjustment\nChanged the Sick rating color in the latter half of What the Fah, Adjustment\nChanged Corvus theme colors, Adjustment\nAdjusted HP drain in Thorns, Adjustment\nAdded IndeedNoKira to credits, Addition\nAdded 1 theme, Addition\nAdded 1 toy to the claw machine, Addition\nReplaced all Sunnfe composer notes, Overhaul\nChanged how windowed fullscreen sidebars are colored, Adjustment\nSlightly changed Philly Nice, Adjustment\nUpdated many dropdowns, Adjustment\nFixed main Freeplay Discord RPC, Bugfix\nChanged font spacing on the results screen, Adjustment\nFixed a few inconsistencies in the credits, Bugfix\nChanged scrolling text on the main menu, Adjustment\nSlightly changed the front screen walkers for Week 3 and Week 5, Adjustment\nSlightly adjusted the turn timer, Adjustment\nFixed game overs using the wrong song, Bugfix"
+  },
+  {
+    "version": "2.5.51",
+    "notes": "2.5 - Funkin' Fest Hotfix\nadded A LOT of things to the gallery, Addition\nMigrated a lot of things from the character bios to the gallery, Adjustment\nfixed a lot of issues with the gallery, Bugfix\nchanged out all fah mix discord rpc artwork, Bugfix\nfixed lemon demon note toggle option, Bugfix\nmade adjustments to monster lyrics in downscroll, Adjustment\nmoved bf icon down in downscroll, Adjustment\nfixed frame drops on pausing in certain songs, Bugfix\nfixed week6 achievement overlay, Adjustment\nfixed an issue with militus shop quests, Bugfix"
   }
 ]
