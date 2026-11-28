@@ -1,5 +1,5 @@
 {
-  "version": "2.5.51",
+  "version": "2.5.52",
   "files": [
     {
       "path": ".gitattributes",
@@ -11676,15 +11676,15 @@
     },
     {
       "path": "assets/Menus/Options/changelog-history.json",
-      "size": 4993,
-      "sha256": "2828ff5046263d5fa3b6c7476d7d844c37b9f8074b6d5f0163f86b838cfc3862",
-      "textSha256": "2828ff5046263d5fa3b6c7476d7d844c37b9f8074b6d5f0163f86b838cfc3862"
+      "size": 5900,
+      "sha256": "45d7065f7085af7a807a94c48bed0c5a28ed1508db80e59ad45a9c6304fb6413",
+      "textSha256": "45d7065f7085af7a807a94c48bed0c5a28ed1508db80e59ad45a9c6304fb6413"
     },
     {
       "path": "assets/Menus/Options/changelog.txt",
-      "size": 544,
-      "sha256": "767de3995d905a0a12cccea603a2a31c0a45a94f6f6ffcb77916e617f18694bc",
-      "textSha256": "767de3995d905a0a12cccea603a2a31c0a45a94f6f6ffcb77916e617f18694bc"
+      "size": 841,
+      "sha256": "a755312fdc7cb0f55050c49a77dbbc4cee01f128430c66e5af73af5091121605",
+      "textSha256": "a755312fdc7cb0f55050c49a77dbbc4cee01f128430c66e5af73af5091121605"
     },
     {
       "path": "assets/Menus/Options/images/checkboxanim.png",
@@ -12972,8 +12972,8 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 61209600,
-      "sha256": "687a76be191bfc34378505d184e0f3a9c1261441144a34ba3695a99ef6f7ede2"
+      "size": 61305856,
+      "sha256": "c2cf9723e71fa14c21ff4eba07654272f55a882a3587683599a6b876db185576"
     },
     {
       "path": "icon.ico",

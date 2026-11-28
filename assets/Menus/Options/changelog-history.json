@@ -10,5 +10,9 @@
   {
     "version": "2.5.51",
     "notes": "2.5 - Funkin' Fest Hotfix\nadded A LOT of things to the gallery, Addition\nMigrated a lot of things from the character bios to the gallery, Adjustment\nfixed a lot of issues with the gallery, Bugfix\nchanged out all fah mix discord rpc artwork, Bugfix\nfixed lemon demon note toggle option, Bugfix\nmade adjustments to monster lyrics in downscroll, Adjustment\nmoved bf icon down in downscroll, Adjustment\nfixed frame drops on pausing in certain songs, Bugfix\nfixed week6 achievement overlay, Adjustment\nfixed an issue with militus shop quests, Bugfix"
+  },
+  {
+    "version": "2.5.52",
+    "notes": "2.5 - Funkin' Fest Hotfix\nAdded A LOT of things to the gallery, Addition\nMigrated a lot of things from the character bios to the gallery, Adjustment\nFixed a lot of issues with the gallery, Bugfix\nChanged out all fah mix discord rpc artwork, Bugfix\nFixed lemon demon note toggle option, Bugfix\nMade adjustments to monster lyrics in downscroll, Adjustment\nMoved bf icon down in downscroll, Adjustment\nFixed frame drops on pausing in certain songs, Bugfix\nFixed week6 achievement overlay, Adjustment\nFixed an issue with militus shop quests, Bugfix\nFixed #1 displays for leaderboards, Bugfix\nAdjusted Sick accuracy requirement, Bugfix\nAdjusted Note-splashes to only happen when getting a Sick, Adjustment\nFixed a bit of Militus initial lag on first open, Bugfix\nTried to fix the window saving, Bugfix\nAdded slight open/close animations, Addition"
   }
 ]

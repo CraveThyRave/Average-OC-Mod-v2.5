@@ -1,11 +1,17 @@
 2.5 - Funkin' Fest Hotfix
-added A LOT of things to the gallery, Addition
+Added A LOT of things to the gallery, Addition
 Migrated a lot of things from the character bios to the gallery, Adjustment
-fixed a lot of issues with the gallery, Bugfix
-changed out all fah mix discord rpc artwork, Bugfix
-fixed lemon demon note toggle option, Bugfix
-made adjustments to monster lyrics in downscroll, Adjustment
-moved bf icon down in downscroll, Adjustment
-fixed frame drops on pausing in certain songs, Bugfix
-fixed week6 achievement overlay, Adjustment
-fixed an issue with militus shop quests, Bugfix
+Fixed a lot of issues with the gallery, Bugfix
+Changed out all fah mix discord rpc artwork, Bugfix
+Fixed lemon demon note toggle option, Bugfix
+Made adjustments to monster lyrics in downscroll, Adjustment
+Moved bf icon down in downscroll, Adjustment
+Fixed frame drops on pausing in certain songs, Bugfix
+Fixed week6 achievement overlay, Adjustment
+Fixed an issue with militus shop quests, Bugfix
+Fixed #1 displays for leaderboards, Bugfix
+Adjusted Sick accuracy requirement, Bugfix
+Adjusted Note-splashes to only happen when getting a Sick, Adjustment
+Fixed a bit of Militus initial lag on first open, Bugfix
+Tried to fix the window saving, Bugfix
+Added slight open/close animations, Addition
