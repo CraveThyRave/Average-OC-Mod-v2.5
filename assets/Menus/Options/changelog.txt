@@ -12,3 +12,6 @@ Fixed an issue with militus shop quests, Bugfix
 Fixed #1 displays for leaderboards, Bugfix
 Adjusted Sick accuracy requirement, Bugfix
 Adjusted Note-splashes to only happen when getting a Sick, Adjustment
+Fixed a bit of Militus initial lag on first open, Bugfix
+Tried to fix the window saving, Bugfix
+Added slight open/close animations, Addition
