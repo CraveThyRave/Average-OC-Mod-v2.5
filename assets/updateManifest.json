@@ -1,26 +1,12 @@
 {
   "format": 2,
-  "version": "2.5.52",
-  "baseVersion": "2.5.51",
+  "version": "2.5.53",
+  "baseVersion": "2.5.52",
   "files": [
     {
-      "path": "assets/Menus/Options/changelog-history.json",
-      "size": 5900,
-      "sha256": "45d7065f7085af7a807a94c48bed0c5a28ed1508db80e59ad45a9c6304fb6413",
-      "textSha256": "45d7065f7085af7a807a94c48bed0c5a28ed1508db80e59ad45a9c6304fb6413",
-      "change": "changed"
-    },
-    {
-      "path": "assets/Menus/Options/changelog.txt",
-      "size": 841,
-      "sha256": "a755312fdc7cb0f55050c49a77dbbc4cee01f128430c66e5af73af5091121605",
-      "textSha256": "a755312fdc7cb0f55050c49a77dbbc4cee01f128430c66e5af73af5091121605",
-      "change": "changed"
-    },
-    {
       "path": "Average OC Mod.exe",
-      "size": 61305856,
-      "sha256": "c2cf9723e71fa14c21ff4eba07654272f55a882a3587683599a6b876db185576",
+      "size": 61306368,
+      "sha256": "594194469a397015a9b31ef1653026ffb5da71264d5dbf5dcb29a7ddd94d70ef",
       "change": "changed"
     }
   ],
