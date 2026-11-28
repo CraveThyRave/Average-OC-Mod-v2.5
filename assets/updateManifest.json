@@ -1,5 +1,5 @@
 {
-  "version": "2.5.52",
+  "version": "2.5.53",
   "files": [
     {
       "path": ".gitattributes",
@@ -12972,8 +12972,8 @@
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 61305856,
-      "sha256": "c2cf9723e71fa14c21ff4eba07654272f55a882a3587683599a6b876db185576"
+      "size": 61306368,
+      "sha256": "594194469a397015a9b31ef1653026ffb5da71264d5dbf5dcb29a7ddd94d70ef"
     },
     {
       "path": "icon.ico",
