@@ -1,128 +1,26 @@
 {
   "format": 2,
-  "version": "2.5.51",
-  "baseVersion": "2.5.50",
+  "version": "2.5.52",
+  "baseVersion": "2.5.51",
   "files": [
     {
-      "path": "assets/Menus/Extras/Gallery/Art/2.5 (Side A) Thumbnail/Week2-Monster.png",
-      "size": 63800,
-      "sha256": "67183be35144bf0809fda215471f1ea7fc722453a7e2cb156fad05be75edf5e8",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Art/2.5 (Side D) Thumbnail.png",
-      "size": 873166,
-      "sha256": "c61ac1434d1926a1f23817c837924a6591ac94414947c6fa15037c63cf609691",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Art/Fah Mix Portraits/week2-monster.png",
-      "size": 45322,
-      "sha256": "e2ecf2d27510aea98c8236149a29dce6c52c75646f400b540bb9bb96fea625b4",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Art/Legacy Gamebanana sidebars.png",
-      "size": 1985081,
-      "sha256": "ee2c082031c07e3639c7a641aa516ad496da5eef6f61131f58f7aaf6551b4ba0",
-      "change": "changed"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Collections/Fah Mix Design Concepts/Basegame.png",
-      "size": 2409275,
-      "sha256": "91173cbecb4aee78a6fc63fb90a63a15b3706741449d56b9a7b718550f00387b",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Collections/Fah Mix Design Concepts/Senpai Week.png",
-      "size": 57256,
-      "sha256": "80916812522151c4cc2c8e291639978fa9d2d2ea5798fcb5f12a5fad07b7b290",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Collections/Full What The Fah Cutscene.png",
-      "size": 3470825,
-      "sha256": "27b8e2da4ed17d86f5eb1fc9c93997dfe3c2b5e4010b8b0fea1929a14ccc2b96",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Collections/Funkin Fest Banner Artwork.png",
-      "size": 2564109,
-      "sha256": "8317f989ee5e0e9758aa840ba771be60734d8d9c6671d9e275b37c601348f1fe",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Collections/Legacy Fah Menu Art 1.png",
-      "size": 196527,
-      "sha256": "6fc074ab4614f04d2bebd7fe6c51766fc0c8f09ed2e575ced03db5525dadcdf6",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Collections/Legacy Freeplay Artwork/Fah.png",
-      "size": 66511,
-      "sha256": "2c1c6c8cb71e18c876909b8f8e0d079bb3d3435163ff5617445ede8f5dc63395",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Collections/Legacy Freeplay Artwork/Nola.png",
-      "size": 61324,
-      "sha256": "f33c4225385473ef4ecd5250bbb2e1b6949ef6c195ae8f8138c6d1f19abf242c",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Collections/Legacy Freeplay Artwork/Phoenix.png",
-      "size": 65012,
-      "sha256": "3c174760b61d5d2ec4a2484512b04448efe7c4cb6916e96b6e2ee0724ebe7111",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Collections/Legacy Freeplay Artwork/Raven.png",
-      "size": 65032,
-      "sha256": "a63dea0eab42ae3b78526bb643a4ab25551fcd7f4637001c0c436e2c616d277f",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Collections/Legacy Freeplay Artwork/Version 2.png",
-      "size": 230307,
-      "sha256": "f1674be8973ab6d7621edee918241355ee41879b6bbf3b4a255bbb866538e59e",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Collections/Legacy Freeplay Artwork/Version 3.png",
-      "size": 193862,
-      "sha256": "fcc67c6b56a48d6fc67bf78ebad68853341e0641b1618d136b4efc6dee9e50d2",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Collections/Legacy Monster Loading Screen.png",
-      "size": 190785,
-      "sha256": "96ab86be14f94ebab829d17892f42a2f1a0af7fdadea565f0fbe9e6498b0f3b0",
-      "change": "added"
-    },
-    {
-      "path": "assets/Menus/Extras/Gallery/Collections/Legacy Raven Menu Art 1.png",
-      "size": 265031,
-      "sha256": "965ec4b4e1c8ec02b634a2c862e266f931133529fcfcb81908cdd726695df1a4",
-      "change": "added"
-    },
-    {
       "path": "assets/Menus/Options/changelog-history.json",
-      "size": 4993,
-      "sha256": "2828ff5046263d5fa3b6c7476d7d844c37b9f8074b6d5f0163f86b838cfc3862",
-      "textSha256": "2828ff5046263d5fa3b6c7476d7d844c37b9f8074b6d5f0163f86b838cfc3862",
+      "size": 5900,
+      "sha256": "45d7065f7085af7a807a94c48bed0c5a28ed1508db80e59ad45a9c6304fb6413",
+      "textSha256": "45d7065f7085af7a807a94c48bed0c5a28ed1508db80e59ad45a9c6304fb6413",
       "change": "changed"
     },
     {
       "path": "assets/Menus/Options/changelog.txt",
-      "size": 544,
-      "sha256": "767de3995d905a0a12cccea603a2a31c0a45a94f6f6ffcb77916e617f18694bc",
-      "textSha256": "767de3995d905a0a12cccea603a2a31c0a45a94f6f6ffcb77916e617f18694bc",
+      "size": 841,
+      "sha256": "a755312fdc7cb0f55050c49a77dbbc4cee01f128430c66e5af73af5091121605",
+      "textSha256": "a755312fdc7cb0f55050c49a77dbbc4cee01f128430c66e5af73af5091121605",
       "change": "changed"
     },
     {
       "path": "Average OC Mod.exe",
-      "size": 61209600,
-      "sha256": "687a76be191bfc34378505d184e0f3a9c1261441144a34ba3695a99ef6f7ede2",
+      "size": 61305856,
+      "sha256": "c2cf9723e71fa14c21ff4eba07654272f55a882a3587683599a6b876db185576",
       "change": "changed"
     }
   ],
